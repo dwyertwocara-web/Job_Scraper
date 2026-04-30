@@ -1,76 +1,36 @@
 {
-  "scraped_at": "2026-04-30 20:10 UTC",
-  "total": 9,
+  "scraped_at": "2026-04-30 22:55 UTC",
+  "total": 4,
   "jobs": [
     {
-      "company": "TikTok",
-      "title": "Data Scientist - TikTok PGC Sports (San Jose)",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407617953/",
+      "company": "Buck Institute for Research on Aging",
+      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "AsceticVoyage",
-      "title": "MLOps Engineer (Machine Learning, Python, AI)",
+      "company": "Walmart",
+      "title": "Staff, Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406750198/",
+      "date_posted": "2026-04-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Roche",
+      "title": "Principal Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409088512/",
+      "date_posted": "2026-04-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "scalr",
+      "title": "AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4407644162/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Machine Learning Engineer",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406566974/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Nexxen",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Carlos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407623761/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Fathom",
-      "title": "AI Engineer - Model Performance",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409050861/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Paraform",
-      "title": "Senior Data Scientist - Product",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409050345/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "Data Scientist",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406574912/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Diligente Technologies",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409067299/",
-      "date_posted": "2026-04-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobs via Dice",
-      "title": "AI Engineer \u2013 Generative AI",
-      "location": "Fremont, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407639097/",
+      "url": "https://www.linkedin.com/jobs/view/4406716918/",
       "date_posted": "2026-04-30",
       "ats": "LinkedIn"
     }
