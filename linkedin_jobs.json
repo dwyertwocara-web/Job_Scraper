@@ -1,68 +1,60 @@
 {
-  "scraped_at": "2026-05-02 16:52 UTC",
-  "total": 8,
+  "scraped_at": "2026-05-02 19:54 UTC",
+  "total": 7,
   "jobs": [
     {
-      "company": "Whatnot",
-      "title": "Machine Learning Infrastructure Engineer",
+      "company": "Jobs via Dice",
+      "title": "Machine Learning Engineer",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406566974/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4406574912/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SAP",
+      "title": "Senior AI/ML Applied Scientist - Generative AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4306692101/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "BlackRock",
+      "title": "Applied AI Engineer - Fundamental Equity Tech Investing Team",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369175964/",
+      "url": "https://www.linkedin.com/jobs/view/4409829110/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Kikoff",
-      "title": "Senior Data Scientist",
+      "company": "Capital One",
+      "title": "Lead AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4388724160/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Capital One",
+      "title": "Lead AI Engineer (Gen AI Platform, Agentic AI & LLM Infrastructure & Orchestration)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400685486/",
+      "url": "https://www.linkedin.com/jobs/view/4388522733/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cohere",
-      "title": "Senior Research Engineer, Model Evaluation",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4263113345/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Computational Scientist 3 - Cell & Tissue Genomics",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400669618/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Applied Materials",
-      "title": "2026 NCG - Data Scientist (Masters)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407280482/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, FAR (Frontier AI & Robotics)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4362349178/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Sr. Applied Scientist, Personal Robotics Group",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387898267/",
-      "date_posted": "2026-05-02",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Senior Applied Scientist, Annapurna ML",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4400645642/",
+      "company": "Capital One",
+      "title": "Distinguished AI Engineer (Agentic AI Platform)",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4362442865/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     }
