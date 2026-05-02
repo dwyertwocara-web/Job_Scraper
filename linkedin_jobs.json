@@ -1,28 +1,68 @@
 {
-  "scraped_at": "2026-05-02 04:19 UTC",
-  "total": 3,
+  "scraped_at": "2026-05-02 16:52 UTC",
+  "total": 8,
   "jobs": [
     {
-      "company": "myGwork - LGBTQ+ Business Community",
-      "title": "Forward-Deployed Data Scientist II",
+      "company": "Whatnot",
+      "title": "Machine Learning Infrastructure Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4407248627/",
+      "url": "https://www.linkedin.com/jobs/view/4369175964/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "GlobalLogic",
-      "title": "Physical AI Engineering Intern (Onsite in Santa Clara, CA) IRC293762",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408305065/",
+      "company": "Kikoff",
+      "title": "Senior Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400685486/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     },
     {
-      "company": "Roche",
-      "title": "Research Engineer II, Fluidic Systems, Research & Early Development",
+      "company": "Cohere",
+      "title": "Senior Research Engineer, Model Evaluation",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4263113345/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Computational Scientist 3 - Cell & Tissue Genomics",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400669618/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Materials",
+      "title": "2026 NCG - Data Scientist (Masters)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409548742/",
+      "url": "https://www.linkedin.com/jobs/view/4407280482/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Applied Scientist, FAR (Frontier AI & Robotics)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4362349178/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Sr. Applied Scientist, Personal Robotics Group",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4387898267/",
+      "date_posted": "2026-05-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon",
+      "title": "Senior Applied Scientist, Annapurna ML",
+      "location": "Cupertino, CA",
+      "url": "https://www.linkedin.com/jobs/view/4400645642/",
       "date_posted": "2026-05-02",
       "ats": "LinkedIn"
     }
