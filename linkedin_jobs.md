@@ -1,32 +1,44 @@
 # 🔥 LinkedIn — Last Hour MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-05 20:09 UTC*
+*Last updated: 2026-05-05 22:58 UTC*
 
-**7 role(s) posted in the last hour**
+**10 role(s) posted in the last hour**
 
-### [Machine Learning Engineer - LLMs](https://www.linkedin.com/jobs/view/4379085295/) — Strativ Group
-- 📍 **Location:** Palo Alto, CA
+### [Senior Machine Learning Engineer, Shield](https://www.linkedin.com/jobs/view/4410785521/) — Box
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-05-05
 
-### [Senior Data Scientist](https://www.linkedin.com/jobs/view/4409390748/) — Jobs via Dice
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Research Engineer, Agents](https://www.linkedin.com/jobs/view/4410756915/) — Decagon
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Senior Product Data Scientist, Google Home Quality and Intelligence](https://www.linkedin.com/jobs/view/4409387705/) — Google
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-05
-
-### [Data Scientist II](https://www.linkedin.com/jobs/view/4409392666/) — Jobs via Dice
+### [Senior Machine Learning Research Engineer (ML Platform)](https://www.linkedin.com/jobs/view/4410786496/) — Calico Life Sciences
 - 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-05-05
 
-### [Senior Applied AI Engineer](https://www.linkedin.com/jobs/view/4410769430/) — Alterion
+### [Senior Machine Learning Engineer, Perception LLM/VLM](https://www.linkedin.com/jobs/view/4383256530/) — Waymo
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-05
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4409381945/) — Jobs via Dice
+### [Senior Machine Learning Engineer, Perception LLM/VLM](https://www.linkedin.com/jobs/view/4383255527/) — Waymo
 - 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Senior ML Engineer - Model Compression](https://www.linkedin.com/jobs/view/4410783468/) — General Motors
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Senior, Data Scientist (Personalization)](https://www.linkedin.com/jobs/view/4408467003/) — Walmart
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Senior ML Engineer - Model Compression](https://www.linkedin.com/jobs/view/4410774830/) — General Motors
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [AI Engineer](https://www.linkedin.com/jobs/view/4410906045/) — Vizcom
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-05-05
+
+### [Founding AI Engineer](https://www.linkedin.com/jobs/view/4409723264/) — Tangerine Search Inc.
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-05
+
+### [AI Engineer (Agents)](https://www.linkedin.com/jobs/view/4409718229/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-05
