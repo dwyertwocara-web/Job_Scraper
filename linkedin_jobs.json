@@ -1,53 +1,13 @@
 {
-  "scraped_at": "2026-05-07 23:02 UTC",
-  "total": 6,
+  "scraped_at": "2026-05-08 04:16 UTC",
+  "total": 1,
   "jobs": [
     {
-      "company": "Tessera Data",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411810698/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Open Talent",
-      "title": "Founding AI/ML Engineer / $500k / Remote",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409624511/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Adobe",
-      "title": "2026 Intern - Applied Science/Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410878026/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harmonic",
-      "title": "Research Engineer, Training & Inference",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410871057/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AppFolio",
-      "title": "Sr. Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411815585/",
-      "date_posted": "2026-05-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Harmonic",
-      "title": "Research Engineer, Technical Lead",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4330408820/",
-      "date_posted": "2026-05-07",
+      "company": "Meta",
+      "title": "Research Engineer, Text Data Research - MSL FAIR",
+      "location": "Menlo Park, CA",
+      "url": "https://www.linkedin.com/jobs/view/4409674119/",
+      "date_posted": "2026-05-08",
       "ats": "LinkedIn"
     }
   ]
