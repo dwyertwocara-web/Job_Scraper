@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-11 20:46 UTC",
-  "total": 14,
-  "new_count": 13,
+  "scraped_at": "2026-05-11 22:07 UTC",
+  "total": 13,
+  "new_count": 11,
   "jobs": [
     {
       "company": "Roku",
@@ -12,58 +12,66 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Spira AI",
-      "title": "Data Scientist (Intern)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413109558/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Oho Group",
+      "company": "SAP",
       "title": "Machine Learning Engineer",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413108942/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Machine Learning Engineer, Trust",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412946883/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Open Talent",
-      "title": "Founding AI/ML Engineer / $500k / Remote",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409624511/",
+      "url": "https://www.linkedin.com/jobs/view/4412973740/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Oho Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413129050/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Mid-Level Machine Learning Engineer",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Payment Risk - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403636486/",
+      "url": "https://www.linkedin.com/jobs/view/4412991037/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "AsceticVoyage",
-      "title": "MLOps Engineer (Machine Learning, Python, AI) - Not open for CPT/OPT, H1B",
+      "company": "Amperesand",
+      "title": "Staff/Senior Software AI engineer: Predictive Analytics",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4394743151/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413129431/",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Product Analytics - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412954961/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slack",
+      "title": "Staff Product Data Scientist - Slack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404918124/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Target",
+      "title": "Sr Data Scientist - Global Supply Chain and Logistics",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412973594/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Salesforce",
+      "title": "Staff Product Data Scientist - Slack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367175657/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
@@ -76,148 +84,116 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "depthfirst",
-      "title": "Research Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409399818/",
+      "company": "Palo Alto Networks",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412957818/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Real-Time Innovations (RTI)",
-      "title": "Principal Software Research Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387544258/",
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413167178/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "GenBio AI",
-      "title": "AI Engineer (Agent Systems & LLMs)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367367602/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "GenBio AI",
-      "title": "Senior DevOps / MLOps Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392337110/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Net2Source (N2S)",
-      "title": "Senior Scientist :: Cheminformatics & Computational Chemistry  Senior Scientist: Cheminformatics & Computational Chemistry",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398851665/",
+      "company": "Jobs via Dice",
+      "title": "AI/ML Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412945785/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Roku",
-      "title": "Senior Data Scientist",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412971140/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Spira AI",
-      "title": "Data Scientist (Intern)",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413109558/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Oho Group",
+      "company": "SAP",
       "title": "Machine Learning Engineer",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413108942/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Airbnb",
-      "title": "Senior Machine Learning Engineer, Trust",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412946883/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Open Talent",
-      "title": "Founding AI/ML Engineer / $500k / Remote",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409624511/",
+      "url": "https://www.linkedin.com/jobs/view/4412973740/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Oho Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "Santa Clara County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413129050/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TetraMem - Accelerate The World",
-      "title": "Mid-Level Machine Learning Engineer",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Payment Risk - USDS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403636486/",
+      "url": "https://www.linkedin.com/jobs/view/4412991037/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "AsceticVoyage",
-      "title": "MLOps Engineer (Machine Learning, Python, AI) - Not open for CPT/OPT, H1B",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4413129431/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Ontra",
-      "title": "Staff Data Scientist",
-      "location": "Concord, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412951933/",
-      "date_posted": "2026-05-11",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "depthfirst",
-      "title": "Research Engineer",
+      "company": "Amperesand",
+      "title": "Staff/Senior Software AI engineer: Predictive Analytics",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4409399818/",
+      "url": "https://www.linkedin.com/jobs/view/4394743151/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "Real-Time Innovations (RTI)",
-      "title": "Principal Software Research Engineer",
+      "company": "Federato",
+      "title": "Forward Deployed Machine Learning Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4409107814/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Data Scientist, Product Analytics - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412954961/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Slack",
+      "title": "Staff Product Data Scientist - Slack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404918124/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Target",
+      "title": "Sr Data Scientist - Global Supply Chain and Logistics",
       "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4387544258/",
+      "url": "https://www.linkedin.com/jobs/view/4412973594/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "GenBio AI",
-      "title": "AI Engineer (Agent Systems & LLMs)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4367367602/",
+      "company": "Salesforce",
+      "title": "Staff Product Data Scientist - Slack",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4367175657/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     },
     {
-      "company": "GenBio AI",
-      "title": "Senior DevOps / MLOps Engineer",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392337110/",
+      "company": "Palo Alto Networks",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412957818/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer (Agents)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413167178/",
+      "date_posted": "2026-05-11",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "AI/ML Engineer",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412945785/",
       "date_posted": "2026-05-11",
       "ats": "LinkedIn"
     }
