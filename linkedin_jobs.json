@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-13 21:11 UTC",
-  "total": 4,
-  "new_count": 4,
+  "scraped_at": "2026-05-13 21:20 UTC",
+  "total": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Shields Group Search",
@@ -26,48 +26,7 @@
       "url": "https://www.linkedin.com/jobs/view/4302123397/",
       "date_posted": "2026-05-13",
       "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "Staff AI Research Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410641531/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Shields Group Search",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Theron Solutions",
-      "title": "Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414282166/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Philo",
-      "title": "Sr. Machine Learning Engineer (Recommendation Systems)",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4302123397/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AMD",
-      "title": "Staff AI Research Engineer",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410641531/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    }
-  ]
+  "new_jobs": []
 }
