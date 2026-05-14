@@ -1,112 +1,56 @@
 {
-  "scraped_at": "2026-05-14 00:05 UTC",
-  "total": 7,
-  "new_count": 6,
+  "scraped_at": "2026-05-14 04:38 UTC",
+  "total": 3,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "Amazon",
-      "title": "Member of Technical Staff - ML Engineer, Frontier AI Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414295733/",
+      "company": "TalentAlly",
+      "title": "Senior AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413505381/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist, Neuron ARG, Annapurna ML",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414294805/",
+      "company": "TalentAlly",
+      "title": "Principal AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413508259/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Quantum Applied Scientist, Device and Architecture Theory, Center for Quantum Computing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414507459/",
+      "company": "TalentAlly",
+      "title": "Principal AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413516019/",
       "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rivian",
-      "title": "Senior Software Engineer, MLOps",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414197170/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410641949/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, Trust and Safety",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414292769/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414186783/",
-      "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Amazon",
-      "title": "Member of Technical Staff - ML Engineer, Frontier AI Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414295733/",
+      "company": "TalentAlly",
+      "title": "Senior AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413505381/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon",
-      "title": "Applied Scientist, Neuron ARG, Annapurna ML",
-      "location": "Cupertino, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414294805/",
+      "company": "TalentAlly",
+      "title": "Principal AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413508259/",
       "date_posted": "2026-05-14",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Web Services (AWS)",
-      "title": "Quantum Applied Scientist, Device and Architecture Theory, Center for Quantum Computing",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414507459/",
+      "company": "TalentAlly",
+      "title": "Principal AI Engineer",
+      "location": "Dublin, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413516019/",
       "date_posted": "2026-05-14",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4410641949/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pinterest",
-      "title": "Sr. Data Scientist, Trust and Safety",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414292769/",
-      "date_posted": "2026-05-13",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer (Agents)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414186783/",
-      "date_posted": "2026-05-13",
       "ats": "LinkedIn"
     }
   ]
