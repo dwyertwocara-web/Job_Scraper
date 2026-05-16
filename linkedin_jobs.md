@@ -1,12 +1,20 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-16 17:50 UTC*
+*Last updated: 2026-05-16 18:53 UTC*
 
-**2 new role(s)** since last run · 5 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Director Cloud Security AI Engineering](https://www.linkedin.com/jobs/view/4406673381/) — BMO U.S.
+### [Payer Healthcare Data Scientist, Manager](https://www.linkedin.com/jobs/view/4393883210/) — PwC
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-16
 
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4415186974/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
+### [AI Engineer](https://www.linkedin.com/jobs/view/4404127332/) — CyberCoders
+- 📍 **Location:** San Mateo, CA
+- 🕒 **Posted:** 2026-05-16
+
+### [Senior AI Engineer](https://www.linkedin.com/jobs/view/4384662944/) — Cadence
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-05-16
+
+### [NGA AI Engineer Senior Manager](https://www.linkedin.com/jobs/view/4384256805/) — PwC
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-16

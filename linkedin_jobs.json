@@ -1,63 +1,71 @@
 {
-  "scraped_at": "2026-05-16 17:50 UTC",
-  "total": 5,
-  "new_count": 2,
+  "scraped_at": "2026-05-16 18:53 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "Hightouch",
-      "title": "Forward Deployed Marketing Data Scientist",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4344193243/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "SentiLink",
-      "title": "Senior Applied ML Scientist",
+      "company": "PwC",
+      "title": "Payer Healthcare Data Scientist, Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385304565/",
+      "url": "https://www.linkedin.com/jobs/view/4393883210/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "BMO U.S.",
-      "title": "Director Cloud Security AI Engineering",
+      "company": "CyberCoders",
+      "title": "AI Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404127332/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384662944/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PwC",
+      "title": "NGA AI Engineer Senior Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406673381/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Snorkel AI",
-      "title": "Applied AI Engineer - AI Solutions",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4340625628/",
-      "date_posted": "2026-05-16",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415186974/",
+      "url": "https://www.linkedin.com/jobs/view/4384256805/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "BMO U.S.",
-      "title": "Director Cloud Security AI Engineering",
+      "company": "PwC",
+      "title": "Payer Healthcare Data Scientist, Manager",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4406673381/",
+      "url": "https://www.linkedin.com/jobs/view/4393883210/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415186974/",
+      "company": "CyberCoders",
+      "title": "AI Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404127332/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cadence",
+      "title": "Senior AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384662944/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PwC",
+      "title": "NGA AI Engineer Senior Manager",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4384256805/",
       "date_posted": "2026-05-16",
       "ats": "LinkedIn"
     }
