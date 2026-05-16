@@ -1,7 +1,329 @@
 {
-  "scraped_at": "2026-05-16 21:41 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-05-16 22:38 UTC",
+  "total": 20,
+  "new_count": 20,
+  "jobs": [
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744418/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414736396/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744356/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff AI/ML Engineer - AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414756008/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, Build Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414753222/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff Machine Learning Engineer, Compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733703/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414751333/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "2026 Summer Intern - AI/ML Engineer, Cloud and Developer Infrastructure (Master's)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414747398/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414746342/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer - Perception & Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414752361/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Staff AI/ML Engineer - AV ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414755034/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Offboard Perception",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414747364/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733733/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Scaling Foundations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414751359/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer, ML compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414737406/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414750315/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer - Embodied AI Scaling Foundations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414740363/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Systems Data Scientist, Behavior Validation",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414756004/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer, Inference Platform",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414740382/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414745398/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Jobs via Dice",
+      "title": "Data Scientist",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744418/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414736396/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414744356/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff AI/ML Engineer - AI Research",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414756008/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, Build Platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414753222/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff Machine Learning Engineer, Compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733703/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI / ML Engineer - Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414751333/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "2026 Summer Intern - AI/ML Engineer, Cloud and Developer Infrastructure (Master's)",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414747398/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior AI/ML Engineer, AV Pipelines & Lineage",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414746342/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer - Perception & Embodied AI",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414752361/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Staff AI/ML Engineer - AV ML Infra",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414755034/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Offboard Perception",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414747364/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Principal Machine Learning Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414733733/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Scaling Foundations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414751359/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer, ML compute",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414737406/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414750315/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer - Embodied AI Scaling Foundations",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414740363/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Systems Data Scientist, Behavior Validation",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414756004/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Staff ML Engineer, Inference Platform",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414740382/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior ML Engineer - Embodied AI Onboard Autonomy",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414745398/",
+      "date_posted": "2026-05-16",
+      "ats": "LinkedIn"
+    }
+  ]
 }
