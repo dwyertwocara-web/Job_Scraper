@@ -1,29 +1,21 @@
 {
-  "scraped_at": "2026-05-17 16:50 UTC",
-  "total": 8,
-  "new_count": 3,
+  "scraped_at": "2026-05-17 17:52 UTC",
+  "total": 3,
+  "new_count": 2,
   "jobs": [
     {
-      "company": "Whatnot",
-      "title": "Data Scientist, Risk & Fraud",
+      "company": "Docusign",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4366862161/",
+      "url": "https://www.linkedin.com/jobs/view/4367544478/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pinterest",
-      "title": "Principal Machine Learning Engineer, Ads Delivery",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4304375637/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Grindr",
-      "title": "Senior Staff ML Engineer",
+      "company": "Suno",
+      "title": "Machine Learning Engineering Manager, Recommendations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4304180601/",
+      "url": "https://www.linkedin.com/jobs/view/4351770248/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
@@ -32,64 +24,24 @@
       "title": "Staff Applied ML Scientist",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4385320061/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Universes",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4331596197/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Reward Models Platform",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4344760938/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Amazon Ads, Demand Forecasting & Guidance",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385362057/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon",
-      "title": "Applied Scientist, Last Mile Delivery Automation",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4359611498/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Grindr",
-      "title": "Senior Staff ML Engineer",
+      "company": "Docusign",
+      "title": "Senior Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4304180601/",
+      "url": "https://www.linkedin.com/jobs/view/4367544478/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     },
     {
-      "company": "SentiLink",
-      "title": "Staff Applied ML Scientist",
+      "company": "Suno",
+      "title": "Machine Learning Engineering Manager, Recommendations",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4385320061/",
-      "date_posted": "2026-05-17",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Anthropic",
-      "title": "Research Engineer, Reward Models Platform",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4344760938/",
+      "url": "https://www.linkedin.com/jobs/view/4351770248/",
       "date_posted": "2026-05-17",
       "ats": "LinkedIn"
     }
