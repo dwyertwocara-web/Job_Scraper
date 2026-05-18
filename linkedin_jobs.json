@@ -1,247 +1,103 @@
 {
-  "scraped_at": "2026-05-18 17:27 UTC",
-  "total": 15,
-  "new_count": 15,
+  "scraped_at": "2026-05-18 19:28 UTC",
+  "total": 6,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "Emonics LLC",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415686620/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shields Group Search",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stealth Startup",
-      "title": "ML Engineer - Inference [33157]",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412297925/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Machine Learning Engineer, Recommendations",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376106619/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mochi Health",
-      "title": "Data Scientist, Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415698012/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Quest Global",
-      "title": "Data AI/ML Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415678969/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pivotal Health",
-      "title": "Senior Applied AI/ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416263108/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tranzeal Incorporated",
-      "title": "Data Scientist / ML Engineer / ML Architect",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415692236/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Guidewire Software",
-      "title": "Senior Machine Learning Engineer - AI/ML",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416267040/",
+      "company": "Google",
+      "title": "Senior Research Data Scientist, Search Ads",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415704541/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
       "company": "Google",
-      "title": "Senior Business Data Scientist, Agentic AI, Finance",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416267163/",
+      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415705492/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pivotal Health",
-      "title": "Senior Applied Scientist, Decisioning",
+      "company": "Google",
+      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415713199/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Senior Human Factors Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416251969/",
+      "url": "https://www.linkedin.com/jobs/view/4416284424/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Innoventrics",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415702042/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Emonics LLC",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415689296/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Day One Partners",
-      "title": "Applied AI Engineer | $50M Series A",
+      "company": "High Country Search Group",
+      "title": "Agentic AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4406566894/",
+      "url": "https://www.linkedin.com/jobs/view/4416400293/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Emonics LLC",
-      "title": "Generative AI Engineer",
+      "company": "Love Freedom Solution",
+      "title": "Senior Applied AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415670878/",
+      "url": "https://www.linkedin.com/jobs/view/4415710297/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Emonics LLC",
-      "title": "Machine Learning Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415686620/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Shields Group Search",
-      "title": "Machine Learning Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4408335861/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Stealth Startup",
-      "title": "ML Engineer - Inference [33157]",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412297925/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Machine Learning Engineer, Recommendations",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4376106619/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Mochi Health",
-      "title": "Data Scientist, Operations",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415698012/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Quest Global",
-      "title": "Data AI/ML Engineer",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415678969/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Pivotal Health",
-      "title": "Senior Applied AI/ML Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416263108/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Tranzeal Incorporated",
-      "title": "Data Scientist / ML Engineer / ML Architect",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415692236/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Guidewire Software",
-      "title": "Senior Machine Learning Engineer - AI/ML",
-      "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416267040/",
+      "company": "Google",
+      "title": "Senior Research Data Scientist, Search Ads",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415704541/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
       "company": "Google",
-      "title": "Senior Business Data Scientist, Agentic AI, Finance",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416267163/",
+      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
+      "location": "San Bruno, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415705492/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Pivotal Health",
-      "title": "Senior Applied Scientist, Decisioning",
+      "company": "Google",
+      "title": "Senior Business Data Scientist, YouTube Ads GTM Creatives",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415713199/",
+      "date_posted": "2026-05-18",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Intuitive",
+      "title": "Senior Human Factors Research Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416251969/",
+      "url": "https://www.linkedin.com/jobs/view/4416284424/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Innoventrics",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415702042/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Emonics LLC",
-      "title": "AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415689296/",
-      "date_posted": "2026-05-18",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Day One Partners",
-      "title": "Applied AI Engineer | $50M Series A",
+      "company": "High Country Search Group",
+      "title": "Agentic AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4406566894/",
+      "url": "https://www.linkedin.com/jobs/view/4416400293/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     },
     {
-      "company": "Emonics LLC",
-      "title": "Generative AI Engineer",
+      "company": "Love Freedom Solution",
+      "title": "Senior Applied AI Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4415670878/",
+      "url": "https://www.linkedin.com/jobs/view/4415710297/",
       "date_posted": "2026-05-18",
       "ats": "LinkedIn"
     }
