@@ -2,8 +2,9 @@ name: Biotech MLE Job Scraper
 
 on:
   schedule:
-    # 03:00 UTC = 8 PM PDT (UTC-7). In PST (UTC-8) this fires at 7 PM PT — close enough.
-    - cron: "0 3 * * *"
+    # 03:13 UTC ≈ 8 PM PDT (UTC-7); in PST (UTC-8) ~7 PM PT.
+    # Off-hour minute (:13) avoids GitHub Actions throttling at :00.
+    - cron: "13 3 * * *"
 
   workflow_dispatch:
 
@@ -62,19 +63,7 @@ jobs:
           git pull --rebase origin main
           git push
 
-      - name: Check whether to send email
-        id: email_gate
-        run: |
-          python - <<'EOF' >> "$GITHUB_OUTPUT"
-          import json
-          with open("jobs.json") as f:
-              data = json.load(f)
-          new_count = int(data.get("new_count", 0))
-          print(f"should_email={'true' if new_count > 0 else 'false'}")
-          EOF
-
       - name: Send email with results
-        if: steps.email_gate.outputs.should_email == 'true'
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
