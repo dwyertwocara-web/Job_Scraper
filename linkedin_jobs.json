@@ -1,53 +1,13 @@
 {
-  "scraped_at": "2026-05-20 20:29 UTC",
-  "total": 8,
-  "new_count": 8,
+  "scraped_at": "2026-05-20 21:42 UTC",
+  "total": 11,
+  "new_count": 7,
   "jobs": [
-    {
-      "company": "TikTok",
-      "title": "Data Scientist - Multimedia",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416322396/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Data Scientist - TikTok Ads",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4390422140/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
     {
       "company": "BayOne Solutions",
       "title": "Chief Data Scientist",
       "location": "Oakland, CA",
       "url": "https://www.linkedin.com/jobs/view/4416307949/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY",
-      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413631581/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DataVisor",
-      "title": "Senior Data Scientist, Fraud Analytics and Strategy",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417367328/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Allogene Therapeutics",
-      "title": "Associate Director, Data Science",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417384291/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     },
@@ -62,74 +22,130 @@
     {
       "company": "EY",
       "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413631581/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "EY",
+      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
       "location": "San Francisco, CA",
       "url": "https://www.linkedin.com/jobs/view/4413641376/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ektello",
+      "title": "Sr. Product Data Scientist",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417387462/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LiveRamp",
+      "title": "Intern, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417407075/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LiveRamp",
+      "title": "Intern, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417406100/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Senior Data Scientist, Strategy- Weights & Biases",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413638630/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Senior Data Scientist, Strategy- Weights & Biases",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413641532/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist, Full-funnel Agentic Intelligence and Models",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413639735/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "True Classic",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415966129/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "TikTok",
-      "title": "Data Scientist - Multimedia",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416322396/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TikTok",
-      "title": "Data Scientist - TikTok Ads",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4390422140/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "BayOne Solutions",
-      "title": "Chief Data Scientist",
-      "location": "Oakland, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416307949/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY",
-      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413631581/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "DataVisor",
-      "title": "Senior Data Scientist, Fraud Analytics and Strategy",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417367328/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Allogene Therapeutics",
-      "title": "Associate Director, Data Science",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417384291/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY",
-      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413638488/",
-      "date_posted": "2026-05-20",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "EY",
-      "title": "Data Scientist - Senior Manager- Consulting - Location OPEN",
+      "company": "ektello",
+      "title": "Sr. Product Data Scientist",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4413641376/",
+      "url": "https://www.linkedin.com/jobs/view/4417387462/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LiveRamp",
+      "title": "Intern, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417407075/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "LiveRamp",
+      "title": "Intern, Data Science",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417406100/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Senior Data Scientist, Strategy- Weights & Biases",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413638630/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Weights & Biases",
+      "title": "Senior Data Scientist, Strategy- Weights & Biases",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413641532/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist, Full-funnel Agentic Intelligence and Models",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4413639735/",
+      "date_posted": "2026-05-20",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "True Classic",
+      "title": "AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4415966129/",
       "date_posted": "2026-05-20",
       "ats": "LinkedIn"
     }
