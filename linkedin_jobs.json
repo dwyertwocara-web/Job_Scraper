@@ -1,16 +1,89 @@
 {
-  "scraped_at": "2026-05-21 03:17 UTC",
-  "total": 1,
-  "new_count": 0,
+  "scraped_at": "2026-05-21 05:51 UTC",
+  "total": 5,
+  "new_count": 5,
   "jobs": [
     {
-      "company": "PlusAI",
-      "title": "Senior Research Engineer, Controls",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417440316/",
+      "company": "Walmart",
+      "title": "Senior Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416385009/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer - Credit",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417449985/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior Manager, Data Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416385008/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Senior Research Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417464048/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "The Mortgage Office",
+      "title": "Applied AI Engineer Intern",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417452893/",
       "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Walmart",
+      "title": "Senior Data Scientist",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416385009/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Plaid",
+      "title": "Senior Machine Learning Engineer - Credit",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4417449985/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Walmart",
+      "title": "Senior Manager, Data Science",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416385008/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Hewlett Packard Enterprise",
+      "title": "Senior Research Engineer",
+      "location": "Milpitas, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417464048/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "The Mortgage Office",
+      "title": "Applied AI Engineer Intern",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417452893/",
+      "date_posted": "2026-05-21",
+      "ats": "LinkedIn"
+    }
+  ]
 }
