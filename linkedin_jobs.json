@@ -1,85 +1,21 @@
 {
-  "scraped_at": "2026-05-22 21:17 UTC",
-  "total": 12,
-  "new_count": 5,
+  "scraped_at": "2026-05-22 22:17 UTC",
+  "total": 5,
+  "new_count": 3,
   "jobs": [
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414372158/",
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402348504/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern - Scenario Generation",
+      "company": "Palo Alto Networks",
+      "title": "Sr Principal AI-Data Scientist (ADEM)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414365215/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern - Planning",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414359267/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Machine Learning Engineer Intern- Scenario Simulation",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414366185/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Senior Machine Learning Engineer, Perception",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4224451945/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Senior/Staff Machine Learning Engineer, Planning",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4239645650/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Senior/Staff Machine Learning Engineer, Planning",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4351979209/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "PlusAI",
-      "title": "Research Engineer Intern - Control",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414358640/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scaleiq",
-      "title": "Computational research engineer in Quantum Sciences",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414375259/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Xaira Therapeutics",
-      "title": "AI Scientist - Biomedical Multimodal Modeling",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408918303/",
+      "url": "https://www.linkedin.com/jobs/view/4414369297/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -92,52 +28,44 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Amazon - Vertical Ads",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414360434/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414369297/",
+      "url": "https://www.linkedin.com/jobs/view/4417195561/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "PlusAI",
-      "title": "Senior/Staff Machine Learning Engineer, Planning",
+      "company": "Waymo",
+      "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402348504/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Applied Scientist II, Amazon - Vertical Ads",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414360434/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4239645650/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "scaleiq",
-      "title": "Computational research engineer in Quantum Sciences",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414375259/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Xaira Therapeutics",
-      "title": "AI Scientist - Biomedical Multimodal Modeling",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408918303/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Wayve",
-      "title": "Staff Machine Learning Engineer, AV Core",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414370324/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414369297/",
+      "url": "https://www.linkedin.com/jobs/view/4417195561/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
