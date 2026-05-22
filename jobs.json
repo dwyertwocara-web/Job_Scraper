@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-21 07:01 UTC",
-  "total": 6,
-  "new_count": 1,
+  "scraped_at": "2026-05-22 06:57 UTC",
+  "total": 8,
+  "new_count": 3,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -45,20 +45,52 @@
     },
     {
       "company": "Genentech",
-      "title": "Principal Computational Scientist, Discovery Chemistry",
+      "title": "Senior Data Scientist, Gen AI Application",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417050372/",
-      "date_posted": "2026-05-20",
+      "url": "https://www.linkedin.com/jobs/view/4416741689/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Data Scientist, Gen AI Foundation",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416762334/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Biohub",
+      "title": "Research Engineer, AI",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398642162/",
+      "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
       "company": "Genentech",
-      "title": "Principal Computational Scientist, Discovery Chemistry",
+      "title": "Senior Data Scientist, Gen AI Application",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417050372/",
-      "date_posted": "2026-05-20",
+      "url": "https://www.linkedin.com/jobs/view/4416741689/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Genentech",
+      "title": "Senior Data Scientist, Gen AI Foundation",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416762334/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Biohub",
+      "title": "Research Engineer, AI",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398642162/",
+      "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ]
