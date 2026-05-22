@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-22 19:17 UTC",
-  "total": 8,
-  "new_count": 0,
+  "scraped_at": "2026-05-22 20:17 UTC",
+  "total": 15,
+  "new_count": 13,
   "jobs": [
     {
       "company": "Unity",
@@ -12,10 +12,26 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Hydrogen Group",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418179635/",
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414372158/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern - Scenario Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414365215/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goliath Partners",
+      "title": "Machine Learning/Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418415128/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
@@ -28,45 +44,190 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Tranzeal Incorporated",
-      "title": "Data Scientist",
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern - Planning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414359267/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern- Scenario Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414366185/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Senior Machine Learning Engineer, Perception",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4224451945/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer - Cybersecurity",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417197051/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity",
+      "title": "Staff Machine Learning Engineer, Vector Bidding Science",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417170848/",
+      "url": "https://www.linkedin.com/jobs/view/4418196917/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Axon",
-      "title": "Senior Machine Learning Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4361527052/",
+      "company": "Acadia Pharmaceuticals",
+      "title": "Manager, AI Engineering",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417506047/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "scalr",
-      "title": "Research Engineer",
+      "company": "Amplitude",
+      "title": "Staff AI Engineer",
       "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4414344844/",
+      "url": "https://www.linkedin.com/jobs/view/4418406642/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417167822/",
+      "company": "PlusAI",
+      "title": "Research Engineer Intern - Control",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414358640/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Arcade.dev",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418193574/",
+      "company": "PlusAI",
+      "title": "Senior/Staff Machine Learning Engineer, Planning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4351979209/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shrive Technologies",
+      "title": "Tachyon Cortex MLOps Lead Software Engineer",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418400372/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414372158/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern - Scenario Generation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414365215/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Goliath Partners",
+      "title": "Machine Learning/Research Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418415128/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern - Planning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414359267/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Machine Learning Engineer Intern- Scenario Simulation",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414366185/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Senior Machine Learning Engineer, Perception",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4224451945/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "Senior Machine Learning Engineer - Cybersecurity",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417197051/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Unity",
+      "title": "Staff Machine Learning Engineer, Vector Bidding Science",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418196917/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Acadia Pharmaceuticals",
+      "title": "Manager, AI Engineering",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417506047/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amplitude",
+      "title": "Staff AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418406642/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Research Engineer Intern - Control",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4414358640/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "PlusAI",
+      "title": "Senior/Staff Machine Learning Engineer, Planning",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4351979209/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Shrive Technologies",
+      "title": "Tachyon Cortex MLOps Lead Software Engineer",
+      "location": "Concord, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418400372/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    }
+  ]
 }
