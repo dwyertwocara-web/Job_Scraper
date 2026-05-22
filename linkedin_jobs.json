@@ -1,71 +1,103 @@
 {
-  "scraped_at": "2026-05-22 22:17 UTC",
-  "total": 5,
-  "new_count": 3,
+  "scraped_at": "2026-05-22 23:17 UTC",
+  "total": 6,
+  "new_count": 6,
   "jobs": [
     {
-      "company": "Waymo",
-      "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402348504/",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417502683/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Palo Alto Networks",
-      "title": "Sr Principal AI-Data Scientist (ADEM)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414369297/",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer 5",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417505649/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Wayve",
-      "title": "Staff Machine Learning Engineer, AV Core",
-      "location": "Sunnyvale, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414370324/",
+      "company": "Harnham",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398096083/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist II, Amazon - Vertical Ads",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414360434/",
+      "company": "Orum \ud83e\udd47",
+      "title": "Staff Applied AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418424811/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417195561/",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer 5",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417199761/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Sr. Machine Learning Engineer 4",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417501719/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Waymo",
-      "title": "Staff Machine Learning Engineer, Prediction & Planning, System Architecture",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402348504/",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417502683/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Applied Scientist II, Amazon - Vertical Ads",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4414360434/",
+      "company": "Adobe",
+      "title": "Machine Learning Engineer 5",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417505649/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4417195561/",
+      "company": "Harnham",
+      "title": "Senior AI Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4398096083/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Orum \ud83e\udd47",
+      "title": "Staff Applied AI Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4418424811/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Machine Learning Engineer 5",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417199761/",
+      "date_posted": "2026-05-22",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Adobe",
+      "title": "Sr. Machine Learning Engineer 4",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4417501719/",
       "date_posted": "2026-05-22",
       "ats": "LinkedIn"
     }
