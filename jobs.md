@@ -1,16 +1,8 @@
 # 🧬 Biotech LinkedIn — MLE / DS Roles
-*Last updated: 2026-05-22 06:57 UTC*
+*Last updated: 2026-05-23 06:19 UTC*
 
-**3 new role(s)** since last run · 8 total in last 24h
+**1 new role(s)** since last run · 6 total in last 24h
 
-### [Senior Data Scientist, Gen AI Application](https://www.linkedin.com/jobs/view/4416741689/) — Genentech
-- 📍 **Location:** South San Francisco, CA
+### [Data Scientist / AI Scientist – AI for Aging Research – Zhou lab](https://www.linkedin.com/jobs/view/4404543004/) — Buck Institute for Research on Aging
+- 📍 **Location:** Novato, CA
 - 🕒 **Posted:** 2026-05-22
-
-### [Senior Data Scientist, Gen AI Foundation](https://www.linkedin.com/jobs/view/4416762334/) — Genentech
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-22
-
-### [Research Engineer, AI](https://www.linkedin.com/jobs/view/4398642162/) — Biohub
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-05-21

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-22 06:57 UTC",
-  "total": 8,
-  "new_count": 3,
+  "scraped_at": "2026-05-23 06:19 UTC",
+  "total": 6,
+  "new_count": 1,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -44,53 +44,21 @@
       "ats": "Greenhouse"
     },
     {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Application",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416741689/",
+      "company": "Buck Institute for Research on Aging",
+      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Foundation",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416762334/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Research Engineer, AI",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398642162/",
-      "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Application",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416741689/",
+      "company": "Buck Institute for Research on Aging",
+      "title": "Data Scientist / AI Scientist \u2013 AI for Aging Research \u2013 Zhou lab",
+      "location": "Novato, CA",
+      "url": "https://www.linkedin.com/jobs/view/4404543004/",
       "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Genentech",
-      "title": "Senior Data Scientist, Gen AI Foundation",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416762334/",
-      "date_posted": "2026-05-22",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Biohub",
-      "title": "Research Engineer, AI",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4398642162/",
-      "date_posted": "2026-05-21",
       "ats": "LinkedIn"
     }
   ]
