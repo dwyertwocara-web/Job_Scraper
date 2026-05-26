@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-26 18:17 UTC",
+  "scraped_at": "2026-05-26 19:17 UTC",
   "total": 7,
-  "new_count": 0,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Zeta Global",
@@ -12,26 +12,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Applied Materials",
-      "title": "Data Scientist II",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4408414925/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "TalentAlly",
-      "title": "Data Scientist III",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4419463375/",
-      "date_posted": "2026-05-26",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
+      "company": "NGV Talent",
+      "title": "Staff Machine Learning Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418297098/",
+      "url": "https://www.linkedin.com/jobs/view/4418278827/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     },
@@ -52,13 +36,62 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Emonics LLC",
-      "title": "Junior AI Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418279360/",
+      "company": "Wipro",
+      "title": "MLOPS Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418296427/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tokyo Electron US",
+      "title": "Senior Autonomy/AI Research Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4341558625/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cohesity",
+      "title": "Principal AI Engineer, HR Automation",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419474986/",
       "date_posted": "2026-05-26",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "NGV Talent",
+      "title": "Staff Machine Learning Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418278827/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Wipro",
+      "title": "MLOPS Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418296427/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Tokyo Electron US",
+      "title": "Senior Autonomy/AI Research Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4341558625/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Cohesity",
+      "title": "Principal AI Engineer, HR Automation",
+      "location": "Santa Clara County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4419474986/",
+      "date_posted": "2026-05-26",
+      "ats": "LinkedIn"
+    }
+  ]
 }
