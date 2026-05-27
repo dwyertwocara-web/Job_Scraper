@@ -1,48 +1,24 @@
 # 🔥 LinkedIn — MLE / DS Roles (SF Bay Area)
-*Last updated: 2026-05-27 16:17 UTC*
+*Last updated: 2026-05-27 17:17 UTC*
 
-**11 new role(s)** since last run · 17 total in last 1h
+**5 new role(s)** since last run · 7 total in last 1h
 
-### [AI Data scientist](https://www.linkedin.com/jobs/view/4419892482/) — Largeton Group
-- 📍 **Location:** San Jose, CA
+### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4379931734/) — Kikoff
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Senior Machine Learning Engineer](https://www.linkedin.com/jobs/view/4417234182/) — Acceler8 Talent
+### [Founding Machine Learning Engineer](https://www.linkedin.com/jobs/view/4419909051/) — Analytic Recruiting Inc.
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-27
 
-### [Senior Data Scientist II](https://www.linkedin.com/jobs/view/4414522100/) — Sharp Decisions
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Principal ML Engineer](https://www.linkedin.com/jobs/view/4409715518/) — Typeface
-- 📍 **Location:** Palo Alto, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Research Engineer, Performance RL](https://www.linkedin.com/jobs/view/4388955858/) — Anthropic
+### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4418826218/) — Jobright.ai
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [AI Engineer](https://www.linkedin.com/jobs/view/4419591381/) — Apex Systems
-- 📍 **Location:** San Ramon, CA
+### [Data Scientist, AWS Quick Data](https://www.linkedin.com/jobs/view/4408834403/) — Amazon Web Services (AWS)
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-27
 
-### [Research Engineering Internship - AI, Computer Vision, & Visualization](https://www.linkedin.com/jobs/view/4279104491/) — Williams-Sonoma, Inc.
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4419899579/) — TalentAlly
-- 📍 **Location:** Menlo Park, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Data Scientist](https://www.linkedin.com/jobs/view/4416078433/) — Apex Systems
-- 📍 **Location:** Pleasanton, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Physical AI Engineering Consultant - Manager - Consulting - Open Location](https://www.linkedin.com/jobs/view/4399907223/) — EY
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-05-27
-
-### [Physical AI Engineering Consultant - Manager - Consulting - Open Location](https://www.linkedin.com/jobs/view/4399790377/) — EY
-- 📍 **Location:** San Francisco, CA
+### [Data Scientist](https://www.linkedin.com/jobs/view/4419908010/) — SPECTRAFORCE
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-05-27
