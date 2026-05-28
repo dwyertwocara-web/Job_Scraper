@@ -1,112 +1,96 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-05-28 22:17 UTC*
+*Last updated: 2026-05-28 23:17 UTC*
 
-**27 new role(s)** since last run · 33 total in last 1h
+**23 new role(s)** since last run · 30 total in last 1h
 
-### [Software Engineer, AI](https://www.linkedin.com/jobs/view/4417395054/) — Spot AI
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer - AI Agents](https://www.linkedin.com/jobs/view/4420644242/) — Visa
+- 📍 **Location:** Foster City, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Staff AI Engineer - SimAI Team](https://www.linkedin.com/jobs/view/4420616600/) — General Motors
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Software Engineer - Marketplace Experimentation Platform](https://www.linkedin.com/jobs/view/4419354172/) — Waymo
+### [Research Engineer, Agentic Security & Privacy Post-Training for Gemini, DeepMind](https://www.linkedin.com/jobs/view/4419355337/) — Google DeepMind
 - 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Machine Learning Engineer, ML Resources](https://www.linkedin.com/jobs/view/4404483282/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4419342168/) — Jobright.ai
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Software Engineer](https://www.linkedin.com/jobs/view/4420634190/) — Harnham
+### [Research Engineer, Agentic Security & Privacy Post-Training for Gemini, DeepMind](https://www.linkedin.com/jobs/view/4419349330/) — Google DeepMind
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Data Engineer, Fleet Analytics, Cell Quality & Field Reliability](https://www.linkedin.com/jobs/view/4420615736/) — Tesla
-- 📍 **Location:** Fremont, CA
+### [Senior Staff Software Engineer, AI/ML, Security](https://www.linkedin.com/jobs/view/4419335400/) — Google
+- 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Data Scientist I, PXT Central Science](https://www.linkedin.com/jobs/view/4417672989/) — Amazon Science
+### [Software Engineer I / II](https://www.linkedin.com/jobs/view/4417680870/) — Giga
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Staff Machine Learning Engineer, Vehicle Compliance Reasoning](https://www.linkedin.com/jobs/view/4404720369/) — Waymo
-- 📍 **Location:** Mountain View, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Staff Machine Learning Engineer, Vehicle Compliance Reasoning](https://www.linkedin.com/jobs/view/4404718428/) — Waymo
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Generative AI Engineer](https://www.linkedin.com/jobs/view/4419345317/) — AceStack
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Senior Full Stack Software Engineer](https://www.linkedin.com/jobs/view/4404493168/) — Clover
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Staff Java Server Software Engineer](https://www.linkedin.com/jobs/view/4419343145/) — Clover
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Staff Software Engineer, Front End (Datagrid)](https://www.linkedin.com/jobs/view/4420618809/) — Procore Technologies
+### [Senior Data Scientist, Analytics](https://www.linkedin.com/jobs/view/4388983970/) — Discord
 - 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-28
 
-### [Senior, Software Engineer](https://www.linkedin.com/jobs/view/4417688186/) — Sam's Club
-- 📍 **Location:** Sunnyvale, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Sr. Software Engineer](https://www.linkedin.com/jobs/view/4420629323/) — Metriport
+### [entry level java developer/Data scientist](https://www.linkedin.com/jobs/view/4419339455/) — SynergisticIT
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Software Developer](https://www.linkedin.com/jobs/view/4420633163/) — Lawrence Livermore National Laboratory
-- 📍 **Location:** Livermore, CA
+### [Robotics Software Engineer – Infrastructure](https://www.linkedin.com/jobs/view/4420642184/) — ViaBot
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4419348181/) — Jobright.ai
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4419345451/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-05-28
+
+### [Software Engineer Intern - Machine Learning Workflow](https://www.linkedin.com/jobs/view/4420630618/) — Halo Industries, Inc.
+- 📍 **Location:** Santa Clara, CA
+- 🕒 **Posted:** 2026-05-28
+
+### [Software Engineer II - Digital Assets](https://www.linkedin.com/jobs/view/4420628398/) — Early Warning
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Staff Android Software Engineer](https://www.linkedin.com/jobs/view/4409720246/) — Rivian and Volkswagen Group Technologies
+### [Software Engineer in Test](https://www.linkedin.com/jobs/view/4420632391/) — Roc Search
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-28
+
+### [Software Engineer, Advanced Pilot Assistant Software (Autonomy/Robotics)](https://www.linkedin.com/jobs/view/4420623799/) — Beacon AI
+- 📍 **Location:** San Carlos, CA
+- 🕒 **Posted:** 2026-05-28
+
+### [Software Engineer - Front End Developer](https://www.linkedin.com/jobs/view/4401957736/) — Metis Technology Solutions, Inc.
+- 📍 **Location:** Mountain View, CA
+- 🕒 **Posted:** 2026-05-28
+
+### [Senior Software Engineer, Software Integration](https://www.linkedin.com/jobs/view/4409539011/) — Bot Auto
+- 📍 **Location:** San Francisco Bay Area
+- 🕒 **Posted:** 2026-05-28
+
+### [Software Engineer III, AI Experiences](https://www.linkedin.com/jobs/view/4420630869/) — Box
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-05-28
+
+### [Staff Software Engineer](https://www.linkedin.com/jobs/view/4419343694/) — American Express
 - 📍 **Location:** Palo Alto, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Senior/Staff Software Engineer, Core Infrastructure](https://www.linkedin.com/jobs/view/4420633256/) — Zip
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Systems Engineer Level 3 / 4](https://www.linkedin.com/jobs/view/4420632305/) — Northrop Grumman
+### [Senior Software Engineer](https://www.linkedin.com/jobs/view/4420619976/) — LTA Research
 - 📍 **Location:** Sunnyvale, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Senior Infrastructure Engineer](https://www.linkedin.com/jobs/view/4420632313/) — UCSF Health
-- 📍 **Location:** San Francisco, CA
+### [Founding Full-Stack Engineer](https://www.linkedin.com/jobs/view/4419353353/) — Jobright.ai
+- 📍 **Location:** San Francisco Bay Area
 - 🕒 **Posted:** 2026-05-28
 
-### [IT/OT Systems Engineer](https://www.linkedin.com/jobs/view/4419977235/) — E Tech Group
-- 📍 **Location:** Angwin, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Security Engineer II](https://www.linkedin.com/jobs/view/4420615658/) — AssetMark
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-05-28
-
-### [Data Engineer GMI XMX Engineering Ops at San Jose CA](https://www.linkedin.com/jobs/view/4420635166/) — VOLTO Consulting
+### [Senior Software Engineer – Live & VOD Video Infrastructure](https://www.linkedin.com/jobs/view/4420641236/) — Roku
 - 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4419335237/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4419343439/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
 - 🕒 **Posted:** 2026-05-28
 
-### [Principal Software Engineer - Waymo Driver Post Training](https://www.linkedin.com/jobs/view/4405075408/) — Waymo
-- 📍 **Location:** Mountain View, CA
+### [DevOps Engineer](https://www.linkedin.com/jobs/view/4420634631/) — Bolt Graphics
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-05-28
+
+### [Systems Engineer 1](https://www.linkedin.com/jobs/view/4420640260/) — Onto Innovation
+- 📍 **Location:** Milpitas, CA
 - 🕒 **Posted:** 2026-05-28
