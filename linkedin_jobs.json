@@ -1,13 +1,77 @@
 {
-  "scraped_at": "2026-05-30 18:17 UTC",
-  "total": 28,
-  "new_count": 18,
+  "scraped_at": "2026-05-30 19:17 UTC",
+  "total": 35,
+  "new_count": 28,
   "jobs": [
     {
-      "company": "Infotree Global Solutions",
-      "title": "AI/ML Engineer",
+      "company": "Andiamo",
+      "title": "Data Scientist - Data-Driven Global Investment Firm",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380625937/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380644134/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422517876/",
+      "url": "https://www.linkedin.com/jobs/view/4380627854/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380642235/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Software Engineer - AI Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380630626/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Software Engineer - AI Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380628893/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Full Stack Software Engineer - AI Platform Leader",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380634457/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Full Stack Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380644138/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Frontend Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380639260/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -20,18 +84,10 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Senior Software Engineer, Lyft Business",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380966305/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Arm",
-      "title": "Senior Software Engineer, AI Agents",
+      "company": "TikTok",
+      "title": "Senior Data Scientist, Model Risk & Data Analytics, Internal Audit - AMS",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412432900/",
+      "url": "https://www.linkedin.com/jobs/view/4418343483/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -44,42 +100,66 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Senior Software Engineer, Self-Serve Intelligence",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403546870/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Afero",
-      "title": "Senior Software Engineer \u2014 Mobile (Flutter / KMP)",
-      "location": "Los Altos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421368017/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
       "company": "ServiceNow",
-      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "title": "Software Engineer, Agentic AI Product - Moveworks",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369288501/",
+      "url": "https://www.linkedin.com/jobs/view/4369049918/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Lyft",
-      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4371638246/",
+      "company": "Tanium",
+      "title": "Corporate AI Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4391185948/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Principal Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4391599926/",
+      "company": "Andiamo",
+      "title": "Staff Frontend Engineer - AI/ML Platform Innovator",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380627850/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Career Renew",
+      "title": "Software Engineer (DevOps) - AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421365089/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Senior Software Engineer, Agentic AI \u2013 Nvidia Blueprints and NIM Integrations",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411788974/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Backend Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380641241/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Backend Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380645090/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Full Stack Software Engineer - AI Platform Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380631566/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -92,50 +172,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "PwC",
-      "title": "GenAI Python Systems Engineer-Director",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412310409/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Principal Software Engineer",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403541856/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ICE",
-      "title": "Senior Engineer, Platform Engineering, AI",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403144877/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Senior Staff Software Engineer - Agentic Automation",
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer, Automation (Tech Lead) \u2014 Veza",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402765651/",
+      "url": "https://www.linkedin.com/jobs/view/4402549089/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "BMO U.S.",
-      "title": "Senior Cloud Engineer AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403507894/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Archer",
-      "title": "Sr Staff Site Reliability Engineer",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422535369/",
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer, Integrations (Tech Lead) \u2014 Veza",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401545120/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -148,18 +196,18 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Director, AI Platforms",
+      "company": "Andiamo",
+      "title": "Full Stack Engineer - Elite Hedge Fund",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403570918/",
+      "url": "https://www.linkedin.com/jobs/view/4380626933/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Supio",
-      "title": "Senior Software Engineer, Full Stack",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421351935/",
+      "company": "TikTok USDS Joint Venture",
+      "title": "Full Stack Software Engineer, Security & Information Technology - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418336559/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -172,58 +220,66 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Replit",
-      "title": "Staff Infrastructure Engineer",
-      "location": "Foster City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411246142/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "AKASA",
-      "title": "Sr. Software Engineer, DevOps",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4286184304/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Palo Alto Networks",
-      "title": "Senior Manager, Site Reliability Engineering (Global)",
+      "company": "NVIDIA",
+      "title": "System Software Engineer - GPU and SOC",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4378986258/",
+      "url": "https://www.linkedin.com/jobs/view/4402756748/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceX",
-      "title": "AI Security Software Engineer (Starshield)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392002407/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Opal Security",
-      "title": "Software Engineer",
+      "company": "MongoDB",
+      "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4317469113/",
+      "url": "https://www.linkedin.com/jobs/view/4391190837/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "SpaceX",
-      "title": "Sr. AI Security Software Engineer (Starshield)",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4392000550/",
+      "company": "Andiamo",
+      "title": "Senior Site Reliability Engineer / HPC - Pre-IPO Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380644123/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Eikon Therapeutics",
-      "title": "Software Engineer 2, Algorithms and Biological Analysis",
-      "location": "Millbrae, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411788239/",
+      "company": "PwC",
+      "title": "GenAI Python Systems Engineer-Director",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4412310409/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "IXL Learning",
+      "title": "Senior Software Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4411958433/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Sr. Software Engineer V - Global Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380623935/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4369288501/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Sr. Data Engineer - High-Growth Tech Startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380624919/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
@@ -231,145 +287,225 @@
   "new_jobs": [
     {
       "company": "Andiamo",
-      "title": "Senior Frontend Software Engineer - AI Platform Leader",
+      "title": "Data Scientist - Data-Driven Global Investment Firm",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4380638250/",
+      "url": "https://www.linkedin.com/jobs/view/4380625937/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Arm",
-      "title": "Senior Software Engineer, AI Agents",
-      "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412432900/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Senior Machine Learning Engineer, Agentic AI Systems - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369053877/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Senior Software Engineer, Self-Serve Intelligence",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403546870/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Afero",
-      "title": "Senior Software Engineer \u2014 Mobile (Flutter / KMP)",
-      "location": "Los Altos, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421368017/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "ServiceNow",
-      "title": "Associate Software Engineer, Core Infrastructure - Moveworks",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4369288501/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Lyft",
-      "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
-      "location": "San Francisco County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4371638246/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Microsoft AI",
-      "title": "Principal Applied Scientist",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4391599926/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Broadcom",
-      "title": "Software Engineer",
+      "company": "Andiamo",
+      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
       "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402777166/",
+      "url": "https://www.linkedin.com/jobs/view/4380644134/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "PwC",
-      "title": "GenAI Python Systems Engineer-Director",
+      "company": "Andiamo",
+      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380627854/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Machine Learning, AI Software Engineer - AI Platform Leader",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4412310409/",
+      "url": "https://www.linkedin.com/jobs/view/4380642235/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Microsoft AI",
-      "title": "Principal Software Engineer",
+      "company": "Andiamo",
+      "title": "Senior Software Engineer - AI Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380630626/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Software Engineer - AI Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380628893/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Full Stack Software Engineer - AI Platform Leader",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380634457/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Full Stack Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380644138/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Frontend Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380639260/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok",
+      "title": "Senior Data Scientist, Model Risk & Data Analytics, Internal Audit - AMS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418343483/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Software Engineer, Agentic AI Product - Moveworks",
       "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403541856/",
+      "url": "https://www.linkedin.com/jobs/view/4369049918/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "ICE",
-      "title": "Senior Engineer, Platform Engineering, AI",
-      "location": "Pleasanton, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403144877/",
+      "company": "Tanium",
+      "title": "Corporate AI Engineer",
+      "location": "Emeryville, CA",
+      "url": "https://www.linkedin.com/jobs/view/4391185948/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Staff Frontend Engineer - AI/ML Platform Innovator",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380627850/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Career Renew",
+      "title": "Software Engineer (DevOps) - AI",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421365089/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
       "company": "NVIDIA",
-      "title": "Senior Staff Software Engineer - Agentic Automation",
+      "title": "Senior Software Engineer, Agentic AI \u2013 Nvidia Blueprints and NIM Integrations",
       "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402765651/",
+      "url": "https://www.linkedin.com/jobs/view/4411788974/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "BMO U.S.",
-      "title": "Senior Cloud Engineer AI",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403507894/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Archer",
-      "title": "Sr Staff Site Reliability Engineer",
+      "company": "Andiamo",
+      "title": "Backend Software Engineer - AI Platform Leader",
       "location": "San Jose, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422535369/",
+      "url": "https://www.linkedin.com/jobs/view/4380641241/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Backend Software Engineer - AI Platform Leader",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380645090/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Full Stack Software Engineer - AI Platform Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380631566/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer, Automation (Tech Lead) \u2014 Veza",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402549089/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ServiceNow",
+      "title": "Senior Staff Software Engineer, Integrations (Tech Lead) \u2014 Veza",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4401545120/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Full Stack Engineer - Elite Hedge Fund",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380626933/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "TikTok USDS Joint Venture",
+      "title": "Full Stack Software Engineer, Security & Information Technology - USDS",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418336559/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "NVIDIA",
+      "title": "System Software Engineer - GPU and SOC",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402756748/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "MongoDB",
+      "title": "Security Software Engineer, Infrastructure Security (Staff or Senior)",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4391190837/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Andiamo",
+      "title": "Senior Site Reliability Engineer / HPC - Pre-IPO Tech Leader",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380644123/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
       "company": "IXL Learning",
-      "title": "Senior Software Engineer, DevOps",
+      "title": "Senior Software Engineer",
       "location": "San Mateo, CA",
-      "url": "https://www.linkedin.com/jobs/view/4411953561/",
+      "url": "https://www.linkedin.com/jobs/view/4411958433/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "SoFi",
-      "title": "Director, AI Platforms",
+      "company": "Andiamo",
+      "title": "Sr. Software Engineer V - Global Tech Leader",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4403570918/",
+      "url": "https://www.linkedin.com/jobs/view/4380623935/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "NVIDIA",
-      "title": "Senior Embedded Software Engineer - AV Platform",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4402755737/",
+      "company": "Andiamo",
+      "title": "Sr. Data Engineer - High-Growth Tech Startup",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4380624919/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
