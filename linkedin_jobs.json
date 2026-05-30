@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-05-30 22:17 UTC",
-  "total": 10,
-  "new_count": 7,
+  "scraped_at": "2026-05-30 23:17 UTC",
+  "total": 8,
+  "new_count": 6,
   "jobs": [
     {
       "company": "Jobright.ai",
@@ -12,26 +12,34 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Aurelius Systems",
-      "title": "Senior Machine Learning Engineer, Perception",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418343835/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Growth Data Engineer",
+      "company": "AKASA",
+      "title": "Sr. Software Engineer, DevOps",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418349735/",
+      "url": "https://www.linkedin.com/jobs/view/4286184304/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Aurelius Systems",
-      "title": "Principal, Robotics Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418338885/",
+      "company": "Xcede",
+      "title": "Senior Staff Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418298255/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "AKASA",
+      "title": "Software Engineer, Client Solutions",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421374333/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Oracle",
+      "title": "Senior Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418335943/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
@@ -44,100 +52,68 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421380249/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Member of Technical Staff - Research Engineer, Frontier AI Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421377278/",
+      "company": "Applied Intuition",
+      "title": "Research Engineer, AI/RL Infrastructure (Research)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421365415/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418350747/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Rubiboo",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418335889/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Full Stack Engineer - Growth",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418351769/",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418357022/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418350818/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aurelius Systems",
-      "title": "Senior Machine Learning Engineer, Perception",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418343835/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aurelius Systems",
-      "title": "Principal, Robotics Software Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418338885/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418346911/",
-      "date_posted": "2026-05-30",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Principal Applied Scientist, Music Catalog and Search, Amazon Music Search and Catalog",
+      "company": "AKASA",
+      "title": "Sr. Software Engineer, DevOps",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421380249/",
+      "url": "https://www.linkedin.com/jobs/view/4286184304/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Member of Technical Staff - Research Engineer, Frontier AI Robotics",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421377278/",
+      "company": "Xcede",
+      "title": "Senior Staff Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418298255/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     },
     {
-      "company": "Rubiboo",
-      "title": "Applied AI Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418335889/",
+      "company": "AKASA",
+      "title": "Software Engineer, Client Solutions",
+      "location": "San Francisco County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421374333/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Oracle",
+      "title": "Senior Software Engineer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418335943/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Applied Intuition",
+      "title": "Research Engineer, AI/RL Infrastructure (Research)",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421365415/",
+      "date_posted": "2026-05-30",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4418357022/",
       "date_posted": "2026-05-30",
       "ats": "LinkedIn"
     }
