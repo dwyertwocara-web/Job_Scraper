@@ -1,8 +1,32 @@
 {
-  "scraped_at": "2026-05-31 23:17 UTC",
-  "total": 7,
-  "new_count": 5,
+  "scraped_at": "2026-06-01 00:17 UTC",
+  "total": 8,
+  "new_count": 7,
   "jobs": [
+    {
+      "company": "Inside Higher Ed",
+      "title": "Research Engineer, GUIDE-AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421634404/",
+      "date_posted": "2026-06-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "kadence",
+      "title": "ML Infrastructure Engineer - Quantum AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413764275/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "kadence",
+      "title": "Staff Applied ML Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4389453277/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Jobright.ai",
       "title": "Machine Learning Engineer, Speech LLM Training",
@@ -12,92 +36,92 @@
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389782681/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "kadence",
+      "title": "Senior Software Engineer - Business Automations",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422586089/",
+      "url": "https://www.linkedin.com/jobs/view/4420976808/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "ChatGPT Jobs",
-      "title": "Data Scientist - Health AIML",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418397802/",
+      "company": "Talently",
+      "title": "Senior Frontend Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416421169/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422581822/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422575864/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Cypress HCM",
-      "title": "Product Security Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419075553/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UNSW",
-      "title": "Lecturer/Senior Lecturer (Education Focussed) in Software Engineering",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418387754/",
+      "company": "kadence",
+      "title": "Staff Software Engineer - Django",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402019453/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422565974/",
+      "company": "Inside Higher Ed",
+      "title": "Research Engineer, GUIDE-AI",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421634404/",
+      "date_posted": "2026-06-01",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "kadence",
+      "title": "ML Infrastructure Engineer - Quantum AI",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4413764275/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
+      "company": "kadence",
+      "title": "Staff Applied ML Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4389453277/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Talently",
+      "title": "Senior Full Stack Software Engineer",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4389782681/",
+      "date_posted": "2026-05-31",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "kadence",
+      "title": "Senior Software Engineer - Business Automations",
       "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4422586089/",
+      "url": "https://www.linkedin.com/jobs/view/4420976808/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "ChatGPT Jobs",
-      "title": "Data Scientist - Health AIML",
-      "location": "Mountain View, CA",
-      "url": "https://www.linkedin.com/jobs/view/4418397802/",
+      "company": "Talently",
+      "title": "Senior Frontend Software Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4416421169/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     },
     {
-      "company": "Cypress HCM",
-      "title": "Product Security Engineer",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4419075553/",
-      "date_posted": "2026-05-31",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "UNSW",
-      "title": "Lecturer/Senior Lecturer (Education Focussed) in Software Engineering",
-      "location": "San Francisco Bay Area",
-      "url": "https://www.linkedin.com/jobs/view/4418387754/",
+      "company": "kadence",
+      "title": "Staff Software Engineer - Django",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4402019453/",
       "date_posted": "2026-05-31",
       "ats": "LinkedIn"
     }
