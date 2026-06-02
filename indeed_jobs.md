@@ -1,220 +1,160 @@
 # 🟦 Indeed — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-02 19:02 UTC*
+*Last updated: 2026-06-02 22:09 UTC*
 
-**54 new role(s)** since last run · 127 total in last 24h
+**39 new role(s)** since last run · 129 total in last 24h
 
-### [AI Research Engineer](https://www.indeed.com/viewjob?jk=5727576af3c48e0a) — Accenture
+### [Data Engineer III (6193)](https://www.indeed.com/viewjob?jk=76d676f5bf647822) — itD Tech
+- 📍 **Location:** Menlo Park, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Principal Software Engineer - Kernels](https://www.indeed.com/viewjob?jk=495cb96cb7924ade) — d-Matrix
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior AI/ML Engineer](https://www.indeed.com/viewjob?jk=48992706df8b416d) — General Motors (GM)
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior FPGA Prototyping Platform Engineer](https://www.indeed.com/viewjob?jk=ca717d8a2595165b) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Applied AI Engineer - VLSI Design](https://www.indeed.com/viewjob?jk=a89b1f33bf5a0979) — NVIDIA
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Engineer, Data Platform](https://www.indeed.com/viewjob?jk=9062684de1fa7f87) — Lila Sciences
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Sr. Systems Engineer II - Platform Services](https://www.indeed.com/viewjob?jk=b66212a3bcfeeb0a) — iRhythm Technologies
+### [Senior Data Scientist II - Core Delivery](https://www.indeed.com/viewjob?jk=0b533af313845e50) — Instacart
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [AI / ML Engineer](https://www.indeed.com/viewjob?jk=ad17ea5ed422c71c) — Infosmart Technologies Inc
-- 📍 **Location:** Cupertino, CA, US
+### [Product Data Scientist, Search](https://www.indeed.com/viewjob?jk=0f6ff9f63293d573) — Google
+- 📍 **Location:** Mountain View, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Senior Software Engineering Manager, Dataproc, Google Cloud](https://www.indeed.com/viewjob?jk=c62b6275f5dcdba9) — Google
+### [(USA) Senior, Data Scientist](https://www.indeed.com/viewjob?jk=0f26c011e1a5d255) — Walmart
+- 📍 **Location:** San Bruno, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Software Engineer – Backend (Machine Identity Security, SaaS Control Plane)](https://www.indeed.com/viewjob?jk=4c40ce9f7317f847) — Palo Alto Networks
+- 📍 **Location:** Santa Clara, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [(USA) Software Engineer III](https://www.indeed.com/viewjob?jk=1513bf168ce36d8d) — Walmart
 - 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, Backend, Google Photos](https://www.indeed.com/viewjob?jk=5b91c68adaca8a96) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Fullstack Software Engineer, GenAI, DeepMind](https://www.indeed.com/viewjob?jk=8b4ff982995b6511) — DeepMind
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Staff AI Engineer](https://www.indeed.com/viewjob?jk=74ae0ea82df8b5fb) — JazzX AI
-- 📍 **Location:** Los Altos, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Machine Learning Engineer, Digital Optimus](https://www.indeed.com/viewjob?jk=ea02078d847a4599) — Tesla
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior AI Research Engineer, Algorithms](https://www.indeed.com/viewjob?jk=e76810cc85f698fd) — Samsung Research America
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [AI Research Engineer](https://www.indeed.com/viewjob?jk=a286805751d2fcae) — Logic, Inc.
+### [Security Platform Engineer](https://www.indeed.com/viewjob?jk=ce6ff541ffeed0d2) — Pallet
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-01
+- 🕒 **Posted:** 2026-06-02
 
-### [Staff Data Scientist](https://www.indeed.com/viewjob?jk=95b0ca0d3f79ef1f) — Micron Technology
+### [Business Process Analyst, Systems Engineering](https://www.indeed.com/viewjob?jk=d2567fa8147db3e2) — Fivetran
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, TV Systems Performance](https://www.indeed.com/viewjob?jk=b07b6651643f3790) — Google
 - 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-01
+- 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, Monetization ML Infrastructure](https://www.indeed.com/viewjob?jk=904848c38650b10e) — OpenAI
+### [Senior Software Engineering Manager, Infrastructure, Platforms Infrastructure Engineering](https://www.indeed.com/viewjob?jk=5f60a4d0a40eb364) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer III, Design System](https://www.indeed.com/viewjob?jk=b4f7c31b9c50b066) — Google
+- 📍 **Location:** San Jose, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineer, Data Foundation](https://www.indeed.com/viewjob?jk=3be75e4827b32eef) — Mixpanel
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-01
+- 🕒 **Posted:** 2026-06-02
 
-### [Machine Learning Research Engineer](https://www.indeed.com/viewjob?jk=9bd923ca3d639964) — Lawrence Livermore National Laboratory
+### [Staff, Software Engineer](https://www.indeed.com/viewjob?jk=384c59a90b537ecc) — Walmart
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Full Stack Engineer, Guardian Monitoring](https://www.indeed.com/viewjob?jk=c9358dd2975346d6) — LaunchDarkly
+- 📍 **Location:** Oakland, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, Google Distributed Cloud Hosted, Infrastructure](https://www.indeed.com/viewjob?jk=5c9d32408aae838b) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, Networking Switch Infra](https://www.indeed.com/viewjob?jk=6a56c29119e2f199) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Staff Software Engineer, Security/Privacy, Google Cloud Security and Privacy](https://www.indeed.com/viewjob?jk=2c7ed62cbdc87097) — Google
+- 📍 **Location:** Sunnyvale, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Sr. Staff Software Engineer — Observability, Insights & Governance](https://www.indeed.com/viewjob?jk=9ed808c31a741094) — Databricks
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, In-field Behavior Response](https://www.indeed.com/viewjob?jk=9efc1595f559384d) — Waymo
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Co-Op, Site Reliability Engineer](https://www.indeed.com/viewjob?jk=4e0dfbcbc00fdfac) — LiveRamp
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Engineering Technical Leader](https://www.indeed.com/viewjob?jk=8c7093725e54d92c) — Cisco
+- 📍 **Location:** Milpitas, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, In-field Behavior Response](https://www.indeed.com/viewjob?jk=177f114ee8837ea7) — Waymo
+- 📍 **Location:** San Francisco, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Senior Software Engineer, In-field Behavior Response](https://www.indeed.com/viewjob?jk=284e8d28a56d1975) — Waymo
+- 📍 **Location:** Mountain View, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Frontend Engineer III, AI Experiences](https://www.indeed.com/viewjob?jk=596e213c2aadbad2) — Box
+- 📍 **Location:** Redwood City, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Software Developer](https://www.indeed.com/viewjob?jk=86b84e2ef790d81e) — Lawrence Livermore National Laboratory
 - 📍 **Location:** Livermore, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [OpenShift DevOps Engineer](https://www.indeed.com/viewjob?jk=af193b7d08b72364) — NTT DATA
+- 📍 **Location:** Concord, CA, US
 - 🕒 **Posted:** 2026-06-01
 
-### [Applied Scientist , Prime Video Personalization and Discovery](https://www.indeed.com/viewjob?jk=722214bc05b81d82) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Software Engineer, Knowledge Graph/Entity Systems - Microsoft AI Search](https://www.indeed.com/viewjob?jk=f76be7a955fca240) — Microsoft
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-05-29
-
-### [AI Research Engineer, FAIR Chemistry](https://www.indeed.com/viewjob?jk=6dc036150ef99a30) — Meta
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-03-17
-
-### [Senior Data Scientist (Growth)](https://www.indeed.com/viewjob?jk=650c61c2d2b54498) — Inflection AI
-- 📍 **Location:** Palo Alto, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior AI Engineer – Health Intelligence](https://www.indeed.com/viewjob?jk=49938d84d1b0ba70) — oura
+### [Software Engineer, iOS](https://www.indeed.com/viewjob?jk=4a5816a4d3841ea3) — Pinterest
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Sr Data Scientist - PKDM-BA](https://www.indeed.com/viewjob?jk=57368e24cdba4626) — Amgen
-- 📍 **Location:** South San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-01
-
-### [ML Software Engineer Intern](https://www.indeed.com/viewjob?jk=1fa429d5f4eff8d4) — Unknown
+### [Research Engineer](https://www.indeed.com/viewjob?jk=b7fcc7b7af75c12c) — Itron
 - 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-01
-
-### [Data Engineer](https://www.indeed.com/viewjob?jk=15705014fe84a21e) — ReadyOn
-- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Applied AI Engineer](https://www.indeed.com/viewjob?jk=884f52de66756f81) — Becoming
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Sr. GenAI Strategist - Startups, Generative AI Innovation Center](https://www.indeed.com/viewjob?jk=973637b00850609f) — Amazon Web Services
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-05-08
-
-### [Software Engineer III - Asset Management (Hybrid)](https://www.indeed.com/viewjob?jk=9dda6e6fa34f9cfd) — CrowdStrike
+### [Technical Program Manager III, Infrastructure Engineering, Core](https://www.indeed.com/viewjob?jk=4be4705d3fb79fa7) — Google
 - 📍 **Location:** Sunnyvale, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Full-Stack AI Engineer](https://www.indeed.com/viewjob?jk=1f7af4c298c4d002) — Invovia
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Manager, Platform Engineering, Identity](https://www.indeed.com/viewjob?jk=790f6a155384e70b) — Palo Alto Networks
-- 📍 **Location:** Santa Clara, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer, TV Systems](https://www.indeed.com/viewjob?jk=c33edede1ee6f076) — Google
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Vision, Camera and Imaging, XR](https://www.indeed.com/viewjob?jk=63ba9ecdb255f6e3) — Google
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer III, Infrastructure, Google Web Server](https://www.indeed.com/viewjob?jk=641ef82fdd4a449f) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer, Calibration and System Test](https://www.indeed.com/viewjob?jk=7d94a9db4d623906) — Google
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Engineer III, Fuschia Connectivity Drivers](https://www.indeed.com/viewjob?jk=49dbd9877752ebfb) — Google
+### [Senior GTM Systems Engineer (Salesforce)](https://www.indeed.com/viewjob?jk=48681c0c0b64f38a) — CodeRabbit
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, iOS, Google Search](https://www.indeed.com/viewjob?jk=33a217880bed138f) — Google
+### [Cyber Security Engineer - Sr. Consultant level](https://www.indeed.com/viewjob?jk=e52a83e05fe6950e) — Visa
+- 📍 **Location:** Foster City, CA, US
+- 🕒 **Posted:** 2026-06-02
+
+### [Partner 34, Lead, Security Engineering](https://www.indeed.com/viewjob?jk=01eac69ac0b683d2) — Andreessen Horowitz
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Software Engineer, iOS, Google Search](https://www.indeed.com/viewjob?jk=43ce3067119835cf) — Google
-- 📍 **Location:** Mountain View, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Infrastructure, CoreOS Agentic Engineering](https://www.indeed.com/viewjob?jk=7cd8696d433be759) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=30a956faeb29024e) — PayPal
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Sr Software Engineer](https://www.indeed.com/viewjob?jk=d5a74b364e5e9fa2) — PayPal
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Software Engineer, Client Experience](https://www.indeed.com/viewjob?jk=c432c21a3470f72d) — Forge Global
+### [Partner 34, Lead, Security Engineering](https://www.indeed.com/viewjob?jk=f09bb26b8aa288cb) — a16z
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-06-02
 
-### [Staff Software Engineer- Growth Performance Marketing](https://www.indeed.com/viewjob?jk=0d7173628b81be9f) — Pinterest
+### [Bioinformatics Engineer, Genomics](https://www.indeed.com/viewjob?jk=4c20f4a12d41de5a) — LatchBio
 - 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Software Development Engineer, Kuiper Manufacturing Systems Engineering](https://www.indeed.com/viewjob?jk=191f8861c307f0ef) — Amazon.com
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-05-30
-
-### [Senior Azure DevOps Engineer](https://www.indeed.com/viewjob?jk=62a4203a1fba28cc) — IT Labs
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Azure DevOps Engineer](https://www.indeed.com/viewjob?jk=100b43441a6e5d78) — IT Labs
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Cloud Platforms and Infrastructure Engineer, TPU/GPU](https://www.indeed.com/viewjob?jk=564745c24f341c62) — Google
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Cloud Platforms and Infrastructure Engineer, TPU/GPU](https://www.indeed.com/viewjob?jk=81f15b0a9f7694c0) — Google
-- 📍 **Location:** Sunnyvale, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [DevOps Automation Intern Fall 2026](https://www.indeed.com/viewjob?jk=7b6e53f707e27ffa) — Teradyne
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Power Systems Engineer I - US](https://www.indeed.com/viewjob?jk=909664fbff6b0316) — RESA Service LLC
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff Product Security Engineer](https://www.indeed.com/viewjob?jk=9d88b6c1f2962d2b) — Airwallex
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Founding Forward Deployed Security Engineer (FDSE)](https://www.indeed.com/viewjob?jk=01d116d8e00fbb74) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Founding Forward Deployed Security Engineer (FDSE)](https://www.indeed.com/viewjob?jk=9429af87a2784308) — Unknown
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Staff Product Security Engineer](https://www.indeed.com/viewjob?jk=00b9d0cc71887826) — Airwallex
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Physical Security Systems Engineer](https://www.indeed.com/viewjob?jk=9ef958046067989d) — OpenAI
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-01
-
-### [Data Engineer 1](https://www.indeed.com/viewjob?jk=17c769ec263a4dd1) — Pioneers
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [GCP Cloud Analytics Engineer - Sr Consultant](https://www.indeed.com/viewjob?jk=032c2b428777cc84) — Deloitte
-- 📍 **Location:** San Jose, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [GCP Cloud Analytics Engineer - Sr Consultant](https://www.indeed.com/viewjob?jk=ad0d41e63b06454c) — Deloitte
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-06-02
-
-### [Senior Manager, Workplan Data Platforms and Engineering](https://www.indeed.com/viewjob?jk=f575fe829cd2def6) — Pacific Gas and Electric
-- 📍 **Location:** Pleasanton, CA, US
 - 🕒 **Posted:** 2026-06-02
