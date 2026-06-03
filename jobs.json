@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-02 08:05 UTC",
-  "total": 17,
-  "new_count": 0,
+  "scraped_at": "2026-06-03 08:28 UTC",
+  "total": 19,
+  "new_count": 3,
   "jobs": [
     {
       "company": "10x Genomics",
@@ -45,10 +45,18 @@
     },
     {
       "company": "Profluent",
+      "title": "Machine Learning Scientist, Reinforcement Learning",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/5238462008",
+      "date_posted": "2026-06-02",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Profluent",
       "title": "ML Platform / MLOps Engineer",
       "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
       "url": "https://job-boards.greenhouse.io/profluent/jobs/5154049008",
-      "date_posted": "2026-04-24",
+      "date_posted": "2026-06-02",
       "ats": "Greenhouse"
     },
     {
@@ -128,17 +136,50 @@
       "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
-      "date_posted": "Posted 18 Days Ago",
+      "date_posted": "Posted 19 Days Ago",
       "ats": "Workday"
     },
     {
-      "company": "Allogene Therapeutics",
-      "title": "Associate Director, Data Science",
+      "company": "Amgen",
+      "title": "Sr Data Scientist - PKDM-BA",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421660805/",
-      "date_posted": "2026-06-01",
+      "url": "https://www.linkedin.com/jobs/view/4422416685/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Staff Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422461503/",
+      "date_posted": "2026-06-02",
       "ats": "LinkedIn"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Profluent",
+      "title": "Machine Learning Scientist, Reinforcement Learning",
+      "location": "Emeryville, California, United States; Hybrid (2-3 days on-site)",
+      "url": "https://job-boards.greenhouse.io/profluent/jobs/5238462008",
+      "date_posted": "2026-06-02",
+      "ats": "Greenhouse"
+    },
+    {
+      "company": "Amgen",
+      "title": "Sr Data Scientist - PKDM-BA",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422416685/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Lila Sciences",
+      "title": "Staff Engineer, Data Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4422461503/",
+      "date_posted": "2026-06-02",
+      "ats": "LinkedIn"
+    }
+  ]
 }
