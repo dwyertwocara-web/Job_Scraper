@@ -10,11 +10,12 @@ on:
     - cron: "33 15-23,0-3 * * *"
   workflow_dispatch:
 
-# Share the commit-push concurrency group with linkedin_watch / scrape_jobs so
-# we don't race on the auto-commit push to main.
-concurrency:
-  group: job-scraper-commit-push
-  cancel-in-progress: false
+# NOTE: deliberately NOT in the job-scraper-commit-push concurrency group.
+# The watchdog never commits or pushes — it only dispatches. When it held that
+# group while dispatching, a second rescue (Indeed) would replace the first
+# rescue (LinkedIn) in the group's single pending slot and cancel it (verified:
+# cancelled linkedin_watch runs at the exact second of indeed dispatches,
+# 2026-06-03/04). The dispatched workflows still serialize among themselves.
 
 jobs:
   watchdog:
@@ -50,6 +51,10 @@ jobs:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -e
+          # If the previous step just dispatched a LinkedIn rescue, give it time
+          # to start running (leave the concurrency group's single pending slot)
+          # before this dispatch adds Indeed to the same group.
+          sleep 90
           current_hour=$(date -u +%Y-%m-%dT%H)
           last=$(gh -R ${{ github.repository }} run list \
             --workflow=indeed_watch.yml --limit 1 \
