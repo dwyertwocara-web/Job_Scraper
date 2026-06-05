@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-06-04 08:00 UTC",
+  "scraped_at": "2026-06-05 07:17 UTC",
   "total": 20,
   "new_count": 3,
   "jobs": [
@@ -136,57 +136,57 @@
       "title": "Executive Director of Clinical Data Engineering & Analytics (CDEA)",
       "location": "United States - California - Foster City",
       "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Executive-Director-of-Clinical-Data-Engineering---Analytics--CDEA-_R0051540",
-      "date_posted": "Posted 20 Days Ago",
+      "date_posted": "Posted 21 Days Ago",
       "ats": "Workday"
     },
     {
-      "company": "GRAIL",
-      "title": "Staff Site Reliability Engineer (SRE) | Dev Ops Engineer #4770",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404247035/",
-      "date_posted": "2026-06-03",
+      "company": "Biohub",
+      "title": "Computational Biologist II, CellxState",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420757532/",
+      "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Intel",
-      "title": "Infra and DevOps Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424241696/",
-      "date_posted": "2026-06-03",
+      "company": "insitro",
+      "title": "(Senior) ML Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405604535/",
+      "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
     {
       "company": "Genentech",
-      "title": "Senior Statistical Methodology Data Scientist",
+      "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423035338/",
-      "date_posted": "2026-06-03",
+      "url": "https://www.linkedin.com/jobs/view/4405250531/",
+      "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "GRAIL",
-      "title": "Staff Site Reliability Engineer (SRE) | Dev Ops Engineer #4770",
-      "location": "Menlo Park, CA",
-      "url": "https://www.linkedin.com/jobs/view/4404247035/",
-      "date_posted": "2026-06-03",
+      "company": "Biohub",
+      "title": "Computational Biologist II, CellxState",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420757532/",
+      "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
     {
-      "company": "Intel",
-      "title": "Infra and DevOps Intern",
-      "location": "Santa Clara, CA",
-      "url": "https://www.linkedin.com/jobs/view/4424241696/",
-      "date_posted": "2026-06-03",
+      "company": "insitro",
+      "title": "(Senior) ML Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405604535/",
+      "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     },
     {
       "company": "Genentech",
-      "title": "Senior Statistical Methodology Data Scientist",
+      "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
       "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4423035338/",
-      "date_posted": "2026-06-03",
+      "url": "https://www.linkedin.com/jobs/view/4405250531/",
+      "date_posted": "2026-06-04",
       "ats": "LinkedIn"
     }
   ]

@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-06-05 06:52 UTC",
+  "updated_at": "2026-06-05 07:17 UTC",
   "jobs": [
+    {
+      "company": "insitro",
+      "title": "(Senior) ML Scientist",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405604535/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T07:17:49Z"
+    },
+    {
+      "company": "Genentech",
+      "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
+      "location": "South San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4405250531/",
+      "date_posted": "2026-06-04",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T07:17:49Z"
+    },
     {
       "company": "PayPal",
       "title": "Sr Machine Learning Engineer",
