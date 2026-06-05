@@ -1,6 +1,231 @@
 {
-  "updated_at": "2026-06-05 22:46 UTC",
+  "updated_at": "2026-06-05 23:17 UTC",
   "jobs": [
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Senior Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424621534/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Mid-Level Machine Learning Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424635085/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "LuminX",
+      "title": "Senior Software Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424631216/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Watershed",
+      "title": "Staff machine learning engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4307921210/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Visa",
+      "title": "Data Scientist - VCS",
+      "location": "Foster City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424923849/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Cypress HCM",
+      "title": "Software Engineer \u2013 Agentic AI Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424621479/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Astera Labs",
+      "title": "Data Analytics Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424630145/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Data Capital Incorporation",
+      "title": "GCP Data Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424626202/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Eurofins | EAG Laboratories",
+      "title": "Data Scientist - Materials Characterization, Analytical Sciences & AI Agents",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424924562/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Eurofins | EAG Laboratories",
+      "title": "Data Scientist - Materials Characterization, Analytical Sciences & AI Agents",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424915641/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Adobe",
+      "title": "Forward-Deployed AI Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424633080/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Eleven Recruiting",
+      "title": "AI Platform Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421194595/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "LuminX",
+      "title": "Robotics Engineer",
+      "location": "San Francisco Bay Area",
+      "url": "https://www.linkedin.com/jobs/view/4424626213/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "TetraMem - Accelerate The World",
+      "title": "Embedded Software Engineer",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424621540/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Samsung Electronics America",
+      "title": "Sr Software Engineer, Ad experience platform",
+      "location": "Mountain View, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424911700/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Oracle",
+      "title": "Software Developer 3",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421194687/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Oracle",
+      "title": "Senior Software Developer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421181724/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Astera Labs",
+      "title": "Senior Embedded Software Engineer - Ethernet Retimers",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424629134/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Insight Global",
+      "title": "DevOps Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421185628/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Poseidon",
+      "title": "Senior AI Engineer",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4420637680/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "OpenAI",
+      "title": "Analytics Engineer, Safety Systems",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424634153/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Atoms",
+      "title": "Robotics Systems Engineer - San Francisco, CA",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424644206/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Abbott",
+      "title": "Systems Engineer III",
+      "location": "Alameda, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424908593/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Google",
+      "title": "Senior Information Security Engineer, Product Security Engineering",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424618953/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
+    {
+      "company": "Adobe",
+      "title": "Forward-Deployed AI Engineer - Marketing Analytics & Data Science",
+      "location": "San Jose, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424613960/",
+      "date_posted": "2026-06-05",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-05T23:17:29Z"
+    },
     {
       "company": "Abbott",
       "title": "Systems Engineer III",
