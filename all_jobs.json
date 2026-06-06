@@ -1,6 +1,33 @@
 {
-  "updated_at": "2026-06-06 02:17 UTC",
+  "updated_at": "2026-06-06 03:17 UTC",
   "jobs": [
+    {
+      "company": "Experis",
+      "title": "AI / ML Engineer / ServiceNow platform engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424635931/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T03:17:27Z"
+    },
+    {
+      "company": "Jobs via Dice",
+      "title": "AI Engineer",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424628673/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T03:17:27Z"
+    },
+    {
+      "company": "Skild AI",
+      "title": "Research Robotics/Computer Vision Engineer",
+      "location": "San Mateo, CA",
+      "url": "https://www.linkedin.com/jobs/view/4424965294/",
+      "date_posted": "2026-06-06",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-06T03:17:27Z"
+    },
     {
       "company": "Pivotal",
       "title": "Senior Software Engineer",
