@@ -1,20 +1,24 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-07 22:17 UTC*
+*Last updated: 2026-06-07 23:17 UTC*
 
-**4 new role(s)** since last run · 5 total in last 1h
+**5 new role(s)** since last run · 7 total in last 1h
 
-### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4425047661/) — Jobright.ai
-- 📍 **Location:** San Mateo County, CA
+### [Growth Data Engineer](https://www.linkedin.com/jobs/view/4425069123/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence](https://www.linkedin.com/jobs/view/4425422416/) — Amazon Science
-- 📍 **Location:** Palo Alto, CA
+### [Senior Data Engineer](https://www.linkedin.com/jobs/view/4425062101/) — Aircapture
+- 📍 **Location:** Berkeley, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4425049102/) — Jobright.ai
-- 📍 **Location:** Burlingame, CA
+### [AI Engineer, Agent Product (Full-time/Part-time)](https://www.linkedin.com/jobs/view/4425055146/) — Jobright.ai
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-06-07
 
-### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4421914329/) — Jobright.ai
-- 📍 **Location:** Redwood City, CA
+### [Marketing AI Engineer (4 Month Contract )](https://www.linkedin.com/jobs/view/4421902428/) — ChatGPT Jobs
+- 📍 **Location:** Sunnyvale, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Full Stack Engineer - Growth](https://www.linkedin.com/jobs/view/4425063091/) — Jobright.ai
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-06-07

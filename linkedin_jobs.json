@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-07 22:17 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-06-07 23:17 UTC",
+  "total": 7,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Jobright.ai",
@@ -13,17 +13,9 @@
     },
     {
       "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
+      "title": "Growth Data Engineer",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421594438/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Amazon Science",
-      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425422416/",
+      "url": "https://www.linkedin.com/jobs/view/4425069123/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
@@ -36,10 +28,34 @@
       "ats": "LinkedIn"
     },
     {
+      "company": "Aircapture",
+      "title": "Senior Data Engineer",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425062101/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
       "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421914329/",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425055146/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Marketing AI Engineer (4 Month Contract )",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421902428/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425063091/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
@@ -47,33 +63,41 @@
   "new_jobs": [
     {
       "company": "Jobright.ai",
-      "title": "Software Engineer - AI Agent",
-      "location": "San Mateo County, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425047661/",
+      "title": "Growth Data Engineer",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425069123/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
-      "company": "Amazon Science",
-      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
-      "location": "Palo Alto, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425422416/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Senior Software Engineer, Product",
-      "location": "Burlingame, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425049102/",
+      "company": "Aircapture",
+      "title": "Senior Data Engineer",
+      "location": "Berkeley, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425062101/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     },
     {
       "company": "Jobright.ai",
-      "title": "Full-Stack Engineer",
-      "location": "Redwood City, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421914329/",
+      "title": "AI Engineer, Agent Product (Full-time/Part-time)",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425055146/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "ChatGPT Jobs",
+      "title": "Marketing AI Engineer (4 Month Contract )",
+      "location": "Sunnyvale, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421902428/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full Stack Engineer - Growth",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425063091/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
