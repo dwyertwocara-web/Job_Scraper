@@ -1,8 +1,20 @@
 # 🔥 LinkedIn — Engineering / ML / DS Roles (SF Bay Area)
-*Last updated: 2026-06-07 21:17 UTC*
+*Last updated: 2026-06-07 22:17 UTC*
 
-**1 new role(s)** since last run · 1 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Machine Learning Engineer, Speech LLM Training](https://www.linkedin.com/jobs/view/4421594438/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
+### [Software Engineer - AI Agent](https://www.linkedin.com/jobs/view/4425047661/) — Jobright.ai
+- 📍 **Location:** San Mateo County, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence](https://www.linkedin.com/jobs/view/4425422416/) — Amazon Science
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Senior Software Engineer, Product](https://www.linkedin.com/jobs/view/4425049102/) — Jobright.ai
+- 📍 **Location:** Burlingame, CA
+- 🕒 **Posted:** 2026-06-07
+
+### [Full-Stack Engineer](https://www.linkedin.com/jobs/view/4421914329/) — Jobright.ai
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-07

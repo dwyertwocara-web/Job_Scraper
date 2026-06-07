@@ -1,6 +1,42 @@
 {
-  "updated_at": "2026-06-07 21:17 UTC",
+  "updated_at": "2026-06-07 22:17 UTC",
   "jobs": [
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425047661/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T22:17:25Z"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425422416/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T22:17:25Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425049102/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T22:17:25Z"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421914329/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-07T22:17:25Z"
+    },
     {
       "company": "Jobright.ai",
       "title": "Machine Learning Engineer, Speech LLM Training",

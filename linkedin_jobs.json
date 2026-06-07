@@ -1,8 +1,16 @@
 {
-  "scraped_at": "2026-06-07 21:17 UTC",
-  "total": 1,
-  "new_count": 1,
+  "scraped_at": "2026-06-07 22:17 UTC",
+  "total": 5,
+  "new_count": 4,
   "jobs": [
+    {
+      "company": "Jobright.ai",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425047661/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
     {
       "company": "Jobright.ai",
       "title": "Machine Learning Engineer, Speech LLM Training",
@@ -10,14 +18,62 @@
       "url": "https://www.linkedin.com/jobs/view/4421594438/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425422416/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425049102/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421914329/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
       "company": "Jobright.ai",
-      "title": "Machine Learning Engineer, Speech LLM Training",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421594438/",
+      "title": "Software Engineer - AI Agent",
+      "location": "San Mateo County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425047661/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Amazon Science",
+      "title": "Sr Data Scientist, Ads-Full-Funnel Agentic Intelligence",
+      "location": "Palo Alto, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425422416/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Senior Software Engineer, Product",
+      "location": "Burlingame, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425049102/",
+      "date_posted": "2026-06-07",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "Jobright.ai",
+      "title": "Full-Stack Engineer",
+      "location": "Redwood City, CA",
+      "url": "https://www.linkedin.com/jobs/view/4421914329/",
       "date_posted": "2026-06-07",
       "ats": "LinkedIn"
     }
