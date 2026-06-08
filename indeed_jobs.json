@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-07 22:41 UTC",
+  "scraped_at": "2026-06-08 01:58 UTC",
   "total": 27,
-  "new_count": 11,
+  "new_count": 1,
   "jobs": [
     {
       "company": "CLERA",
@@ -100,6 +100,14 @@
       "ats": "Indeed"
     },
     {
+      "company": "Cribl",
+      "title": "Staff Software Engineer, Cribl AI",
+      "location": "San Francisco, CA, US",
+      "url": "https://www.indeed.com/viewjob?jk=5c7f441e6a328024",
+      "date_posted": "2026-06-07",
+      "ats": "Indeed"
+    },
+    {
       "company": "CLERA",
       "title": "Senior Software Engineer",
       "location": "San Francisco, CA, US",
@@ -188,14 +196,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "Unknown",
-      "title": "Sr. Robotics Software Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=3aedfed04cf60864",
-      "date_posted": "2026-06-06",
-      "ats": "Indeed"
-    },
-    {
       "company": "Apple",
       "title": "Senior iOS Engineer, Ads",
       "location": "Cupertino, CA, US",
@@ -222,90 +222,10 @@
   ],
   "new_jobs": [
     {
-      "company": "CLERA",
-      "title": "Senior Machine Learning Engineer",
+      "company": "Cribl",
+      "title": "Staff Software Engineer, Cribl AI",
       "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=03d3c367eec915d4",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "AI/ML Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=55a4ead95fb80215",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "AI Engineer (Mid-Level)",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=aeb5dc67885229aa",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Senior Software Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=88ffe6af103db915",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Senior/Staff Software Engineer (Platform)",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=227565ff907e053e",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "DevOps Engineer (Kubernetes)",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=61cf9c135e45df64",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Senior iOS/Android Software Engineer",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=0ab57b2869180084",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Frontend Engineer \u2014 Distributed Systems Platform",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=e549e788556610d9",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Product Engineer (Software Engineer)",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=d4c453f9608c4425",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Software Engineer - Full Stack",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=b584b0cf64651c83",
-      "date_posted": "2026-06-07",
-      "ats": "Indeed"
-    },
-    {
-      "company": "CLERA",
-      "title": "Frontend Engineer \u2014 Infrastructure OS Platform",
-      "location": "San Francisco, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=4176d7e2b4d07bda",
+      "url": "https://www.indeed.com/viewjob?jk=5c7f441e6a328024",
       "date_posted": "2026-06-07",
       "ats": "Indeed"
     }
