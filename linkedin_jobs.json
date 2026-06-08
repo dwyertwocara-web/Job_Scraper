@@ -1,96 +1,24 @@
 {
-  "scraped_at": "2026-06-08 00:17 UTC",
-  "total": 7,
-  "new_count": 4,
+  "scraped_at": "2026-06-08 01:17 UTC",
+  "total": 1,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421908460/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4389782681/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Frontend Software Engineer",
+      "company": "Truewind",
+      "title": "Senior Software Engineer - Backend & Agent Platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416421169/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Growth Data Engineer",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425069123/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Aircapture",
-      "title": "Senior Data Engineer",
-      "location": "Berkeley, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425062101/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421910401/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Jobright.ai",
-      "title": "Full Stack Engineer - Growth",
-      "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4425063091/",
-      "date_posted": "2026-06-07",
+      "url": "https://www.linkedin.com/jobs/view/4425070220/",
+      "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }
   ],
   "new_jobs": [
     {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Data Science Engineer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421908460/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Full Stack Software Engineer",
-      "location": "South San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4389782681/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Talently",
-      "title": "Senior Frontend Software Engineer",
+      "company": "Truewind",
+      "title": "Senior Software Engineer - Backend & Agent Platform",
       "location": "San Francisco, CA",
-      "url": "https://www.linkedin.com/jobs/view/4416421169/",
-      "date_posted": "2026-06-07",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "Playsaurus Inc.",
-      "title": "LATAM - Backend Developer",
-      "location": "Alameda, CA",
-      "url": "https://www.linkedin.com/jobs/view/4421910401/",
-      "date_posted": "2026-06-07",
+      "url": "https://www.linkedin.com/jobs/view/4425070220/",
+      "date_posted": "2026-06-08",
       "ats": "LinkedIn"
     }
   ]

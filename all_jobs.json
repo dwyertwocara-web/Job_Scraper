@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-08 00:17 UTC",
+  "updated_at": "2026-06-08 01:17 UTC",
   "jobs": [
+    {
+      "company": "Truewind",
+      "title": "Senior Software Engineer - Backend & Agent Platform",
+      "location": "San Francisco, CA",
+      "url": "https://www.linkedin.com/jobs/view/4425070220/",
+      "date_posted": "2026-06-08",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-08T01:17:21Z"
+    },
     {
       "company": "Playsaurus Inc.",
       "title": "LATAM - Data Science Engineer",
