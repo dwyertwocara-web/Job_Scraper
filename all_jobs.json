@@ -1,6 +1,15 @@
 {
-  "updated_at": "2026-06-10 18:16 UTC",
+  "updated_at": "2026-06-10 18:17 UTC",
   "jobs": [
+    {
+      "company": "Fortinet",
+      "title": "Staff Software Developer",
+      "location": "Santa Clara, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427047713/",
+      "date_posted": "2026-06-10",
+      "ats": "LinkedIn",
+      "first_seen": "2026-06-10T18:17:32Z"
+    },
     {
       "company": "Flexton Inc.",
       "title": "Expert AI/ML Engineer",
