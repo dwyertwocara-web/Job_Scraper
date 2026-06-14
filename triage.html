@@ -212,6 +212,12 @@
   .scorechip.fit { cursor: help; }
   .scorechip.top { box-shadow: 0 0 0 1px rgba(34,197,94,0.5); }
 
+  /* Priority-topic star/highlight (microplastics, ecotox, EDCs, R/Shiny) */
+  .job.starred { outline: 1.5px solid rgba(251,191,36,0.55); outline-offset: -1px;
+    background: rgba(251,191,36,0.06); }
+  .starbadge { color: #fbbf24; font-size: 14px; margin-right: 4px; cursor: help;
+    text-shadow: 0 0 6px rgba(251,191,36,0.5); }
+
   .act.on.dismiss, .act.on.irrelevant { background: var(--dismiss); color: white; border-color: var(--dismiss); }
   .act.irrelevant.on { background: #7f1d1d; border-color: #7f1d1d; color: #fee2e2; }
   .job[data-state="dismissed"], .job[data-state="irrelevant"] { opacity: 0.5; }
@@ -313,6 +319,11 @@
   <div class="controls-row">
     <span class="pillgroup-label">Show</span>
     <div id="filter-state" class="controls-row" style="gap:6px"></div>
+  </div>
+  <div class="controls-row">
+    <span class="pillgroup-label">Highlight</span>
+    <button type="button" class="pill" id="star-only" aria-pressed="false"
+      title="Show only roles touching microplastics, ecotoxicology, EDCs, or R/Shiny">★ Priority topics</button>
   </div>
   <div class="controls-row">
     <span class="pillgroup-label">Salary</span>
@@ -561,6 +572,22 @@
     j._salMin = sal ? sal.min : null;
     j._salMax = sal ? sal.max : null;
     j._salDisp = sal ? sal.disp : '';
+    j._stars = starHits(j);                        // priority-topic flags
+    j._star = j._stars.length > 0;
+  }
+
+  // ---------- Priority-topic star ----------
+  // Flag (★) roles touching Dr. Coffin's signature topics, scanning title +
+  // company + description. Edit STAR_TERMS to change what gets highlighted.
+  const STAR_TERMS = [
+    ['microplastics', /microplastic|nanoplastic|microfiber/i],
+    ['ecotoxicology', /ecotoxicolog/i],
+    ['endocrine-disrupting chemicals', /endocrine[\s-]?disrupt|\bedcs?\b/i],
+    ['R / Shiny', /\brshiny\b|\br[\s-]?shiny\b|shiny\s*(?:app|dashboard|server)|\bshiny\b/i],
+  ];
+  function starHits(j) {
+    const text = `${j.title || ''} ${j.company || ''} ${j.description || ''}`;
+    return STAR_TERMS.filter(([, re]) => re.test(text)).map(([name]) => name);
   }
 
   // ---------- Cross-source de-duplication ----------
@@ -716,6 +743,7 @@
     days: null,   // null = any time; else an integer day-window (7 = last 7 days)
     salMin: 0,    // minimum annual salary (USD); 0 = no floor
     salUnknown: true,  // include roles with no listed salary
+    starOnly: false,   // show only priority-topic (starred) roles
     q: '',
   };
 
@@ -766,6 +794,7 @@
       if (j._salMax == null) { if (!filters.salUnknown) return false; }
       else if (j._salMax < filters.salMin) return false;
     }
+    if (filters.starOnly && !j._star) return false;
     if (except !== 'q') {
       const q = filters.q.trim().toLowerCase();
       if (q && !(`${j.title} ${j.company} ${j.location}`.toLowerCase().includes(q))) return false;
@@ -988,9 +1017,12 @@
       const srcs = j._srcs || [j._src];
       const srcBadges = srcs.map(s => `<span class="src ${s.toLowerCase()}">${s}</span>`).join('');
       const sal = j._salDisp || j.salary;
-      return `<div class="job" data-url="${escape(j.url)}" data-state="${st}">
+      const star = j._star
+        ? `<span class="starbadge" title="Priority topic: ${escape((j._stars || []).join(', '))}">★</span>`
+        : '';
+      return `<div class="job${j._star ? ' starred' : ''}" data-url="${escape(j.url)}" data-state="${st}">
         <div class="job-main">
-          <div class="title">${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
+          <div class="title">${star}${fitChip(j)}<a href="${escape(j.url)}" target="_blank" rel="noopener noreferrer">${escape(j.title)}</a></div>
           <div class="meta">
             <span class="co">${escape(j.company)}${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
@@ -1012,9 +1044,10 @@
   }
 
   // ---------- Map view (Leaflet) ----------
-  // Client-side geocoding via a static California city → [lat,lng] table (no API
-  // key, no network). Jobs are clustered by city; remote/statewide roles get a
-  // single marker at the state's center.
+  // Client-side geocoding via a static city/region → [lat,lng] table covering
+  // California, Oregon, and Australia (no API key, no network). Jobs cluster by
+  // location; the view auto-fits to wherever they are. Remote/unknown roles get
+  // a single marker at the California center.
   const CITY_COORDS = {
     'sacramento': [38.5816, -121.4944], 'west sacramento': [38.5805, -121.5302],
     'davis': [38.5449, -121.7405], 'rancho cordova': [38.5891, -121.3027],
@@ -1081,19 +1114,43 @@
     'placer county': [39.0633, -120.7174], 'yolo county': [38.7646, -121.9018],
     'san joaquin county': [37.9349, -121.2716], 'stanislaus county': [37.5591, -120.9978],
     'orange county, ca': [33.7175, -117.8311],
+    // ---- Oregon ----
+    'portland, or': [45.5152, -122.6784], 'portland, oregon': [45.5152, -122.6784],
+    'bend, or': [44.0582, -121.3153], 'bend, oregon': [44.0582, -121.3153],
+    'beaverton': [45.4871, -122.8037], 'hillsboro': [45.5229, -122.9898],
+    'gresham': [45.5001, -122.4302], 'eugene': [44.0521, -123.0868],
+    'salem, or': [44.9429, -123.0351], 'corvallis': [44.5646, -123.262],
+    'redmond, or': [44.2726, -121.1739], 'ridgefield': [45.8162, -122.7424],
+    'tigard': [45.4312, -122.7715],
+    // ---- Australia (cities + states) ----
+    'sydney': [-33.8688, 151.2093], 'melbourne': [-37.8136, 144.9631],
+    'brisbane': [-27.4698, 153.0251], 'perth': [-31.9523, 115.8613],
+    'adelaide': [-34.9285, 138.6007], 'canberra': [-35.2809, 149.13],
+    'darwin': [-12.4634, 130.8456], 'hobart': [-42.8821, 147.3272],
+    'gold coast': [-28.0167, 153.4], 'newcastle': [-32.9283, 151.7817],
+    'wollongong': [-34.4248, 150.8931], 'geelong': [-38.1499, 144.3617],
+    'townsville': [-19.2589, 146.8169], 'cairns': [-16.9186, 145.7781],
+    'new south wales': [-33.0, 146.0], 'victoria, australia': [-37.0, 144.5],
+    'queensland': [-22.0, 144.0], 'western australia': [-26.0, 121.0],
+    'south australia': [-30.0, 135.0], 'northern territory': [-19.5, 133.0],
+    'tasmania': [-42.0, 146.5], 'australian capital territory': [-35.5, 149.0],
   };
   const CA_CENTER = [37.4, -119.5];
-  let _map = null, _markerLayer = null;
+  let _map = null, _markerLayer = null, _lastFitKey = '';
 
-  // Longest-city-name match wins ("south san francisco" beats "san francisco").
-  // No city found (generic "California" / "Remote" / ", CA") → null = remote bucket.
+  // Longest-name match wins ("south san francisco" beats "san francisco"). If no
+  // city/state matched, fall back to a country/region centroid; otherwise null
+  // (→ remote/statewide bucket).
   function geocodeJob(loc) {
     const s = (loc || '').toLowerCase();
     let best = null, bestLen = 0;
     for (const city in CITY_COORDS) {
       if (s.includes(city) && city.length > bestLen) { best = CITY_COORDS[city]; bestLen = city.length; }
     }
-    return best;
+    if (best) return best;
+    if (/australia/.test(s)) return [-25.27, 133.77];      // AU centroid
+    if (/\boregon\b|,\s*or\b/.test(s)) return [44.0, -120.5]; // OR centroid
+    return null;
   }
 
   function renderMap() {
@@ -1135,7 +1192,8 @@
       const r = 7 + 13 * Math.sqrt(n / maxN);
       const top = b.jobs.slice().sort((x, y) => y._fit - x._fit).slice(0, 12);
       const list = top.map(j =>
-        `<div style="margin:3px 0">★${j._fit} <a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a>`
+        `<div style="margin:3px 0">${j._star ? '<span style="color:#d97706">★</span> ' : ''}`
+        + `<a href="${escape(j.url)}" target="_blank" rel="noopener">${escape(j.title)}</a> <span style="color:#888">· fit ${j._fit}</span>`
         + `<br><span style="color:#666">${escape(j.company)}${j._salDisp ? ' · ' + escape(j._salDisp) : ''}</span></div>`).join('');
       const where = b.remote ? 'Remote / Statewide' : escape(top[0].location || 'California');
       const m = L.circleMarker([b.lat, b.lng], {
@@ -1148,9 +1206,21 @@
         { maxWidth: 320 });
     });
 
+    // Auto-fit to wherever the jobs are (CA + Oregon + Australia). Only refit
+    // when the extent actually changes, so dragging the salary slider etc.
+    // doesn't keep snapping the view.
+    const pts = [...buckets.values()].map(b => [b.lat, b.lng]);
+    const key = pts.map(p => p.join(',')).sort().join('|');
+    if (pts.length && key !== _lastFitKey) {
+      _map.fitBounds(pts, { padding: [34, 34], maxZoom: 9 });
+      _lastFitKey = key;
+    } else if (!pts.length) {
+      _map.setView(CA_CENTER, 5); _lastFitKey = '';
+    }
+
     note.hidden = false;
     note.textContent = `${jobs.length} role(s) mapped · green = located, purple = remote/statewide (${remoteCount}). `
-      + 'Hover a dot for the location, click for the roles (top by fit).';
+      + 'Hover a dot for the location, click for the roles (★ = priority topic).';
   }
 
   function renderAll() {
@@ -1314,6 +1384,12 @@
     $('sal-min').value = filters.salMin;
     renderAll();
   });
+  $('star-only').onclick = () => {
+    filters.starOnly = !filters.starOnly;
+    $('star-only').classList.toggle('on', filters.starOnly);
+    $('star-only').setAttribute('aria-pressed', String(filters.starOnly));
+    renderAll();
+  };
   $('sal-unknown').addEventListener('change', e => {
     filters.salUnknown = e.target.checked;
     renderAll();
@@ -1330,6 +1406,8 @@
     filters.days = null;
     filters.salMin = 0; filters.salUnknown = true;
     $('sal-min').value = 0; $('sal-unknown').checked = true;
+    filters.starOnly = false;
+    $('star-only').classList.remove('on'); $('star-only').setAttribute('aria-pressed', 'false');
     filters.q = ''; $('search').value = '';
     renderAll();
   };

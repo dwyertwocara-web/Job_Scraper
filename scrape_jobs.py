@@ -136,10 +136,9 @@ def is_mle_role(title: str) -> bool:
     return bool(_KEYWORD_RE.search(title))
 
 
-# Geographic scope for the curated/legacy ATS path. Dr. Coffin is Sacramento-
-# based (CalEPA / OEHHA) but environmental-toxicology roles are sparse, so the
-# net is California-wide plus remote. (The LinkedIn and Indeed watchers geo-
-# filter at the API level — see _linkedin_search() and scrape_indeed_recent().)
+# Geographic scope for the curated/legacy ATS path. Primary base is California,
+# extended to Portland & Bend OR and Australia. (The LinkedIn and Indeed watchers
+# geo-filter at the API level — see LINKEDIN_GEOS / INDEED_GEOS.)
 TARGET_LOCATIONS = [
     "california", ", ca", "remote", "hybrid",
     # Sacramento region (home base)
@@ -156,6 +155,13 @@ TARGET_LOCATIONS = [
     "riverside", "pasadena", "santa monica", "torrance", "fountain valley",
     # Central Coast / Valley
     "santa barbara", "san luis obispo", "fresno", "monterey",
+    # Oregon
+    "portland, or", "portland, oregon", "bend, or", "bend, oregon", "oregon",
+    "beaverton", "hillsboro", "eugene", "salem, or", "corvallis", "redmond, or",
+    # Australia
+    "australia", "sydney", "melbourne", "brisbane", "perth", "adelaide",
+    "canberra", "new south wales", "victoria", "queensland",
+    "western australia", "tasmania",
 ]
 
 
@@ -459,6 +465,17 @@ LINKEDIN_SEARCH_TERMS = [
 LINKEDIN_LOOKBACK_SECONDS = 3600          # 1h — every-2h watcher only surfaces the freshest hour
 LINKEDIN_BIOTECH_LOOKBACK_SECONDS = 86400 # 24h — biotech is a daily 8pm PT digest
 
+# Geographies to search. geoId is LinkedIn's authoritative region filter; an
+# empty geoId lets LinkedIn resolve the location text (verified to work for
+# Bend). All confirmed by probing the guest endpoint. Add a region by finding
+# its geoId (or leaving it blank for a city LinkedIn can resolve).
+LINKEDIN_GEOS = [
+    {"name": "California",  "location": "California, United States",          "geoId": "102095887"},
+    {"name": "Portland OR", "location": "Portland, Oregon Metropolitan Area", "geoId": "90000079"},
+    {"name": "Bend OR",     "location": "Bend, Oregon, United States",        "geoId": ""},
+    {"name": "Australia",   "location": "Australia",                          "geoId": "101452733"},
+]
+
 # Priority-employer allowlist used by the LinkedIn-side filter to build the
 # daily "Priority Employers" digest (jobs.json). These are organizations whose
 # postings are worth surfacing on their own even on a quiet day: environmental
@@ -598,52 +615,54 @@ def _parse_linkedin_cards(html: str) -> tuple[list[dict], int]:
     return parsed, raw_count
 
 
-def _linkedin_search(terms: list[str], lookback_seconds: int) -> tuple[list[dict], int]:
+def _linkedin_search(terms: list[str], lookback_seconds: int,
+                     geos: list[dict] | None = None) -> tuple[list[dict], int]:
     """
-    Per-term, paginated LinkedIn guest-endpoint search. Dedupes by job ID and
-    sorts by recency. Used by both the general MLE/DS watcher and the biotech
-    allowlist-filtered scrape.
+    Per-geo, per-term, paginated LinkedIn guest-endpoint search. Dedupes by job
+    ID across every geography and sorts by recency. Used by both the general
+    watcher and the priority-employer scrape.
 
-    Returns (jobs, total_raw_cards). total_raw_cards == 0 across every term
-    means LinkedIn gave us no data at all — the callers' block guard.
+    Returns (jobs, total_raw_cards). total_raw_cards == 0 across everything means
+    LinkedIn gave us no data at all — the callers' block guard.
     """
+    if geos is None:
+        geos = LINKEDIN_GEOS
     jobs_by_id: dict[str, dict] = {}
     total_raw_cards = 0
-    for term in terms:
-        for start in range(0, 75, 25):
-            time.sleep(REQUEST_DELAY)
-            url = (
-                "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
-                f"?keywords={urllib.parse.quote(term)}"
-                # California statewide (geoId 102095887). Toxicology roles are
-                # sparse, so we cast wider than one metro and let the dashboard
-                # filter. For nationwide/remote, swap to geoId 103644278 (US).
-                "&location=California%2C%20United%20States"
-                "&geoId=102095887"
-                f"&f_TPR=r{lookback_seconds}"
-                f"&start={start}"
-            )
-            html = fetch(url)
-            if not html.strip():
-                break
-            parsed, raw_count = _parse_linkedin_cards(html)
-            total_raw_cards += raw_count
-            # Break on a truly empty page, NOT on "no keyword matches" — a page
-            # of 25 off-target roles must not end pagination for the term.
-            if not raw_count:
-                break
-            for p in parsed:
-                if p["id"] in jobs_by_id:
-                    continue
-                jobs_by_id[p["id"]] = {
-                    "company": p["company"],
-                    "title": p["title"],
-                    "location": p["location"],
-                    "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
-                    "date_posted": p["date_posted"],
-                    "salary": p.get("salary", ""),
-                    "ats": "LinkedIn",
-                }
+    for geo in geos:
+        geo_param = f"&geoId={geo['geoId']}" if geo.get("geoId") else ""
+        for term in terms:
+            for start in range(0, 75, 25):
+                time.sleep(REQUEST_DELAY)
+                url = (
+                    "https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search"
+                    f"?keywords={urllib.parse.quote(term)}"
+                    f"&location={urllib.parse.quote(geo['location'])}"
+                    f"{geo_param}"
+                    f"&f_TPR=r{lookback_seconds}"
+                    f"&start={start}"
+                )
+                html = fetch(url)
+                if not html.strip():
+                    break
+                parsed, raw_count = _parse_linkedin_cards(html)
+                total_raw_cards += raw_count
+                # Break on a truly empty page, NOT on "no keyword matches" — a page
+                # of 25 off-target roles must not end pagination for the term.
+                if not raw_count:
+                    break
+                for p in parsed:
+                    if p["id"] in jobs_by_id:
+                        continue
+                    jobs_by_id[p["id"]] = {
+                        "company": p["company"],
+                        "title": p["title"],
+                        "location": p["location"],
+                        "url": f"https://www.linkedin.com/jobs/view/{p['id']}/",
+                        "date_posted": p["date_posted"],
+                        "salary": p.get("salary", ""),
+                        "ats": "LinkedIn",
+                    }
 
     jobs = list(jobs_by_id.values())
     jobs.sort(key=lambda j: -_iso_to_ts(j.get("date_posted", "")))
@@ -694,6 +713,21 @@ def scrape_linkedin_biotech() -> list:
 INDEED_LOOKBACK_HOURS = 24  # Indeed posting dates are ~day-resolution, so a 1h window
 # returns almost nothing; the hourly watcher's cross-run dedupe trims the overlap.
 
+# Indeed geographies. country sets the Indeed domain (USA → indeed.com,
+# Australia → au.indeed.com). Searched per term, so we use a tighter term list
+# than LinkedIn to keep the call count sane (terms × geos jobspy calls).
+INDEED_GEOS = [
+    {"location": "California",   "country": "USA"},
+    {"location": "Portland, OR", "country": "USA"},
+    {"location": "Bend, OR",     "country": "USA"},
+    {"location": "Australia",    "country": "Australia"},
+]
+INDEED_SEARCH_TERMS = [
+    "toxicologist", "environmental scientist", "risk assessment",
+    "exposure scientist", "ecotoxicologist", "microplastics",
+    "water quality scientist", "environmental health scientist",
+]
+
 # jobspy returns the full JD (markdown) for Indeed rows. We keep a trimmed copy
 # in indeed_jobs.json (bounded: 24h window) so the nightly triage agent can
 # judge Indeed roles from the actual description instead of the title alone.
@@ -714,8 +748,9 @@ def scrape_indeed_recent() -> list:
     ok_terms = 0
     errored_terms = 0
     raw_rows = 0
-    for term in LINKEDIN_SEARCH_TERMS:
-        time.sleep(REQUEST_DELAY)  # throttle: 20 back-to-back calls invite blocking on CI IPs
+    for geo in INDEED_GEOS:
+      for term in INDEED_SEARCH_TERMS:
+        time.sleep(REQUEST_DELAY)  # throttle: back-to-back calls invite blocking on CI IPs
         try:
             # JobSpy Indeed gotcha: hours_old / is_remote / job_type / easy_apply
             # are mutually exclusive — only one may be set, or the time filter
@@ -723,17 +758,14 @@ def scrape_indeed_recent() -> list:
             df = jobspy_scrape(
                 site_name=["indeed"],
                 search_term=term,
-                # California statewide — toxicology roles are sparse, so we keep
-                # the geo wide and let the dashboard filter. Narrow to e.g.
-                # "Sacramento, CA" with distance=50 to focus on the home region.
-                location="California",
+                location=geo["location"],
                 results_wanted=50,
                 hours_old=INDEED_LOOKBACK_HOURS,
-                country_indeed="USA",
+                country_indeed=geo["country"],
             )
         except Exception as e:
             errored_terms += 1
-            print(f"  ⚠️  Indeed ({term!r}): {e}")
+            print(f"  ⚠️  Indeed ({geo['location']} · {term!r}): {e}")
             continue
         ok_terms += 1
         if df is None or df.empty:
@@ -770,7 +802,7 @@ def scrape_indeed_recent() -> list:
             }
     jobs = list(jobs_by_id.values())
     print(
-        f"  📊 Indeed: {len(LINKEDIN_SEARCH_TERMS)} terms → "
+        f"  📊 Indeed: {len(INDEED_GEOS)}×{len(INDEED_SEARCH_TERMS)} queries → "
         f"{ok_terms} ok / {errored_terms} errored · {raw_rows} raw, {len(jobs)} matched"
     )
 
@@ -1160,8 +1192,8 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — Environmental / Toxicology / Risk Roles (California)",
-        subtitle=f"California · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        title="🔥 LinkedIn — Environmental / Toxicology / Risk Roles (CA · OR · AU)",
+        subtitle=f"California · Oregon (Portland/Bend) · Australia · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -1172,8 +1204,8 @@ def save_indeed_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="indeed_jobs",
-        title="🟦 Indeed — Environmental / Toxicology / Risk Roles (California)",
-        subtitle=f"California · last {INDEED_LOOKBACK_HOURS}h",
+        title="🟦 Indeed — Environmental / Toxicology / Risk Roles (CA · OR · AU)",
+        subtitle=f"California · Oregon (Portland/Bend) · Australia · last {INDEED_LOOKBACK_HOURS}h",
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
@@ -1185,7 +1217,7 @@ def save_biotech_linkedin_results(jobs: list):
         jobs,
         basename="jobs",
         title="🏛 Priority Employers — Environmental / Toxicology Roles",
-        subtitle=f"California priority-employer allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        subtitle=f"CA · OR · AU priority-employer allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
         accent="#2ea04f",
         empty_message="No new priority-employer roles since the last run.",
         window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",

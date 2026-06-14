@@ -97,13 +97,19 @@ of Environmental Health`, etc.).
 
 ## Geographic Scope
 
-- **LinkedIn** searches California statewide (`geoId=102095887`). Swap to
-  `103644278` for the whole US, or a metro geoId to narrow.
-- **Indeed** searches `location="California"`. Narrow to `"Sacramento, CA"` with
-  `distance=50` to focus on the home region.
+Searches **California**, **Portland & Bend, Oregon**, and **Australia**. Edit the
+geo lists at the top of `scrape_jobs.py` to add/remove regions:
+
+- **LinkedIn** — `LINKEDIN_GEOS`: each is a `location` + LinkedIn `geoId`
+  (California `102095887`, Portland metro `90000079`, Australia `101452733`;
+  Bend uses location text with no geoId). Find a region's geoId by probing the
+  guest endpoint, or leave it blank for a city LinkedIn can resolve.
+- **Indeed** — `INDEED_GEOS`: each is a `location` + `country` (USA → indeed.com,
+  Australia → au.indeed.com). Uses a tighter `INDEED_SEARCH_TERMS` list since
+  every term is searched in every geo.
+- **CalCareers** is California-only (state civil service).
 - The curated/legacy ATS path filters with `is_target_location()` /
-  `TARGET_LOCATIONS` (Sacramento region + Bay Area + SoCal + Central Coast +
-  remote).
+  `TARGET_LOCATIONS`.
 
 ## Output Files
 
@@ -137,6 +143,13 @@ form's fields, POSTs the query, and parses the result cards. It is fully guarded
 
 The `triage.html` cockpit adds, on top of the source/role/seniority/date filters:
 
+- **★ Priority topics** — roles touching signature topics (microplastics,
+  ecotoxicology, endocrine-disrupting chemicals, R/Shiny) get a gold ★ and a
+  highlighted card; a toggle filters to just those. Edit `STAR_TERMS` in
+  `triage.html` to change what's flagged.
+- **Cross-source de-dup** — the same role cross-posted to LinkedIn and Indeed
+  collapses into one card (matched on title + location + compatible company),
+  showing both source badges; triage applies to all copies at once.
 - **★ Best fit** view — ranks roles by match to Dr. Coffin's specializations
   (microplastics, ecotoxicology, risk assessment, exposure, QSAR, PFAS,
   drinking water, computational tox…). Weights live in `FIT_TERMS` in

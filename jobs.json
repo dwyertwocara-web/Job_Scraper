@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-06-14 04:53 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-06-14 17:31 UTC",
+  "total": 3,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "GHD",
+      "title": "Environmental Scientist",
+      "location": "San Diego, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427211488/",
+      "date_posted": "2026-06-12",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "California Air Resources Board",
+      "title": "Air Pollution Monitoring Technical Support",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428168922/",
+      "date_posted": "2026-06-12",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "California Air Resources Board",
+      "title": "Staff Air Pollution Specialist",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427672108/",
+      "date_posted": "2026-06-11",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "California Air Resources Board",
+      "title": "Staff Air Pollution Specialist",
+      "location": "Sacramento, CA",
+      "url": "https://www.linkedin.com/jobs/view/4427672108/",
+      "date_posted": "2026-06-11",
+      "salary": "",
+      "ats": "LinkedIn"
+    }
+  ]
 }
