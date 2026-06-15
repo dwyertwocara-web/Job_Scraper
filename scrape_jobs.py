@@ -669,6 +669,56 @@ def _linkedin_search(terms: list[str], lookback_seconds: int,
     return jobs, total_raw_cards
 
 
+# LinkedIn search-result cards omit pay, but the public guest *posting* page
+# includes a `compensation__salary` block when the employer provided it. We
+# fetch it only for jobs still missing salary, capped per run to bound runtime.
+LINKEDIN_SALARY_FETCH_CAP = 120
+
+
+def _linkedin_posting_salary(job_id: str) -> str:
+    import html as html_mod
+    page = fetch(f"https://www.linkedin.com/jobs-guest/jobs/api/jobPosting/{job_id}")
+    if not page:
+        return ""
+    # Find the compensation block, then grab the first "$…" run inside it (the
+    # class may sit on an empty heading element, so anchor on the class then
+    # scan a window for the actual amount).
+    anchor = re.search(r'compensation__salary', page)
+    if not anchor:
+        return ""
+    window = page[anchor.start():anchor.start() + 400]
+    amt = re.search(r'\$[\d][^<]{0,60}', window)
+    if not amt:
+        return ""
+    return re.sub(r'\s+', ' ', html_mod.unescape(amt.group(0))).strip()
+
+
+def _enrich_linkedin_salaries(jobs: list) -> int:
+    """Backfill salary on LinkedIn jobs from their posting pages. Returns the
+    number filled. Bounded by LINKEDIN_SALARY_FETCH_CAP; never raises."""
+    filled = fetched = 0
+    for job in jobs:
+        if fetched >= LINKEDIN_SALARY_FETCH_CAP:
+            break
+        if job.get("salary") or job.get("ats") != "LinkedIn":
+            continue
+        m = re.search(r'/jobs/view/(\d+)', job.get("url", ""))
+        if not m:
+            continue
+        time.sleep(REQUEST_DELAY)
+        fetched += 1
+        try:
+            sal = _linkedin_posting_salary(m.group(1))
+        except (URLError, TimeoutError, OSError):
+            continue
+        if sal:
+            job["salary"] = sal
+            filled += 1
+    if fetched:
+        print(f"  💰 LinkedIn salary backfill: {filled}/{fetched} posting(s) had pay")
+    return filled
+
+
 def scrape_linkedin_recent() -> list:
     print(f"🔎 Scraping LinkedIn (last {LINKEDIN_LOOKBACK_SECONDS // 3600}h)...")
     jobs, raw_cards = _linkedin_search(LINKEDIN_SEARCH_TERMS, LINKEDIN_LOOKBACK_SECONDS)
@@ -681,6 +731,7 @@ def scrape_linkedin_recent() -> list:
               f"preserving previous {len(prev)} result(s)")
         return prev
     print(f"  ✅ LinkedIn: {len(jobs)} role(s)")
+    _enrich_linkedin_salaries(jobs)
     return jobs
 
 
@@ -700,6 +751,7 @@ def scrape_linkedin_biotech() -> list:
         return []
     jobs = [j for j in raw if _is_biotech_company(j["company"])]
     print(f"  ✅ Priority employers: {len(jobs)} role(s) (from {len(raw)} total)")
+    _enrich_linkedin_salaries(jobs)
     return jobs
 
 
