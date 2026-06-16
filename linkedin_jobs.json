@@ -1,31 +1,40 @@
 {
-  "scraped_at": "2026-06-16 18:44 UTC",
-  "total": 3,
-  "new_count": 3,
+  "scraped_at": "2026-06-16 20:20 UTC",
+  "total": 4,
+  "new_count": 4,
   "jobs": [
     {
-      "company": "HDR",
-      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "company": "Caltrans",
+      "title": "Senior Environmental Scientist (JC-520911)",
+      "location": "San Joaquin County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428404007/",
+      "date_posted": "2026-06-16",
+      "salary": "$93,840.00/yr - $128,784.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SOCOTEC",
+      "title": "Project Manager \u2013 Environmental Scientist (Hazardous Building Materials)",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428076877/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "WSP in the U.S.",
+      "title": "Environmental Data Analytics Specialist",
       "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4428067518/",
+      "url": "https://www.linkedin.com/jobs/view/4428072954/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "HDR",
-      "title": "Drinking Water & Wastewater Market Sector Leader",
-      "location": "Greater Bend Area",
-      "url": "https://www.linkedin.com/jobs/view/4428066531/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "HDR",
-      "title": "Drinking Water & Wastewater Market Sector Leader",
-      "location": "Oregon, United States",
-      "url": "https://www.linkedin.com/jobs/view/4428068470/",
+      "company": "WSP in the U.S.",
+      "title": "Environmental Data Analytics Specialist",
+      "location": "Tigard, OR",
+      "url": "https://www.linkedin.com/jobs/view/4428077995/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
@@ -33,28 +42,37 @@
   ],
   "new_jobs": [
     {
-      "company": "HDR",
-      "title": "Drinking Water & Wastewater Market Sector Leader",
+      "company": "Caltrans",
+      "title": "Senior Environmental Scientist (JC-520911)",
+      "location": "San Joaquin County, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428404007/",
+      "date_posted": "2026-06-16",
+      "salary": "$93,840.00/yr - $128,784.00/yr",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "SOCOTEC",
+      "title": "Project Manager \u2013 Environmental Scientist (Hazardous Building Materials)",
+      "location": "Irvine, CA",
+      "url": "https://www.linkedin.com/jobs/view/4428076877/",
+      "date_posted": "2026-06-16",
+      "salary": "",
+      "ats": "LinkedIn"
+    },
+    {
+      "company": "WSP in the U.S.",
+      "title": "Environmental Data Analytics Specialist",
       "location": "Portland, OR",
-      "url": "https://www.linkedin.com/jobs/view/4428067518/",
+      "url": "https://www.linkedin.com/jobs/view/4428072954/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
     },
     {
-      "company": "HDR",
-      "title": "Drinking Water & Wastewater Market Sector Leader",
-      "location": "Greater Bend Area",
-      "url": "https://www.linkedin.com/jobs/view/4428066531/",
-      "date_posted": "2026-06-16",
-      "salary": "",
-      "ats": "LinkedIn"
-    },
-    {
-      "company": "HDR",
-      "title": "Drinking Water & Wastewater Market Sector Leader",
-      "location": "Oregon, United States",
-      "url": "https://www.linkedin.com/jobs/view/4428068470/",
+      "company": "WSP in the U.S.",
+      "title": "Environmental Data Analytics Specialist",
+      "location": "Tigard, OR",
+      "url": "https://www.linkedin.com/jobs/view/4428077995/",
       "date_posted": "2026-06-16",
       "salary": "",
       "ats": "LinkedIn"
