@@ -62,6 +62,14 @@ def _cfg(path: str, default):
         cur = cur[key]
     return cur if cur not in (None, "", [], {}) else default
 
+
+# Short field label + geo subtitle for the digest titles, from config.profile.
+# "Environmental / Toxicology Job Tracker" → "Environmental / Toxicology".
+PROFILE_LABEL = re.sub(
+    r'\s*(job\s*tracker|tracker|jobs?)\s*$', '',
+    str(_cfg("profile.title", "Job")), flags=re.I).strip() or "Job"
+PROFILE_SUBTITLE = str(_cfg("profile.subtitle", "All locations"))
+
 # Title keywords for Dr. Scott Coffin — environmental/regulatory toxicology,
 # risk assessment, exposure science, water quality, and the data-science work
 # that supports it. A title matches if it contains any of these (case-
@@ -1078,7 +1086,7 @@ def save_calcareers_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="calcareers_jobs",
-        title="🏛 CalCareers — California State Environmental / Toxicology Roles",
+        title=f"🏛 CalCareers — California State {PROFILE_LABEL} Roles",
         subtitle="calcareers.ca.gov · California state civil service",
         accent="#b45309",
         empty_message="No new CalCareers roles since the last run.",
@@ -1176,8 +1184,8 @@ def save_usajobs_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="usajobs_jobs",
-        title="🇺🇸 USAJOBS — Federal Environmental / Toxicology Roles",
-        subtitle="usajobs.gov · federal agencies (EPA, NOAA, USGS, FDA, NIEHS…)",
+        title=f"🇺🇸 USAJOBS — Federal {PROFILE_LABEL} Roles",
+        subtitle="usajobs.gov · federal agencies",
         accent="#1d4ed8",
         empty_message="No new federal roles since the last run.",
         window_label="current USAJOBS postings",
@@ -1267,8 +1275,8 @@ def save_governmentjobs_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="governmentjobs_jobs",
-        title="🏛 NEOGOV — State & Local Government Environmental Roles",
-        subtitle="governmentjobs.com · CA/OR agencies, air & water districts, county env health",
+        title=f"🏛 NEOGOV — State & Local Government {PROFILE_LABEL} Roles",
+        subtitle="governmentjobs.com · state & local agencies",
         accent="#0e7490",
         empty_message="No new state/local-gov roles since the last run.",
         window_label="recent GovernmentJobs postings",
@@ -1361,7 +1369,7 @@ def save_calopps_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="calopps_jobs",
-        title="🏛 CalOpps — California Local-Agency Environmental Roles",
+        title=f"🏛 CalOpps — California Local-Agency {PROFILE_LABEL} Roles",
         subtitle="calopps.org · CA cities, counties, special & water districts",
         accent="#15803d",
         empty_message="No new CalOpps roles since the last run.",
@@ -1572,8 +1580,8 @@ def save_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="linkedin_jobs",
-        title="🔥 LinkedIn — Environmental / Toxicology / Risk Roles (CA · OR · AU)",
-        subtitle=f"California · Oregon (Portland/Bend) · Australia · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
+        title=f"🔥 LinkedIn — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
         accent="#3b82f6",
         empty_message="No new roles since the last run.",
         window_label=f"last {LINKEDIN_LOOKBACK_SECONDS // 3600}h",
@@ -1584,8 +1592,8 @@ def save_indeed_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="indeed_jobs",
-        title="🟦 Indeed — Environmental / Toxicology / Risk Roles (CA · OR · AU)",
-        subtitle=f"California · Oregon (Portland/Bend) · Australia · last {INDEED_LOOKBACK_HOURS}h",
+        title=f"🟦 Indeed — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · last {INDEED_LOOKBACK_HOURS}h",
         accent="#2557a7",
         empty_message="No new roles since the last run.",
         window_label=f"last {INDEED_LOOKBACK_HOURS}h",
@@ -1596,8 +1604,8 @@ def save_biotech_linkedin_results(jobs: list):
     save_jobs_output(
         jobs,
         basename="jobs",
-        title="🏛 Priority Employers — Environmental / Toxicology Roles",
-        subtitle=f"CA · OR · AU priority-employer allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
+        title=f"🏛 Priority Employers — {PROFILE_LABEL} Roles",
+        subtitle=f"{PROFILE_SUBTITLE} · priority-employer allowlist · last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
         accent="#2ea04f",
         empty_message="No new priority-employer roles since the last run.",
         window_label=f"last {LINKEDIN_BIOTECH_LOOKBACK_SECONDS // 3600}h",
@@ -1704,8 +1712,8 @@ def save_results(jobs: list):
 
     with open(os.path.join(SCRIPT_DIR, "jobs.html"), "w") as f:
         f.write(_render_jobs_html(
-            title="🏛 Fresh Environmental / Toxicology Job Listings",
-            subtitle="California · posted in the last 24 hours",
+            title=f"🏛 Fresh {PROFILE_LABEL} Job Listings",
+            subtitle=f"{PROFILE_SUBTITLE} · posted in the last 24 hours",
             timestamp=timestamp,
             jobs=jobs,
             empty_message="No environmental/toxicology roles posted in the last 24 hours.",
