@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-16 18:04 UTC",
-  "total": 3,
+  "scraped_at": "2026-06-17 17:28 UTC",
+  "total": 4,
   "new_count": 1,
   "jobs": [
     {
@@ -29,16 +29,25 @@
       "date_posted": "",
       "salary": "$125,685.16 - $152,771.09 Annually",
       "ats": "NEOGOV"
+    },
+    {
+      "company": "City of Mountain View (CA)",
+      "title": "Senior Hazardous Materials Specialist",
+      "location": "City of Mountain View",
+      "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
+      "date_posted": "",
+      "salary": "$171,085.46 - $231,468.38 Annually",
+      "ats": "NEOGOV"
     }
   ],
   "new_jobs": [
     {
-      "company": "Bay Area Air District",
-      "title": "Senior Air Quality Specialist (Ambient Air Quality Analysis)",
-      "location": "San Francisco, CA",
-      "url": "https://www.governmentjobs.com/jobs/5370135-0/senior-air-quality-specialist-ambient-air-quality-analysis",
+      "company": "City of Mountain View (CA)",
+      "title": "Senior Hazardous Materials Specialist",
+      "location": "City of Mountain View",
+      "url": "https://www.governmentjobs.com/jobs/5345724-0/senior-hazardous-materials-specialist",
       "date_posted": "",
-      "salary": "$125,685.16 - $152,771.09 Annually",
+      "salary": "$171,085.46 - $231,468.38 Annually",
       "ats": "NEOGOV"
     }
   ]
