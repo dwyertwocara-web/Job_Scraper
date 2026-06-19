@@ -16,28 +16,28 @@ You only need a free [**GitHub account**](https://github.com/signup). Everything
 
 ## Step 1 — Get your own copy of the repo
 
-Choose the option that fits how much you care about receiving future scraper improvements:
+### Option A — Fork ✅ recommended
 
-### Option A — Fork (quickest)
+Click **Fork** at the top of this page. You get a linked copy with GitHub's built-in **Sync fork** button — one click whenever this repo gets new scrapers, bug fixes, or dashboard features.
 
-Click **Fork** at the top of this page and create the repo under your account. You get a linked copy; GitHub shows a "Contribute / Sync fork" button when the upstream has new commits.
+Your personal config (`config.json`, `scoring_profile.json`) and all scraped data (`output/`) are gitignored in this upstream repo, so syncing will **never** overwrite your customizations.
 
-> GitHub won't let you fork a repo you already own to the same account. If that applies, use Option B.
+> Can't fork because you already own this repo? Use Option C.
 
-### Option B — "Use this template" (clean copy, no history)
+### Option B — "Use this template" (standalone, no upstream link)
 
-If you see a green **Use this template → Create a new repository** button, click it. You get a completely independent repo with no shared history — simpler than a fork for most users.
+If you see a green **Use this template → Create a new repository** button, click it for a clean copy with no git history. Simple to set up, but you won't get a Sync fork button — future improvements have to be pulled manually.
 
-> The button only appears if the repo owner has enabled **Settings → Template repository**. If you don't see it, use Option A or C.
+> This button only appears when the repo owner has enabled **Settings → Template repository**.
 
-### Option C — Import + full upstream sync (recommended for power users)
+### Option C — Import (for same-account users or CLI preference)
 
-Creates your own repo that can pull code improvements from this source at any time, without touching your config or scraped data. Works even when forking to the same account isn't possible.
+Use this when GitHub blocks forking because you already own the repo, or when you prefer the command line.
 
 1. Go to **[github.com/new/import](https://github.com/new/import)**
-2. Paste `https://github.com/ScottCoffin/Job_Scraper` as the source URL
-3. Name your repo (e.g. `job-tracker`) and click **Begin import**
-4. Once imported, clone it and commit your config:
+2. Paste `https://github.com/ScottCoffin/Job_Scraper` as the clone URL
+3. Name your repo and click **Begin import**
+4. Clone it, then commit your config:
 
    ```bash
    git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
@@ -50,20 +50,22 @@ Creates your own repo that can pull code improvements from this source at any ti
    git push
    ```
 
-5. See [FORK_SETUP.md](FORK_SETUP.md) for the full secrets/Pages checklist.
+See [FORK_SETUP.md](FORK_SETUP.md) for the full secrets and Pages checklist.
 
-**Pulling upstream improvements later** (Options B and C) is a one-command operation:
+---
+
+### Staying up to date (Options B and C)
+
+Forks (Option A) get GitHub's native Sync fork button. For B and C, pull improvements manually any time:
 
 ```bash
-git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git  # first time only
+git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git  # one-time setup
 git fetch upstream && git merge upstream/main
 ```
 
-`config.json`, `scoring_profile.json`, and everything in `output/` are gitignored in the upstream repo — they will **never** be overwritten. Only Python scripts, workflows, and docs change.
+Or let it run automatically: enable the **`sync_upstream.yml`** workflow in your repo (**Actions → Sync from upstream → Enable workflow**) and it merges new code every Monday.
 
-You can also automate this: the included **`sync_upstream.yml`** workflow runs every Monday and merges new code automatically. Enable it in your repo under **Actions → Sync from upstream → Enable workflow**.
-
-> **Important:** always pull from `https://github.com/ScottCoffin/Job_Scraper` (the source), never from someone else's personal fork of it.
+> Always pull from `https://github.com/ScottCoffin/Job_Scraper` — never from someone else's personal fork.
 
 <details>
 <summary>Clone an existing copy to your computer</summary>
