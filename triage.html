@@ -584,6 +584,19 @@
     return Math.max(0, Math.min(100, Math.round(score * FIT_SETTINGS.score_multiplier)));
   }
 
+  // ---------- Date formatting ----------
+  function _fmtDate(s) {
+    if (!s) return '';
+    const ms = Date.parse(s);
+    if (isNaN(ms)) return s;   // already relative ("2 days ago") — return as-is
+    const days = Math.floor((Date.now() - ms) / 86400000);
+    if (days <= 0) return 'Today';
+    if (days === 1) return 'Yesterday';
+    if (days < 7)  return `${days}d ago`;
+    const d = new Date(ms);
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+  }
+
   // ---------- Salary parsing & harmonization ----------
   // Postings report pay inconsistently (Indeed "$150k–$190k/yr" or "$62.50/hr",
   // CalCareers "$6,963 - $8,724 per month", LinkedIn titles "($175K – $250K)").
@@ -977,6 +990,7 @@
       [3,  '3 days'],
       [7,  'Week'],
       [30, 'Month'],
+      [50, '50 days'],
       [null, 'Any time'],
     ];
     opts.forEach(([days, label]) => {
@@ -1180,7 +1194,7 @@
             <span class="src-item">🔗 ${srcBadges}</span>
             <span>📍 ${escape(j.location || 'Not specified')}</span>
             ${sal ? `<span>💰 ${escape(sal)}</span>` : ''}
-            <span>🕒 ${escape(j.date_posted || '')}</span>
+            ${j.date_posted ? `<span title="${escape(j.date_posted)}">🕒 ${escape(_fmtDate(j.date_posted))}</span>` : ''}
             ${score}
             <span><span class="tag role">${j._role}</span><span class="tag">${j._sen}</span>${j._family ? `<span class="tag">${escape(j._family)}</span>` : ''}</span>
           </div>

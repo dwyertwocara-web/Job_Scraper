@@ -1561,7 +1561,11 @@ def _load_prev_ids(json_path: str) -> set[str]:
     return ids
 
 
-ALL_JOBS_PRUNE_DAYS = 14
+ALL_JOBS_PRUNE_DAYS = 50
+# LinkedIn's guest API reliably supports ~30 days via f_TPR; use this for the
+# one-time historical backfill (--linkedin-backfill) so new users get a full
+# picture without running hourly for weeks.
+LINKEDIN_BACKFILL_DAYS = 30
 
 
 def _merge_into_all_jobs(new_jobs: list) -> int:
@@ -1850,6 +1854,19 @@ if __name__ == "__main__":
 
     if "--linkedin-only" in sys.argv:
         save_linkedin_results(scrape_linkedin_recent())
+        sys.exit(0)
+
+    if "--linkedin-backfill" in sys.argv:
+        # One-time historical backfill. Queries the last LINKEDIN_BACKFILL_DAYS of
+        # LinkedIn postings so new users get a full picture on first run. Run once
+        # via Actions → LinkedIn watcher → Run workflow → backfill=true.
+        backfill_s = LINKEDIN_BACKFILL_DAYS * 24 * 3600
+        print(f"🔁 LinkedIn backfill (last {LINKEDIN_BACKFILL_DAYS} days)…")
+        jobs, _ = _linkedin_search(list(LINKEDIN_SEARCH_TERMS), backfill_s)
+        if jobs:
+            _enrich_linkedin_postings(jobs)
+        print(f"  ✅ Backfill: {len(jobs)} role(s) found")
+        save_linkedin_results(jobs)
         sys.exit(0)
 
     if "--calcareers-only" in sys.argv:

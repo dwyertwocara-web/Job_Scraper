@@ -10,6 +10,12 @@ on:
   schedule:
     - cron: "17 15-23,0-3 * * *"
   workflow_dispatch:
+    inputs:
+      backfill:
+        description: "One-time backfill: fetch last 30 days instead of last hour (run once when setting up)"
+        required: false
+        type: boolean
+        default: false
 
 concurrency:
   group: job-scraper-commit-push
@@ -32,8 +38,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Scrape LinkedIn (last 1h)
-        run: python scrape_jobs.py --linkedin-only
+      - name: Scrape LinkedIn (last 1h, or 30-day backfill)
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python scrape_jobs.py --linkedin-backfill
+          else
+            python scrape_jobs.py --linkedin-only
+          fi
         env:
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
