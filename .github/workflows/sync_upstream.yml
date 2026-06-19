@@ -1,0 +1,50 @@
+name: Sync from upstream
+
+# Pull the latest scraper/dashboard improvements from the source template repo.
+# Safe to run at any time — config.json, scoring_profile.json, and everything
+# under output/ are gitignored in the upstream, so your customizations and
+# scraped data are never touched.
+#
+# UPSTREAM SOURCE: https://github.com/ScottCoffin/Job_Scraper
+# Do NOT point this at your own personal fork.
+
+on:
+  schedule:
+    - cron: "0 6 * * 1"   # Mondays 06:00 UTC — weekly check for improvements
+  workflow_dispatch:        # or run manually any time via Actions tab
+
+jobs:
+  sync:
+    name: Merge upstream code improvements
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Merge from upstream
+        run: |
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git
+          git fetch upstream main
+
+          # Attempt the merge. If there are conflicts (e.g. you edited a core
+          # script), the push is skipped and the workflow prints guidance.
+          if git merge upstream/main --no-edit \
+               -m "chore: sync from upstream [$(date -u '+%Y-%m-%d')]"; then
+            git push origin main
+            echo "✅ Synced successfully."
+          else
+            echo "⚠️  Merge conflicts detected — push skipped."
+            echo "    Resolve conflicts locally:"
+            echo "      git fetch upstream main"
+            echo "      git merge upstream/main"
+            echo "      # fix conflicts, then: git push"
+            exit 1
+          fi

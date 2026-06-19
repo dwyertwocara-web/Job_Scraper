@@ -16,24 +16,58 @@ You only need a free [**GitHub account**](https://github.com/signup). Everything
 
 ## Step 1 — Get your own copy of the repo
 
-**Easiest (recommended): "Use this template."** 1. Go to the repository page on GitHub and click the green **Use this template → Create a new repository**. 2. Name it (e.g. `job-tracker`), keep it **Public** (GitHub Pages is free for public repos), and click **Create repository**.
+Choose the option that fits how much you care about receiving future scraper improvements:
 
-That's it — you now have your own independent copy with no shared history.
+### Option A — "Use this template" (quickest, standalone copy)
+
+Click the green **Use this template → Create a new repository** button at the top of this page. Name it (e.g. `job-tracker`), keep it **Public** (GitHub Pages is free for public repos), and click **Create repository**.
+
+You get a clean independent copy. No link back to this repo — you won't automatically receive bug fixes or new scrapers, but there are also no merge conflicts to manage.
+
+### Option B — Import + stay in sync with upstream (recommended for power users)
+
+This creates your own repo that can pull code improvements from this source repo at any time, without touching your personal config or scraped data.
+
+1. Go to **[github.com/new/import](https://github.com/new/import)**
+2. Paste `https://github.com/ScottCoffin/Job_Scraper` as the source URL
+3. Name your repo (e.g. `job-tracker`) and click **Begin import**
+4. Once imported, clone it and commit your config:
+
+   ```bash
+   git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+   cd YOUR-REPO
+   cp config.example.json config.json
+   cp scoring_profile.example.json scoring_profile.json
+   # edit both files, then:
+   git add config.json scoring_profile.json
+   git commit -m "chore: personal config"
+   git push
+   ```
+
+5. See [FORK_SETUP.md](FORK_SETUP.md) for the full secrets/Pages checklist.
+
+**Pulling upstream improvements later** is a one-command operation:
+
+```bash
+git remote add upstream https://github.com/ScottCoffin/Job_Scraper.git  # first time only
+git fetch upstream && git merge upstream/main
+```
+
+`config.json`, `scoring_profile.json`, and everything in `output/` are gitignored in the upstream repo — they will **never** be overwritten when you pull. Only Python scripts, workflows, and docs change.
+
+You can also automate this: the included **`sync_upstream.yml`** workflow runs every Monday and merges new code automatically. Enable it in your repo under **Actions → Sync from upstream → Enable workflow**.
+
+> **Important:** always pull from `https://github.com/ScottCoffin/Job_Scraper` (the source), never from someone else's personal fork of it.
 
 <details>
+<summary>Clone an existing copy to your computer</summary>
 
-<summary>Alternative: fork, or clone to your computer</summary>
+``` bash
+git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
+cd YOUR-REPO
+```
 
--   **Fork:** click **Fork** at the top of the repo (keeps a link to the original).
-
--   **Clone (for local editing):**
-
-    ``` bash
-    git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-    cd YOUR-REPO
-    ```
-
-    Replace `YOUR-USERNAME/YOUR-REPO` with your repo. You don't need to clone just to configure it — you can edit files directly on github.com.
+You don't need to clone just to configure it — you can edit `config.json` directly on github.com.
 
 </details>
 
@@ -41,11 +75,13 @@ That's it — you now have your own independent copy with no shared history.
 
 This is the only file you need to change. Pick one:
 
-**A. Generate it from your CV (no coding).** Open [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md), copy the prompt, and paste it into [**ChatGPT**](https://chat.openai.com), [**Claude**](https://claude.ai), or any chatbot together with your CV and your target locations. It returns a finished `config.json`. In your repo on GitHub, open `config.json` → click the **✏️ pencil** → paste → **Commit changes**.
+**First:** rename [`config.example.json`](config.example.json) to `config.json` in your repo (on GitHub: open the file → pencil → change filename at top → paste your edits → commit). If you used Option B above, you already did this locally.
 
-**B. Edit `config.json` by hand.** It's self-documenting. The two things almost everyone changes: - `keywords.include` + `search_terms` — **what roles** (job-title words/phrases). - `locations` — **where** (one entry per place; LinkedIn `geoId` can be left `""`).
+**A. Generate it from your CV (no coding).** Open [`docs/cv-to-config-prompt.md`](docs/cv-to-config-prompt.md), copy the prompt, and paste it into [**ChatGPT**](https://chat.openai.com), [**Claude**](https://claude.ai), or any chatbot together with your CV and your target locations. It returns a finished `config.json` ready to commit.
 
-Optional knobs: `profile` (dashboard title/subtitle), `keywords.exclude`, `employers.priority` / `employers.exclude`, `priority_topics` (⭐ highlights), `role_categories` (the Role-filter buckets). Every key is commented inline in [`config.json`](config.json).
+**B. Edit by hand.** `config.example.json` is fully self-documenting. The two things almost everyone change: `keywords.include` + `search_terms` (what roles) and `locations` (where; LinkedIn `geoId` can be left `""`).
+
+Optional knobs: `profile` (dashboard title/subtitle), `keywords.exclude`, `employers.priority` / `employers.exclude`, `priority_topics` (⭐ highlights), `role_categories` (the Role-filter buckets).
 
 ## Step 3 — Host the dashboard (GitHub Pages)
 
