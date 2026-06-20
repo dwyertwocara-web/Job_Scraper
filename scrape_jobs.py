@@ -2208,6 +2208,44 @@ def _job_identity(url: str) -> str:
     """
     if not url:
         return ""
+    try:
+        parsed = urllib.parse.urlparse(url)
+        host = parsed.netloc.lower().removeprefix("www.")
+        path = urllib.parse.unquote(parsed.path or "").rstrip("/").lower()
+        qs = urllib.parse.parse_qs(parsed.query)
+
+        def q(name: str) -> str:
+            vals = qs.get(name) or []
+            return vals[0] if vals else ""
+
+        m = re.search(r"/jobs/view/(\d+)", path)
+        if m:
+            return f"linkedin:{m.group(1)}"
+        if q("jk"):
+            return f"indeed:{q('jk')}"
+        if q("lvk"):
+            return f"ziprecruiter:{q('lvk')}"
+        if q("jid"):
+            return f"ziprecruiter:{q('jid')}"
+        if q("gh_jid"):
+            return f"greenhouse:{q('gh_jid')}"
+        m = re.search(r"/jobs/(\d+)", path)
+        if m and re.search(r"greenhouse|silkroad", host):
+            return f"{host}:{m.group(1)}"
+        m = re.search(r"/requisitions/job/([a-z0-9_-]+)", path)
+        if m:
+            return f"{host}:{m.group(1)}"
+        m = re.search(r"/jobs/(\d+)", path)
+        if m and "governmentjobs" in host:
+            return f"{host}:{m.group(1)}"
+        if q("id") and host.endswith("talent.com"):
+            return f"talent:{q('id')}"
+        if q("jl") and "glassdoor" in host:
+            return f"glassdoor:{q('jl')}"
+        if host:
+            return f"url:{host}{path}"
+    except Exception:
+        pass
     m = re.search(r'/jobs/view/(\d+)', url)
     if m:
         return f"linkedin:{m.group(1)}"
@@ -2217,13 +2255,188 @@ def _job_identity(url: str) -> str:
     m = re.search(r'[?&]lvk=([a-zA-Z0-9._-]+)', url)
     if m:
         return f"ziprecruiter:{m.group(1)}"
-    return url.split("?")[0].rstrip("/")
+    return url.split("?")[0].rstrip("/").lower()
+
+
+_JOB_TITLE_STOP = set(
+    "a an and at by for in of on the to with job jobs opening openings local recruitment".split()
+)
+_JOB_TITLE_LEVEL = set(
+    "i ii iii iv v vi 1 2 3 4 5 one two three four five phd ph d".split()
+)
+_JOB_LOC_STOP = set("united states usa us california ca greater metropolitan metro area other".split())
+_JOB_TEXT_STOP = set(
+    "a an and are as at be by for from in into is it of on or our the this to we with you your".split()
+)
+
+
+def _dedupe_tokens(text: str) -> list[str]:
+    text = (text or "").lower()
+    text = re.sub(r"\bsr\.?\b", " senior ", text)
+    text = re.sub(r"\bjr\.?\b", " junior ", text)
+    text = text.replace("&", " and ")
+    text = re.sub(r"\bph\.?\s*d\.?\b", " phd ", text)
+    return [t for t in re.sub(r"[^a-z0-9]+", " ", text).split() if t]
+
+
+def _title_tokens(title: str) -> list[str]:
+    return [t for t in _dedupe_tokens(title) if t not in _JOB_TITLE_STOP]
+
+
+def _location_tokens(location: str) -> list[str]:
+    return [
+        t for t in _dedupe_tokens(location)
+        if t not in _JOB_LOC_STOP and not t.isdigit()
+    ]
+
+
+def _content_tokens(text: str) -> list[str]:
+    return [
+        t for t in _dedupe_tokens(text)
+        if len(t) > 2 and t not in _JOB_TEXT_STOP
+    ]
+
+
+def _jaccard(a: list[str], b: list[str]) -> float:
+    if not a or not b:
+        return 0.0
+    sa, sb = set(a), set(b)
+    return len(sa & sb) / len(sa | sb)
+
+
+def _norm_company(company: str) -> str:
+    company = (company or "").lower()
+    company = re.sub(
+        r"\b(inc|llc|llp|ltd|corp|corporation|company|companies|co|group|the|of|and|department|dept|agency|division)\b",
+        " ",
+        company,
+    )
+    return re.sub(r"\s+", " ", re.sub(r"[^a-z0-9]+", " ", company)).strip()
+
+
+def _company_match(a: str, b: str) -> bool:
+    a, b = _norm_company(a), _norm_company(b)
+    if not a or not b:
+        return False
+    if a == b:
+        return True
+    return len(a) >= 5 and len(b) >= 5 and (a in b or b in a)
+
+
+def _location_overlap(a: str, b: str) -> bool:
+    at, bt = _location_tokens(a), _location_tokens(b)
+    if not at or not bt:
+        return False
+    an, bn = " ".join(at), " ".join(bt)
+    if an == bn:
+        return True
+    if len(an) >= 4 and len(bn) >= 4 and (an in bn or bn in an):
+        return True
+    bset = set(bt)
+    return any(len(t) >= 4 and t in bset for t in at)
+
+
+def _title_match(a: str, b: str) -> bool:
+    at, bt = _title_tokens(a), _title_tokens(b)
+    if not at or not bt:
+        return False
+    if at == bt:
+        return True
+    score = _jaccard(at, bt)
+    if score >= 0.86 and len(set(at) & set(bt)) >= 2:
+        return True
+    aset, bset = set(at), set(bt)
+    a_extra = [t for t in at if t not in bset]
+    b_extra = [t for t in bt if t not in aset]
+    return min(len(at), len(bt)) >= 2 and (
+        bool(a_extra) and not b_extra and all(t in _JOB_TITLE_LEVEL for t in a_extra)
+        or bool(b_extra) and not a_extra and all(t in _JOB_TITLE_LEVEL for t in b_extra)
+    )
+
+
+def _description_overlap(a: dict, b: dict) -> bool:
+    ad = (a.get("description") or "")[:3000]
+    bd = (b.get("description") or "")[:3000]
+    if len(ad) < 220 or len(bd) < 220:
+        return False
+    return _jaccard(_content_tokens(ad), _content_tokens(bd)) >= 0.82
+
+
+def _job_urls(job: dict) -> list[str]:
+    urls = []
+    if job.get("url"):
+        urls.append(job["url"])
+    urls.extend(job.get("duplicate_urls") or [])
+    return list(dict.fromkeys(u for u in urls if u))
+
+
+def _same_job(a: dict, b: dict) -> bool:
+    a_ids = {_job_identity(u) for u in _job_urls(a)}
+    b_ids = {_job_identity(u) for u in _job_urls(b)}
+    if a_ids & b_ids:
+        return True
+    if not _company_match(a.get("company", ""), b.get("company", "")):
+        return False
+    if not _title_match(a.get("title", ""), b.get("title", "")):
+        return False
+    if _location_overlap(a.get("location", ""), b.get("location", "")):
+        return True
+    a_loc_missing = not (a.get("location") or "").strip()
+    b_loc_missing = not (b.get("location") or "").strip()
+    return (a_loc_missing or b_loc_missing) and _description_overlap(a, b)
+
+
+def _merge_duplicate_job(existing: dict, incoming: dict) -> int:
+    enriched = 0
+    for key in ("description", "salary"):
+        if incoming.get(key) and not existing.get(key):
+            existing[key] = incoming[key]
+            enriched += 1
+    for key in ("direct_url", "date_posted", "job_type", "is_remote"):
+        if incoming.get(key) and not existing.get(key):
+            existing[key] = incoming[key]
+    dupes = set(existing.get("duplicate_urls") or [])
+    for url in _job_urls(incoming):
+        if url and url != existing.get("url"):
+            dupes.add(url)
+    if dupes:
+        existing["duplicate_urls"] = sorted(dupes)
+    return enriched
+
+
+def _dedupe_master_jobs(jobs: list[dict]) -> tuple[list[dict], int, int]:
+    kept: list[dict] = []
+    url_index: dict[str, dict] = {}
+    id_index: dict[str, dict] = {}
+    merged = enriched = 0
+
+    def index_job(job: dict):
+        for url in _job_urls(job):
+            url_index[url] = job
+            ident = _job_identity(url)
+            if ident:
+                id_index[ident] = job
+
+    for job in jobs:
+        url = job.get("url")
+        ident = _job_identity(url or "")
+        existing = (url_index.get(url) if url else None) or (id_index.get(ident) if ident else None)
+        if existing is None:
+            existing = next((candidate for candidate in kept if _same_job(candidate, job)), None)
+        if existing is None:
+            kept.append(job)
+            index_job(job)
+            continue
+        enriched += _merge_duplicate_job(existing, job)
+        index_job(existing)
+        merged += 1
+    return kept, merged, enriched
 
 
 def _load_prev_jobs(json_path: str) -> list[dict]:
     """Read the `jobs` list from a previously-saved jobs JSON (empty if missing)."""
     try:
-        with open(json_path) as f:
+        with open(json_path, encoding="utf-8") as f:
             return json.load(f).get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
         return []
@@ -2248,7 +2461,7 @@ LINKEDIN_BACKFILL_DAYS = 30
 
 def _merge_into_all_jobs(new_jobs: list) -> int:
     """
-    Maintain all_jobs.json — a cumulative, URL-deduped master of every role the
+    Maintain all_jobs.json — a cumulative, URL/content-deduped master of every role the
     scrapers surface, each stamped with first_seen. The per-source JSONs are
     rolling windows that overwrite every run (LinkedIn keeps only ~1h), so this
     master is what the triage agent and the dashboard's Rank tab read to see
@@ -2256,31 +2469,49 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
     """
     path = os.path.join(OUTPUT_DIR, "all_jobs.json")
     try:
-        with open(path) as f:
+        with open(path, encoding="utf-8") as f:
             master = json.load(f).get("jobs", [])
     except (FileNotFoundError, json.JSONDecodeError):
         master = []
 
     now = datetime.now(timezone.utc)
     stamp = now.strftime("%Y-%m-%dT%H:%M:%SZ")
-    by_url = {j.get("url"): j for j in master if j.get("url")}
-    added = enriched = 0
+    entries, merged_existing, enriched_existing = _dedupe_master_jobs(master)
+    url_index: dict[str, dict] = {}
+    id_index: dict[str, dict] = {}
+
+    def index_entry(entry: dict):
+        for u in _job_urls(entry):
+            url_index[u] = entry
+            ident = _job_identity(u)
+            if ident:
+                id_index[ident] = entry
+
+    for entry in entries:
+        index_entry(entry)
+
+    added = 0
+    enriched = enriched_existing
+    merged_new = 0
     for j in new_jobs:
         url = j.get("url")
-        if url and url not in by_url:  # first writer wins on first_seen
+        ident = _job_identity(url or "")
+        existing = (url_index.get(url) if url else None) or (id_index.get(ident) if ident else None)
+        if existing is None:
+            existing = next((entry for entry in entries if _same_job(entry, j)), None)
+        if existing is None and url:
             entry = dict(j)
             entry["first_seen"] = stamp
-            by_url[url] = entry
+            entries.append(entry)
+            index_entry(entry)
             added += 1
-        elif url and url in by_url:
-            existing = by_url[url]
-            for key in ("description", "salary"):
-                if j.get(key) and not existing.get(key):
-                    existing[key] = j[key]
-                    enriched += 1
+        elif existing is not None:
+            enriched += _merge_duplicate_job(existing, j)
+            index_entry(existing)
+            merged_new += 1
 
     cutoff = (now - timedelta(days=ALL_JOBS_PRUNE_DAYS)).strftime("%Y-%m-%dT%H:%M:%SZ")
-    kept = [j for j in by_url.values() if j.get("first_seen", stamp) >= cutoff]
+    kept = [j for j in entries if j.get("first_seen", stamp) >= cutoff]
     kept.sort(key=lambda j: j.get("first_seen", ""), reverse=True)
 
     with open(path, "w", encoding="utf-8") as f:
@@ -2289,6 +2520,7 @@ def _merge_into_all_jobs(new_jobs: list) -> int:
                   f, separators=(",", ":"), ensure_ascii=False)
     print(
         f"all_jobs.json: +{added} new, {enriched} enriched, "
+        f"{merged_existing + merged_new} duplicate(s) merged, "
         f"{len(kept)} total (last {ALL_JOBS_PRUNE_DAYS}d)"
     )
     return added

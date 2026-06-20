@@ -70,6 +70,21 @@
     padding: 14px 16px; box-shadow: var(--shadow); }
   .card h3 { margin: 0 0 10px 0; font-size: 12px; text-transform: uppercase;
     letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+  .toolkit { display: flex; gap: 14px; align-items: stretch; justify-content: space-between;
+    margin: -2px 0 18px; padding: 12px 14px; background: var(--panel);
+    border: 1px solid var(--line); border-radius: 12px; box-shadow: var(--shadow); }
+  .toolkit-head { min-width: 150px; }
+  .toolkit-head h2 { margin: 0; font-size: 12px; text-transform: uppercase;
+    letter-spacing: 0.08em; color: var(--muted); font-weight: 600; }
+  .toolkit-head p { margin: 4px 0 0; color: var(--muted); font-size: 12px; }
+  .toolgrid { display: grid; grid-template-columns: repeat(2, minmax(220px, 1fr));
+    gap: 8px; flex: 1; }
+  .toollink { display: block; min-height: 72px; padding: 10px 12px;
+    border: 1px solid var(--line); border-radius: 8px; color: var(--ink);
+    background: #120f0f; }
+  .toollink:hover { border-color: var(--accent); text-decoration: none; }
+  .toollink strong { display: block; font-size: 13px; color: var(--ink); margin-bottom: 3px; }
+  .toollink span { display: block; font-size: 12px; color: var(--muted); line-height: 1.35; }
   .barlist { display: flex; flex-direction: column; gap: 6px; }
   .barrow { display: grid; grid-template-columns: 110px 1fr 32px; gap: 8px;
     align-items: center; font-size: 13px; }
@@ -196,6 +211,8 @@
     .wrap { padding: 16px 14px 40px; }
     .kpis { grid-template-columns: repeat(2, 1fr); }
     .charts { grid-template-columns: 1fr; }
+    .toolkit { flex-direction: column; }
+    .toolgrid { grid-template-columns: 1fr; }
     .job { grid-template-columns: 1fr; }
     .actions { justify-content: flex-start; }
 
@@ -306,6 +323,23 @@
     <div class="histo-note" id="salary-note"></div>
   </div>
 </div>
+
+<section class="toolkit" aria-label="Companion toolkit">
+  <div class="toolkit-head">
+    <h2>Toolkit</h2>
+    <p>External helpers for application prep.</p>
+  </div>
+  <div class="toolgrid">
+    <a class="toollink" href="https://github.com/wadekarg/JobMatchAI" target="_blank" rel="noopener noreferrer">
+      <strong>JobMatchAI</strong>
+      <span>Browser-side match scoring, form autofill, cover letters, and per-job notes.</span>
+    </a>
+    <a class="toollink" href="https://github.com/srbhr/Resume-Matcher" target="_blank" rel="noopener noreferrer">
+      <strong>Resume Matcher</strong>
+      <span>Local resume tailoring, keyword scoring, cover letters, and PDF export.</span>
+    </a>
+  </div>
+</section>
 
 <div class="controls">
   <div class="controls-row">
@@ -772,27 +806,44 @@
   }
 
   // ---------- Cross-source de-duplication ----------
-  // The same role is often cross-posted to LinkedIn and Indeed with different
-  // URLs (so URL-dedupe misses it) but the same company and (usually) title.
-  // Collapse such records into one card, keyed on normalized title + location,
-  // then clustered by a compatible company name. The kept "primary" is the
-  // richest record (has salary / description), and it carries every member's
-  // URL + source so triage and source badges stay correct.
-  function _normTitle(s) {
+  // URL IDs catch exact reposts first. Title/company/location/content checks
+  // then collapse cross-board posts while keeping same-title roles in different
+  // offices separate. The kept primary carries every duplicate URL so triage
+  // actions and source badges stay correct.
+  const TITLE_STOP = new Set('a an and at by for in of on the to with job jobs opening openings local recruitment'.split(' '));
+  const TITLE_LEVEL = new Set('i ii iii iv v vi 1 2 3 4 5 one two three four five phd ph d'.split(' '));
+  const LOC_STOP = new Set('united states usa us california ca greater metropolitan metro area other'.split(' '));
+  const TEXT_STOP = new Set('a an and are as at be by for from in into is it of on or our the this to we with you your'.split(' '));
+  function _tokens(s) {
     return (s || '').toLowerCase()
-      .replace(/\bsr\.?\b/g, 'senior').replace(/\bjr\.?\b/g, 'junior')
-      .replace(/&/g, 'and').replace(/[^a-z0-9]/g, '');
+      .replace(/\bsr\.?\b/g, ' senior ')
+      .replace(/\bjr\.?\b/g, ' junior ')
+      .replace(/&/g, ' and ')
+      .replace(/\bph\.?\s*d\.?\b/g, ' phd ')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim().split(/\s+/).filter(Boolean);
+  }
+  function _titleTokens(s) { return _tokens(s).filter(t => !TITLE_STOP.has(t)); }
+  function _locTokens(s) { return _tokens(s).filter(t => !LOC_STOP.has(t) && !/^\d+$/.test(t)); }
+  function _contentTokens(s) { return _tokens(s).filter(t => t.length > 2 && !TEXT_STOP.has(t)); }
+  function _normTitle(s) {
+    return _titleTokens(s).join(' ');
   }
   function _normLoc(s) {
-    return (s || '').toLowerCase()
-      .replace(/\b(united states|usa|us|california|ca)\b/g, '')
-      .replace(/\b(greater|metropolitan|metro|bay area|area)\b/g, '')
-      .replace(/[^a-z0-9]/g, '');
+    return _locTokens(s).join(' ');
   }
   function _normCo(s) {
     return (s || '').toLowerCase()
-      .replace(/\b(inc|llc|llp|ltd|corp|corporation|company|co|group|the|of|and|department|dept)\b/g, '')
-      .replace(/[^a-z0-9]/g, '');
+      .replace(/\b(inc|llc|llp|ltd|corp|corporation|company|companies|co|group|the|of|and|department|dept|agency|division)\b/g, ' ')
+      .replace(/[^a-z0-9]+/g, ' ')
+      .trim().replace(/\s+/g, ' ');
+  }
+  function _jaccard(a, b) {
+    if (!a.length || !b.length) return 0;
+    const sa = new Set(a), sb = new Set(b);
+    let inter = 0;
+    sa.forEach(t => { if (sb.has(t)) inter++; });
+    return inter / new Set([...sa, ...sb]).size;
   }
   function _coMatch(a, b) {
     a = _normCo(a); b = _normCo(b);
@@ -801,56 +852,111 @@
     return a.length >= 5 && b.length >= 5 && (a.includes(b) || b.includes(a));
   }
   function _locOverlap(a, b) {
-    a = _normLoc(a); b = _normLoc(b);
-    if (!a || !b) return false;
-    if (a === b) return true;
-    return a.length >= 4 && b.length >= 4 && (a.includes(b) || b.includes(a));
+    const at = _locTokens(a), bt = _locTokens(b);
+    if (!at.length || !bt.length) return false;
+    const an = at.join(' '), bn = bt.join(' ');
+    if (an === bn) return true;
+    if (an.length >= 4 && bn.length >= 4 && (an.includes(bn) || bn.includes(an))) return true;
+    const bset = new Set(bt);
+    return at.some(t => t.length >= 4 && bset.has(t));
   }
-  // Two jobs with the same title should merge when their companies match AND either:
-  // (a) their location strings overlap, or
-  // (b) they come from different source boards — boards like NEOGOV and CalOpps
-  //     cross-post the same role using different region/city label conventions.
+  function _titleMatch(a, b) {
+    const at = _titleTokens(a), bt = _titleTokens(b);
+    if (!at.length || !bt.length) return false;
+    const an = at.join(' '), bn = bt.join(' ');
+    if (an === bn) return true;
+    const score = _jaccard(at, bt);
+    if (score >= 0.86 && at.filter(t => bt.includes(t)).length >= 2) return true;
+    const aset = new Set(at), bset = new Set(bt);
+    const aExtra = at.filter(t => !bset.has(t));
+    const bExtra = bt.filter(t => !aset.has(t));
+    return Math.min(at.length, bt.length) >= 2
+      && ((aExtra.length > 0 && bExtra.length === 0 && aExtra.every(t => TITLE_LEVEL.has(t)))
+        || (bExtra.length > 0 && aExtra.length === 0 && bExtra.every(t => TITLE_LEVEL.has(t))));
+  }
+  function _descOverlap(a, b) {
+    const ad = (a.description || '').slice(0, 3000);
+    const bd = (b.description || '').slice(0, 3000);
+    if (ad.length < 220 || bd.length < 220) return false;
+    return _jaccard(_contentTokens(ad), _contentTokens(bd)) >= 0.82;
+  }
+  function _dupUrlList(j) {
+    const urls = [];
+    if (j.url) urls.push(j.url);
+    if (Array.isArray(j.duplicate_urls)) urls.push(...j.duplicate_urls);
+    return [...new Set(urls.filter(Boolean))];
+  }
+  function _jobKey(url) {
+    if (!url) return '';
+    try {
+      const u = new URL(url);
+      const host = u.hostname.toLowerCase().replace(/^www\./, '');
+      const path = decodeURIComponent(u.pathname || '').replace(/\/+$/, '').toLowerCase();
+      const get = name => u.searchParams.get(name);
+      let m;
+      if ((m = /\/jobs\/view\/(\d+)/.exec(path))) return `linkedin:${m[1]}`;
+      if (get('jk')) return `indeed:${get('jk')}`;
+      if (get('lvk')) return `ziprecruiter:${get('lvk')}`;
+      if (get('jid')) return `ziprecruiter:${get('jid')}`;
+      if (get('gh_jid')) return `greenhouse:${get('gh_jid')}`;
+      if ((m = /\/jobs\/(\d+)/.exec(path)) && /greenhouse|silkroad/.test(host)) return `${host}:${m[1]}`;
+      if ((m = /\/requisitions\/job\/([a-z0-9_-]+)/.exec(path))) return `${host}:${m[1]}`;
+      if ((m = /\/jobs\/([0-9]+)/.exec(path)) && /governmentjobs/.test(host)) return `${host}:${m[1]}`;
+      if (get('id') && /talent\.com$/.test(host)) return `talent:${get('id')}`;
+      if (get('jl') && /glassdoor/.test(host)) return `glassdoor:${get('jl')}`;
+      return `url:${host}${path}`;
+    } catch {
+      return url.split('?')[0].replace(/\/+$/, '').toLowerCase();
+    }
+  }
+  // Company and title must match; distinct locations stay separate unless a
+  // normalized URL ID proves they are the same posting.
   function _shouldMerge(a, b) {
+    const aKeys = new Set(_dupUrlList(a).map(_jobKey).filter(Boolean));
+    const bKeys = _dupUrlList(b).map(_jobKey).filter(Boolean);
+    if (bKeys.some(k => aKeys.has(k))) return true;
     if (!_coMatch(a.company, b.company)) return false;
+    if (!_titleMatch(a.title, b.title)) return false;
     if (_locOverlap(a.location, b.location)) return true;
-    return a._src !== b._src;
+    return (!(a.location || '').trim() || !(b.location || '').trim()) && _descOverlap(a, b);
   }
   function _richness(j) { return (j._salMin != null ? 2 : 0) + (j.description ? 1 : 0); }
   const TRIAGE_PRIORITY = { applied: 4, saved: 3, irrelevant: 2, dismissed: 1 };
 
   function dedupe(list) {
-    // Group by title only — location is not in the key so cross-board posts
-    // that use different region strings (e.g. "City of Mountain View" vs "South Bay")
-    // still land in the same bucket and reach the company-match check.
-    const groups = new Map();
-    for (const j of list) {
-      const k = _normTitle(j.title);
-      if (!groups.has(k)) groups.set(k, []);
-      groups.get(k).push(j);
-    }
+    // Pairwise clustering catches transitive duplicates without merging
+    // generic same-title roles that fail the location/content checks.
     const out = [];
-    for (const grp of groups.values()) {
-      const used = new Array(grp.length).fill(false);
-      for (let i = 0; i < grp.length; i++) {
-        if (used[i]) continue;
-        const cluster = [grp[i]]; used[i] = true;
-        for (let k = i + 1; k < grp.length; k++) {
-          if (!used[k] && _shouldMerge(grp[i], grp[k])) { cluster.push(grp[k]); used[k] = true; }
+    const used = new Array(list.length).fill(false);
+    for (let i = 0; i < list.length; i++) {
+      if (used[i]) continue;
+      const cluster = [list[i]];
+      used[i] = true;
+      let changed = true;
+      while (changed) {
+        changed = false;
+        for (let k = i + 1; k < list.length; k++) {
+          if (used[k]) continue;
+          if (cluster.some(member => _shouldMerge(member, list[k]))) {
+            cluster.push(list[k]);
+            used[k] = true;
+            changed = true;
+          }
         }
-        out.push(_mergeCluster(cluster));
       }
+      out.push(_mergeCluster(cluster));
     }
     return out;
   }
   function _mergeCluster(cluster) {
     if (cluster.length === 1) {
       const j = cluster[0];
-      j._srcs = [j._src]; j._dupUrls = [j.url];
+      j._srcs = [j._src]; j._dupUrls = _dupUrlList(j);
       return j;
     }
     const primary = cluster.slice().sort((a, b) =>
       _richness(b) - _richness(a) || (jobFreshMs(b) || 0) - (jobFreshMs(a) || 0))[0];
-    primary._dupUrls = cluster.map(j => j.url);
+    primary._dupUrls = [...new Set(cluster.flatMap(_dupUrlList))];
     primary._srcs = [...new Set(cluster.map(j => j._src))].sort();
     // Take salary from whichever member has it.
     if (primary._salMin == null) {
