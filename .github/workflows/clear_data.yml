@@ -4,6 +4,9 @@ name: Clear Job Data
 # changed search terms and want to purge old, irrelevant results.
 # Clears every per-source JSON the dashboard reads, the rolling accumulator
 # (all_jobs.json), and the Pushover dedup tracker (notified.json).
+#
+# Unlike the scraper workflows, this ALWAYS commits — no ENABLE_DATA_COMMITS
+# check. If you triggered this manually, you want the files cleared.
 on:
   workflow_dispatch:
 
@@ -63,12 +66,19 @@ jobs:
           print("✅ output/notified.json cleared")
           EOF
 
-      - name: Commit cleared data
-        if: vars.ENABLE_DATA_COMMITS == 'true'
+      - name: Commit and push cleared data
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
-          git add -f output/
-          git diff --cached --quiet || git commit -m "chore: clear all job data [$(date -u '+%Y-%m-%d %H:%MZ')]"
-          git pull --rebase -X ours origin main
+          git add -f \
+            output/all_jobs.json output/notified.json \
+            output/jobs.json output/linkedin_jobs.json output/indeed_jobs.json \
+            output/glassdoor_jobs.json output/ziprecruiter_jobs.json \
+            output/google_jobs.json output/hiringcafe_jobs.json \
+            output/calcareers_jobs.json output/usajobs_jobs.json \
+            output/governmentjobs_jobs.json output/calopps_jobs.json
+          git diff --cached --quiet \
+            && echo "Nothing to clear (output already empty)." \
+            || git commit -m "chore: clear all job data [$(date -u '+%Y-%m-%d %H:%MZ')]"
+          git pull --no-rebase -X ours origin main
           git push
