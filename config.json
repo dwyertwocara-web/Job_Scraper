@@ -1,0 +1,307 @@
+{
+"profile": {
+"title": "Housing & Community Impact Job Tracker",
+"subtitle": "Sacramento, CA · Remote · California",
+"emoji": "🏡"
+},
+"keywords": {
+"include": [
+"Housing Specialist",
+"Housing Navigator",
+"Housing Coordinator",
+"Housing Program Coordinator",
+"Housing Program Manager",
+"Housing Services Coordinator",
+"Housing Services Manager",
+"Housing Case Manager",
+"Case Manager",
+"Care Coordinator",
+"Care Manager",
+"Community Health Worker",
+"Community Outreach Coordinator",
+"Community Engagement Coordinator",
+"Program Coordinator",
+"Program Specialist",
+"Program Manager",
+"Social Services Coordinator",
+"Social Services Specialist",
+"Community Services Coordinator",
+"CalAIM Coordinator",
+"Enhanced Care Management Coordinator",
+"Healthcare Program Coordinator",
+"Behavioral Health Coordinator",
+"Public Health Coordinator",
+"Research Assistant",
+"Program Evaluation Coordinator",
+"Data Coordinator",
+"Data Analyst",
+"Grant Coordinator",
+"Grants Coordinator",
+"Development Coordinator",
+"Nonprofit Program Coordinator",
+"Continuum of Care Coordinator",
+"Homeless Services Coordinator",
+"Homeless Response Coordinator",
+"Housing Stability Specialist",
+"Supportive Housing Coordinator"
+],
+"exclude": [
+"intern",
+"internship",
+"co-op",
+"trainee",
+"postdoc",
+"software engineer",
+"developer",
+"sales representative",
+"account executive",
+"financial analyst",
+"registered nurse",
+"physician",
+"attorney",
+"teacher",
+"professor",
+"engineer",
+"warehouse",
+"retail",
+"restaurant",
+"senior manager",
+"director",
+"vice president",
+"executive"
+]
+},
+"search_terms": {
+"linkedin": [
+"Housing Specialist",
+"Housing Navigator",
+"Housing Coordinator",
+"CalAIM",
+"Community Health Worker",
+"Care Coordinator",
+"Care Manager",
+"Social Services Coordinator",
+"Program Coordinator nonprofit",
+"Housing Program Manager",
+"Supportive Housing",
+"Homeless Services",
+"Continuum of Care",
+"Community Engagement Coordinator",
+"Public Health Coordinator",
+"Behavioral Health Coordinator",
+"Healthcare Program Coordinator",
+"Grant Coordinator",
+"Program Evaluation",
+"Research Assistant public health"
+],
+"indeed": [
+"housing specialist",
+"housing navigator",
+"care coordinator",
+"community health worker",
+"program coordinator nonprofit",
+"social services coordinator",
+"CalAIM"
+],
+"glassdoor": [
+"housing services",
+"housing coordinator",
+"case manager housing",
+"community health",
+"public health coordinator",
+"nonprofit program coordinator",
+"care coordinator"
+],
+"ziprecruiter": [
+"housing specialist",
+"housing program coordinator",
+"community outreach coordinator",
+"social services specialist",
+"healthcare coordinator",
+"program specialist",
+"case manager"
+],
+"google_jobs": [
+"housing specialist",
+"housing navigator",
+"CalAIM jobs",
+"community health worker",
+"program coordinator nonprofit",
+"care coordinator",
+"public health jobs"
+],
+"hiring_cafe": [
+"housing specialist",
+"housing navigator",
+"community health",
+"care coordinator",
+"social services",
+"nonprofit program coordinator"
+]
+},
+"locations": {
+"linkedin": [
+{
+"name": "Sacramento",
+"location": "Sacramento, CA, United States",
+"geoId": ""
+},
+{
+"name": "California Remote",
+"location": "California, United States",
+"geoId": ""
+},
+{
+"name": "Remote",
+"location": "United States",
+"geoId": ""
+}
+],
+"indeed": [
+{
+"location": "Sacramento, CA",
+"country": "USA"
+},
+{
+"location": "California",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"glassdoor": [
+{
+"location": "Sacramento, CA",
+"country": "USA"
+},
+{
+"location": "California",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"ziprecruiter": [
+{
+"location": "Sacramento, CA",
+"country": "USA"
+},
+{
+"location": "California",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"google_jobs": [
+{
+"location": "Sacramento, CA",
+"country": "USA"
+},
+{
+"location": "California",
+"country": "USA"
+},
+{
+"location": "Remote",
+"country": "USA"
+}
+],
+"hiring_cafe": [
+{
+"location": "United States"
+}
+]
+},
+"google_jobs": {
+"queries": [],
+"serpapi_api_key": "",
+"oxylabs_username": "",
+"oxylabs_password": ""
+},
+"hiring_cafe": {
+"max_pages": 3
+},
+"employers": {
+"priority": [
+"WellSpace Health",
+"Independent Living Systems",
+"Sacramento Regional Coalition to End Homelessness",
+"California Health and Human Services Agency",
+"Molina Healthcare",
+"Kaiser Permanente",
+"UC Davis Health",
+"Yosemite Conservancy"
+],
+"exclude": [
+"recruiting agency",
+"staffing agency",
+"headhunter"
+]
+},
+"priority_topics": {
+"terms": [
+[
+"Housing Services",
+"\b(Housing|Supportive Housing|Homeless Services|Housing Stability)\b"
+],
+[
+"CalAIM & Healthcare Coordination",
+"\b(CalAIM|Enhanced Care Management|Care Coordination|Healthcare)\b"
+],
+[
+"Trauma-Informed Care",
+"\b(Trauma-Informed|Client-Centered|Behavioral Health|Mental Health)\b"
+],
+[
+"Community Engagement",
+"\b(Community Engagement|Community Outreach|Partnerships|Stakeholder)\b"
+],
+[
+"Program Management",
+"\b(Program Management|Program Coordinator|Program Development|Program Evaluation)\b"
+]
+]
+},
+"role_categories": {
+"terms": [
+[
+"Housing & Homeless Services",
+"\b(Housing Specialist|Housing Navigator|Housing Coordinator|Supportive Housing|Homeless Services|Housing Stability)\b"
+],
+[
+"Healthcare & Care Coordination",
+"\b(Care Coordinator|Care Manager|Community Health Worker|CalAIM|Healthcare Coordinator|Behavioral Health)\b"
+],
+[
+"Nonprofit Program Management",
+"\b(Program Coordinator|Program Specialist|Program Manager|Social Services Coordinator|Community Services)\b"
+],
+[
+"Community Engagement & Outreach",
+"\b(Community Engagement|Community Outreach|Outreach Coordinator|Partnerships)\b"
+],
+[
+"Public Health",
+"\b(Public Health|Health Program|Population Health|Health Equity)\b"
+],
+[
+"Research & Evaluation",
+"\b(Research Assistant|Program Evaluation|Data Coordinator|Data Analyst)\b"
+],
+[
+"Grants & Development",
+"\b(Grant Coordinator|Grants Coordinator|Development Coordinator|Funding)\b"
+]
+]
+},
+"notify": {
+"min_fit": 75
+}
+}
