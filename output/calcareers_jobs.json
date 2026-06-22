@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-21 23:41 UTC",
+  "scraped_at": "2026-06-22 22:27 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Environmental Health Hazard Assessment Office",
@@ -13,15 +13,5 @@
       "ats": "CalCareers"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Environmental Health Hazard Assessment Office",
-      "title": "Environmental Health Education and Community Science Program Specialist",
-      "location": "United States",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=518467",
-      "date_posted": "2026-05-14",
-      "salary": "$7820.00 - $10732.00",
-      "ats": "CalCareers"
-    }
-  ]
+  "new_jobs": []
 }
