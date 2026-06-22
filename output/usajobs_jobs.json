@@ -1,1 +1,81 @@
-{"scraped_at": "2026-06-21 23:39 UTC", "total": 0, "new_count": 0, "jobs": [], "new_jobs": []}
+{
+  "scraped_at": "2026-06-22 22:23 UTC",
+  "total": 4,
+  "new_count": 4,
+  "jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Interventional and Specialty Care Coordinator (Rheumatology & Infectious Disease)",
+      "location": "Bay Pines, Florida",
+      "url": "https://www.usajobs.gov/job/873577400",
+      "date_posted": "2026-06-18",
+      "salary": "Starting at $75,987 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Export-Import Bank of the United States",
+      "title": "Supervisory Security Specialist (Insider Threat Analysis Program Manager)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/873324600",
+      "date_posted": "2026-06-22",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator) - HUD/VASH",
+      "location": "Ukiah, California",
+      "url": "https://www.usajobs.gov/job/873740100",
+      "date_posted": "2026-06-18",
+      "salary": "Starting at $108,425 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Air Force Materiel Command",
+      "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
+      "location": "Kelly AFB, Texas",
+      "url": "https://www.usajobs.gov/job/866969400",
+      "date_posted": "2026-04-28",
+      "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Interventional and Specialty Care Coordinator (Rheumatology & Infectious Disease)",
+      "location": "Bay Pines, Florida",
+      "url": "https://www.usajobs.gov/job/873577400",
+      "date_posted": "2026-06-18",
+      "salary": "Starting at $75,987 Per year (VN 00)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Export-Import Bank of the United States",
+      "title": "Supervisory Security Specialist (Insider Threat Analysis Program Manager)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/873324600",
+      "date_posted": "2026-06-22",
+      "salary": "Starting at $143,913 Per year (GS 14)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator) - HUD/VASH",
+      "location": "Ukiah, California",
+      "url": "https://www.usajobs.gov/job/873740100",
+      "date_posted": "2026-06-18",
+      "salary": "Starting at $108,425 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Air Force Materiel Command",
+      "title": "PROGRAM MANAGER - DIRECT HIRE AUTHORITY",
+      "location": "Kelly AFB, Texas",
+      "url": "https://www.usajobs.gov/job/866969400",
+      "date_posted": "2026-04-28",
+      "salary": "Starting at $90,823 Per year (NH 3)",
+      "ats": "USAJOBS"
+    }
+  ]
+}
