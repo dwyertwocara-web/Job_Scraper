@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-22 22:29 UTC",
+  "scraped_at": "2026-06-23 21:55 UTC",
   "total": 5,
-  "new_count": 5,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Jose",
@@ -49,51 +49,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "San Jose",
-      "title": "Program Manager (Budget)- Department of Transportation",
-      "location": "South Bay",
-      "url": "https://www.calopps.org/san-jose/job-20751640",
-      "date_posted": "",
-      "salary": "$134,490.72-$174,851.04 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Support Dog Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20749975",
-      "date_posted": "",
-      "salary": "$7,808.00-$9,492.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Housing Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20742105",
-      "date_posted": "",
-      "salary": "$9,674.00-$11,758.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Economic Development Program Manager",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20710233",
-      "date_posted": "",
-      "salary": "$12,694.00-$15,431.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Mental Health Program Specialist- SB43 (Open & Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20705405",
-      "date_posted": "",
-      "salary": "$121,451.20-$151,798.40 Annually",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
