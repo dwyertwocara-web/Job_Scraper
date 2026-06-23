@@ -1,56 +1,68 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-06-23 11:42 UTC*
+*Last updated: 2026-06-23 22:01 UTC*
 
-**12 new role(s)** since last run · 15 total in last 24h
+**15 new role(s)** since last run · 22 total in last 24h
 
-### [Program Manager - Enhanced Care Management](https://medicalhirings.talentrushhq.com/joblistingpage/ublh4b073hfo-618c-8da9a2378b843bd-237c4e-f0fffc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
+### [Housing Case Manager - Vista Nueva](https://www.linkedin.com/jobs/view/housing-case-manager-vista-nueva-at-jamboree-housing-corporation-4429430436?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Jamboree Housing Corporation
 - 📍 **Location:** Sacramento, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Regulatory Data Analyst II - Hybrid Telework](https://salutemyjob.com/jobs/regulatory-data-analyst-ii-hybrid-telework-sacramento-california/2834417169-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — california department of public health
+### [Leasing and Housing Specialist; Temporary](https://www.learn4good.com/jobs/sacramento/california/social_work/5206017865/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Aspiranet
 - 📍 **Location:** Sacramento, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Housing Case Manager](https://www.linkedin.com/jobs/view/housing-case-manager-at-illumination-health-%2B-home-4432005118?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Illumination Health + Home
-- 📍 **Location:** Stanton, CA
+### [Ohio Housing Specialist](https://www.talent.com/view?id=625135150204391700&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
+- 📍 **Location:** Burbank, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Case Manager - Enhanced Care Management ( CalAIM) (JR 5412)](https://sandiego-ca.geebo.com/jobs-online/view/id/97819779-case-manager-enhanced-care-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting The Homeless)
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** 20–28 an hour
+### [Ohio Housing Specialist](https://www.talent.com/view?id=625135122548068628&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
+- 📍 **Location:** Oakland, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Program Manager, Healthcare Services; Enhanced Care Mgmt - PST](https://www.learn4good.com/jobs/san-jose/california/healthcare/5204675511/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
+### [Ohio Housing Specialist](https://www.talent.com/view?id=625135153656434964&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
+- 📍 **Location:** San Diego, CA (+1 other)
+- 🕒 **Posted:** 2026-06-23
+
+### [Ohio Housing Specialist](https://www.talent.com/view?id=625135153844588820&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
+- 📍 **Location:** Santa Ana, CA (+1 other)
+- 🕒 **Posted:** 2026-06-23
+
+### [Case Manager Housing](https://www.linkedin.com/jobs/view/case-manager-housing-at-mental-health-systems-4432065513?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Mental Health Systems
+- 📍 **Location:** Escondido, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Housing Navigator (Bilingual English/Spanish)](https://www.indeed.com/viewjob?jk=39a9fae787f71091&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — The Cambodian Family Community Center
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** 24–26 an hour
+- 🕒 **Posted:** 2026-06-23
+
+### [Case Manager, Behavioral Health Services](https://www.linkedin.com/jobs/view/case-manager-behavioral-health-services-at-catholic-charities-of-santa-clara-county-4430875215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Catholic Charities of Santa Clara County
 - 📍 **Location:** San Jose, CA
-- 💰 **Salary:** 84,067–163,931 a year
 - 🕒 **Posted:** 2026-06-23
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-total-vision-4429415798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Total Vision
-- 📍 **Location:** Seal Beach, CA
+### [Impactful Nonprofit Program Coordinator; Volunteer](https://www.learn4good.com/jobs/san-francisco/california/non-profit/5204992412/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — BRIGHT MIND ENRICHMENT AND SCHOOLING
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** 60K–80K a year
 - 🕒 **Posted:** 2026-06-23
 
-### [Patient Care Coordinator (Outpatient) - Full Time, Day Shift](https://www.linkedin.com/jobs/view/patient-care-coordinator-outpatient-full-time-day-shift-at-adventist-health-4430867603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
-- 📍 **Location:** Simi Valley, CA
+### [Patient Care Coordinator and Scheduler](https://www.indeed.com/viewjob?jk=29ec48dda5cff6e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Thrive Wellness Medical Group
+- 📍 **Location:** Arcata, CA
+- 💰 **Salary:** 20–23 an hour
 - 🕒 **Posted:** 2026-06-23
 
-### [Patient Care Coordinator, (Temporary)](https://www.linkedin.com/jobs/view/patient-care-coordinator-temporary-at-choc-children-s-4432061287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — CHOC Children's
-- 📍 **Location:** Orange, CA
+### [Patient Care Coordinator-Corona, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-corona-ca-at-sonova-group-4432044428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
+- 📍 **Location:** Corona, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Patient Care Coordinator Float](https://www.linkedin.com/jobs/view/patient-care-coordinator-float-at-shady-grove-fertility-4432067859?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Shady Grove Fertility
-- 📍 **Location:** Los Gatos, CA
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4432414529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
+- 📍 **Location:** Menifee, CA
+- 💰 **Salary:** 18.00–25.50 an hour
 - 🕒 **Posted:** 2026-06-23
 
-### [Patient Care Coordinator - Outpatient, Medical Oncology (Full-Time, Day Shift)](https://www.linkedin.com/jobs/view/patient-care-coordinator-outpatient-medical-oncology-full-time-day-shift-at-adventist-health-4430807237?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
-- 📍 **Location:** Bakersfield, CA
+### [CLINICAL CARE COORDINATOR - PER DIEM](https://www.linkedin.com/jobs/view/clinical-care-coordinator-per-diem-at-st-michael-s-house-4429428167?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — St Michael's House
+- 📍 **Location:** Palm Springs, CA
 - 🕒 **Posted:** 2026-06-23
 
-### [Memory Care Program Coordinator](https://www.linkedin.com/jobs/view/memory-care-program-coordinator-at-brookdale-4430589005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Brookdale
-- 📍 **Location:** Hemet, CA
-- 💰 **Salary:** 20.06–25.07 an hour
-- 🕒 **Posted:** 2026-06-23
-
-### [Memory Care Program Coordinator](https://www.linkedin.com/jobs/view/memory-care-program-coordinator-at-gallaher-signature-living-4430886874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Gallaher Signature Living
-- 📍 **Location:** California
-- 💰 **Salary:** 20–25 an hour
+### [FT - LVN Patient Care Coordinator](https://salutemyjob.com/jobs/ft-lvn-patient-care-coordinator-san-diego-california/2834014095-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Advanced Home Health
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-06-23
