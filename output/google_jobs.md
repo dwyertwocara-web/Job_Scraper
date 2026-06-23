@@ -1,52 +1,56 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-06-22 23:07 UTC*
+*Last updated: 2026-06-23 11:42 UTC*
 
-**11 new role(s)** since last run · 20 total in last 24h
+**12 new role(s)** since last run · 15 total in last 24h
 
-### [HEALTH PROGRAM SPECIALIST I JC-522271](https://www.linkedin.com/jobs/view/health-program-specialist-i-jc-522271-at-california-department-of-public-health-4428968837?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — California Department of Public Health
+### [Program Manager - Enhanced Care Management](https://medicalhirings.talentrushhq.com/joblistingpage/ublh4b073hfo-618c-8da9a2378b843bd-237c4e-f0fffc4?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
 - 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** 6,623–8,290 a month
-- 🕒 **Posted:** 2026-06-22
+- 🕒 **Posted:** 2026-06-23
 
-### [Onsite Housing Specialist: Affordable & Corporate Programs](https://www.learn4good.com/jobs/fremont/california/administrative/5202970340/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Essex Property Trust REIT
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** 60K a year
-- 🕒 **Posted:** 2026-06-22
+### [Regulatory Data Analyst II - Hybrid Telework](https://salutemyjob.com/jobs/regulatory-data-analyst-ii-hybrid-telework-sacramento-california/2834417169-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — california department of public health
+- 📍 **Location:** Sacramento, CA
+- 🕒 **Posted:** 2026-06-23
 
-### [Housing Navigator: Expand Student Housing Partnerships](https://jobs.edinburghcityfc.com/jobs/housing-navigator-expand-student-housing-partnerships-lancaster-california/2832109964-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Inside Higher Ed
-- 📍 **Location:** Lancaster, CA
-- 🕒 **Posted:** 2026-06-22
+### [Housing Case Manager](https://www.linkedin.com/jobs/view/housing-case-manager-at-illumination-health-%2B-home-4432005118?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Illumination Health + Home
+- 📍 **Location:** Stanton, CA
+- 🕒 **Posted:** 2026-06-23
 
-### [Housing Navigator; Part-Time), Ventura, Ca](https://www.learn4good.com/jobs/oxnard/california/social_work/5203078682/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — National Health Foundation
-- 📍 **Location:** Oxnard, CA
-- 🕒 **Posted:** 2026-06-22
+### [Case Manager - Enhanced Care Management ( CalAIM) (JR 5412)](https://sandiego-ca.geebo.com/jobs-online/view/id/97819779-case-manager-enhanced-care-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting The Homeless)
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** 20–28 an hour
+- 🕒 **Posted:** 2026-06-23
 
-### [Housing Navigator Professional Expert -Temporary](https://www.jobilize.com/job/us-ca-lancaster-housing-navigator-professional-expert-temporary-antelope?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Antelope Valley College
-- 📍 **Location:** Lancaster, CA
-- 🕒 **Posted:** 2026-06-22
+### [Program Manager, Healthcare Services; Enhanced Care Mgmt - PST](https://www.learn4good.com/jobs/san-jose/california/healthcare/5204675511/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** 84,067–163,931 a year
+- 🕒 **Posted:** 2026-06-23
 
-### [Program Manager - Enhanced Care Management](https://medicalhirings.talentrushhq.com/joblistingpage/5grvlteaw1ff-578-96d973ef60-9a9bf24a9268-634aaad?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
-- 📍 **Location:** California City, CA
-- 🕒 **Posted:** 2026-06-22
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-total-vision-4429415798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Total Vision
+- 📍 **Location:** Seal Beach, CA
+- 🕒 **Posted:** 2026-06-23
 
-### [AHD RN Care Coordinator](https://www.snagajob.com/jobs/1267585258?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Alameda Health System
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-22
+### [Patient Care Coordinator (Outpatient) - Full Time, Day Shift](https://www.linkedin.com/jobs/view/patient-care-coordinator-outpatient-full-time-day-shift-at-adventist-health-4430867603?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
+- 📍 **Location:** Simi Valley, CA
+- 🕒 **Posted:** 2026-06-23
 
-### [Plastic Surgery Practice Sales - Patient Care Coordinator](https://www.linkedin.com/jobs/view/plastic-surgery-practice-sales-patient-care-coordinator-at-yellowtelescope-4430597067?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — YellowTelescope
+### [Patient Care Coordinator, (Temporary)](https://www.linkedin.com/jobs/view/patient-care-coordinator-temporary-at-choc-children-s-4432061287?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — CHOC Children's
+- 📍 **Location:** Orange, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Patient Care Coordinator Float](https://www.linkedin.com/jobs/view/patient-care-coordinator-float-at-shady-grove-fertility-4432067859?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Shady Grove Fertility
+- 📍 **Location:** Los Gatos, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Patient Care Coordinator - Outpatient, Medical Oncology (Full-Time, Day Shift)](https://www.linkedin.com/jobs/view/patient-care-coordinator-outpatient-medical-oncology-full-time-day-shift-at-adventist-health-4430807237?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
+- 📍 **Location:** Bakersfield, CA
+- 🕒 **Posted:** 2026-06-23
+
+### [Memory Care Program Coordinator](https://www.linkedin.com/jobs/view/memory-care-program-coordinator-at-brookdale-4430589005?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Brookdale
+- 📍 **Location:** Hemet, CA
+- 💰 **Salary:** 20.06–25.07 an hour
+- 🕒 **Posted:** 2026-06-23
+
+### [Memory Care Program Coordinator](https://www.linkedin.com/jobs/view/memory-care-program-coordinator-at-gallaher-signature-living-4430886874?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Gallaher Signature Living
 - 📍 **Location:** California
-- 🕒 **Posted:** 2026-06-22
-
-### [Lead Care Coordinator](https://www.jobilize.com/job/us-ca-bonita-lead-care-coordinator-oxford-health-group-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Oxford Health Group
-- 📍 **Location:** Bonita, CA
-- 🕒 **Posted:** 2026-06-22
-
-### [Bilingual Service Coordinator & Case Manager](https://www.learn4good.com/jobs/ridgecrest/california/healthcare/5203116725/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Kern Regional Center
-- 📍 **Location:** Ridgecrest, CA
-- 💰 **Salary:** 60K a year
-- 🕒 **Posted:** 2026-06-22
-
-### [HEALTH PROGRAM SPECIALIST I JC-522107](https://www.linkedin.com/jobs/view/health-program-specialist-i-jc-522107-at-california-department-of-public-health-4428961941?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — California Department of Public Health
-- 📍 **Location:** California
-- 💰 **Salary:** 6,623–8,290 a month
-- 🕒 **Posted:** 2026-06-22
+- 💰 **Salary:** 20–25 an hour
+- 🕒 **Posted:** 2026-06-23
