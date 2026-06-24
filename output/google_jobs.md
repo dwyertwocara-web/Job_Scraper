@@ -1,68 +1,76 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-06-23 22:01 UTC*
+*Last updated: 2026-06-24 21:54 UTC*
 
-**15 new role(s)** since last run · 22 total in last 24h
+**16 new role(s)** since last run · 17 total in last 24h
 
-### [Housing Case Manager - Vista Nueva](https://www.linkedin.com/jobs/view/housing-case-manager-vista-nueva-at-jamboree-housing-corporation-4429430436?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Jamboree Housing Corporation
+### [Care Coordinator LCSW - Case Coordination](https://www.jobilize.com/job/us-ca-sacramento-care-coordinator-lcsw-case-coordination-hospital?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — The Hospital of Central Connecticut
 - 📍 **Location:** Sacramento, CA
-- 🕒 **Posted:** 2026-06-23
+- 🕒 **Posted:** 2026-06-24
 
-### [Leasing and Housing Specialist; Temporary](https://www.learn4good.com/jobs/sacramento/california/social_work/5206017865/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Aspiranet
-- 📍 **Location:** Sacramento, CA
-- 🕒 **Posted:** 2026-06-23
+### [Child Care Coordinator at Child Action, Inc. Rancho Cordova, CA](https://tangoteachercoop.org/library/job/child-care-coordinator-at-child-action-inc-rancho-cordova-ca-ekdwTHpSekVzUlYvUHpoeEQxTU5kK1FTR2c9PQ==?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Child Action, Inc.
+- 📍 **Location:** Rancho Cordova, CA
+- 💰 **Salary:** 25 an hour
+- 🕒 **Posted:** 2026-06-24
 
-### [Ohio Housing Specialist](https://www.talent.com/view?id=625135150204391700&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
-- 📍 **Location:** Burbank, CA
-- 🕒 **Posted:** 2026-06-23
+### [Resident Housing Specialist - Lompoc](https://www.glassdoor.com/job-listing/resident-housing-specialist-lompoc-hasbarco-JV_IC1147469_KO0,34_KE35,43.htm?jl=1010177712317&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — HASBARCO
+- 📍 **Location:** Lompoc, CA
+- 💰 **Salary:** 33.73–41.00 an hour
+- 🕒 **Posted:** 2026-06-24
 
-### [Ohio Housing Specialist](https://www.talent.com/view?id=625135122548068628&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
-- 📍 **Location:** Oakland, CA
-- 🕒 **Posted:** 2026-06-23
+### [Case Manager Time Limited Subsidy (TLS) - The Nest](https://www.linkedin.com/jobs/view/case-manager-time-limited-subsidy-tls-the-nest-at-the-people-concern-4429474854?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — The People Concern
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-06-24
 
-### [Ohio Housing Specialist](https://www.talent.com/view?id=625135153656434964&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
-- 📍 **Location:** San Diego, CA (+1 other)
-- 🕒 **Posted:** 2026-06-23
+### [CalAIM Community Support Navigation Case Manager](https://www.glassdoor.com/job-listing/calaim-community-support-navigation-case-manager-e-center-JV_IC1146430_KO0,48_KE49,57.htm?jl=1010177729472&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — E CENTER
+- 📍 **Location:** Arbuckle, CA
+- 💰 **Salary:** 23.25–28.26 an hour
+- 🕒 **Posted:** 2026-06-24
 
-### [Ohio Housing Specialist](https://www.talent.com/view?id=625135153844588820&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — VirtualVocations
-- 📍 **Location:** Santa Ana, CA (+1 other)
-- 🕒 **Posted:** 2026-06-23
+### [CalAIM Case Manager (JR 5720)](https://www.sonicjobs.com/us/jobs/ranchita/full-time/calaim-case-manager-jr-5720-6a3ba0012a509d130fd03726?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting the Homeless)
+- 📍 **Location:** Ranchita, CA
+- 💰 **Salary:** 23–28 an hour
+- 🕒 **Posted:** 2026-06-24
 
-### [Case Manager Housing](https://www.linkedin.com/jobs/view/case-manager-housing-at-mental-health-systems-4432065513?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Mental Health Systems
-- 📍 **Location:** Escondido, CA
-- 🕒 **Posted:** 2026-06-23
+### [Community Health Worker](https://medicalhirings.talentrushhq.com/joblistingpage/0nrvus1btasy-3bf-d3b2f4da7-058a-c7c934320f3a1de6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
+- 📍 **Location:** Monrovia, CA
+- 🕒 **Posted:** 2026-06-24
 
-### [Housing Navigator (Bilingual English/Spanish)](https://www.indeed.com/viewjob?jk=39a9fae787f71091&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — The Cambodian Family Community Center
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** 24–26 an hour
-- 🕒 **Posted:** 2026-06-23
+### [2026/2027 Associate Faculty- Health Care Ancillaries Community Health Worker](https://www.jobilize.com/amp/job/us-ca-windsor-2026-2027-associate-faculty-health-care-ancillaries?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Santa Rosa Junior College
+- 📍 **Location:** Windsor, CA
+- 🕒 **Posted:** 2026-06-24
 
-### [Case Manager, Behavioral Health Services](https://www.linkedin.com/jobs/view/case-manager-behavioral-health-services-at-catholic-charities-of-santa-clara-county-4430875215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Catholic Charities of Santa Clara County
-- 📍 **Location:** San Jose, CA
-- 🕒 **Posted:** 2026-06-23
+### [Program Coordinator - Street Medicine Grant Funded](https://www.linkedin.com/jobs/view/program-coordinator-street-medicine-grant-funded-at-mlk-community-healthcare-4431481012?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — MLK Community Healthcare
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** 22–32 an hour
+- 🕒 **Posted:** 2026-06-24
 
-### [Impactful Nonprofit Program Coordinator; Volunteer](https://www.learn4good.com/jobs/san-francisco/california/non-profit/5204992412/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — BRIGHT MIND ENRICHMENT AND SCHOOLING
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** 60K–80K a year
-- 🕒 **Posted:** 2026-06-23
-
-### [Patient Care Coordinator and Scheduler](https://www.indeed.com/viewjob?jk=29ec48dda5cff6e4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Thrive Wellness Medical Group
-- 📍 **Location:** Arcata, CA
-- 💰 **Salary:** 20–23 an hour
-- 🕒 **Posted:** 2026-06-23
-
-### [Patient Care Coordinator-Corona, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-corona-ca-at-sonova-group-4432044428?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
-- 📍 **Location:** Corona, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4432414529?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
-- 📍 **Location:** Menifee, CA
-- 💰 **Salary:** 18.00–25.50 an hour
-- 🕒 **Posted:** 2026-06-23
-
-### [CLINICAL CARE COORDINATOR - PER DIEM](https://www.linkedin.com/jobs/view/clinical-care-coordinator-per-diem-at-st-michael-s-house-4429428167?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — St Michael's House
-- 📍 **Location:** Palm Springs, CA
-- 🕒 **Posted:** 2026-06-23
-
-### [FT - LVN Patient Care Coordinator](https://salutemyjob.com/jobs/ft-lvn-patient-care-coordinator-san-diego-california/2834014095-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Advanced Home Health
+### [Program Coordinator, Coasts](https://www.learn4good.com/jobs/san-diego/california/non-profit/5208441286/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — National Audubon Society
 - 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-06-23
+- 💰 **Salary:** 25.16–28.00 an hour
+- 🕒 **Posted:** 2026-06-24
+
+### [Medical Assistant / Patient Care Coordinator, ITA](https://careers.stanfordhealthcare.org/us/en/job/R2657159/Medical-Assistant-Patient-Care-Coordinator-ITA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Enhanced Care Management Care Coordinator](https://www.adzuna.com/details/5774422836?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — OMNI FAMILY HEALTH
+- 📍 **Location:** Oildale, CA
+- 💰 **Salary:** 24.00–28.20 an hour
+- 🕒 **Posted:** 2026-06-24
+
+### [Patient Care Coordinator III (Medical Assistant), Non-Invasive and Preventive Cardiology – Full Time, Days (08HR)](https://careers.stanfordhealthcare.org/us/en/job/R2655200/Patient-Care-Coordinator-III-Medical-Assistant-Non-Invasive-and-Preventive-Cardiology-Full-Time-Days-08HR?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
+- 📍 **Location:** Palo Alto, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Patient Care Coordinator Float](https://bebee.com/us/jobs/patient-care-coordinator-float-shady-grove-fertility-san-jose--lensa-2365_8ff4e09b6d02395db518ea73328b9a4b6560a07fbc574244a6fd4755598885fd?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Shady Grove Fertility
+- 📍 **Location:** San Jose, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Lead Clinical Care Coordinator - Vituity](https://careers.vituity.com/job/CEAMUS26000149EXTERNALENUS/Lead-Clinical-Care-Coordinator-Vituity?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Vituity
+- 📍 **Location:** Emeryville, CA
+- 🕒 **Posted:** 2026-06-24
+
+### [Orthopedic Patient Care Coordinator | Front Desk](https://www.learn4good.com/jobs/palo-alto/california/healthcare/5209885125/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adecco US, Inc.
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** 30–34 an hour
+- 🕒 **Posted:** 2026-06-24
