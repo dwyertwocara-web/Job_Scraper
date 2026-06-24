@@ -1,147 +1,138 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-06-24 08:59 UTC*
+*Last updated: 2026-06-24 10:39 UTC*
 
-**32 new role(s)** since last run · 32 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [Care Manager, ER](https://www.linkedin.com/jobs/view/4429844165/) — Redlands Community Hospital
-- 📍 **Location:** Redlands, CA
+### [Physical Therapist III, Case Manager, Home Health](https://www.linkedin.com/jobs/view/4423982938/) — Sutter Health
+- 📍 **Location:** Novato, CA
+- 💰 **Salary:** $70.81 to $88.51
 - 🕒 **Posted:** 2026-06-24
 
-### [Care Manager, ER](https://www.linkedin.com/jobs/view/4429836998/) — Redlands Community Hospital
-- 📍 **Location:** Redlands, CA
+### [Program Manager, Product Environmental Compliance & Regulatory Affairs](https://www.linkedin.com/jobs/view/4431485421/) — Stryker
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $102,600 - $171,000 USD
 - 🕒 **Posted:** 2026-06-24
 
-### [Case Manager III](https://www.linkedin.com/jobs/view/4432562035/) — Xometry
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $100,000-$120,000 annually
-- 🕒 **Posted:** 2026-06-24
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4432534671/) — LHH
-- 📍 **Location:** El Cajon, CA
-- 💰 **Salary:** $43,500.00/yr - $49,900.00/yr
-- 🕒 **Posted:** 2026-06-24
-
-### [Program Manager, Operations](https://www.linkedin.com/jobs/view/4432549250/) — Xometry
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $103,000-$134,000 annually
-- 🕒 **Posted:** 2026-06-24
-
-### [Street Outreach Case Manager](https://www.linkedin.com/jobs/view/4432546090/) — The PLACE
+### [Short-Term Program Coordinator/RPGM Events Assistant](https://www.linkedin.com/jobs/view/4431480227/) — RP Global Missions
 - 📍 **Location:** Colorado Springs, CO
 - 🕒 **Posted:** 2026-06-24
 
-### [Case Manager, Washington Street](https://www.linkedin.com/jobs/view/4432542338/) — Pine Street Inn
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4422407154/) — NeighborHealth
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $23.48 - $26.30 per hour
 - 🕒 **Posted:** 2026-06-24
 
-### [Housing Case Manager (Heighs)](https://www.linkedin.com/jobs/view/4432534777/) — Avenue 360 Health and Wellness
-- 📍 **Location:** Houston, TX
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4423947994/) — Lynn Community Health Center
+- 📍 **Location:** Lynn, MA
+- 💰 **Salary:** $20.81/yr - $28.00/yr
 - 🕒 **Posted:** 2026-06-24
 
-### [Housing Case Manager (Heights)](https://www.linkedin.com/jobs/view/4432533786/) — Avenue 360 Health and Wellness
-- 📍 **Location:** Houston, TX
+### [Travel Care Coordinator - York, PA](https://www.linkedin.com/jobs/view/4413264727/) — DaVita Kidney Care
+- 📍 **Location:** York, PA
+- 💰 **Salary:** $18.00/hr - $25.00/hr
 - 🕒 **Posted:** 2026-06-24
 
-### [Licensed Program Coordinator](https://www.linkedin.com/jobs/view/4389473023/) — YMCA of the USA
-- 📍 **Location:** Milwaukee, WI
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4429853284/) — Kaleida Health
+- 📍 **Location:** Olean, NY
+- 💰 **Salary:** $16.00 - $20.63
 - 🕒 **Posted:** 2026-06-24
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4432558118/) — Specialized Education Services, Inc.
-- 📍 **Location:** Gilbert, AZ
-- 💰 **Salary:** USD $48,200.00 - USD $63,000.00 /Yr
+### [Case Manager - Absence Management](https://www.linkedin.com/jobs/view/4431498381/) — Jobgether
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000 to $70,000,
 - 🕒 **Posted:** 2026-06-24
 
-### [Community Based Case Manager - Adult Mental Health](https://www.linkedin.com/jobs/view/4432552020/) — Zepf Center
-- 📍 **Location:** Toledo, OH
+### [Transitional Care Manager, Home Health](https://www.linkedin.com/jobs/view/4431801221/) — BAYADA Home Health Care
+- 📍 **Location:** Winston-Salem, NC
 - 🕒 **Posted:** 2026-06-24
 
-### [Case Manager, Washington Street](https://www.linkedin.com/jobs/view/4432535962/) — Pine Street Inn
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $23.48 - $26.30 per hour
+### [Case Manager - FT Days | Stoughton Specialty](https://www.linkedin.com/jobs/view/4422425605/) — PAM Health Specialty Hospital of Stoughton
+- 📍 **Location:** Stoughton, MA
 - 🕒 **Posted:** 2026-06-24
 
-### [Home Care Coordinator](https://www.linkedin.com/jobs/view/4432544263/) — BrightStar Care
-- 📍 **Location:** Knoxville, TN
+### [Nurse Case Manager I](https://www.linkedin.com/jobs/view/4419582152/) — Elevance Health
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-06-24
 
-### [Social Work Care Manager - Inpatient $10,000 Sign On Bonus](https://www.linkedin.com/jobs/view/4429824987/) — Intermountain Health
-- 📍 **Location:** Grand Junction, CO
-- 💰 **Salary:** $39.00/hr - $60.00/hr
+### [RN Case Manager, Home Health](https://www.linkedin.com/jobs/view/4403674109/) — Sutter Health
+- 📍 **Location:** Salinas, CA
+- 💰 **Salary:** $74.90 to $99.62
 - 🕒 **Posted:** 2026-06-24
 
-### [CLINICAL CARE COORDINATOR: University Hospital (Wound/Ostomy Services)](https://www.linkedin.com/jobs/view/4432018335/) — Michigan Medicine
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $41.44 - $64.45
+### [Case Manager/Direct Support](https://www.linkedin.com/jobs/view/4423989709/) — Bay Cove Human Services
+- 📍 **Location:** Greater Boston
 - 🕒 **Posted:** 2026-06-24
 
-### [RN Care Coordinator, AVH, Full Time](https://www.linkedin.com/jobs/view/4429839604/) — Allegheny Health Network
-- 📍 **Location:** Natrona Heights, PA
+### [Case Manager PRN | Denver LTACH](https://www.linkedin.com/jobs/view/4422471265/) — PAM Health Specialty Hospital of Denver
+- 📍 **Location:** Denver, CO
 - 🕒 **Posted:** 2026-06-24
 
-### [Accountable Care Manager](https://www.linkedin.com/jobs/view/4429823899/) — NYC Health + Hospitals
+### [Care Coordinator - Davita IKC - Northern Cincinnati](https://www.linkedin.com/jobs/view/4422432902/) — DaVita Kidney Care
+- 📍 **Location:** Hamilton, OH
+- 💰 **Salary:** $18.00/hr - $25.00/hr
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4423987971/) — Enlyte
+- 📍 **Location:** United States
+- 💰 **Salary:** $98,750 - $119,000 annually
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4413110919/) — Sectra
+- 📍 **Location:** United States
+- 💰 **Salary:** $125,000–$145,000,
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager (5264) (Broomfield/Boulder, CO) (Top Secret)](https://www.linkedin.com/jobs/view/4416665437/) — SMX
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $120,000 USD - $170,000 USD
+- 🕒 **Posted:** 2026-06-24
+
+### [Legal Vendor Program Manager](https://www.linkedin.com/jobs/view/4402139656/) — Discord
+- 📍 **Location:** San Francisco Bay Area
+- 💰 **Salary:** $144,000 to $162,000
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager (5264) (Broomfield/Boulder, CO) (Top Secret)](https://www.linkedin.com/jobs/view/4416670349/) — SMX
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $120,000 USD - $170,000 USD
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager (5264) (Broomfield/Boulder, CO) (Top Secret)](https://www.linkedin.com/jobs/view/4416663429/) — SMX
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $120,000 USD - $170,000 USD
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager, Motorsport Partnerships](https://www.linkedin.com/jobs/view/4431496375/) — Jobgether
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager (5264) (Broomfield/Boulder, CO) (Top Secret)](https://www.linkedin.com/jobs/view/4416656455/) — SMX
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $120,000 USD - $170,000 USD
+- 🕒 **Posted:** 2026-06-24
+
+### [Program Manager (5264) (Broomfield/Boulder, CO) (Top Secret)](https://www.linkedin.com/jobs/view/4416664436/) — SMX
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $120,000 USD - $170,000 USD
+- 🕒 **Posted:** 2026-06-24
+
+### [Case Manager- RN required](https://www.linkedin.com/jobs/view/4413509391/) — NYU Langone Health
 - 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $118,749.00/yr - $118,749.00/yr
+- 💰 **Salary:** $130,161.98 - $160,161.98 Annually
 - 🕒 **Posted:** 2026-06-24
 
-### [Accountable Care Manager](https://www.linkedin.com/jobs/view/4429827834/) — NYC Health + Hospitals
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $118,749.00/yr - $118,749.00/yr
-- 🕒 **Posted:** 2026-06-24
-
-### [Nurse Case Manager II (US)](https://www.linkedin.com/jobs/view/4432554219/) — Elevance Health
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-06-24
-
-### [Case Manager III](https://www.linkedin.com/jobs/view/4432562034/) — Xometry
-- 📍 **Location:** Lexington, KY
-- 🕒 **Posted:** 2026-06-24
-
-### [Accountable Care Manager](https://www.linkedin.com/jobs/view/4429833779/) — NYC Health + Hospitals
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $118,749.00/yr - $118,749.00/yr
-- 🕒 **Posted:** 2026-06-24
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4432547215/) — Specialized Education Services, Inc.
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** USD $48,200.00 - USD $63,000.00 /Yr
-- 🕒 **Posted:** 2026-06-24
-
-### [Young Adult Housing Program Manager](https://www.linkedin.com/jobs/view/4432540726/) — Memorial Hospital of South Bend
-- 📍 **Location:** Everett, WA
-- 🕒 **Posted:** 2026-06-24
-
-### [Grant Coordinator](https://www.linkedin.com/jobs/view/4432548291/) — The University of Kansas
-- 📍 **Location:** Topeka Metropolitan Area
-- 🕒 **Posted:** 2026-06-24
-
-### [Program Manager | Contingent | Remote](https://www.linkedin.com/jobs/view/4432538847/) — Ares Enterprise
-- 📍 **Location:** Fairfax, VA
-- 🕒 **Posted:** 2026-06-24
-
-### [Remote Project/Program Manager II](https://www.linkedin.com/jobs/view/4431469949/) — Pinnacle Method Consulting
+### [Program Coordinator, Refresh & Rollouts](https://www.linkedin.com/jobs/view/4422651134/) — Stratus
 - 📍 **Location:** United States
-- 💰 **Salary:** $52.00/hr - $55.00/hr
+- 💰 **Salary:** $48,000.00 - $55,000.00 annually
 - 🕒 **Posted:** 2026-06-24
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4432553045/) — Dominique Dawes Academy
-- 📍 **Location:** Houston, TX
+### [La Bienvenida Mentoring Program Coordinator (Casual)](https://www.linkedin.com/jobs/view/4432553482/) — Portland Community College
+- 📍 **Location:** Rock Creek, IN
 - 🕒 **Posted:** 2026-06-24
 
-### [Project/Program Manager](https://www.linkedin.com/jobs/view/4431479553/) — Pinnacle Method Consulting
-- 📍 **Location:** United States
-- 💰 **Salary:** $73,698.00/yr - $117,917.00/yr
+### [Bi-Lingual Patient Care Coordinator](https://www.linkedin.com/jobs/view/4423988737/) — CQ Partners
+- 📍 **Location:** Roswell, NM
 - 🕒 **Posted:** 2026-06-24
 
-### [Program Manager II (Aerospace & Defense)](https://www.linkedin.com/jobs/view/4430182188/) — Frontgrade Technologies
-- 📍 **Location:** Plainview, NY
-- 🕒 **Posted:** 2026-06-24
-
-### [People Program Manager](https://www.linkedin.com/jobs/view/4432545357/) — Xometry
-- 📍 **Location:** Waltham, MA
-- 💰 **Salary:** $130,000-135,000 annually
-- 🕒 **Posted:** 2026-06-24
-
-### [Program Manager II](https://www.linkedin.com/jobs/view/4432536809/) — Astrion
-- 📍 **Location:** Dayton, OH
+### [Program Manager, MLS Lab Education](https://www.linkedin.com/jobs/view/4424033495/) — Emory Healthcare
+- 📍 **Location:** Tucker, GA
 - 🕒 **Posted:** 2026-06-24
