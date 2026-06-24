@@ -1,6 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-06-23 13:43 UTC*
+*Last updated: 2026-06-24 12:23 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Care Manager, LTSS - Field travel in Milwaukee County, WI](https://www.linkedin.com/jobs/view/4429783189/) — Molina Healthcare
+- 📍 **Location:** Wauwatosa, WI
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-06-24
