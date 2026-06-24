@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-23 22:03 UTC",
-  "total": 101,
-  "new_count": 2,
+  "scraped_at": "2026-06-24 10:39 UTC",
+  "total": 98,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Indianapolis Housing Agency",
@@ -12,6 +12,19 @@
       "date_posted": "2026-05-28T18:33:11.858Z",
       "description": "High school diploma plus two years related experience; for Housing Specialist II, associate degree and two years in case management; valid driver license.",
       "salary": "$40k–$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "New Haven Housing Authority",
+      "title": "Senior Housing Specialist",
+      "location": "New Haven, Connecticut, United States",
+      "url": "https://secure4.saashr.com/ta/6096400.careers?ShowJob=1006907651",
+      "direct_url": "https://secure4.saashr.com/ta/6096400.careers?ShowJob=1006907651",
+      "date_posted": "2026-06-23T20:00:40.414Z",
+      "description": "High school diploma and 4+ years housing specialist experience, HCV Specialist certification, valid driver’s license, strong MS Office and housing software skills (Yardi, Emphasys), HUD regulations knowledge, 55 WPM typing.",
+      "salary": "$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -108,19 +121,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Husadayforce",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12959",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12959",
-      "date_posted": "2026-06-02T04:00:00.000Z",
-      "description": "High School diploma or equivalent; experience in housing placement preferred; strong customer service and communication skills; bilingual in Spanish a plus; valid US driver’s license a plus.",
-      "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Action of Allegan County",
       "title": "Housing Specialist ",
       "location": "Allegan, Michigan, United States",
@@ -212,19 +212,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cbi",
-      "title": "Housing Specialist",
-      "location": "Phoenix or Arizona",
-      "url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
-      "date_posted": "2026-06-08T07:00:00.000Z",
-      "description": "Bachelor's in behavioral health or equivalent combination of education/training; 1+ year experience with SMI and 1+ year outreach/engagement experience; able to pass criminal background check; experience coordinating housing and providing in-field client support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Housing Authority of Snohomish County",
       "title": "Housing Navigator",
       "location": "Everett, Washington, United States",
@@ -311,19 +298,6 @@
       "date_posted": "2026-05-25T20:43:27.851Z",
       "description": "Experience in housing services or social work; data collection; client advocacy; trauma-informed approach; California Class C driver's license; strong ethics and communication.",
       "salary": "$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Husadayforce",
-      "title": " Housing Navigator",
-      "location": "The Bronx, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12964",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12964",
-      "date_posted": "2026-06-02T04:00:00.000Z",
-      "description": "1 year housing/ homelessness experience; associate degree preferred; bilingual English/Spanish preferred; strong advocacy and organizational skills; valid US driver’s license a plus.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -472,6 +446,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "RH Community Builders",
       "title": "Housing Navigator - Ambassador BHBH",
       "location": "Fresno, California, United States",
@@ -520,19 +507,6 @@
       "description": "Minimum 3 years social services experience (associate degree preferred); CPR/First Aid and ability to pass background check, Live Scan, and TB test; valid driver’s license, reliable transportation and insurance; experience with affordable housing programs and landlord advocacy.",
       "salary": "$45k/yr",
       "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator Supervisor",
-      "location": "Sacramento, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5156046007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5156046007",
-      "date_posted": "2026-06-04T19:47:38.000Z",
-      "description": "Supervisory experience managing community support staff, generating and analyzing reports, coordinating referrals/authorizations with health plans, overseeing assessments and housing deposit processes, strong communication and data analysis skills; bachelor’s degree or 4+ years related experience.",
-      "salary": "$60k–$68k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -654,6 +628,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Massgeneralbrigham",
+      "title": "Community Health Worker",
+      "location": "Somerville or Boston or Northampton or Salem",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891",
+      "direct_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Bachelor's in Public Health/Social Work or equivalent experience, 2+ years community health outreach/SDOH experience, experience navigating social risks, CHW certification (MA DPH) preferred, bilingual Spanish preferred, basic Microsoft Office skills.",
+      "salary": "$59k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sentara",
       "title": "Community Health Worker",
       "location": "Harrisonburg or Alabama or Delaware or Florida or Georgia or Idaho or Indiana or Kansas or Louisiana or Maine or Maryland or Minnesota or Nebraska or Nevada or New Hampshire or North Carolina or North Dakota or Ohio or Oklahoma or Pennsylvania or South Carolina or South Dakota or Tennessee or Texas or Utah or Virginia or Washington or West Virginia or Wisconsin or Wyoming",
@@ -687,19 +674,6 @@
       "direct_url": "https://eglz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/requisitions/job/13796",
       "date_posted": "2026-05-28T18:05:37.000Z",
       "description": "Bilingual in Spanish and English; California driver’s license; cultural competency with Hispanic/Latinx and low-income Santa Barbara communities; computer literacy; one year in community health or related service preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Trinityhealth",
-      "title": "Community Health Worker",
-      "location": "Detroit, Michigan, United States",
-      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Joseph-Mercy-Health-System-Primary-Care---Physician-Office---Detroit-Mi/Community-Health-Worker_00587496",
-      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Joseph-Mercy-Health-System-Primary-Care---Physician-Office---Detroit-Mi/Community-Health-Worker_00587496",
-      "date_posted": "2026-06-09T00:00:00.000Z",
-      "description": "High school diploma/GED, 1+ years related experience, valid driver’s license, community health worker certification preferred; conduct outreach, screenings, referrals, enrollment assistance, and community education.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -823,6 +797,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Renown Health",
+      "title": "Community Health Worker",
+      "location": "Reno, Nevada, United States",
+      "url": "https://pm.healthcaresource.com/CS/renownhealth/#/job/58365",
+      "direct_url": "https://pm.healthcaresource.com/CS/renownhealth/#/job/58365",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Supports patients with social determinants of health, navigation of community resources, non-clinical case management, EMR documentation, strong communication and computer skills; requires 1+ years healthcare experience, CHW I certification (or obtain within 9 months), valid driver license in NV/CA and fingerprint background clearance.",
+      "salary": "$40k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Overview",
       "title": "Community Health Worker - Central Health",
       "location": "Austin, Texas, United States",
@@ -844,32 +831,6 @@
       "date_posted": "2026-05-28T03:00:00.000Z",
       "description": "Coordinate and provide resident care, lead care team, administer meds, document, train staff.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Right at Home Seymour",
-      "title": "Care Coordinator",
-      "location": "Seymour, Tennessee, United States",
-      "url": "https://jobs.apploi.com/view/1439255?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=3d2df098aafa49439e057a6f3cca9d29&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1439255&ajs_prop_doc_type=job&ajs_prop_job_location_lat=35.8756006&ajs_prop_job_location_lon=-83.7641377&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1439255?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=3d2df098aafa49439e057a6f3cca9d29&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1439255&ajs_prop_doc_type=job&ajs_prop_job_location_lat=35.8756006&ajs_prop_job_location_lon=-83.7641377&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-05-25T00:00:00.000Z",
-      "description": "Entry-level care coordinator handling recruiting, training, scheduling, onboarding, and care coordination; requires high school diploma and driving license; able to work on-site 7:30am-4:30pm with occasional weekends/holidays.",
-      "salary": "$34k–$37k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Denver or Centennial",
-      "url": "https://careers.empowerme.com/jobs/22254?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22254?lang=en-us",
-      "date_posted": "2026-05-28T01:57:33.000Z",
-      "description": "Administrative oversight in communities; manage schedules, intakes, and care coordination; strong communication and multitasking.",
-      "salary": "$35k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1096,19 +1057,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pro Care by Abound Health",
-      "title": "Care Coordinator",
-      "location": "Southfield, Michigan, United States",
-      "url": "http://starpediatrics.hrmdirect.com/employment/view.php?req=3732308",
-      "direct_url": "http://starpediatrics.hrmdirect.com/employment/view.php?req=3732308",
-      "date_posted": "2026-06-05T03:00:00.000Z",
-      "description": "Experience in care coordination or case management, strong organizational and communication skills, High School Diploma/GED, proficiency with Microsoft Office and documentation systems, ability to manage multiple priorities and maintain regulatory documentation.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Chenmed",
       "title": "Care Coordinator",
       "location": "Columbus, Ohio, United States",
@@ -1122,13 +1070,26 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Activeday",
-      "title": "Social Services - Social Services Coordinator",
-      "location": "Lowell, Massachusetts, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/activeday/candidateportal/jobs/3088",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/activeday/candidateportal/jobs/3088",
-      "date_posted": "2026-05-25T04:00:00.000Z",
-      "description": "NJ-licensed social worker; 1+ year healthcare social work; strong communication, organization, and teamwork; knowledge of OSHA/state regulations; proficient computer skills.",
+      "company": "Pro Care by Abound Health",
+      "title": "Care Coordinator",
+      "location": "Southfield, Michigan, United States",
+      "url": "http://starpediatrics.hrmdirect.com/employment/view.php?req=3732308",
+      "direct_url": "http://starpediatrics.hrmdirect.com/employment/view.php?req=3732308",
+      "date_posted": "2026-06-05T03:00:00.000Z",
+      "description": "Experience in care coordination or case management, strong organizational and communication skills, High School Diploma/GED, proficiency with Microsoft Office and documentation systems, ability to manage multiple priorities and maintain regulatory documentation.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elevate Care Country Club Hills",
+      "title": "Social Services Coordinator",
+      "location": "Country Club Hills, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1885328?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=9a502ef4a98945e19cf25f5c947a3f39&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=4&ajs_prop_job_id=1885328&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.5589174&ajs_prop_job_location_lon=-87.7348122&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1885328?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=9a502ef4a98945e19cf25f5c947a3f39&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=4&ajs_prop_job_id=1885328&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.5589174&ajs_prop_job_location_lon=-87.7348122&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Bachelor's in social work/psychology or equivalent experience; experience in social services (healthcare preferred); strong communication, organizational, and documentation skills; compassionate, patient-centered approach.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1252,19 +1213,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Georgetown",
-      "title": "Program Coordinator, Center for Public and Nonprofit Leadership, McCourt School of Public Policy – Georgetown University",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
-      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
-      "date_posted": "2026-06-01T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 0-2 years program management; strong communication, organization, and time management; experience with Google Apps, Microsoft Office, Zoom, WordPress, Constant Contact, Canva; commitment to equity.",
-      "salary": "$42k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The School District of Philadelphia",
       "title": "26-27 SY Program Coordinator Bodine HS",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -1273,6 +1221,19 @@
       "date_posted": "2026-06-05T10:53:04.000Z",
       "description": "Bachelor's degree and 2 years of professional experience with schools/nonprofits or program management (or equivalent). Skills in partnership building, data collection and recordkeeping, meeting facilitation, task management, and written/oral communication.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Georgetown",
+      "title": "Program Coordinator, Center for Public and Nonprofit Leadership, McCourt School of Public Policy – Georgetown University",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
+      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
+      "date_posted": "2026-06-01T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 0-2 years program management; strong communication, organization, and time management; experience with Google Apps, Microsoft Office, Zoom, WordPress, Constant Contact, Canva; commitment to equity.",
+      "salary": "$42k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1319,27 +1280,66 @@
   ],
   "new_jobs": [
     {
-      "company": "Rockbridge Area Community Services",
-      "title": "Housing Specialist",
-      "location": "Lexington or Buena Vista or Rockbridge County or Bath County",
-      "url": "https://racsb.isolvedhire.com/jobs/1800045",
-      "direct_url": "https://racsb.isolvedhire.com/jobs/1800045",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Provides housing stabilization services including client screening, assessment, service coordination, and rental assistance; bachelor’s in human services preferred, experience with serious mental illness and housing programs preferred, valid driver’s license required.",
-      "salary": "$49k–$52k/yr",
+      "company": "New Haven Housing Authority",
+      "title": "Senior Housing Specialist",
+      "location": "New Haven, Connecticut, United States",
+      "url": "https://secure4.saashr.com/ta/6096400.careers?ShowJob=1006907651",
+      "direct_url": "https://secure4.saashr.com/ta/6096400.careers?ShowJob=1006907651",
+      "date_posted": "2026-06-23T20:00:40.414Z",
+      "description": "High school diploma and 4+ years housing specialist experience, HCV Specialist certification, valid driver’s license, strong MS Office and housing software skills (Yardi, Emphasys), HUD regulations knowledge, 55 WPM typing.",
+      "salary": "$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Chenmed",
-      "title": "Care Coordinator",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
-      "direct_url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Massgeneralbrigham",
+      "title": "Community Health Worker",
+      "location": "Somerville or Boston or Northampton or Salem",
+      "url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891",
+      "direct_url": "https://massgeneralbrigham.wd1.myworkdayjobs.com/mgbexternal/job/Somerville-MA/Community-Health-Worker_RQ4068891",
       "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Coordinate and authorize patient referrals, schedule appointments, communicate with patients/providers, use web insurance platforms and EMR, and support care transitions; HS diploma and 1+ year referral experience in healthcare required.",
-      "salary": "$35k–$50k/yr",
+      "description": "Bachelor's in Public Health/Social Work or equivalent experience, 2+ years community health outreach/SDOH experience, experience navigating social risks, CHW certification (MA DPH) preferred, bilingual Spanish preferred, basic Microsoft Office skills.",
+      "salary": "$59k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Renown Health",
+      "title": "Community Health Worker",
+      "location": "Reno, Nevada, United States",
+      "url": "https://pm.healthcaresource.com/CS/renownhealth/#/job/58365",
+      "direct_url": "https://pm.healthcaresource.com/CS/renownhealth/#/job/58365",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Supports patients with social determinants of health, navigation of community resources, non-clinical case management, EMR documentation, strong communication and computer skills; requires 1+ years healthcare experience, CHW I certification (or obtain within 9 months), valid driver license in NV/CA and fingerprint background clearance.",
+      "salary": "$40k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elevate Care Country Club Hills",
+      "title": "Social Services Coordinator",
+      "location": "Country Club Hills, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1885328?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=9a502ef4a98945e19cf25f5c947a3f39&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=4&ajs_prop_job_id=1885328&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.5589174&ajs_prop_job_location_lon=-87.7348122&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1885328?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=9a502ef4a98945e19cf25f5c947a3f39&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=4&ajs_prop_job_id=1885328&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.5589174&ajs_prop_job_location_lon=-87.7348122&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Bachelor's in social work/psychology or equivalent experience; experience in social services (healthcare preferred); strong communication, organizational, and documentation skills; compassionate, patient-centered approach.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
