@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-25 10:24 UTC",
+  "scraped_at": "2026-06-25 22:12 UTC",
   "total": 98,
-  "new_count": 5,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Indianapolis Housing Agency",
@@ -537,19 +537,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Avera",
-      "title": "Community Health Worker",
-      "location": "Sioux Falls, South Dakota, United States",
-      "url": "https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Community-Health-Worker_R-260023959",
-      "direct_url": "https://avera.wd5.myworkdayjobs.com/avera-careers/job/Sioux-Falls-SD/Community-Health-Worker_R-260023959",
-      "date_posted": "2026-05-28T00:00:00.000Z",
-      "description": "High School or GED; Community Health Worker certification; driver’s license.",
-      "salary": "$41k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Your Health Organization",
       "title": "Community Health Worker  ",
       "location": "Myrtle Beach or Little River or Myrtle Beach or Longs or Conway",
@@ -1031,19 +1018,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Chenmed",
-      "title": "Care Coordinator",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
-      "direct_url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Coordinate and authorize patient referrals, schedule appointments, communicate with patients/providers, use web insurance platforms and EMR, and support care transitions; HS diploma and 1+ year referral experience in healthcare required.",
-      "salary": "$35k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "WellSense Health Plan",
       "title": "Care Coordinator",
       "location": "Boston or Massachusetts or New Hampshire",
@@ -1054,6 +1028,19 @@
       "salary": "$42k–$61k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Chenmed",
+      "title": "Care Coordinator",
+      "location": "Columbus, Ohio, United States",
+      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "direct_url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Coordinate and authorize patient referrals, schedule appointments, communicate with patients/providers, use web insurance platforms and EMR, and support care transitions; HS diploma and 1+ year referral experience in healthcare required.",
+      "salary": "$35k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1158,6 +1145,19 @@
       "salary": "$65k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Let Me Run, Inc",
+      "title": "Program Coordinator - Seattle",
+      "location": "Seattle or Charlotte",
+      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "date_posted": "2026-06-10T01:04:42.022Z",
+      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1280,68 +1280,16 @@
   ],
   "new_jobs": [
     {
-      "company": "Titanium Healthcare",
-      "title": "Housing Navigator ",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
-      "salary": "$48k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Mission Action",
-      "title": "Housing Navigator",
-      "location": "San Francisco, California, United States",
-      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "date_posted": "2026-06-10T22:28:27.586Z",
-      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
-      "salary": "$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Epic Healthcare",
-      "title": "Housing Navigator - Horizon CV",
-      "location": "Lemon Grove, California, United States",
-      "url": "https://jobs.apploi.com/view/1886035?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=86ccaff1332a4ccab4aa5c23e1dc7b42&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=13&ajs_prop_job_id=1886035&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.7425516&ajs_prop_job_location_lon=-117.0314172&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1886035?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=86ccaff1332a4ccab4aa5c23e1dc7b42&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=13&ajs_prop_job_id=1886035&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.7425516&ajs_prop_job_location_lon=-117.0314172&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "2+ years related experience; hybrid work required. Must know local affordable housing resources and programs, assist clients with housing search and applications, maintain housing portfolio, perform post-placement visits, and use Microsoft Office/databases.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Aah",
-      "title": "Community Health Worker",
-      "location": "Winston-Salem, North Carolina, United States",
-      "url": "https://aah.wd5.myworkdayjobs.com/external/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Community-Health-Worker_R243299",
-      "direct_url": "https://aah.wd5.myworkdayjobs.com/external/job/Atrium-Health-Wake-Forest-Baptist---Medical-Center-Blvd-Winston-Salem-NC/Community-Health-Worker_R243299",
-      "date_posted": "2026-05-28T00:00:00.000Z",
-      "description": "High School Diploma or GED; 1–2 years experience; valid driver’s license; ability to navigate EMR (Epic or similar); community health experience preferred.",
-      "salary": "$45k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Northern Valley Indian Health",
-      "title": "Care Coordinator",
-      "location": "Woodland, California, United States",
-      "url": "https://nvih.atsondemand.com/index.cfm?cid=513100&fuseaction=513100.viewjobdetail&JID=912041",
-      "direct_url": "https://nvih.atsondemand.com/index.cfm?cid=513100&fuseaction=513100.viewjobdetail&JID=912041",
-      "date_posted": "2026-06-03T11:12:43.000Z",
-      "description": "High school/GED, 1+ year care coordination or case management experience, valid California driver, reliable transportation, EHR proficiency, strong communication, cultural sensitivity, and ability to conduct outreach and manage caseloads.",
-      "salary": "$48k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
+      "company": "Let Me Run, Inc",
+      "title": "Program Coordinator - Seattle",
+      "location": "Seattle or Charlotte",
+      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "date_posted": "2026-06-10T01:04:42.022Z",
+      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     }
   ]
