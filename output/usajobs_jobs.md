@@ -1,24 +1,19 @@
 # 🇺🇸 USAJOBS — Federal Housing & Community Impact Roles
-*Last updated: 2026-06-22 22:23 UTC*
+*Last updated: 2026-06-25 21:30 UTC*
 
-**4 new role(s)** since last run · 4 total in current USAJOBS postings
+**3 new role(s)** since last run · 5 total in current USAJOBS postings
 
-### [Interventional and Specialty Care Coordinator (Rheumatology & Infectious Disease)](https://www.usajobs.gov/job/873577400) — Veterans Health Administration
-- 📍 **Location:** Bay Pines, Florida
-- 💰 **Salary:** Starting at $75,987 Per year (VN 00)
-- 🕒 **Posted:** 2026-06-18
+### [Licensed Professional Mental Health Counselor (IPVA Program Coordinator)](https://www.usajobs.gov/job/874054200) — Veterans Health Administration
+- 📍 **Location:** Poplar Bluff, Missouri
+- 💰 **Salary:** Starting at $91,779 Per year (GS 12)
+- 🕒 **Posted:** 2026-06-23
 
-### [Supervisory Security Specialist (Insider Threat Analysis Program Manager)](https://www.usajobs.gov/job/873324600) — Export-Import Bank of the United States
-- 📍 **Location:** Washington, District of Columbia
-- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
-- 🕒 **Posted:** 2026-06-22
+### [Clinical Psychologist (Sex Offense Program Coordinator)](https://www.usajobs.gov/job/874223900) — Bureau of Prisons/Federal Prison System
+- 📍 **Location:** Tucson, Arizona
+- 💰 **Salary:** Starting at $91,205 Per year (GS 12-13)
+- 🕒 **Posted:** 2026-06-24
 
-### [Social Worker (Program Coordinator) - HUD/VASH](https://www.usajobs.gov/job/873740100) — Veterans Health Administration
-- 📍 **Location:** Ukiah, California
-- 💰 **Salary:** Starting at $108,425 Per year (GS 12)
-- 🕒 **Posted:** 2026-06-18
-
-### [PROGRAM MANAGER - DIRECT HIRE AUTHORITY](https://www.usajobs.gov/job/866969400) — Air Force Materiel Command
-- 📍 **Location:** Kelly AFB, Texas
-- 💰 **Salary:** Starting at $90,823 Per year (NH 3)
-- 🕒 **Posted:** 2026-04-28
+### [Social Worker (Program Coordinator)](https://www.usajobs.gov/job/874042200) — Veterans Health Administration
+- 📍 **Location:** Wilmington, Delaware
+- 💰 **Salary:** Starting at $102,644 Per year (GS 12)
+- 🕒 **Posted:** 2026-06-24
