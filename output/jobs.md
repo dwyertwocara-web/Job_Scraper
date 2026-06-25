@@ -1,9 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-06-24 12:23 UTC*
+*Last updated: 2026-06-25 12:19 UTC*
 
 **1 new role(s)** since last run · 1 total in last 24h
 
-### [Care Manager, LTSS - Field travel in Milwaukee County, WI](https://www.linkedin.com/jobs/view/4429783189/) — Molina Healthcare
-- 📍 **Location:** Wauwatosa, WI
-- 💰 **Salary:** $24 - $46.81
+### [Volunteer Services Program Coordinator](https://www.linkedin.com/jobs/view/4432872986/) — UC Davis Health
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $30.09 - $50.54
 - 🕒 **Posted:** 2026-06-24
