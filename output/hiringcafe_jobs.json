@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-25 22:12 UTC",
-  "total": 98,
-  "new_count": 1,
+  "scraped_at": "2026-06-26 10:44 UTC",
+  "total": 99,
+  "new_count": 6,
   "jobs": [
     {
       "company": "Indianapolis Housing Agency",
@@ -225,6 +225,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "New Narrative",
+      "title": "Housing Navigator",
+      "location": "Beaverton or Portland",
+      "url": "https://newnarrative.wd503.myworkdayjobs.com/nnr-1977/job/Thrive-Center---200---Beaverton-OR/Housing-Navigator_JR100112-1",
+      "direct_url": "https://newnarrative.wd503.myworkdayjobs.com/nnr-1977/job/Thrive-Center---200---Beaverton-OR/Housing-Navigator_JR100112-1",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Provide housing navigation and case management, conduct assessments, develop strength-based action plans, coordinate wraparound services, document in HMIS/Credible/Smartsheets, and maintain current Oregon driver’s license and insurance. QMHA or PWS preferred; HMIS experience a plus.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Housing Authority of Snohomish County",
       "title": "Housing Navigator",
       "location": "Everett, Washington, United States",
@@ -272,19 +285,6 @@
       "date_posted": "2026-05-29T00:00:00.000Z",
       "description": "Coordinate housing placement, build landlord relationships, assist participants, and maintain program records.",
       "salary": "$47k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "NewNarrative",
-      "title": "Housing Navigator",
-      "location": "Portland, Oregon, United States",
-      "url": "https://newnarrative.wd503.myworkdayjobs.com/nnr-1977/job/New-Narrative-East-OP---Portland-OR/Housing-Navigator_JR100076",
-      "direct_url": "https://newnarrative.wd503.myworkdayjobs.com/nnr-1977/job/New-Narrative-East-OP---Portland-OR/Housing-Navigator_JR100076",
-      "date_posted": "2026-06-01T00:00:00.000Z",
-      "description": "Coordinates wrap-around housing services for homeless individuals; conducts assessments; connects to community resources.",
-      "salary": "$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -355,19 +355,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action",
-      "title": "Housing Navigator",
-      "location": "Beaverton or Hillsboro or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4114899",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4114899",
-      "date_posted": "2026-06-10T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency with HMIS and Microsoft Office, strong communication and public speaking skills, valid driver’s license and vehicle insurance, ability to manage caseloads and coordinate housing assistance.",
-      "salary": "$47k–$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Pacific Clinics",
       "title": "Housing Navigator",
       "location": "Pasadena, California, United States",
@@ -409,25 +396,51 @@
     {
       "company": "Titanium Healthcare",
       "title": "Housing Navigator ",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
+      "location": "San Luis Obispo, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
       "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
-      "salary": "$48k–$58k/yr",
+      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
+      "salary": "$44k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Mission Action",
+      "company": "SupportWorks Housing (formerly known as Virginia Supportive Housing)",
       "title": "Housing Navigator",
-      "location": "San Francisco, California, United States",
-      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "date_posted": "2026-06-10T22:28:27.586Z",
-      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
-      "salary": "$62k/yr",
+      "location": "Chesapeake or Virginia",
+      "url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
+      "direct_url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
+      "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Housing and Stability Services",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4129652",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4129652",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year social services experience; proficiency with Microsoft Office and HMIS; reliable transportation with valid driver's license and insurance; strong communication, public speaking, and case management skills.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -446,14 +459,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Serene Health",
+      "company": "Mission Action",
       "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
+      "location": "San Francisco, California, United States",
+      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "date_posted": "2026-06-10T22:28:27.586Z",
+      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
+      "salary": "$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -875,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Gastro Health",
-      "title": "Care Coordinator",
-      "location": "Reston, Virginia, United States",
-      "url": "https://gastro-health.breezy.hr/p/dcf4a4d3b44e-care-coordinator",
-      "direct_url": "https://gastro-health.breezy.hr/p/dcf4a4d3b44e-care-coordinator",
-      "date_posted": "2026-06-01T18:11:46.491Z",
-      "description": "Per diem/part-time care coordinator providing administrative support to physicians; requires high school diploma and medical terminology knowledge.",
-      "salary": "$46k–$50k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Northwest Iowa Mental Health Center",
       "title": "Care Coordinator",
       "location": "Sheldon, Iowa, United States",
@@ -897,6 +897,19 @@
       "description": "Bachelor's degree in social work, human services, or related field required; care coordination experience preferred; active Iowa BSW preferred.",
       "salary": "$46k–$54k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Gastro Health",
+      "title": "Care Coordinator",
+      "location": "Reston, Virginia, United States",
+      "url": "https://gastro-health.breezy.hr/p/dcf4a4d3b44e-care-coordinator",
+      "direct_url": "https://gastro-health.breezy.hr/p/dcf4a4d3b44e-care-coordinator",
+      "date_posted": "2026-06-01T18:11:46.491Z",
+      "description": "Per diem/part-time care coordinator providing administrative support to physicians; requires high school diploma and medical terminology knowledge.",
+      "salary": "$46k–$50k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -927,6 +940,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "PocketRN",
+      "title": "Care Coordinator",
+      "location": "United States",
+      "url": "https://jobs.apploi.com/view/1887406?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=e2d48c3e76594d01a2e9eb7e2c274f49&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1887406&ajs_prop_doc_type=job&ajs_prop_job_location_lat=38.7945952&ajs_prop_job_location_lon=-106.5348379&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1887406?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=e2d48c3e76594d01a2e9eb7e2c274f49&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1887406&ajs_prop_doc_type=job&ajs_prop_job_location_lat=38.7945952&ajs_prop_job_location_lon=-106.5348379&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-26T00:00:00.000Z",
+      "description": "3+ years in care coordination/case management/patient navigation, experience with older adults or dementia, strong outreach and documentation skills, HIPAA-compliant virtual care experience, ability to conduct frequent outbound calls and video visits.",
+      "salary": "$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Seniors Helping Seniors Provo Sandy",
       "title": "Care Coordinator",
       "location": "Lehi or Salt Lake County or Utah County",
@@ -948,6 +974,19 @@
       "date_posted": "2026-06-16T14:57:42.580Z",
       "description": "Coordinating care for medically complex older adults in skilled nursing and post-acute settings; working with facility staff, families, and interdisciplinary teams to improve transitions and reduce readmissions.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Planstin Administration",
+      "title": "Care Coordinator",
+      "location": "St George, Utah, United States",
+      "url": "https://ats.rippling.com/planstin-administration/jobs/037f5e27-6451-4cd3-9e09-804b08c1b3e3",
+      "direct_url": "https://ats.rippling.com/planstin-administration/jobs/037f5e27-6451-4cd3-9e09-804b08c1b3e3",
+      "date_posted": "2026-06-25T21:31:38.543Z",
+      "description": "Coordinate member care and appointments, arrange labs and imaging, assist with benefits navigation, manage referrals and billing codes; requires strong communication, organization, and problem-solving skills.",
+      "salary": "$50k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,19 +1083,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northern Valley Indian Health",
-      "title": "Care Coordinator",
-      "location": "Woodland, California, United States",
-      "url": "https://nvih.atsondemand.com/index.cfm?cid=513100&fuseaction=513100.viewjobdetail&JID=912041",
-      "direct_url": "https://nvih.atsondemand.com/index.cfm?cid=513100&fuseaction=513100.viewjobdetail&JID=912041",
-      "date_posted": "2026-06-03T11:12:43.000Z",
-      "description": "High school/GED, 1+ year care coordination or case management experience, valid California driver, reliable transportation, EHR proficiency, strong communication, cultural sensitivity, and ability to conduct outreach and manage caseloads.",
-      "salary": "$48k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Activeday",
       "title": "Social Services - Social Services Coordinator",
       "location": "Lowell, Massachusetts, United States",
@@ -1148,19 +1174,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Let Me Run, Inc",
-      "title": "Program Coordinator - Seattle",
-      "location": "Seattle or Charlotte",
-      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "date_posted": "2026-06-10T01:04:42.022Z",
-      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Part Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Institute for Nonprofit Practice",
       "title": "Program Coordinator",
       "location": "Dedham, Massachusetts, United States",
@@ -1213,19 +1226,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Georgetown",
-      "title": "Program Coordinator, Center for Public and Nonprofit Leadership, McCourt School of Public Policy – Georgetown University",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
-      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
-      "date_posted": "2026-06-01T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 0-2 years program management; strong communication, organization, and time management; experience with Google Apps, Microsoft Office, Zoom, WordPress, Constant Contact, Canva; commitment to equity.",
-      "salary": "$42k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The School District of Philadelphia",
       "title": "26-27 SY Program Coordinator Bodine HS",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -1234,6 +1234,19 @@
       "date_posted": "2026-06-05T10:53:04.000Z",
       "description": "Bachelor's degree and 2 years of professional experience with schools/nonprofits or program management (or equivalent). Skills in partnership building, data collection and recordkeeping, meeting facilitation, task management, and written/oral communication.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Georgetown",
+      "title": "Program Coordinator, Center for Public and Nonprofit Leadership, McCourt School of Public Policy – Georgetown University",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
+      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
+      "date_posted": "2026-06-01T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 0-2 years program management; strong communication, organization, and time management; experience with Google Apps, Microsoft Office, Zoom, WordPress, Constant Contact, Canva; commitment to equity.",
+      "salary": "$42k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1280,16 +1293,81 @@
   ],
   "new_jobs": [
     {
-      "company": "Let Me Run, Inc",
-      "title": "Program Coordinator - Seattle",
-      "location": "Seattle or Charlotte",
-      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "date_posted": "2026-06-10T01:04:42.022Z",
-      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Part Time",
+      "company": "New Narrative",
+      "title": "Housing Navigator",
+      "location": "Beaverton or Portland",
+      "url": "https://newnarrative.wd503.myworkdayjobs.com/nnr-1977/job/Thrive-Center---200---Beaverton-OR/Housing-Navigator_JR100112-1",
+      "direct_url": "https://newnarrative.wd503.myworkdayjobs.com/nnr-1977/job/Thrive-Center---200---Beaverton-OR/Housing-Navigator_JR100112-1",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "Provide housing navigation and case management, conduct assessments, develop strength-based action plans, coordinate wraparound services, document in HMIS/Credible/Smartsheets, and maintain current Oregon driver’s license and insurance. QMHA or PWS preferred; HMIS experience a plus.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Titanium Healthcare",
+      "title": "Housing Navigator ",
+      "location": "San Luis Obispo, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
+      "salary": "$44k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SupportWorks Housing (formerly known as Virginia Supportive Housing)",
+      "title": "Housing Navigator",
+      "location": "Chesapeake or Virginia",
+      "url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
+      "direct_url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
+      "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Housing and Stability Services",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4129652",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4129652",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year social services experience; proficiency with Microsoft Office and HMIS; reliable transportation with valid driver's license and insurance; strong communication, public speaking, and case management skills.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "PocketRN",
+      "title": "Care Coordinator",
+      "location": "United States",
+      "url": "https://jobs.apploi.com/view/1887406?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=e2d48c3e76594d01a2e9eb7e2c274f49&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1887406&ajs_prop_doc_type=job&ajs_prop_job_location_lat=38.7945952&ajs_prop_job_location_lon=-106.5348379&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1887406?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=e2d48c3e76594d01a2e9eb7e2c274f49&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1887406&ajs_prop_doc_type=job&ajs_prop_job_location_lat=38.7945952&ajs_prop_job_location_lon=-106.5348379&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-26T00:00:00.000Z",
+      "description": "3+ years in care coordination/case management/patient navigation, experience with older adults or dementia, strong outreach and documentation skills, HIPAA-compliant virtual care experience, ability to conduct frequent outbound calls and video visits.",
+      "salary": "$70k/yr",
+      "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Planstin Administration",
+      "title": "Care Coordinator",
+      "location": "St George, Utah, United States",
+      "url": "https://ats.rippling.com/planstin-administration/jobs/037f5e27-6451-4cd3-9e09-804b08c1b3e3",
+      "direct_url": "https://ats.rippling.com/planstin-administration/jobs/037f5e27-6451-4cd3-9e09-804b08c1b3e3",
+      "date_posted": "2026-06-25T21:31:38.543Z",
+      "description": "Coordinate member care and appointments, arrange labs and imaging, assist with benefits navigation, manage referrals and billing codes; requires strong communication, organization, and problem-solving skills.",
+      "salary": "$50k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     }
   ]
