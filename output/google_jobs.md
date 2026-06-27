@@ -1,43 +1,42 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-06-27 08:20 UTC*
+*Last updated: 2026-06-27 20:41 UTC*
 
-**9 new role(s)** since last run · 9 total in last 24h
+**9 new role(s)** since last run · 11 total in last 24h
 
-### [Case Manager- Housing](https://www.linkedin.com/jobs/view/case-manager-housing-at-u-s-vets-4414501056?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — U.S.VETS
-- 📍 **Location:** Inglewood, CA
+### [Case Manager (Community Supports Navigator)](https://www.ziprecruiter.com/c/CityNet/Job/Case-Manager-(Community-Supports-Navigator)/-in-Sacramento,CA?jid=e21a4bf97ea29d0f&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — CityNet
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** 23–29 an hour
 - 🕒 **Posted:** 2026-06-27
 
-### [Housing Navigator - Horizon CV](https://www.ziprecruiter.com/c/Oxford-Health-Group/Job/Housing-Navigator-Horizon-CV/-in-Bonita,CA?jid=a2d5d27dd4764404&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Oxford Health Group
-- 📍 **Location:** Bonita, CA
+### [Mental Health Housing Navigator](https://salutemyjob.com/jobs/mental-health-housing-navigator-san-diego-california/2842718555-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — TELECARE CORPORATION
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Community Support Lead Care Coordinator - Monterey County](https://www.linkedin.com/jobs/view/community-support-lead-care-coordinator-monterey-county-at-pacific-health-group-4434044502?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pacific Health Group
-- 📍 **Location:** Monterey, CA
+### [Community Support Lead Care Manager - Mariposa County](https://www.linkedin.com/jobs/view/community-support-lead-care-manager-mariposa-county-at-pacific-health-group-4434057060?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pacific Health Group
+- 📍 **Location:** Mariposa, CA
 - 💰 **Salary:** 62.4K–72.8K a year
 - 🕒 **Posted:** 2026-06-27
 
-### [Patient Care Coordinator (Outpatient), Full Time, Day Shift](https://www.linkedin.com/jobs/view/patient-care-coordinator-outpatient-full-time-day-shift-at-adventist-health-4433287629?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
-- 📍 **Location:** San Luis Obispo, CA
+### [Senior Community Program Specialist- CCS/ECM -Family Health Services-Limited Term (OPEN)](https://www.talent.com/view?id=625645375225793740&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Government Jobs
+- 📍 **Location:** Daly City, CA (+1 other)
 - 🕒 **Posted:** 2026-06-27
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4433891842?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
-- 📍 **Location:** Grand Terrace, CA
-- 💰 **Salary:** 18.00–25.50 an hour
+### [Patient Care Coordinator, Outpatient - AH Hanford Specialty (Per Diem, Variable Shift)](https://www.linkedin.com/jobs/view/patient-care-coordinator-outpatient-ah-hanford-specialty-per-diem-variable-shift-at-adventist-health-4433443424?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
+- 📍 **Location:** Hanford, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Member Care Coordinator](https://www.linkedin.com/jobs/view/member-care-coordinator-at-jumpstartmd-4433211767?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — JumpstartMD
-- 📍 **Location:** San Francisco, CA
+### [Field-Based Community Care Coordinator](https://www.whatjobs.com/jobs/field-based-community-care-coordinator/shingle-springs-california?id=2841841801&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pacific Health Group
+- 📍 **Location:** Shingle Springs, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Healthcare Coordinator](https://www.coolworks.com/camp-ocean-pines/highlighted-job/81824-healthcare-coordinator?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Camp Ocean Pines
-- 📍 **Location:** Cambria, CA
-- 💰 **Salary:** 31 an hour
+### [Care Coordinator (Patient Support)](https://salutemyjob.com/jobs/care-coordinator-patient-support-san-diego-california/2842556168-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sailor Health
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Transitional Care Coordinator](https://www.linkedin.com/jobs/view/transitional-care-coordinator-at-san-francisco-campus-for-jewish-living-4430613674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — San Francisco Campus for Jewish Living
-- 📍 **Location:** San Francisco, CA
+### [Care Coordinator](https://www.glassdoor.com/job-listing/care-coordinator-new-directions-for-women-JV_IC1146769_KO0,16_KE17,41.htm?jl=1008745321858&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — NEW DIRECTIONS FOR WOMEN INC
+- 📍 **Location:** Costa Mesa, CA
 - 🕒 **Posted:** 2026-06-27
 
-### [Case Manager - RN. Children's Hospital](https://www.linkedin.com/jobs/view/case-manager-rn-children-s-hospital-at-loma-linda-university-health-4433582758?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Loma Linda University Health
-- 📍 **Location:** Loma Linda, CA
+### [Lead Clinical Care Coordinator - Vituity](https://careers.vituity.com/job/CEAMUS26000149EXTERNALENUS/Lead-Clinical-Care-Coordinator-Vituity?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Vituity
+- 📍 **Location:** Emeryville, CA
 - 🕒 **Posted:** 2026-06-27
