@@ -1,111 +1,114 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-06-28 10:25 UTC*
+*Last updated: 2026-06-28 20:08 UTC*
 
-**23 new role(s)** since last run · 23 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4415932605/) — Cypress HCM
-- 📍 **Location:** San Jose, CA
+### [Adult Housing Services Manager](https://www.linkedin.com/jobs/view/4434298635/) — The San Diego LGBT Community Center
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $27.00 - $28.00/hour
 - 🕒 **Posted:** 2026-06-28
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4356412191/) — Total Vision
-- 📍 **Location:** Huntington Beach, CA
+### [Case Manager](https://www.linkedin.com/jobs/view/4434292786/) — Community Action Commission of Santa Barbara County
+- 📍 **Location:** Glendale, CA
+- 💰 **Salary:** $21.00 - $23.00 per hour
 - 🕒 **Posted:** 2026-06-28
 
-### [Health & Safety Program Manager (Southern CA)](https://www.linkedin.com/jobs/view/4415538845/) — American Water
-- 📍 **Location:** Imperial Beach, CA
-- 💰 **Salary:** $67,160 to $112,
+### [Case Manager/ Group Facilitator I/II (Outpatient)](https://www.linkedin.com/jobs/view/4434291893/) — Sierra Meadows Behavioral Health
+- 📍 **Location:** Visalia, CA
+- 💰 **Salary:** $21-$24
 - 🕒 **Posted:** 2026-06-28
 
-### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4433616033/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $59.31 - $88.50 /hour
+### [Case Manager](https://www.linkedin.com/jobs/view/4431053482/) — Morgan & Morgan, P.A.
+- 📍 **Location:** Irvine, CA
+- 💰 **Salary:** $73,000 USD - $85,000 USD
 - 🕒 **Posted:** 2026-06-28
 
-### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4415556670/) — Silverado
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $55 USD - $60 USD
+### [Case Manager - Housing Support - New Path](https://www.linkedin.com/jobs/view/4434408383/) — Terry Reilly Health Services
+- 📍 **Location:** Boise, ID
 - 🕒 **Posted:** 2026-06-28
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4433606596/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $54.15 - $80.81 /hour
+### [Sr. Program Coordinator](https://www.linkedin.com/jobs/view/4434089063/) — University of Miami
+- 📍 **Location:** Coral Gables, FL
 - 🕒 **Posted:** 2026-06-28
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4433613068/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $54.15 - $80.81 /hour
+### [Program Manager](https://www.linkedin.com/jobs/view/4433632188/) — NeuLife Neurological Services, LLC
+- 📍 **Location:** Bowling Green Metropolitan Area
 - 🕒 **Posted:** 2026-06-28
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4433606595/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $54.15 - $80.81 /hour
+### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4434294733/) — Community Bridges
+- 📍 **Location:** Mesa, AZ
 - 🕒 **Posted:** 2026-06-28
 
-### [Pre-Lit Case Manager](https://www.linkedin.com/jobs/view/4431037142/) — Jobot
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $40.00/hr - $45.00/hr
+### [Case Manager](https://www.linkedin.com/jobs/view/4433612781/) — NeuLife Neurological Services, LLC
+- 📍 **Location:** Mount Dora, FL
+- 💰 **Salary:** $19 - $25 per hour
 - 🕒 **Posted:** 2026-06-28
 
-### [Quality Program Manager](https://www.linkedin.com/jobs/view/4396057691/) — Lam Research
-- 📍 **Location:** Fremont, CA
-- 💰 **Salary:** $114,000.00 - $253,000.00
+### [Forensic Case Manager](https://www.linkedin.com/jobs/view/4434409192/) — MHMR of Tarrant County
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-06-28
 
-### [Principal Program Manager](https://www.linkedin.com/jobs/view/4415112072/) — HDR
-- 📍 **Location:** Riverside, CA
-- 💰 **Salary:** $203,434.00 to $290,620.00
+### [PMO Lead - Program Manager](https://www.linkedin.com/jobs/view/4434299576/) — Unissant
+- 📍 **Location:** Herndon, VA
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4394203950/) — Bay Cove Human Services
-- 📍 **Location:** Cambridge, MA
+### [Program Manager](https://www.linkedin.com/jobs/view/4423168128/) — Haystack
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $50,000.00/yr - $55,000.00/yr
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Managers](https://www.linkedin.com/jobs/view/4415808611/) — Jewish Board of Family and Children's Services
-- 📍 **Location:** New York, NY
+### [Program Manager](https://www.linkedin.com/jobs/view/4434298653/) — Nalu Federal
+- 📍 **Location:** Falls Church, VA
 - 🕒 **Posted:** 2026-06-28
 
-### [Care Manager III - Case Management](https://www.linkedin.com/jobs/view/4421561935/) — CHRISTUS Health
-- 📍 **Location:** Beaumont, TX
+### [Program Manager](https://www.linkedin.com/jobs/view/4434293727/) — Texas A&M AgriLife Research
+- 📍 **Location:** College Station, TX
 - 🕒 **Posted:** 2026-06-28
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4405016634/) — Harlem Children's Zone
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
+### [Preschool Program Manager (Full Time)](https://www.linkedin.com/jobs/view/4434400550/) — Summit Area YMCA
+- 📍 **Location:** Summit, NJ
+- 💰 **Salary:** $50,000 – $58,000 annually
 - 🕒 **Posted:** 2026-06-28
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4433605712/) — UnitedHealth Group
-- 📍 **Location:** Sumter, SC
-- 💰 **Salary:** $16.00 to $29.00 per hour
+### [Program Manager](https://www.linkedin.com/jobs/view/4434299580/) — Community Bridges
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-06-28
 
-### [Care Manager II - Case Management](https://www.linkedin.com/jobs/view/4421565951/) — CHRISTUS Health
-- 📍 **Location:** Santa Fe, NM
+### [Program Manager BHT](https://www.linkedin.com/jobs/view/4434406421/) — Community Bridges
+- 📍 **Location:** Tucson, AZ
 - 🕒 **Posted:** 2026-06-28
 
-### [Patient Safety Program Manager](https://www.linkedin.com/jobs/view/4405067394/) — Legacy Health
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** USD $49.89 - USD $74.34 /Hr
+### [CBCM Case Manager](https://www.linkedin.com/jobs/view/4434406398/) — Kalihi-Palama Health Center
+- 📍 **Location:** Honolulu, HI
 - 🕒 **Posted:** 2026-06-28
 
-### [Program Manager, Survey/Geospatial](https://www.linkedin.com/jobs/view/4395702091/) — Kleinfelder
-- 📍 **Location:** San Antonio, TX
+### [Lead Case Manager](https://www.linkedin.com/jobs/view/4434405547/) — Sanctuary Recovery Centers
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-06-28
 
-### [Bilingual Spanish speaking RN Case Manager for Hospice Program- Queens NY](https://www.linkedin.com/jobs/view/4421525307/) — Jobot
-- 📍 **Location:** Queens, NY
-- 💰 **Salary:** $101,000.00/yr - $117,800.00/yr
+### [Program Coordinator II P11](https://www.linkedin.com/jobs/view/4434405472/) — Texas A&M AgriLife Research
+- 📍 **Location:** College Station, TX
 - 🕒 **Posted:** 2026-06-28
 
-### [Development Coordinator](https://www.linkedin.com/jobs/view/4404115060/) — Breakthrough T1D
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $52k - $54k
+### [Program Specialist](https://www.linkedin.com/jobs/view/4434405495/) — Temple University
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $50,000 - $55,000
 - 🕒 **Posted:** 2026-06-28
 
-### [Research Program Manager, 2849-1](https://www.linkedin.com/jobs/view/4400004626/) — Cypress HCM
-- 📍 **Location:** Los Angeles, CA
+### [Immigrant Services Program Coordinator (Closes 7/6)](https://www.linkedin.com/jobs/view/4434405523/) — Allegheny County Department of Human Services
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-06-28
 
-### [Program Manager I](https://www.linkedin.com/jobs/view/4406108174/) — Principal Financial Group
-- 📍 **Location:** Des Moines, IA
-- 💰 **Salary:** $127000 - $160000
+### [Program Specialist](https://www.linkedin.com/jobs/view/4434407383/) — The Arc Jacksonville
+- 📍 **Location:** Jacksonville, FL
+- 💰 **Salary:** $40,000 – $50,000
+- 🕒 **Posted:** 2026-06-28
+
+### [Public Health Program Manager](https://www.linkedin.com/jobs/view/4434401533/) — Family Health Council of Central PA
+- 📍 **Location:** Camp Hill, PA
+- 💰 **Salary:** $50,000-$60,000,
+- 🕒 **Posted:** 2026-06-28
+
+### [Research Assistant 1](https://www.linkedin.com/jobs/view/4434088203/) — University of Miami
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-06-28
