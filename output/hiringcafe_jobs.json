@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-27 20:42 UTC",
-  "total": 91,
-  "new_count": 8,
+  "scraped_at": "2026-06-28 08:34 UTC",
+  "total": 86,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Nan McKay & Associates",
@@ -64,19 +64,6 @@
       "date_posted": "2026-06-11T00:00:00.000Z",
       "description": "Bachelor's degree required, 2+ years experience in social work/public housing/foster care, experience with aged-out foster youth and NYCHA/supportive housing preferred; strong communication, data, and organizational skills.",
       "salary": "$54k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "EDEN Inc",
-      "title": "Housing Specialist",
-      "location": "Cleveland, Ohio, United States",
-      "url": "https://edencle.isolvedhire.com/jobs/1800974",
-      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
-      "salary": "$43k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -251,19 +238,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kenosha Human Development Services",
-      "title": "Housing Navigator",
-      "location": "Kenosha, Wisconsin, United States",
-      "url": "http://khds.applytojob.com/apply/sHEehsJsQR/Housing-Navigator",
-      "direct_url": "http://khds.applytojob.com/apply/sHEehsJsQR/Housing-Navigator",
-      "date_posted": "2026-05-29T00:00:00.000Z",
-      "description": "Coordinate housing placement, build landlord relationships, assist participants, and maintain program records.",
-      "salary": "$47k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The GEO Group",
       "title": "HOUSING NAVIGATOR",
       "location": "Campbell, California, United States",
@@ -383,12 +357,12 @@
     {
       "company": "Titanium Healthcare",
       "title": "Housing Navigator ",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
+      "location": "San Luis Obispo, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
       "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
-      "salary": "$48k–$58k/yr",
+      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
+      "salary": "$44k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -407,14 +381,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mission Action",
+      "company": "Serene Health",
       "title": "Housing Navigator",
-      "location": "San Francisco, California, United States",
-      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "date_posted": "2026-06-10T22:28:27.586Z",
-      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
-      "salary": "$62k/yr",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -441,19 +415,6 @@
       "date_posted": "2026-06-12T00:00:00.000Z",
       "description": "3+ years advocacy, social services, or law-related experience; proficiency with CRM, Microsoft Office, and Google Suite; strong communication, analytical, and organizational skills; valid driver’s license and reliable transportation; must reside in Colorado and work hybrid schedule.",
       "salary": "$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -914,19 +875,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BEEHIVE HOMES OF VERNAL",
-      "title": "Care Coordinator",
-      "location": "Vernal, Utah, United States",
-      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "date_posted": "2026-06-16T20:41:40.000Z",
-      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Peerstar LLC",
       "title": "Care Coordinator",
       "location": "Clifton, New Jersey, United States",
@@ -935,6 +883,19 @@
       "date_posted": "2026-06-19T00:00:00.000Z",
       "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
       "salary": "$55k–$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BEEHIVE HOMES OF VERNAL",
+      "title": "Care Coordinator",
+      "location": "Vernal, Utah, United States",
+      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
+      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
+      "date_posted": "2026-06-16T20:41:40.000Z",
+      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -976,6 +937,19 @@
       "salary": "$42k–$61k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Chenmed",
+      "title": "Care Coordinator",
+      "location": "Columbus, Ohio, United States",
+      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "direct_url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Coordinate and authorize patient referrals, schedule appointments, communicate with patients/providers, use web insurance platforms and EMR, and support care transitions; HS diploma and 1+ year referral experience in healthcare required.",
+      "salary": "$35k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1031,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Rock Rapids, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/78619",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/78619",
-      "date_posted": "2026-05-29T06:00:00.000Z",
-      "description": "Bachelor’s in social work or related health/human services field; ability to obtain LSW; at least 1 year supervised social work experience in healthcare; strong interpersonal communication; empathy and discretion.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Jewish United Fund",
       "title": "Nonprofit Program Coordinator",
       "location": "Chicago, Illinois, United States",
@@ -1067,19 +1028,6 @@
       "salary": "$65k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Let Me Run, Inc",
-      "title": "Program Coordinator - Seattle",
-      "location": "Seattle or Charlotte",
-      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "date_posted": "2026-06-10T01:04:42.022Z",
-      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Part Time",
-      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1161,19 +1109,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Southeastern Michigan Health Association",
-      "title": "Program Manager - Sacred Spaces",
-      "location": "Detroit, Michigan, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4183339",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4183339",
-      "date_posted": "2026-06-25T17:21:31.000Z",
-      "description": "3+ years program coordination/nonprofit operations experience; strong organization, communication, grant reporting, and project management skills; ability to work independently and with partners; preferred background in food systems, environmental justice, urban agriculture, or community development.",
-      "salary": "$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "CRISTA Ministries",
       "title": "Grants Coordinator",
       "location": "Shoreline, Washington, United States",
@@ -1189,105 +1124,27 @@
   ],
   "new_jobs": [
     {
-      "company": "HOM, INC.",
-      "title": "Housing Specialist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535905",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3535905",
-      "date_posted": "2026-06-26T21:16:59.000Z",
-      "description": "Manage caseloads (225–250), conduct intakes/orientations, verify income/assets per HUD rules, calculate rent/HAP, coordinate unit search/transfers, interact with landlords and stakeholders; requires AZ driver’s license, auto insurance, 5+ years assisted housing experience, Section 8/Public Housing cert or ability to obtain.",
-      "salary": "$52k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Chicanos Por La Causa",
+      "company": "Titanium Healthcare",
       "title": "Housing Navigator ",
-      "location": "Phoenix or Arizona",
-      "url": "https://pm.healthcaresource.com/CS/cplc/#/job/3240",
-      "direct_url": "https://pm.healthcaresource.com/CS/cplc/#/job/3240",
-      "date_posted": "2026-06-26T00:00:00.000Z",
-      "description": "Bachelor's degree preferred; 2 years experience in housing, case management, or social services (or combination of education/experience). Must know landlord-tenant, Fair Housing and HQS; proficient in Microsoft Office and HMIS/Teams; valid driver\\u0002s license, proof of insurance, background/TB screening, and fingerprint clearance required; bilingual preferred.",
-      "salary": "$46k–$48k/yr",
+      "location": "San Luis Obispo, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
+      "salary": "$44k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Housing and Stability Services",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4129652",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4129652",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year social services experience; proficiency with Microsoft Office and HMIS; reliable transportation with valid driver's license and insurance; strong communication, public speaking, and case management skills.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Southwestcare",
-      "title": "Community Health Worker - Population Health",
-      "location": "Santa Fe or Albuquerque",
-      "url": "https://southwestcare.wd5.myworkdayjobs.com/swcc/job/Administration/Community-Health-Worker---Population-Health_R595",
-      "direct_url": "https://southwestcare.wd5.myworkdayjobs.com/swcc/job/Administration/Community-Health-Worker---Population-Health_R595",
-      "date_posted": "2026-06-21T00:00:00.000Z",
-      "description": "Supports population health through patient outreach, care coordination, SDOH screening, health education, documentation in EHR; 2+ years experience preferred; NM CHW certification and Athena EMR experience highly desired.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Virginia Department of Health",
-      "title": "Community Health Worker",
-      "location": "Orange, Virginia, United States",
-      "url": "https://careers.pageuppeople.com/1125/cw/en/job/5106509",
-      "direct_url": "https://careers.pageuppeople.com/1125/cw/en/job/5106509",
-      "date_posted": "2026-06-17T14:20:00.000Z",
-      "description": "Knowledge of public health, social determinants of health, and mental/behavioral health; experience with underserved communities; strong communication, cultural competency, interpersonal skills; basic technology proficiency; CHW certification preferred or able to obtain; background checks required.",
-      "salary": "$52k–$62k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Suvida Careers",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://ats.rippling.com/suvida-careers/jobs/d94ef5ad-ebb9-4abd-8ad3-2fc2730948f7",
-      "direct_url": "https://ats.rippling.com/suvida-careers/jobs/d94ef5ad-ebb9-4abd-8ad3-2fc2730948f7",
-      "date_posted": "2026-05-29T16:34:38.597Z",
-      "description": "CHW certification; 4-5 years healthcare experience; experience with social determinants of health; bilingual English/Spanish; EMR proficiency; in-home and clinic visits.",
-      "salary": "",
-      "job_type": "Full Time, Part Time, Contract, Internship, Temporary, Seasonal, Volunteer",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Southeastern Michigan Health Association",
-      "title": "Program Manager - Sacred Spaces",
-      "location": "Detroit, Michigan, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4183339",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4183339",
-      "date_posted": "2026-06-25T17:21:31.000Z",
-      "description": "3+ years program coordination/nonprofit operations experience; strong organization, communication, grant reporting, and project management skills; ability to work independently and with partners; preferred background in food systems, environmental justice, urban agriculture, or community development.",
-      "salary": "$65k/yr",
+      "company": "Chenmed",
+      "title": "Care Coordinator",
+      "location": "Columbus, Ohio, United States",
+      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "direct_url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
+      "date_posted": "2026-06-23T00:00:00.000Z",
+      "description": "Coordinate and authorize patient referrals, schedule appointments, communicate with patients/providers, use web insurance platforms and EMR, and support care transitions; HS diploma and 1+ year referral experience in healthcare required.",
+      "salary": "$35k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
