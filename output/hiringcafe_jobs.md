@@ -1,14 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-06-28 08:34 UTC*
+*Last updated: 2026-06-28 20:46 UTC*
 
-**2 new role(s)** since last run · 86 total in last 30d
+**2 new role(s)** since last run · 87 total in last 30d
 
-### [Housing Navigator ](https://titaniumhealthcare.bamboohr.com/careers/680) — Titanium Healthcare
-- 📍 **Location:** San Luis Obispo, California, United States
-- 💰 **Salary:** $44k–$52k/yr
-- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+### [Housing Specialist](https://edencle.isolvedhire.com/jobs/1800974) — EDEN Inc
+- 📍 **Location:** Cleveland, Ohio, United States
+- 💰 **Salary:** $43k/yr
+- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
 
-### [Care Coordinator](https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871) — Chenmed
-- 📍 **Location:** Columbus, Ohio, United States
-- 💰 **Salary:** $35k–$50k/yr
-- 🕒 **Posted:** 2026-06-23T00:00:00.000Z
+### [Program Coordinator - Seattle](https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d) — Let Me Run, Inc
+- 📍 **Location:** Seattle or Charlotte
+- 💰 **Salary:** $48k/yr
+- 🕒 **Posted:** 2026-06-10T01:04:42.022Z

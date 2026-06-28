@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28 08:34 UTC",
-  "total": 86,
+  "scraped_at": "2026-06-28 20:46 UTC",
+  "total": 87,
   "new_count": 2,
   "jobs": [
     {
@@ -51,6 +51,19 @@
       "date_posted": "2026-06-01T00:00:00.000Z",
       "description": "Provide housing navigation, case management, landlord outreach, and advocacy; assist with housing applications and documentation; coordinate with community partners.",
       "salary": "$58k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "EDEN Inc",
+      "title": "Housing Specialist",
+      "location": "Cleveland, Ohio, United States",
+      "url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
+      "salary": "$43k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -680,19 +693,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Suvida Careers",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://ats.rippling.com/suvida-careers/jobs/d94ef5ad-ebb9-4abd-8ad3-2fc2730948f7",
-      "direct_url": "https://ats.rippling.com/suvida-careers/jobs/d94ef5ad-ebb9-4abd-8ad3-2fc2730948f7",
-      "date_posted": "2026-05-29T16:34:38.597Z",
-      "description": "CHW certification; 4-5 years healthcare experience; experience with social determinants of health; bilingual English/Spanish; EMR proficiency; in-home and clinic visits.",
-      "salary": "",
-      "job_type": "Full Time, Part Time, Contract, Internship, Temporary, Seasonal, Volunteer",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HomeWell Care Services SC313",
       "title": "Care Coordinator",
       "location": "Myrtle Beach, South Carolina, United States",
@@ -1031,6 +1031,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Let Me Run, Inc",
+      "title": "Program Coordinator - Seattle",
+      "location": "Seattle or Charlotte",
+      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "date_posted": "2026-06-10T01:04:42.022Z",
+      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Institute for Nonprofit Practice",
       "title": "Program Coordinator",
       "location": "Dedham, Massachusetts, United States",
@@ -1124,29 +1137,29 @@
   ],
   "new_jobs": [
     {
-      "company": "Titanium Healthcare",
-      "title": "Housing Navigator ",
-      "location": "San Luis Obispo, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
-      "salary": "$44k–$52k/yr",
+      "company": "EDEN Inc",
+      "title": "Housing Specialist",
+      "location": "Cleveland, Ohio, United States",
+      "url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
+      "salary": "$43k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Chenmed",
-      "title": "Care Coordinator",
-      "location": "Columbus, Ohio, United States",
-      "url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
-      "direct_url": "https://chenmed.wd1.myworkdayjobs.com/chenmed/job/Morse-Road/Care-Coordinator_R0048871",
-      "date_posted": "2026-06-23T00:00:00.000Z",
-      "description": "Coordinate and authorize patient referrals, schedule appointments, communicate with patients/providers, use web insurance platforms and EMR, and support care transitions; HS diploma and 1+ year referral experience in healthcare required.",
-      "salary": "$35k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
+      "company": "Let Me Run, Inc",
+      "title": "Program Coordinator - Seattle",
+      "location": "Seattle or Charlotte",
+      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "date_posted": "2026-06-10T01:04:42.022Z",
+      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     }
   ]
