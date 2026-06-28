@@ -1,113 +1,111 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-06-28 00:23 UTC*
+*Last updated: 2026-06-28 10:25 UTC*
 
-**26 new role(s)** since last run · 29 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Travel Nurse Case Manager - Full-Time](https://www.linkedin.com/jobs/view/4433495119/) — Plan A Health
-- 📍 **Location:** Sacramento, CA
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4415932605/) — Cypress HCM
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-06-28
 
-### [Care Manager RN Per Diem Day](https://www.linkedin.com/jobs/view/4433499332/) — Providence
-- 📍 **Location:** Santa Monica, CA
-- 💰 **Salary:** $57.28/hr - $88.92/hr
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4356412191/) — Total Vision
+- 📍 **Location:** Huntington Beach, CA
 - 🕒 **Posted:** 2026-06-28
 
-### [RN Care Manager - Emergency Room - Part Time Nights](https://www.linkedin.com/jobs/view/4433602076/) — CONSUMER DIRECTED SERVICES INC.
-- 📍 **Location:** La Mirada, CA
+### [Health & Safety Program Manager (Southern CA)](https://www.linkedin.com/jobs/view/4415538845/) — American Water
+- 📍 **Location:** Imperial Beach, CA
+- 💰 **Salary:** $67,160 to $112,
 - 🕒 **Posted:** 2026-06-28
 
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433492234/) — Aura Health
-- 📍 **Location:** San Diego, CA
+### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4433616033/) — CommonSpirit Health
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $59.31 - $88.50 /hour
 - 🕒 **Posted:** 2026-06-28
 
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433486324/) — Rock Health
-- 📍 **Location:** San Diego, CA
+### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4415556670/) — Silverado
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $55 USD - $60 USD
 - 🕒 **Posted:** 2026-06-28
 
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433496316/) — Northshore Home Health Care
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4433606596/) — CommonSpirit Health
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $54.15 - $80.81 /hour
+- 🕒 **Posted:** 2026-06-28
+
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4433613068/) — CommonSpirit Health
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $54.15 - $80.81 /hour
+- 🕒 **Posted:** 2026-06-28
+
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4433606595/) — CommonSpirit Health
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $54.15 - $80.81 /hour
+- 🕒 **Posted:** 2026-06-28
+
+### [Pre-Lit Case Manager](https://www.linkedin.com/jobs/view/4431037142/) — Jobot
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $40.00/hr - $45.00/hr
+- 🕒 **Posted:** 2026-06-28
+
+### [Quality Program Manager](https://www.linkedin.com/jobs/view/4396057691/) — Lam Research
+- 📍 **Location:** Fremont, CA
+- 💰 **Salary:** $114,000.00 - $253,000.00
+- 🕒 **Posted:** 2026-06-28
+
+### [Principal Program Manager](https://www.linkedin.com/jobs/view/4415112072/) — HDR
+- 📍 **Location:** Riverside, CA
+- 💰 **Salary:** $203,434.00 to $290,620.00
+- 🕒 **Posted:** 2026-06-28
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4394203950/) — Bay Cove Human Services
+- 📍 **Location:** Cambridge, MA
+- 🕒 **Posted:** 2026-06-28
+
+### [Case Managers](https://www.linkedin.com/jobs/view/4415808611/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-06-28
+
+### [Care Manager III - Case Management](https://www.linkedin.com/jobs/view/4421561935/) — CHRISTUS Health
+- 📍 **Location:** Beaumont, TX
+- 🕒 **Posted:** 2026-06-28
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4405016634/) — Harlem Children's Zone
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
+- 🕒 **Posted:** 2026-06-28
+
+### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4433605712/) — UnitedHealth Group
+- 📍 **Location:** Sumter, SC
+- 💰 **Salary:** $16.00 to $29.00 per hour
+- 🕒 **Posted:** 2026-06-28
+
+### [Care Manager II - Case Management](https://www.linkedin.com/jobs/view/4421565951/) — CHRISTUS Health
+- 📍 **Location:** Santa Fe, NM
+- 🕒 **Posted:** 2026-06-28
+
+### [Patient Safety Program Manager](https://www.linkedin.com/jobs/view/4405067394/) — Legacy Health
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** USD $49.89 - USD $74.34 /Hr
+- 🕒 **Posted:** 2026-06-28
+
+### [Program Manager, Survey/Geospatial](https://www.linkedin.com/jobs/view/4395702091/) — Kleinfelder
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-06-28
+
+### [Bilingual Spanish speaking RN Case Manager for Hospice Program- Queens NY](https://www.linkedin.com/jobs/view/4421525307/) — Jobot
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $101,000.00/yr - $117,800.00/yr
+- 🕒 **Posted:** 2026-06-28
+
+### [Development Coordinator](https://www.linkedin.com/jobs/view/4404115060/) — Breakthrough T1D
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $52k - $54k
+- 🕒 **Posted:** 2026-06-28
+
+### [Research Program Manager, 2849-1](https://www.linkedin.com/jobs/view/4400004626/) — Cypress HCM
 - 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager/Benefits Coordinator- Supported Employment Program](https://www.linkedin.com/jobs/view/4431019165/) — Gang Alternative, Inc.
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $45,000- $47,000
-- 🕒 **Posted:** 2026-06-28
-
-### [Development Coordinator](https://www.linkedin.com/jobs/view/4433494123/) — METIS Development Group
-- 📍 **Location:** Minneapolis, MN
-- 🕒 **Posted:** 2026-06-28
-
-### [Care Coordinator (Medical Receptionist/PSR)](https://www.linkedin.com/jobs/view/4433600223/) — Health Marketing
-- 📍 **Location:** Bend, OR
-- 🕒 **Posted:** 2026-06-28
-
-### [Care Coordinator (Medical Receptionist/PSR)](https://www.linkedin.com/jobs/view/4433488299/) — CONSUMER DIRECTED SERVICES INC.
-- 📍 **Location:** Gresham, OR
-- 💰 **Salary:** $19-$21/hour
-- 🕒 **Posted:** 2026-06-28
-
-### [Care Coordinator (LMSW) - Preventative Medicine Team](https://www.linkedin.com/jobs/view/4433477944/) — CARIN Alliance
-- 📍 **Location:** Norwich, CT
-- 🕒 **Posted:** 2026-06-28
-
-### [Care Coordinator (Medical Receptionist/PSR) → Care Coordinator (Medical Receptionist/PSR)](https://www.linkedin.com/jobs/view/4433495367/) — Cherry Hill Free Clinic
-- 📍 **Location:** Oakhurst, NJ
-- 🕒 **Posted:** 2026-06-28
-
-### [Oncology Clinical Care Coordinator, RN](https://www.linkedin.com/jobs/view/4433498215/) — DayToDay Health
-- 📍 **Location:** Newark, DE
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse Case Manager - $40 to $45 per hour](https://www.linkedin.com/jobs/view/4433495264/) — Bold Steps Behavioral Health
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $40 to $45 per hour
-- 🕒 **Posted:** 2026-06-28
-
-### [Part-Time RN Care Manager](https://www.linkedin.com/jobs/view/4433498291/) — Cherry Hill Free Clinic
-- 📍 **Location:** Knoxville, TN
-- 🕒 **Posted:** 2026-06-28
-
-### [Part-Time Afterhours RN Care Manager](https://www.linkedin.com/jobs/view/4433482712/) — Preferred Home Health Care & Nursing Services
-- 📍 **Location:** Statesville, NC
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433493337/) — Aura Health
-- 📍 **Location:** Palm Harbor, FL
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433491217/) — Proforma Health
-- 📍 **Location:** Sanford, FL
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433491295/) — Black Women's Mental Health Institute
-- 📍 **Location:** White Plains, NY
-- 🕒 **Posted:** 2026-06-28
-
-### [Care Manager RN - 1.0 FTE Day](https://www.linkedin.com/jobs/view/4433484808/) — Providence
-- 📍 **Location:** Everett, WA
-- 💰 **Salary:** $47.73/hr - $89.59/hr
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433491249/) — Northshore Home Health Care
-- 📍 **Location:** Rochester, NY
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433488240/) — Northshore Home Health Care
-- 📍 **Location:** Charlottesville, VA
-- 🕒 **Posted:** 2026-06-28
-
-### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433494269/) — Fairview Hospital / Cleveland Clinic
-- 📍 **Location:** Green Bay, WI
-- 🕒 **Posted:** 2026-06-28
-
-### [Parent Resource Center Program Manager](https://www.linkedin.com/jobs/view/4427591051/) — Tulsa Public Schools
-- 📍 **Location:** Tulsa, OK
-- 🕒 **Posted:** 2026-06-28
-
-### [RN Program Coordinator - Cardiac Devices](https://www.linkedin.com/jobs/view/4433483765/) — Black Women's Mental Health Institute
-- 📍 **Location:** Portsmouth, NH
-- 🕒 **Posted:** 2026-06-28
-
-### [RN Program Coordinator - ECMO](https://www.linkedin.com/jobs/view/4433495328/) — CONSUMER DIRECTED SERVICES INC.
-- 📍 **Location:** Brevard, NC
+### [Program Manager I](https://www.linkedin.com/jobs/view/4406108174/) — Principal Financial Group
+- 📍 **Location:** Des Moines, IA
+- 💰 **Salary:** $127000 - $160000
 - 🕒 **Posted:** 2026-06-28
