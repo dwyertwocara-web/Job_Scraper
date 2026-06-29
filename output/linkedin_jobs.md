@@ -1,155 +1,145 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-06-29 13:02 UTC*
+*Last updated: 2026-06-29 15:06 UTC*
 
-**32 new role(s)** since last run · 32 total in last 1h
+**31 new role(s)** since last run · 31 total in last 1h
 
-### [Program Manager III-TPMG Continuum Operations](https://www.linkedin.com/jobs/view/4433696816/) — Kaiser Permanente
-- 📍 **Location:** Pleasanton, CA
-- 💰 **Salary:** $103,400.00/yr - $133,760.00/yr
-- 🕒 **Posted:** 2026-06-29
-
-### [Training Readiness Program Specialist](https://www.linkedin.com/jobs/view/4434466854/) — Kinetic Concepts
-- 📍 **Location:** Imperial Beach, CA
-- 🕒 **Posted:** 2026-06-29
-
-### [Case Manager (IW Women's Center)](https://www.linkedin.com/jobs/view/4434114141/) — Interfaith Clothing Ctr
-- 📍 **Location:** Rockville, MD
-- 💰 **Salary:** $55,000 - $65,000
-- 🕒 **Posted:** 2026-06-29
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4415573423/) — N Street Village
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $50,000.00/yr - $58,000.00/yr
-- 🕒 **Posted:** 2026-06-29
-
-### [Family Preservation Case Manager](https://www.linkedin.com/jobs/view/4421928824/) — Sevita
-- 📍 **Location:** Myrtle Beach, SC
-- 💰 **Salary:** $45,000-$48,000
-- 🕒 **Posted:** 2026-06-29
-
-### [Program Coordinator, CORE](https://www.linkedin.com/jobs/view/4352041931/) — Samaritan Daytop Village, Inc.
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-06-29
-
-### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431433097/) — Crossover
-- 📍 **Location:** Grand Prairie, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-06-29
-
-### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431429096/) — Crossover
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-06-29
-
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431432086/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-06-29
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4433696412/) — Maricopa County
-- 📍 **Location:** Tempe, AZ
-- 💰 **Salary:** $17.50 - $25.50 hourly
-- 🕒 **Posted:** 2026-06-29
-
-### [Medical Case Manager](https://www.linkedin.com/jobs/view/4425540824/) — Positive Impact Health Centers
-- 📍 **Location:** Marietta, GA
-- 🕒 **Posted:** 2026-06-29
-
-### [Lead Medical Case Manager](https://www.linkedin.com/jobs/view/4424232701/) — Positive Impact Health Centers
-- 📍 **Location:** Duluth, GA
-- 🕒 **Posted:** 2026-06-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431085544/) — Asheville Non-Surgical Orthopedics
-- 📍 **Location:** Asheville, NC
-- 💰 **Salary:** $18.00/hr - $20.00/hr
-- 🕒 **Posted:** 2026-06-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4434448992/) — AEG Vision
-- 📍 **Location:** Jeannette, PA
-- 🕒 **Posted:** 2026-06-29
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4428625436/) — AEG Vision
-- 📍 **Location:** Erie, PA
-- 🕒 **Posted:** 2026-06-29
-
-### [Customer Care Manager (all genders) auf Fuerteventura oder kanarische Inseln](https://www.linkedin.com/jobs/view/4434466822/) — ValueNet Group
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-06-29
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4424204622/) — Green Key Resources
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $110,000 - $120,000
-- 🕒 **Posted:** 2026-06-29
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4424218181/) — Green Key Resources
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $105,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-06-29
-
-### [Program Manager III, Workforce Planning, Google Data Centers](https://www.linkedin.com/jobs/view/4425085779/) — Google
-- 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $159000 - $231000
-- 🕒 **Posted:** 2026-06-29
-
-### [Global Services Channel Partner Program Manager](https://www.linkedin.com/jobs/view/4406689985/) — GE HealthCare
-- 📍 **Location:** Waukesha, WI
-- 🕒 **Posted:** 2026-06-29
-
-### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4431436064/) — Crossover
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-06-29
-
-### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4431429083/) — Crossover
-- 📍 **Location:** Paterson, NJ
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-06-29
-
-### [Missile Development Program Manager 3](https://www.linkedin.com/jobs/view/4416001247/) — Northrop Grumman
+### [Care Manager Assistant](https://www.linkedin.com/jobs/view/4434129182/) — MASC Medical Recruitment Firm
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $193,000.00 - $289,600.00
+- 💰 **Salary:** $15 to $25
 - 🕒 **Posted:** 2026-06-29
 
-### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4431441051/) — Crossover
-- 📍 **Location:** New Haven, CT
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [Program Manager III](https://www.linkedin.com/jobs/view/4434493184/) — Pride Global
+- 📍 **Location:** Culver City, CA
+- 💰 **Salary:** $79.67/hr - $79.67/hr
 - 🕒 **Posted:** 2026-06-29
 
-### [Workforce Development Coordinator](https://www.linkedin.com/jobs/view/4425417851/) — Umpqua Health
-- 📍 **Location:** Roseburg, OR
-- 💰 **Salary:** $ 71,850- $ 84,420
+### [Contract Vegetation Program Manager](https://www.linkedin.com/jobs/view/4431522091/) — Eocene Environmental Group
+- 📍 **Location:** San Luis Obispo, CA
+- 💰 **Salary:** $39.00 - $45.00 per hour
 - 🕒 **Posted:** 2026-06-29
 
-### [Total Cost of Care Program Specialist](https://www.linkedin.com/jobs/view/4428724920/) — Blue Cross & Blue Shield of Rhode Island
-- 📍 **Location:** Providence, RI
-- 💰 **Salary:** $65,600.00 - $98,400.00
+### [Program Manager](https://www.linkedin.com/jobs/view/4434101954/) — Piper Companies
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $120,000-$150,000
 - 🕒 **Posted:** 2026-06-29
 
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431431382/) — Crossover
-- 📍 **Location:** Texas, United States
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [Housing Specialist](https://www.linkedin.com/jobs/view/4434133003/) — The Center for Alternative Sentencing and Employment Services (CASES)
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-06-29
 
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4431436062/) — Crossover
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
+### [HEALTH HOMES CARE COORDINATOR](https://www.linkedin.com/jobs/view/4255931284/) — St. Mary's Healthcare System for Children
+- 📍 **Location:** Uniondale, NY
 - 🕒 **Posted:** 2026-06-29
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4431702887/) — Survivor Alliance
+### [Case Manager](https://www.linkedin.com/jobs/view/4413701851/) — Friendship House
+- 📍 **Location:** Wilmington, DE
+- 🕒 **Posted:** 2026-06-29
+
+### [Enhanced Care Manager](https://www.linkedin.com/jobs/view/4434484722/) — The Salvation Army USA Eastern Territory
+- 📍 **Location:** Saratoga Springs, NY
+- 💰 **Salary:** $26.35/hr - $26.35/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Healthcare Program Coordinator](https://www.linkedin.com/jobs/view/4434481981/) — H2 Performance Consulting
 - 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-06-29
 
-### [Lead Total Cost of Care Program Manager](https://www.linkedin.com/jobs/view/4428733803/) — Blue Cross & Blue Shield of Rhode Island
-- 📍 **Location:** Providence, RI
-- 💰 **Salary:** $102,300.00 - $163,700.00
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431523149/) — Highbar Physical Therapy
+- 📍 **Location:** Cranston, RI
 - 🕒 **Posted:** 2026-06-29
 
-### [IT Program Manager](https://www.linkedin.com/jobs/view/4434102680/) — PSC Biotech® Corporation
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $180,000 - $200,000 annually
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4303099995/) — PDS Health
+- 📍 **Location:** Bristow, VA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
 - 🕒 **Posted:** 2026-06-29
 
-### [Healthcare Data Analyst (Excel Specialist) | Remote](https://www.linkedin.com/jobs/view/4425208318/) — Crossing Hurdles
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4434497131/) — Specialty1 Partners
+- 📍 **Location:** Houston, TX
+- 💰 **Salary:** $20 USD - $24.53 USD
+- 🕒 **Posted:** 2026-06-29
+
+### [Aging Life Care Manager](https://www.linkedin.com/jobs/view/4434118568/) — Andrea Zaite, LLC
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-06-29
+
+### [Wellness Care Manager](https://www.linkedin.com/jobs/view/4352274786/) — VNS Health
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** USD $23.17 - USD $28.96 /Hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4434482830/) — Ohio Living
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
+- 🕒 **Posted:** 2026-06-29
+
+### [RN Care Manager - Full Time - Days](https://www.linkedin.com/jobs/view/4352061720/) — Mohawk Valley Health System
+- 📍 **Location:** Utica, NY
+- 💰 **Salary:** $66,000 - $100,000 Annually
+- 🕒 **Posted:** 2026-06-29
+
+### [Women, Infants, and Children Outreach Coordinator (Program Coordinator I)-61007991](https://www.linkedin.com/jobs/view/4434127357/) — S.C. Department of Public Health
+- 📍 **Location:** Horry County, SC
+- 🕒 **Posted:** 2026-06-29
+
+### [Case Manager II - Childrens Programming](https://www.linkedin.com/jobs/view/4434117662/) — Seven Hills Foundation
+- 📍 **Location:** Cranston, RI
+- 🕒 **Posted:** 2026-06-29
+
+### [People Operations Program Manager](https://www.linkedin.com/jobs/view/4431507479/) — ProActivate
+- 📍 **Location:** Irving, TX
+- 💰 **Salary:** $80,000.00/yr - $100,000.00/yr
+- 🕒 **Posted:** 2026-06-29
+
+### [Construction Program Manager](https://www.linkedin.com/jobs/view/4410992186/) — INSPYR Solutions
 - 📍 **Location:** United States
 - 💰 **Salary:** $70.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Project/Program Manager - Project/Program Manager I](https://www.linkedin.com/jobs/view/4431525151/) — IntePros
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $40.00/hr - $43.00/hr
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4434487633/) — Zapnix LLC
+- 📍 **Location:** Buffalo Grove, IL
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager , Last Mile Launch](https://www.linkedin.com/jobs/view/4416221274/) — Amazon
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager - Construction (Multiple Locations)](https://www.linkedin.com/jobs/view/4434109946/) — Burns & McDonnell
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $175,000.00-350,000.00
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4434106926/) — Let It Be Us
+- 📍 **Location:** Barrington, IL
+- 🕒 **Posted:** 2026-06-29
+
+### [Launch Program Manager, Last Mile Launch, Worldwide Engineering and Innovation Launch and Expansion](https://www.linkedin.com/jobs/view/4416232172/) — Amazon
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager - Construction (Multiple Locations)](https://www.linkedin.com/jobs/view/4434112627/) — Burns & McDonnell
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $175,000.00-350,000.00
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager - Construction (Multiple Locations)](https://www.linkedin.com/jobs/view/4434126287/) — Burns & McDonnell
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $175,000.00-350,000.00
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Manager, Climate & Sustainability Engineering](https://www.linkedin.com/jobs/view/4434118438/) — Duke University
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** USD $59,829.00 to USD $86,700.00
+- 🕒 **Posted:** 2026-06-29
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4434133090/) — Valence Surface Technologies
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $28.00 - $34.00
+- 🕒 **Posted:** 2026-06-29
+
+### [BSN Program Coordinator - Faculty/Instructor](https://www.linkedin.com/jobs/view/4431510285/) — South College
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-06-29
