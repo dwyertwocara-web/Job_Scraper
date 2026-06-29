@@ -1,114 +1,58 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-06-28 20:08 UTC*
+*Last updated: 2026-06-29 00:26 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Adult Housing Services Manager](https://www.linkedin.com/jobs/view/4434298635/) — The San Diego LGBT Community Center
+### [Travel Nurse RN - Case Manager](https://www.linkedin.com/jobs/view/4433639021/) — The VIOS Clinic
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $27.00 - $28.00/hour
+- 🕒 **Posted:** 2026-06-29
+
+### [Care Coordinator (Medical Receptionist/PSR) → Care Coordinator (Medical Receptionist/PSR)](https://www.linkedin.com/jobs/view/4433617967/) — Personal Touch Home Health Care Services Inc.
+- 📍 **Location:** Redmond, OR
+- 💰 **Salary:** $19-$21
+- 🕒 **Posted:** 2026-06-29
+
+### [Val Verde USD Regional Program Manager](https://www.linkedin.com/jobs/view/4433617992/) — Elevo Learning
+- 📍 **Location:** Mead Valley, CA
+- 💰 **Salary:** $70,500.00/yr - $73,500.00/yr
+- 🕒 **Posted:** 2026-06-29
+
+### [RN Case Manager - Value Based Service Organization - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4434412248/) — University of Southern California
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4434292786/) — Community Action Commission of Santa Barbara County
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $21.00 - $23.00 per hour
+### [PROGRAM COORDINATOR – WORKFORCE & OPERATIONS](https://www.linkedin.com/jobs/view/4434407723/) — Entryway NC
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $58,000–$60,000
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager/ Group Facilitator I/II (Outpatient)](https://www.linkedin.com/jobs/view/4434291893/) — Sierra Meadows Behavioral Health
-- 📍 **Location:** Visalia, CA
-- 💰 **Salary:** $21-$24
+### [PROGRAM COORDINATOR – WORKFORCE & OPERATIONS](https://www.linkedin.com/jobs/view/4434414207/) — Entryway NC
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $50,000–$52,000
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4431053482/) — Morgan & Morgan, P.A.
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $73,000 USD - $85,000 USD
+### [MDS/ Resident Care Coordinator](https://www.linkedin.com/jobs/view/4433613942/) — The Alden Network
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager - Housing Support - New Path](https://www.linkedin.com/jobs/view/4434408383/) — Terry Reilly Health Services
-- 📍 **Location:** Boise, ID
+### [Memory Care Coordinator    Licensed Practical Nurse position](https://www.linkedin.com/jobs/view/4433633402/) — Danbury Senior Living
+- 📍 **Location:** Brunswick, OH
 - 🕒 **Posted:** 2026-06-28
 
-### [Sr. Program Coordinator](https://www.linkedin.com/jobs/view/4434089063/) — University of Miami
-- 📍 **Location:** Coral Gables, FL
+### [Case Manager](https://www.linkedin.com/jobs/view/4434044566/) — LifeImpactersFoundation
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-06-28
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4433632188/) — NeuLife Neurological Services, LLC
-- 📍 **Location:** Bowling Green Metropolitan Area
+### [Program Manager](https://www.linkedin.com/jobs/view/4433634314/) — Wilmington-Clinton County Chamber of Commerce
+- 📍 **Location:** Wilmington, NC
+- 💰 **Salary:** $35,000 - $45,000
 - 🕒 **Posted:** 2026-06-28
 
-### [Clinical Care Coordinator](https://www.linkedin.com/jobs/view/4434294733/) — Community Bridges
-- 📍 **Location:** Mesa, AZ
+### [Program Manager, Jr](https://www.linkedin.com/jobs/view/4431844320/) — Odyssey Information Services
+- 📍 **Location:** Seminole, OK
 - 🕒 **Posted:** 2026-06-28
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4433612781/) — NeuLife Neurological Services, LLC
-- 📍 **Location:** Mount Dora, FL
-- 💰 **Salary:** $19 - $25 per hour
-- 🕒 **Posted:** 2026-06-28
-
-### [Forensic Case Manager](https://www.linkedin.com/jobs/view/4434409192/) — MHMR of Tarrant County
-- 📍 **Location:** Fort Worth, TX
-- 🕒 **Posted:** 2026-06-28
-
-### [PMO Lead - Program Manager](https://www.linkedin.com/jobs/view/4434299576/) — Unissant
-- 📍 **Location:** Herndon, VA
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4423168128/) — Haystack
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $50,000.00/yr - $55,000.00/yr
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4434298653/) — Nalu Federal
-- 📍 **Location:** Falls Church, VA
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4434293727/) — Texas A&M AgriLife Research
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-06-28
-
-### [Preschool Program Manager (Full Time)](https://www.linkedin.com/jobs/view/4434400550/) — Summit Area YMCA
-- 📍 **Location:** Summit, NJ
-- 💰 **Salary:** $50,000 – $58,000 annually
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4434299580/) — Community Bridges
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Manager BHT](https://www.linkedin.com/jobs/view/4434406421/) — Community Bridges
-- 📍 **Location:** Tucson, AZ
-- 🕒 **Posted:** 2026-06-28
-
-### [CBCM Case Manager](https://www.linkedin.com/jobs/view/4434406398/) — Kalihi-Palama Health Center
-- 📍 **Location:** Honolulu, HI
-- 🕒 **Posted:** 2026-06-28
-
-### [Lead Case Manager](https://www.linkedin.com/jobs/view/4434405547/) — Sanctuary Recovery Centers
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Coordinator II P11](https://www.linkedin.com/jobs/view/4434405472/) — Texas A&M AgriLife Research
-- 📍 **Location:** College Station, TX
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Specialist](https://www.linkedin.com/jobs/view/4434405495/) — Temple University
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $50,000 - $55,000
-- 🕒 **Posted:** 2026-06-28
-
-### [Immigrant Services Program Coordinator (Closes 7/6)](https://www.linkedin.com/jobs/view/4434405523/) — Allegheny County Department of Human Services
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-06-28
-
-### [Program Specialist](https://www.linkedin.com/jobs/view/4434407383/) — The Arc Jacksonville
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $40,000 – $50,000
-- 🕒 **Posted:** 2026-06-28
-
-### [Public Health Program Manager](https://www.linkedin.com/jobs/view/4434401533/) — Family Health Council of Central PA
-- 📍 **Location:** Camp Hill, PA
-- 💰 **Salary:** $50,000-$60,000,
-- 🕒 **Posted:** 2026-06-28
-
-### [Research Assistant 1](https://www.linkedin.com/jobs/view/4434088203/) — University of Miami
-- 📍 **Location:** Miami, FL
+### [Fitness Program Manager- I](https://www.linkedin.com/jobs/view/4430647431/) — HealthFitness
+- 📍 **Location:** Niskayuna, NY
+- 💰 **Salary:** $50k - $65k
 - 🕒 **Posted:** 2026-06-28
