@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-06-28 20:45 UTC",
-  "total": 5,
+  "scraped_at": "2026-06-29 21:48 UTC",
+  "total": 2,
   "new_count": 0,
   "jobs": [
     {
@@ -9,7 +9,7 @@
       "location": "San Francisco/Peninsula",
       "url": "https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20752446",
       "date_posted": "",
-      "salary": "",
+      "salary": "$143,000.00-$200,000.00 Annually",
       "ats": "CalOpps"
     },
     {
@@ -19,33 +19,6 @@
       "url": "https://www.calopps.org/san-jose/job-20751640",
       "date_posted": "",
       "salary": "$134,490.72-$174,851.04 Annually",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Support Dog Program Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20749975",
-      "date_posted": "",
-      "salary": "",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "Daly City",
-      "title": "Housing Coordinator",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/daly-city/job-20742105",
-      "date_posted": "",
-      "salary": "$9,674.00-$11,758.00 Monthly",
-      "ats": "CalOpps"
-    },
-    {
-      "company": "San Mateo County",
-      "title": "Mental Health Program Specialist- SB43 (Open & Promotional)",
-      "location": "San Francisco/Peninsula",
-      "url": "https://www.calopps.org/san-mateo-county/job-20705405",
-      "date_posted": "",
-      "salary": "",
       "ats": "CalOpps"
     }
   ],
