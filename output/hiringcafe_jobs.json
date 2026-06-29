@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-06-28 20:46 UTC",
-  "total": 87,
-  "new_count": 2,
+  "scraped_at": "2026-06-29 12:50 UTC",
+  "total": 89,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Nan McKay & Associates",
@@ -116,6 +116,19 @@
       "date_posted": "2026-06-26T21:16:59.000Z",
       "description": "Manage caseloads (225–250), conduct intakes/orientations, verify income/assets per HUD rules, calculate rent/HAP, coordinate unit search/transfers, interact with landlords and stakeholders; requires AZ driver’s license, auto insurance, 5+ years assisted housing experience, Section 8/Public Housing cert or ability to obtain.",
       "salary": "$52k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Husadayforce",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12959",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12959",
+      "date_posted": "2026-06-02T04:00:00.000Z",
+      "description": "High School diploma or equivalent; experience in housing placement preferred; strong customer service and communication skills; bilingual in Spanish a plus; valid US driver’s license a plus.",
+      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -290,6 +303,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "St Mary's Center",
+      "title": "Housing Navigator ",
+      "location": "Oakland, California, United States",
+      "url": "https://stmaryscenter.bamboohr.com/careers/107",
+      "direct_url": "https://stmaryscenter.bamboohr.com/careers/107",
+      "date_posted": "2026-06-28T00:00:00.000Z",
+      "description": "Assist older adults experiencing homelessness with housing search, document readiness, landlord engagement, applications, move-in coordination; requires an Associate degree, 1+ year relevant experience, and a valid CDL.",
+      "salary": "$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Young Women's Christian Association (YWCA of Cleveland)",
       "title": "Housing Navigator",
       "location": "Cleveland, Ohio, United States",
@@ -370,12 +396,12 @@
     {
       "company": "Titanium Healthcare",
       "title": "Housing Navigator ",
-      "location": "San Luis Obispo, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "location": "Santa Barbara, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
       "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
-      "salary": "$44k–$52k/yr",
+      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
+      "salary": "$48k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -394,6 +420,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Mission Action",
+      "title": "Housing Navigator",
+      "location": "San Francisco, California, United States",
+      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "date_posted": "2026-06-10T22:28:27.586Z",
+      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
+      "salary": "$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Serene Health",
       "title": "Housing Navigator",
       "location": "San Diego, California, United States",
@@ -407,19 +446,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "SupportWorks Housing (formerly known as Virginia Supportive Housing)",
-      "title": "Housing Navigator",
-      "location": "Chesapeake or Virginia",
-      "url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
-      "direct_url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
-      "date_posted": "2026-06-25T00:00:00.000Z",
-      "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
-      "salary": "$50k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Economic Defense Project",
       "title": "Housing Navigator",
       "location": "Denver, Colorado, United States",
@@ -428,6 +454,19 @@
       "date_posted": "2026-06-12T00:00:00.000Z",
       "description": "3+ years advocacy, social services, or law-related experience; proficiency with CRM, Microsoft Office, and Google Suite; strong communication, analytical, and organizational skills; valid driver’s license and reliable transportation; must reside in Colorado and work hybrid schedule.",
       "salary": "$63k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SupportWorks Housing (formerly known as Virginia Supportive Housing)",
+      "title": "Housing Navigator",
+      "location": "Chesapeake or Virginia",
+      "url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
+      "direct_url": "https://supportworkshousing.isolvedhire.com/jobs/1807968",
+      "date_posted": "2026-06-25T00:00:00.000Z",
+      "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
+      "salary": "$50k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1031,19 +1070,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Let Me Run, Inc",
-      "title": "Program Coordinator - Seattle",
-      "location": "Seattle or Charlotte",
-      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "date_posted": "2026-06-10T01:04:42.022Z",
-      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Part Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Institute for Nonprofit Practice",
       "title": "Program Coordinator",
       "location": "Dedham, Massachusetts, United States",
@@ -1083,19 +1109,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Georgetown",
-      "title": "Program Coordinator, Center for Public and Nonprofit Leadership, McCourt School of Public Policy – Georgetown University",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
-      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
-      "date_posted": "2026-06-01T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 0-2 years program management; strong communication, organization, and time management; experience with Google Apps, Microsoft Office, Zoom, WordPress, Constant Contact, Canva; commitment to equity.",
-      "salary": "$42k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The School District of Philadelphia",
       "title": "26-27 SY Program Coordinator Bodine HS",
       "location": "Philadelphia, Pennsylvania, United States",
@@ -1104,6 +1117,19 @@
       "date_posted": "2026-06-05T10:53:04.000Z",
       "description": "Bachelor's degree and 2 years of professional experience with schools/nonprofits or program management (or equivalent). Skills in partnership building, data collection and recordkeeping, meeting facilitation, task management, and written/oral communication.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Georgetown",
+      "title": "Program Coordinator, Center for Public and Nonprofit Leadership, McCourt School of Public Policy – Georgetown University",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
+      "direct_url": "https://georgetown.wd1.myworkdayjobs.com/georgetown_admin_careers/job/500-First-St-NW-1st-Floor/Program-Coordinator--Center-for-Public-and-Nonprofit-Leadership--McCourt-School-of-Public-Policy---Georgetown-University_JR26014-1",
+      "date_posted": "2026-06-01T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 0-2 years program management; strong communication, organization, and time management; experience with Google Apps, Microsoft Office, Zoom, WordPress, Constant Contact, Canva; commitment to equity.",
+      "salary": "$42k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1137,29 +1163,55 @@
   ],
   "new_jobs": [
     {
-      "company": "EDEN Inc",
+      "company": "Husadayforce",
       "title": "Housing Specialist",
-      "location": "Cleveland, Ohio, United States",
-      "url": "https://edencle.isolvedhire.com/jobs/1800974",
-      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
-      "salary": "$43k/yr",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12959",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/12959",
+      "date_posted": "2026-06-02T04:00:00.000Z",
+      "description": "High School diploma or equivalent; experience in housing placement preferred; strong customer service and communication skills; bilingual in Spanish a plus; valid US driver’s license a plus.",
+      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Let Me Run, Inc",
-      "title": "Program Coordinator - Seattle",
-      "location": "Seattle or Charlotte",
-      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
-      "date_posted": "2026-06-10T01:04:42.022Z",
-      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Part Time",
-      "is_remote": true,
+      "company": "St Mary's Center",
+      "title": "Housing Navigator ",
+      "location": "Oakland, California, United States",
+      "url": "https://stmaryscenter.bamboohr.com/careers/107",
+      "direct_url": "https://stmaryscenter.bamboohr.com/careers/107",
+      "date_posted": "2026-06-28T00:00:00.000Z",
+      "description": "Assist older adults experiencing homelessness with housing search, document readiness, landlord engagement, applications, move-in coordination; requires an Associate degree, 1+ year relevant experience, and a valid CDL.",
+      "salary": "$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Titanium Healthcare",
+      "title": "Housing Navigator ",
+      "location": "Santa Barbara, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
+      "salary": "$48k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mission Action",
+      "title": "Housing Navigator",
+      "location": "San Francisco, California, United States",
+      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "date_posted": "2026-06-10T22:28:27.586Z",
+      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
+      "salary": "$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     }
   ]
