@@ -1,53 +1,54 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-06-30 10:55 UTC*
+*Last updated: 2026-06-30 22:03 UTC*
 
-**11 new role(s)** since last run · 11 total in last 24h
+**11 new role(s)** since last run · 14 total in last 24h
 
-### [Patient Care Coordinator - Care Navigator](https://www.linkedin.com/jobs/view/patient-care-coordinator-care-navigator-at-motion-recruitment-4434724649?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Motion Recruitment
+### [In-Field Clinical Care Coordinator, Mobile Crisis Response](https://www.jobleads.com/us/job/in-field-clinical-care-coordinator-mobile-crisis-response--sacramento--ecabd724a06f2263a35a0773e4999154b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Bay Area Community Services
 - 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** 60K–80K a year
 - 🕒 **Posted:** 2026-06-30
 
-### [ICMS Case Manager](https://www.linkedin.com/jobs/view/icms-case-manager-at-linc-housing-4431537201?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Linc Housing
-- 📍 **Location:** Inglewood, CA
-- 💰 **Salary:** 23.69–27.87 an hour
+### [Impactful Housing Navigator & Case Manager](https://www.learn4good.com/jobs/victorville/california/social_work/5239191112/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Symba Center
+- 📍 **Location:** Victorville, CA
+- 💰 **Salary:** 25–27 an hour
 - 🕒 **Posted:** 2026-06-30
 
-### [Housing Navigator](https://career.io/job/housing-navigator-emeryville-st-marys-center-d4811ec40aa2110327aec4ccc5ca84e6?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — St Mary's Center
-- 📍 **Location:** Emeryville, CA
-- 💰 **Salary:** 30 an hour
+### [CalAIM Solutions Case Manager - Impact & Outreach](https://www.learn4good.com/jobs/santa-ana/california/social_work/5239180931/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Mercy House
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** 23–24 an hour
 - 🕒 **Posted:** 2026-06-30
 
-### [Case Manager - Enhanced Care Management ( CalAIM) (JR 5412)](https://sandiego-ca.geebo.com/jobs-online/view/id/97819779-case-manager-enhanced-care-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting The Homeless)
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** 20–28 an hour
+### [Senior Community Health Worker - Quality Revenue Enhancement](https://providence.jobs/hesperia-ca/senior-community-health-worker-quality-revenue-enhancement/CB08C632C6B0479D9C753F211E34A9AA/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence
+- 📍 **Location:** Hesperia, CA
+- 💰 **Salary:** 24.82–37.98 an hour
 - 🕒 **Posted:** 2026-06-30
 
-### [Community Health Worker, Full Time, Evening Shift](https://www.linkedin.com/jobs/view/community-health-worker-full-time-evening-shift-at-adventist-health-4434174357?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
-- 📍 **Location:** Willits, CA
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4434798235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
+- 📍 **Location:** Rohnert Park, CA
+- 💰 **Salary:** 20.75–29.00 an hour
 - 🕒 **Posted:** 2026-06-30
 
-### [Behavioral Health Coordinator](https://www.linkedin.com/jobs/view/behavioral-health-coordinator-at-renown-health-4431540847?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Renown Health
-- 📍 **Location:** Reno, NV
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-specialty1-partners-4435169045?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Specialty1 Partners
+- 📍 **Location:** Rancho Mirage, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/client-care-coordinator-at-crystal-cove-recovery-4434172321?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Crystal Cove Recovery
-- 📍 **Location:** Laguna Beach, CA
+### [Care Coordinator](https://careers.teksystems.com/us/en/job/JP-006126491/Care-Coordinator?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — TEKsystems
+- 📍 **Location:** Canoga Park, CA
+- 💰 **Salary:** 25 an hour
 - 🕒 **Posted:** 2026-06-30
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-gastroenterology-associates-of-the-east-bay-gate-a-division-of-bass-medical-group-4430367095?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Gastroenterology Associates of the East Bay (GATE), A Division of BASS Medical Group
-- 📍 **Location:** Berkeley, CA
+### [Medical Assistant / Patient Care Coordinator II, ITA](https://careers.stanfordhealthcare.org/us/en/job/R2657682/Medical-Assistant-Patient-Care-Coordinator-II-ITA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
+- 📍 **Location:** Redwood City, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Patient Care Coordinator/Case Management Specialist/UM](https://www.ziprecruiter.com/c/A.P.R./Job/Patient-Care-Coordinator-Case-Management-Specialist-UM/-in-Oakland,CA?jid=66a1f9a17cb696c2&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — A.P.R., Inc. (AlphaProTemps)
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** 29 an hour
+### [Patient Care Coordinator-Encino, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-encino-ca-at-sonova-group-4434779869?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [Customer Care Coordinator - Durable Medical Equipment](https://www.indeed.com/viewjob?jk=00095299a79a0bc4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Mobility Professionals, Inc.
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** 25–28 an hour
+### [Care Coordinator](https://www.adzuna.com/details/5781824297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Children'S Institute Inc.
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-06-30
 
-### [RN Care Manager - High-Risk Patient Care Coordinator](https://jobs.fox8.com/jobs/rn-care-manager-high-risk-patient-care-coordinator-cerritos-california/2848326216-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — CareMore Health System
-- 📍 **Location:** Cerritos, CA
+### [Public Health Nurse - Communicable Disease Case Manager](https://www.ihiresocialservices.com/redirect/siteredirect?destination=https://www.ihirenursing.com/jobs/view/526671384&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — San Bernardino County (CA)
+- 📍 **Location:** California
 - 🕒 **Posted:** 2026-06-30
