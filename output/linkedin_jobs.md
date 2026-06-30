@@ -1,109 +1,132 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-06-30 08:59 UTC*
+*Last updated: 2026-06-30 10:52 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**28 new role(s)** since last run · 28 total in last 1h
 
-### [Community Health Program Manager II](https://www.linkedin.com/jobs/view/4427385936/) — L.A. Care Health Plan
+### [Patient Care Coordinator - Santa Rosa, CA](https://www.linkedin.com/jobs/view/4425547242/) — CQ Partners
+- 📍 **Location:** Santa Rosa, CA
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Program Manager](https://www.linkedin.com/jobs/view/4427827189/) — Compass
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $135,000 - $165,000 annually
+- 🕒 **Posted:** 2026-06-30
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4434973169/) — Jobot
 - 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $70,000.00/yr - $78,000.00/yr
 - 🕒 **Posted:** 2026-06-30
 
-### [Development Coordinator](https://www.linkedin.com/jobs/view/4431581504/) — Los Angeles Jewish Health
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Development Coordinator](https://www.linkedin.com/jobs/view/4425677514/) — Breakthrough T1D
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $55k - $60k
 - 🕒 **Posted:** 2026-06-30
 
-### [Case Manager, RN](https://www.linkedin.com/jobs/view/4434307517/) — AHMC HealthCare
-- 📍 **Location:** Whittier, CA
+### [Quality Program Manager](https://www.linkedin.com/jobs/view/4434991103/) — Collectors
+- 📍 **Location:** Santa Ana, CA
+- 💰 **Salary:** $110,000 - $160,000
 - 🕒 **Posted:** 2026-06-30
 
-### [Clinical Program Manager For Adult Mental Health Services ASW LCSW MFT LMFT APCC LPCC](https://www.linkedin.com/jobs/view/4434964696/) — Mental Health America of Los Angeles
-- 📍 **Location:** Lancaster, CA
+### [Technical Program Manager, Frontier Safety, Alignment and Collaboration, DeepMind](https://www.linkedin.com/jobs/view/4431907604/) — Google DeepMind
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $256000 - $279000
 - 🕒 **Posted:** 2026-06-30
 
-### [Member Experience Analytics Data Analyst III](https://www.linkedin.com/jobs/view/4424817716/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Human Services Housing Specialist](https://www.linkedin.com/jobs/view/4431920014/) — Blue Ridge Behavioral Healthcare
+- 📍 **Location:** Roanoke, VA
+- 💰 **Salary:** $43,120.62 to $53,900.78
 - 🕒 **Posted:** 2026-06-30
 
-### [Medical Cost Drivers Analytics Data Analyst III](https://www.linkedin.com/jobs/view/4424834630/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Community Health Worker Senior - Community Health Development](https://www.linkedin.com/jobs/view/4422204986/) — CHRISTUS Health
+- 📍 **Location:** Corpus Christi, TX
 - 🕒 **Posted:** 2026-06-30
 
-### [Clinical Data Analyst III](https://www.linkedin.com/jobs/view/4428211987/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Case Manager](https://www.linkedin.com/jobs/view/4322889743/) — Bay Cove Human Services
+- 📍 **Location:** Greater Boston
 - 🕒 **Posted:** 2026-06-30
 
-### [Targeted Case Manager](https://www.linkedin.com/jobs/view/4431597801/) — Yellowstone Boys and Girls Ranch
-- 📍 **Location:** Kalispell, MT
-- 💰 **Salary:** $20.38 - $22.94 per hour
+### [Transition in Place Case Manager](https://www.linkedin.com/jobs/view/4418852459/) — New England Center and Home for Veterans
+- 📍 **Location:** Haverhill, MA
 - 🕒 **Posted:** 2026-06-30
 
-### [Youth Community Based Case Manager - Mental Health](https://www.linkedin.com/jobs/view/4434956767/) — Zepf Center
-- 📍 **Location:** Toledo, OH
+### [Health Assistance Program Care Coordinator](https://www.linkedin.com/jobs/view/4425960586/) — University of Vermont Health
+- 📍 **Location:** Williston, VT
+- 💰 **Salary:** $26.01/hr - $41.00/hr
 - 🕒 **Posted:** 2026-06-30
 
-### [Behavioral Health Care Coordinator](https://www.linkedin.com/jobs/view/4434959732/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
+### [Correctional Case Manager](https://www.linkedin.com/jobs/view/4431905779/) — State of Oklahoma
+- 📍 **Location:** Cleveland County, OK
 - 🕒 **Posted:** 2026-06-30
 
-### [Targeted Case Manager](https://www.linkedin.com/jobs/view/4434952796/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
+### [Care Manager](https://www.linkedin.com/jobs/view/4425643355/) — Emory Healthcare
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-06-30
 
-### [Copy of Care Coordinator](https://www.linkedin.com/jobs/view/4434951803/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $50,000.00- $52,000,00
-- 🕒 **Posted:** 2026-06-30
-
-### [Transitional Care Manager, Home Health Visits](https://www.linkedin.com/jobs/view/4379275070/) — BAYADA Home Health Care
-- 📍 **Location:** Durham, NC
-- 🕒 **Posted:** 2026-06-30
-
-### [Continuing Care Coordinator](https://www.linkedin.com/jobs/view/4434964854/) — RemoteHunter
+### [Medical Assistant Patient Care Coordinator](https://www.linkedin.com/jobs/view/4431907620/) — Jobgether
 - 📍 **Location:** United States
-- 💰 **Salary:** $52,500.00/yr - $60,000.00/yr
+- 💰 **Salary:** $17.00 to $20.00
 - 🕒 **Posted:** 2026-06-30
 
-### [RN Complex Care Case Manager -](https://www.linkedin.com/jobs/view/4395872738/) — Indigo
-- 📍 **Location:** Spokane, WA
-- 💰 **Salary:** $101,407.00 - $177,821.28 USD
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4425269959/) — HearingLife
+- 📍 **Location:** Albany, NY
+- 💰 **Salary:** $17 - $21 per hr
 - 🕒 **Posted:** 2026-06-30
 
-### [OC Training Program Coordinator (0.7 FTE)](https://www.linkedin.com/jobs/view/4426899307/) — Overlake Medical Center & Clinics
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $30.22 - $45.33
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4425263945/) — HearingLife
+- 📍 **Location:** Suffolk, VA
+- 💰 **Salary:** $17 - $21 per hr
 - 🕒 **Posted:** 2026-06-30
 
-### [Bilingual Targeted Case Manager](https://www.linkedin.com/jobs/view/4434961715/) — COMHAR, Inc.
-- 📍 **Location:** Philadelphia, PA
+### [Program Specialist, Disaster Services](https://www.linkedin.com/jobs/view/4425614840/) — American Red Cross
+- 📍 **Location:** Cape Girardeau, MO
 - 🕒 **Posted:** 2026-06-30
 
-### [Program Coordinator, eSports](https://www.linkedin.com/jobs/view/4434198918/) — Florida International University
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $40,000-$45,000
-- 🕒 **Posted:** 2026-06-30
-
-### [Program Specialist](https://www.linkedin.com/jobs/view/4434947902/) — GainSpan
-- 📍 **Location:** Bowie, MD
-- 🕒 **Posted:** 2026-06-30
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4434960904/) — RemoteHunter
+### [Telephonic Case Manager](https://www.linkedin.com/jobs/view/4425289006/) — Enlyte
 - 📍 **Location:** United States
-- 💰 **Salary:** $87,418.00/yr - $101,418.00/yr
+- 💰 **Salary:** $71,000 - $72,800 annually
 - 🕒 **Posted:** 2026-06-30
 
-### [Program Manager – Data Analytics](https://www.linkedin.com/jobs/view/4425630059/) — Amentum
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $200,000-$230,000
+### [Case Manager RN/26/NUR023](https://www.linkedin.com/jobs/view/4422210514/) — The Judge Group
+- 📍 **Location:** Kissimmee, FL
+- 💰 **Salary:** $46.00/hr - $48.00/hr
 - 🕒 **Posted:** 2026-06-30
 
-### [Archivist Program Manager](https://www.linkedin.com/jobs/view/4432802393/) — Amentum
-- 📍 **Location:** Warren, MI
+### [Telephonic Case Manager](https://www.linkedin.com/jobs/view/4422237728/) — Enlyte
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $74,000 - $86,000 annually
 - 🕒 **Posted:** 2026-06-30
 
-### [Entry Level Counterintelligence Program Specialist](https://www.linkedin.com/jobs/view/4411258623/) — Amentum
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $80,000-$90,000
+### [Program Coordinator - Child Care Training](https://www.linkedin.com/jobs/view/4425926408/) — Houston-Galveston Area Council
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-06-30
 
-### [Research Assistant/Associate (f/m/d) [V000010829]](https://www.linkedin.com/jobs/view/4434954964/) — Center for mobile Propulsion - CMP
-- 📍 **Location:** Mobile, AL
+### [Program Manager](https://www.linkedin.com/jobs/view/4429588097/) — University of Oklahoma
+- 📍 **Location:** Tulsa, OK
+- 🕒 **Posted:** 2026-06-30
+
+### [Senior Program Manager – Strategic Initiatives](https://www.linkedin.com/jobs/view/4425656223/) — Progress Residential®
+- 📍 **Location:** Tempe, AZ
+- 🕒 **Posted:** 2026-06-30
+
+### [Business Program Manager, Data Center Operations](https://www.linkedin.com/jobs/view/4431904706/) — Google
+- 📍 **Location:** The Dalles, OR
+- 💰 **Salary:** $90000 - $129000
+- 🕒 **Posted:** 2026-06-30
+
+### [Care Manager II - Case Management](https://www.linkedin.com/jobs/view/4422219345/) — CHRISTUS Health
+- 📍 **Location:** Corpus Christi, TX
+- 🕒 **Posted:** 2026-06-30
+
+### [Case Managers](https://www.linkedin.com/jobs/view/4425990624/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** Bronx, NY
+- 🕒 **Posted:** 2026-06-30
+
+### [Sr. Program Specialist, Risk & Compliance Operations](https://www.linkedin.com/jobs/view/4397908436/) — WHOOP
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $60,000 - $80,000
+- 🕒 **Posted:** 2026-06-30
+
+### [GME Program Manager I Pulmonary](https://www.linkedin.com/jobs/view/4434976678/) — Boston Children's Hospital
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $74,089.60/yr - $118,549.60/yr
 - 🕒 **Posted:** 2026-06-30
