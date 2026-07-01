@@ -1,5 +1,5 @@
 # 🏛 CalCareers — California State Housing & Community Impact Roles
-*Last updated: 2026-06-30 21:50 UTC*
+*Last updated: 2026-07-01 21:26 UTC*
 
 **0 new role(s)** since last run · 0 total in current CalCareers postings
 
