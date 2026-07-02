@@ -1,54 +1,58 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-06-30 22:03 UTC*
+*Last updated: 2026-07-02 10:16 UTC*
 
-**11 new role(s)** since last run · 14 total in last 24h
+**13 new role(s)** since last run · 13 total in last 24h
 
-### [In-Field Clinical Care Coordinator, Mobile Crisis Response](https://www.jobleads.com/us/job/in-field-clinical-care-coordinator-mobile-crisis-response--sacramento--ecabd724a06f2263a35a0773e4999154b?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Bay Area Community Services
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** 60K–80K a year
-- 🕒 **Posted:** 2026-06-30
+### [Mather Community Campus, Singles Program - Case Manager](https://www.linkedin.com/jobs/view/mather-community-campus-singles-program-case-manager-at-volunteers-of-america-northern-california-and-northern-nevada-4435018478?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Volunteers of America Northern California and Northern Nevada
+- 📍 **Location:** Mather, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Impactful Housing Navigator & Case Manager](https://www.learn4good.com/jobs/victorville/california/social_work/5239191112/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Symba Center
-- 📍 **Location:** Victorville, CA
-- 💰 **Salary:** 25–27 an hour
-- 🕒 **Posted:** 2026-06-30
+### [Patient Care Coordinator-Elk Grove, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-elk-grove-ca-at-sonova-group-4434648563?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
+- 📍 **Location:** Elk Grove, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [CalAIM Solutions Case Manager - Impact & Outreach](https://www.learn4good.com/jobs/santa-ana/california/social_work/5239180931/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Mercy House
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** 23–24 an hour
-- 🕒 **Posted:** 2026-06-30
+### [Floating Housing Case Manager - Orange County](https://www.linkedin.com/jobs/view/floating-housing-case-manager-orange-county-at-jamboree-housing-corporation-4432708826?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Jamboree Housing Corporation
+- 📍 **Location:** Stanton, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Senior Community Health Worker - Quality Revenue Enhancement](https://providence.jobs/hesperia-ca/senior-community-health-worker-quality-revenue-enhancement/CB08C632C6B0479D9C753F211E34A9AA/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence
-- 📍 **Location:** Hesperia, CA
-- 💰 **Salary:** 24.82–37.98 an hour
-- 🕒 **Posted:** 2026-06-30
+### [Case Manager Housing Specialist - Mental Health 179](https://www.linkedin.com/jobs/view/case-manager-housing-specialist-mental-health-179-at-telecare-corporation-4426561676?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Telecare Corporation
+- 📍 **Location:** San Bernardino, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4434798235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
-- 📍 **Location:** Rohnert Park, CA
-- 💰 **Salary:** 20.75–29.00 an hour
-- 🕒 **Posted:** 2026-06-30
+### [Residential Maintenance Technician (Housing Coordinator)](https://www.linkedin.com/jobs/view/residential-maintenance-technician-housing-coordinator-at-jewish-family-service-of-san-diego-4432709711?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Jewish Family Service of San Diego
+- 📍 **Location:** Palm Springs, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-specialty1-partners-4435169045?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Specialty1 Partners
-- 📍 **Location:** Rancho Mirage, CA
-- 🕒 **Posted:** 2026-06-30
+### [Bilingual Housing Navigator (Spanish/English)](https://www.jobleads.com/us/job/bilingual-housing-navigator-spanish-english--san-francisco--e0a9fb0353f05b601bfa50f4b4add7417?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Compass Family Services
+- 📍 **Location:** San Francisco, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Care Coordinator](https://careers.teksystems.com/us/en/job/JP-006126491/Care-Coordinator?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — TEKsystems
-- 📍 **Location:** Canoga Park, CA
-- 💰 **Salary:** 25 an hour
-- 🕒 **Posted:** 2026-06-30
+### [Community Health Worker](https://jobs.womenforhire.com/job/usa/la-habra-heights-ca/community-health-worker-417936/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — AltaMed Health Services
+- 📍 **Location:** La Habra Heights, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Medical Assistant / Patient Care Coordinator II, ITA](https://careers.stanfordhealthcare.org/us/en/job/R2657682/Medical-Assistant-Patient-Care-Coordinator-II-ITA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
-- 📍 **Location:** Redwood City, CA
-- 🕒 **Posted:** 2026-06-30
+### [Bilingual Spanish Community Health Worker](https://www.linkedin.com/jobs/view/bilingual-spanish-community-health-worker-at-scan-4432721645?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — SCAN
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Patient Care Coordinator-Encino, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-encino-ca-at-sonova-group-4434779869?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-06-30
+### [Care Manager - ECM](https://www.linkedin.com/jobs/view/care-manager-ecm-at-vista-community-clinic-4435037749?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Vista Community Clinic
+- 📍 **Location:** Vista, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Care Coordinator](https://www.adzuna.com/details/5781824297?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Children'S Institute Inc.
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-06-30
+### [Patient Care Coordinator-Oakland, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-oakland-ca-at-sonova-group-4434659072?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
+- 📍 **Location:** Oakland, CA
+- 🕒 **Posted:** 2026-07-02
 
-### [Public Health Nurse - Communicable Disease Case Manager](https://www.ihiresocialservices.com/redirect/siteredirect?destination=https://www.ihirenursing.com/jobs/view/526671384&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — San Bernardino County (CA)
-- 📍 **Location:** California
-- 🕒 **Posted:** 2026-06-30
+### [Patient Care Coordinator Concierge Functional Medicine Practice | Southern California](https://www.indeed.com/viewjob?jk=03a4fd1f3df2b9b4&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Angel Longevity Medical Center
+- 📍 **Location:** North Hollywood, CA
+- 💰 **Salary:** 25–28 an hour
+- 🕒 **Posted:** 2026-07-02
+
+### [Remote Nurse Care Coordinator, Full-time (California)](https://www.indeed.com/viewjob?jk=b34e881efaa6a306&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Brilliant Care
+- 📍 **Location:** Anywhere
+- 💰 **Salary:** 26–28 an hour
+- 🕒 **Posted:** 2026-07-02
+
+### [KidSTART Clinic Care Coordinator (Social Worker I/II) - KidSTART Clinic](https://www.linkedin.com/jobs/view/kidstart-clinic-care-coordinator-social-worker-i-ii-kidstart-clinic-at-rady-children-s-hospital-san-diego-4434647351?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Rady Children's Hospital-San Diego
+- 📍 **Location:** San Diego, CA
+- 🕒 **Posted:** 2026-07-02
