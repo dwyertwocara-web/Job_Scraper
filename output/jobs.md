@@ -1,9 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-07-01 13:39 UTC*
+*Last updated: 2026-07-02 12:07 UTC*
 
 **1 new role(s)** since last run · 1 total in last 24h
 
-### [Nurse Case Manager- Vallejo Hospital - Oncology](https://www.linkedin.com/jobs/view/4435561867/) — Kaiser Permanente
-- 📍 **Location:** Vallejo, CA
-- 💰 **Salary:** $97.59/hr - $112.64/hr
-- 🕒 **Posted:** 2026-07-01
+### [Care Manager, LTSS - Field travel in Milwaukee County, WI](https://www.linkedin.com/jobs/view/4436172514/) — Molina Healthcare
+- 📍 **Location:** Wauwatosa, WI
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-07-02
