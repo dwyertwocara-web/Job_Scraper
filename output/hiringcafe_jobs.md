@@ -1,33 +1,43 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-01 22:08 UTC*
+*Last updated: 2026-07-02 10:17 UTC*
 
-**6 new role(s)** since last run · 95 total in last 30d
+**8 new role(s)** since last run · 93 total in last 30d
 
-### [Housing Specialist](https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108) — Vista Maria
-- 📍 **Location:** Dearborn Heights, Michigan, United States
-- 💰 **Salary:** $43k–$56k/yr
-- 🕒 **Posted:** 2026-07-01T19:28:22.685Z
+### [Housing Specialist](https://careers-workforce1-edsi.icims.com/jobs/1481/housing-specialist/job?in_iframe=1) — Urban Resource Institute
+- 📍 **Location:** New York, New York, United States
+- 💰 **Salary:** $39k–$48k/yr
+- 🕒 **Posted:** 2026-07-01T04:00:00.000Z
 
-### [Housing Navigator ](https://titaniumhealthcare.bamboohr.com/careers/681) — Titanium Healthcare
-- 📍 **Location:** Santa Barbara, California, United States
-- 💰 **Salary:** $48k–$58k/yr
-- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+### [Housing Navigator](https://careers.pacificclinics.org/jobs/1307?lang=en-us) — Pacific Clinics
+- 📍 **Location:** Sacramento, California, United States
+- 💰 **Salary:** $45k–$55k/yr
+- 🕒 **Posted:** 2026-06-10T21:30:01.000Z
 
-### [Housing Navigator](https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42) — Mission Action
-- 📍 **Location:** San Francisco, California, United States
-- 💰 **Salary:** $62k/yr
-- 🕒 **Posted:** 2026-06-10T22:28:27.586Z
-
-### [Housing Navigator](https://supportworkshousing.isolvedhire.com/jobs/1807968) — SupportWorks Housing (formerly known as Virginia Supportive Housing)
-- 📍 **Location:** Chesapeake or Virginia
-- 💰 **Salary:** $50k–$55k/yr
-- 🕒 **Posted:** 2026-06-25T00:00:00.000Z
-
-### [Housing Navigator](https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration) — Porter-Starke Knox
-- 📍 **Location:** Knox, Indiana, United States
+### [Community Housing Navigator](https://homefrontpartners.isolvedhire.com/jobs/1811478) — Housing Authority of Billings
+- 📍 **Location:** Billings, Montana, United States
+- 💰 **Salary:** $42k/yr
 - 🕒 **Posted:** 2026-07-01T00:00:00.000Z
 
-### [Community Health Worker](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4298717) — Chicago Family Health Center
+### [Housing Navigator (Field Based)](https://careers-lafh.icims.com/jobs/1205/housing-navigator-%28field-based%29/job?in_iframe=1) — LA Family Housing
+- 📍 **Location:** North Hollywood, California, United States
+- 💰 **Salary:** $55k/yr
+- 🕒 **Posted:** 2026-06-24T04:00:00.000Z
+
+### [Community Health Worker](https://compasshealthnetwork.pinpointhq.com/en/postings/40e1f0f4-e5bc-457a-bcd1-6e8f25e6a2e4) — Compass Health Network
+- 📍 **Location:** Wentzville, Missouri, United States
+- 💰 **Salary:** $44k/yr
+- 🕒 **Posted:** 2026-07-02T00:13:28.968Z
+
+### [Community Health Worker](https://elevancehealth.wd1.myworkdayjobs.com/ant/job/DC-WASHINGTON-609-H-ST-NE-STE-200/Community-Health-Worker_JR192386) — Elevance Health
+- 📍 **Location:** Washington, District of Columbia, United States
+- 💰 **Salary:** $44k–$66k/yr
+- 🕒 **Posted:** 2026-07-01T00:00:00.000Z
+
+### [Social Services Coordinator](https://recruiting2.ultipro.com/ava1000ahsi/JobBoard/e7e3a010-d252-42e6-862d-49aa5ddd4e01/OpportunityDetail?opportunityId=6a3f9271-4ba2-4319-80db-9c2ec76bc5b8) — Avamere
+- 📍 **Location:** Salem, Oregon, United States
+- 🕒 **Posted:** 2026-07-01T22:45:32.305Z
+
+### [Program Manager- CTA SAFE Ride](https://streetsamaritans.betterteam.com/program-manager-cta-safe-ride) — Street Samaritans
 - 📍 **Location:** Chicago, Illinois, United States
-- 💰 **Salary:** $38k–$55k/yr
-- 🕒 **Posted:** 2026-07-01T16:35:35.000Z
+- 💰 **Salary:** $65k/yr
+- 🕒 **Posted:** 2026-07-01T19:14:20.408Z
