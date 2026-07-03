@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-03 08:38 UTC",
-  "total": 92,
-  "new_count": 5,
+  "scraped_at": "2026-07-03 20:46 UTC",
+  "total": 90,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Nan McKay & Associates",
@@ -225,6 +225,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Cbi",
+      "title": "Housing Specialist",
+      "location": "Phoenix or Arizona",
+      "url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "date_posted": "2026-06-08T07:00:00.000Z",
+      "description": "Bachelor's in behavioral health or equivalent combination of education/training; 1+ year experience with SMI and 1+ year outreach/engagement experience; able to pass criminal background check; experience coordinating housing and providing in-field client support.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "New Narrative",
       "title": "Housing Navigator",
       "location": "Beaverton or Portland",
@@ -285,19 +298,6 @@
       "date_posted": "2026-06-22T13:44:07.181Z",
       "description": "Drive and reliable transportation, valid driver’s license, ability to use computer and phone, strong communication and relationship skills, knowledge of affordable housing systems; bachelor’s in social services preferred; housing experience preferred.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The GEO Group",
-      "title": "HOUSING NAVIGATOR",
-      "location": "Campbell, California, United States",
-      "url": "https://jobs.geogroup.com/jobs/20382?lang=en-us",
-      "direct_url": "https://jobs.geogroup.com/jobs/20382?lang=en-us",
-      "date_posted": "2026-06-03T17:21:03.000Z",
-      "description": "Associate degree (AA/AS) plus 1 year related experience (or 2 years housing/property management experience). Valid driver’s license, knowledge of housing subsidies/PHA, familiarity with correctional policies, strong customer service, documentation, counseling and MS Office skills (Word, Excel, Access).",
-      "salary": "$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -641,19 +641,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Elevance Health",
-      "title": "Community Health Worker",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://elevancehealth.wd1.myworkdayjobs.com/ant/job/DC-WASHINGTON-609-H-ST-NE-STE-200/Community-Health-Worker_JR192386",
-      "direct_url": "https://elevancehealth.wd1.myworkdayjobs.com/ant/job/DC-WASHINGTON-609-H-ST-NE-STE-200/Community-Health-Worker_JR192386",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year healthcare/community/social work experience, experience using electronic medical records, ability to conduct outreach and remove barriers to care; Certified Community Health Worker and bilingual skills preferred.",
-      "salary": "$44k–$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Central Oregon Pediatric Associates",
       "title": "Community Health Worker",
       "location": "Bend, Oregon, United States",
@@ -662,19 +649,6 @@
       "date_posted": "2026-07-02T21:59:24.000Z",
       "description": "High school diploma/GED required; OHA CHW certification required within first year (preferred upon hire); OHA Certified Assister preferred. Experience in community health, EMR (Epic) and Microsoft Office proficiency; strong communication and navigation skills.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Johns Hopkins Health System",
-      "title": "Community Health Worker (669078)",
-      "location": "Bethesda, Maryland, United States",
-      "url": "https://career4.successfactors.com/career?career_ns=job_listing&company=SFHUP&career_job_req_id=669078",
-      "direct_url": "https://career4.successfactors.com/career?career_ns=job_listing&company=SFHUP&career_job_req_id=669078",
-      "date_posted": "2026-06-03T13:33:30.000Z",
-      "description": "Bachelor's degree in a healthcare-related field required; preferred experience in home health, community case management or public health; familiarity with community systems and reimbursement; bilingual ability desirable.",
-      "salary": "$52k–$86k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -719,14 +693,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Hackensack Meridian Health",
+      "company": "emh",
       "title": "Community Health Worker",
-      "location": "Iselin or Monmouth County or Ocean County or Middlesex County or Union County",
-      "url": "https://careers-hackensackmeridianhealth.icims.com/jobs/179864/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "direct_url": "https://careers-hackensackmeridianhealth.icims.com/jobs/179864/job?utm_source=hiringcafe_integration&iis=Job%20Board&iisn=HiringCafe",
-      "date_posted": "2026-06-12T13:18:00.000Z",
-      "description": "Bachelor's in a health field or 3+ years healthcare/hospitality experience, valid driver's license and reliable transportation, proficiency with Epic and Microsoft Word/Google Suite, outreach and documentation skills.",
-      "salary": "$51k/yr",
+      "location": "Ellsworth, Maine, United States",
+      "url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
+      "direct_url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "Provides social support, health coaching, care navigation and advocacy; performs home visits, outreach and telehealth; documents encounters in electronic medical record; valid driver requirement; no prior experience required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -792,6 +766,19 @@
       "date_posted": "2026-06-12T02:26:00.000Z",
       "description": "Bachelor's degree in social work, human services, or related field required; care coordination experience preferred; active Iowa BSW preferred.",
       "salary": "$46k–$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "enmasseMEDIA, LLC",
+      "title": "Care Coordinator",
+      "location": "Marrero, Louisiana, United States",
+      "url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
+      "direct_url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
+      "date_posted": "2026-07-03T00:00:00.000Z",
+      "description": "Graduate of an accredited school of nursing preferred, current LPN in state of practice, current BLS, care management/ambulatory care experience preferred, strong communication and documentation skills, ability to coordinate referrals and follow-up.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -940,19 +927,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northern Valley Indian Health",
-      "title": "Care Coordinator",
-      "location": "Woodland, California, United States",
-      "url": "https://nvih.atsondemand.com/index.cfm?cid=513100&fuseaction=513100.viewjobdetail&JID=912041",
-      "direct_url": "https://nvih.atsondemand.com/index.cfm?cid=513100&fuseaction=513100.viewjobdetail&JID=912041",
-      "date_posted": "2026-06-03T11:12:43.000Z",
-      "description": "High school/GED, 1+ year care coordination or case management experience, valid California driver, reliable transportation, EHR proficiency, strong communication, cultural sensitivity, and ability to conduct outreach and manage caseloads.",
-      "salary": "$48k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mango Home Health",
       "title": "Care Coordinator",
       "location": "Jackson, New Jersey, United States",
@@ -961,6 +935,19 @@
       "date_posted": "2026-07-02T17:51:12.000Z",
       "description": "1–2 years care‑coordination or case‑management experience; valid driver’s license and reliable transportation; familiarity with EMR/CRM and Microsoft Office; certifications such as CMA/CNA/LPN/RN/social work welcome.",
       "salary": "$37k–$42k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pcscco",
+      "title": "Care Coordinator ",
+      "location": "Rochester, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3308",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3308",
+      "date_posted": "2026-06-12T04:00:00.000Z",
+      "description": "Bachelor's degree with 2 years relevant experience OR Licensed RN with 2 years OR Master's with 1 year. Valid driver's license required. Experience coordinating care, completing enrollment/eligibility, and meeting clients in homes and offices.",
+      "salary": "$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -976,19 +963,6 @@
       "salary": "$44k–$50k/yr",
       "job_type": "Full Time, Contract",
       "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pcscco",
-      "title": "Care Coordinator ",
-      "location": "Rochester, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3308",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3308",
-      "date_posted": "2026-06-12T04:00:00.000Z",
-      "description": "Bachelor's degree with 2 years relevant experience OR Licensed RN with 2 years OR Master's with 1 year. Valid driver's license required. Experience coordinating care, completing enrollment/eligibility, and meeting clients in homes and offices.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1202,66 +1176,40 @@
   ],
   "new_jobs": [
     {
-      "company": "Idaho Housing and Finance Association",
+      "company": "Cbi",
       "title": "Housing Specialist",
-      "location": "Idaho Falls, Idaho, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
-      "date_posted": "2026-06-12T03:13:07.000Z",
-      "description": "High school diploma or equivalent; strong organizational, communication, and computer (Microsoft Office) skills; ability to handle confidential information; previous housing assistance or social services experience preferred.",
-      "salary": "$40k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pacific Clinics",
-      "title": "Housing Navigator",
-      "location": "San Jose, California, United States",
-      "url": "https://careers.pacificclinics.org/jobs/1422?lang=en-us",
-      "direct_url": "https://careers.pacificclinics.org/jobs/1422?lang=en-us",
-      "date_posted": "2026-06-29T20:53:56.000Z",
-      "description": "High School diploma/GED plus 4+ years relevant experience (or equivalent combination). Knowledge of CES/CoC/HUD, HMIS and Salesforce documentation, Motivational Interviewing/Trauma Informed Care/Harm Reduction training, valid CA driver's license or ability to use transit.",
-      "salary": "$59k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Central Oregon Pediatric Associates",
-      "title": "Community Health Worker",
-      "location": "Bend, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4304011",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4304011",
-      "date_posted": "2026-07-02T21:59:24.000Z",
-      "description": "High school diploma/GED required; OHA CHW certification required within first year (preferred upon hire); OHA Certified Assister preferred. Experience in community health, EMR (Epic) and Microsoft Office proficiency; strong communication and navigation skills.",
+      "location": "Phoenix or Arizona",
+      "url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "date_posted": "2026-06-08T07:00:00.000Z",
+      "description": "Bachelor's in behavioral health or equivalent combination of education/training; 1+ year experience with SMI and 1+ year outreach/engagement experience; able to pass criminal background check; experience coordinating housing and providing in-field client support.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
+      "company": "emh",
+      "title": "Community Health Worker",
+      "location": "Ellsworth, Maine, United States",
+      "url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
+      "direct_url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
+      "date_posted": "2026-06-16T00:00:00.000Z",
+      "description": "Provides social support, health coaching, care navigation and advocacy; performs home visits, outreach and telehealth; documents encounters in electronic medical record; valid driver requirement; no prior experience required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "enmasseMEDIA, LLC",
       "title": "Care Coordinator",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
-      "salary": "$51k/yr",
+      "location": "Marrero, Louisiana, United States",
+      "url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
+      "direct_url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
+      "date_posted": "2026-07-03T00:00:00.000Z",
+      "description": "Graduate of an accredited school of nursing preferred, current LPN in state of practice, current BLS, care management/ambulatory care experience preferred, strong communication and documentation skills, ability to coordinate referrals and follow-up.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
