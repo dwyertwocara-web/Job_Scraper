@@ -1,180 +1,125 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-03 08:53 UTC*
+*Last updated: 2026-07-03 10:29 UTC*
 
-**38 new role(s)** since last run · 38 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Bilingual Community Program Coordinator (Foxdale)](https://www.linkedin.com/jobs/view/4436499079/) — Project Access
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $28.50-$29.50/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4434391607/) — Crossover
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $60.00/hr - $60.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Medical Assistant - Breast Care Coordinator, ObGyn/UroGyn, (Greenbrae), Full-Time, Days](https://www.linkedin.com/jobs/view/4436497168/) — MarinHealth
-- 📍 **Location:** Greenbrae, CA
-- 💰 **Salary:** $29.49 - $34.33
-- 🕒 **Posted:** 2026-07-03
-
-### [Memory Care Manager](https://www.linkedin.com/jobs/view/4435424566/) — Kisco Senior Living
-- 📍 **Location:** San Rafael, CA
-- 💰 **Salary:** $72,000-$77,000/yr
-- 🕒 **Posted:** 2026-07-03
-
-### [Project/Program Manager III: 26-01112](https://www.linkedin.com/jobs/view/4436704000/) — Akraya, Inc.
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $73 - $76 per hour
-- 🕒 **Posted:** 2026-07-03
-
-### [Program Manager, Workforce & Industry Initiatives](https://www.linkedin.com/jobs/view/4435425674/) — San Diego State University
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $6,250.00 - $6,666.67 per month
-- 🕒 **Posted:** 2026-07-03
-
-### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4433155829/) — Dignity Health
+### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4435437150/) — CommonSpirit Health
 - 📍 **Location:** Woodland, CA
 - 💰 **Salary:** $72.96 - $88.57 /hour
 - 🕒 **Posted:** 2026-07-03
 
-### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4433170058/) — Dignity Health
+### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4435429484/) — CommonSpirit Health
 - 📍 **Location:** Woodland, CA
 - 💰 **Salary:** $72.96 - $88.57 /hour
 - 🕒 **Posted:** 2026-07-03
 
-### [Housing Stabilization Case Manager](https://www.linkedin.com/jobs/view/4436493551/) — Victory Programs
+### [Case Manager I](https://www.linkedin.com/jobs/view/4368060653/) — Family Health Centers of San Diego
+- 📍 **Location:** San Diego Metropolitan Area
+- 💰 **Salary:** $24.00 - $34.12
+- 🕒 **Posted:** 2026-07-03
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4424860302/) — Total Vision
+- 📍 **Location:** San Clemente, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Lead Care Manager, Enhanced Care Management](https://www.linkedin.com/jobs/view/4427617155/) — Wayfinder Family Services
+- 📍 **Location:** Chico, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Lead Care Manager, Enhanced Care Management](https://www.linkedin.com/jobs/view/4409104983/) — Wayfinder Family Services
+- 📍 **Location:** Salinas, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4436703502/) — Stanford Health Care Tri-Valley
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $70.57 - $95.29 per hour
+- 🕒 **Posted:** 2026-07-03
+
+### [Clinical Program Manager](https://www.linkedin.com/jobs/view/4423696604/) — Easterseals Southern California
+- 📍 **Location:** Culver City, CA
+- 🕒 **Posted:** 2026-07-03
+
+### [Veteran 360 Clinical Case Manager](https://www.linkedin.com/jobs/view/4435429540/) — New England Center and Home for Veterans
 - 📍 **Location:** Boston, MA
+- 💰 **Salary:** $70,000-$75,000
 - 🕒 **Posted:** 2026-07-03
 
-### [Case Manager - Detoxification Services](https://www.linkedin.com/jobs/view/4436494492/) — Volunteers of America, Utah
-- 📍 **Location:** Salt Lake City, UT
+### [Case Manager](https://www.linkedin.com/jobs/view/4426648633/) — Acadia Healthcare
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-07-03
 
-### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4435427458/) — Health Connect America
-- 📍 **Location:** Raleigh, NC
+### [Case Manager](https://www.linkedin.com/jobs/view/4426637801/) — Comprehensive Treatment Centers
+- 📍 **Location:** Cranberry Township, PA
 - 🕒 **Posted:** 2026-07-03
 
-### [Program Coordinator, Cato University](https://www.linkedin.com/jobs/view/4436487816/) — Cato Institute
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $55,000 to $75,000 per year
+### [ONSITE Hospice RN Case Manager (15K Sign on Bonus)  - QUEENS NY](https://www.linkedin.com/jobs/view/4433165553/) — Jobot
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $101,500.00/yr - $118,000.00/yr
 - 🕒 **Posted:** 2026-07-03
 
-### [Bilingual Community Program Coordinator (Woodland Estates)](https://www.linkedin.com/jobs/view/4436482898/) — Project Access
-- 📍 **Location:** Charlotte, NC
+### [ACHN Social Work Care Manager](https://www.linkedin.com/jobs/view/4417408612/) — Blue Cross and Blue Shield of Alabama
+- 📍 **Location:** Montgomery, AL
 - 🕒 **Posted:** 2026-07-03
 
-### [Senior Case Manager](https://www.linkedin.com/jobs/view/4436495415/) — St. Matthew's House (Southwest Florida)
-- 📍 **Location:** Naples, FL
+### [Hospice RN Case Manager- NORTH Brooklyn NY (15K Hire Bonus)](https://www.linkedin.com/jobs/view/4433166523/) — Jobot
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $100,000.00/yr - $116,800.00/yr
 - 🕒 **Posted:** 2026-07-03
 
-### [CU Student Government Program Coordinator](https://www.linkedin.com/jobs/view/4436409318/) — University of Colorado Boulder
+### [RN Hospice Case Manager with 15K Sign on Bonus - Bronx NY](https://www.linkedin.com/jobs/view/4433179118/) — Jobot
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $101,000.00/yr - $116,800.00/yr
+- 🕒 **Posted:** 2026-07-03
+
+### [Limited Duration Case Manager Dual Diagnosis - Mental Health 160](https://www.linkedin.com/jobs/view/4427656587/) — Telecare Corporation
+- 📍 **Location:** San Carlos, CA
+- 💰 **Salary:** $28.27 - $34.54
+- 🕒 **Posted:** 2026-07-03
+
+### [Case Manager (Plaintiff Personal Injury)](https://www.linkedin.com/jobs/view/4433168476/) — Jobot
+- 📍 **Location:** Burbank, CA
+- 💰 **Salary:** $50,000.00/yr - $72,800.00/yr
+- 🕒 **Posted:** 2026-07-03
+
+### [Case Manager - PRN Days | Tavares Rehab](https://www.linkedin.com/jobs/view/4427581303/) — PAM Health Rehabilitation Hospital of Tavares
+- 📍 **Location:** Tavares, FL
+- 🕒 **Posted:** 2026-07-03
+
+### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4436700615/) — Optum
+- 📍 **Location:** Mukilteo, WA
+- 💰 **Salary:** $16 to $29 per hour
+- 🕒 **Posted:** 2026-07-03
+
+### [Nurse Case Manager Lead](https://www.linkedin.com/jobs/view/4427505218/) — Elevance Health
+- 📍 **Location:** Louisville, KY
+- 🕒 **Posted:** 2026-07-03
+
+### [Case Manager - Per Diem](https://www.linkedin.com/jobs/view/4436701592/) — Optum
 - 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $58,200 - $65,000
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-07-03
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4436700194/) — Central Oregon Pediatric Associates | COPA
-- 📍 **Location:** Bend, OR
+### [Residency Program Coordinator - Internal Medicine](https://www.linkedin.com/jobs/view/4426930138/) — NYU Langone Health
+- 📍 **Location:** Mineola, NY
+- 💰 **Salary:** $66,957.53 - $99,384.67 Annually
 - 🕒 **Posted:** 2026-07-03
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4436496325/) — Websitecommerce
-- 📍 **Location:** Wayzata, MN
+### [Clinical Program Specialist](https://www.linkedin.com/jobs/view/4424262967/) — Philips
+- 📍 **Location:** Murrysville, PA
+- 💰 **Salary:** $102,000 to $162,000
 - 🕒 **Posted:** 2026-07-03
 
-### [Case Manager - Youth Services](https://www.linkedin.com/jobs/view/4435434288/) — Salt Lake County
-- 📍 **Location:** South Salt Lake, UT
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4416183944/) — HearingLife
+- 📍 **Location:** Chandler, AZ
+- 💰 **Salary:** $18-$21 per hour
 - 🕒 **Posted:** 2026-07-03
 
-### [Patient Care Coordinator- Experienced](https://www.linkedin.com/jobs/view/4436493548/) — Dental Associates MN
-- 📍 **Location:** Savage, MN
-- 💰 **Salary:** $24–$27 per hour
+### [Occupational Health Program Manager - North America](https://www.linkedin.com/jobs/view/4423699598/) — AMD
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $69,440.00/yr - $104,160.00/yr
 - 🕒 **Posted:** 2026-07-03
 
-### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4435431231/) — Health Connect America
-- 📍 **Location:** Whiteville, NC
-- 🕒 **Posted:** 2026-07-03
-
-### [Care Manager](https://www.linkedin.com/jobs/view/4407492933/) — A First Name Basis Home Care
-- 📍 **Location:** Searcy, AR
-- 🕒 **Posted:** 2026-07-03
-
-### [Resident Care Coordinator](https://www.linkedin.com/jobs/view/4436493381/) — Cogir Senior Living
-- 📍 **Location:** Mesa, AZ
-- 💰 **Salary:** $24-$26/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Student Program Coordinator Senior for Clinical Compliance](https://www.linkedin.com/jobs/view/4436705143/) — NMSU Conference Services
-- 📍 **Location:** Las Cruces, NM
-- 🕒 **Posted:** 2026-07-03
-
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4434606074/) — Crossover
-- 📍 **Location:** Park City, UT
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4434396532/) — Crossover
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [CSM Strategist & Program Manager (Remote)](https://www.linkedin.com/jobs/view/4434380620/) — KnowBe4
-- 📍 **Location:** United States
-- 💰 **Salary:** $120,000-$160,000,
-- 🕒 **Posted:** 2026-07-03
-
-### [Data Program Manager](https://www.linkedin.com/jobs/view/4436498173/) — Franklin Fitch
-- 📍 **Location:** United States
-- 💰 **Salary:** $110,000 – $210,000
-- 🕒 **Posted:** 2026-07-03
-
-### [Accelerator Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4434608021/) — Crossover
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4434387715/) — Crossover
-- 📍 **Location:** Yonkers, NY
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Entrepreneurship Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4434395538/) — Crossover
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Accelerator Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4434601342/) — Crossover
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4435427461/) — NeuLife Neurological Services, LLC
-- 📍 **Location:** Mount Dora, FL
-- 💰 **Salary:** $19 - $25 per hour
-- 🕒 **Posted:** 2026-07-03
-
-### [Respiratory Care Coordinator](https://www.linkedin.com/jobs/view/4436485873/) — Live Well Homecare
-- 📍 **Location:** St Louis, MO
-- 🕒 **Posted:** 2026-07-03
-
-### [Youth Rapid Rehousing Case Manager](https://www.linkedin.com/jobs/view/4436492576/) — Volunteers of America, Utah
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-07-03
-
-### [Case Manager - Subacute Care](https://www.linkedin.com/jobs/view/4436493554/) — Volunteers of America, Utah
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-07-03
-
-### [Literacy Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4434393514/) — Crossover
-- 📍 **Location:** San Antonio, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-07-03
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4435423494/) — Amyx, Inc.
-- 📍 **Location:** United States
-- 💰 **Salary:** $95,000-$140,000
-- 🕒 **Posted:** 2026-07-03
-
-### [Research Assistant NES](https://www.linkedin.com/jobs/view/4436400838/) — Brown University Health
-- 📍 **Location:** Providence, RI
-- 💰 **Salary:** $19.97-$32.96
+### [Data Analyst, Clinical Analytics and Reporting](https://www.linkedin.com/jobs/view/4408004182/) — DaVita Kidney Care
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $57,784.00/yr - $85,000.00/yr
 - 🕒 **Posted:** 2026-07-03
