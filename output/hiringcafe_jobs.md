@@ -1,16 +1,13 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-03 20:46 UTC*
+*Last updated: 2026-07-04 07:31 UTC*
 
-**3 new role(s)** since last run · 90 total in last 30d
+**2 new role(s)** since last run · 90 total in last 30d
 
-### [Housing Specialist](https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956) — Cbi
-- 📍 **Location:** Phoenix or Arizona
-- 🕒 **Posted:** 2026-06-08T07:00:00.000Z
+### [Housing Navigator](https://ats.rippling.com/clackamas-womens-services/jobs/4ca35c87-807c-42bc-b043-d1e953459e7b) — Clackamas Women's Services
+- 📍 **Location:** Oregon City, Oregon, United States
+- 💰 **Salary:** $56k–$63k/yr
+- 🕒 **Posted:** 2026-07-03T23:14:26.622Z
 
-### [Community Health Worker](https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL) — emh
-- 📍 **Location:** Ellsworth, Maine, United States
-- 🕒 **Posted:** 2026-06-16T00:00:00.000Z
-
-### [Care Coordinator](http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator) — enmasseMEDIA, LLC
-- 📍 **Location:** Marrero, Louisiana, United States
-- 🕒 **Posted:** 2026-07-03T00:00:00.000Z
+### [Social Services Coordinator ](https://pm.healthcaresource.com/CS/upson/#/job/4269) — Upson Regional Medical Center
+- 📍 **Location:** Thomaston, Georgia, United States
+- 🕒 **Posted:** 2026-06-08T00:00:00.000Z
