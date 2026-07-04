@@ -1,6 +1,8 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-04 20:01 UTC*
+*Last updated: 2026-07-04 22:48 UTC*
 
-**0 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 7 total in last 24h
 
-No new roles since the last run.
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=e3abbfb72bc9c3d9) — Geisinger
+- 📍 **Location:** Remote, US
+- 🕒 **Posted:** 2026-07-04
