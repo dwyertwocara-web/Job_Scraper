@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-04 20:31 UTC",
-  "total": 85,
-  "new_count": 0,
+  "scraped_at": "2026-07-05 08:24 UTC",
+  "total": 84,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Merakey",
@@ -30,19 +30,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HeartShare Human Services of New York",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=345815&clientkey=3A72526C393045BB8A709C42D34E0024",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=345815&clientkey=3A72526C393045BB8A709C42D34E0024",
-      "date_posted": "2026-06-11T00:00:00.000Z",
-      "description": "Bachelor's degree required, 2+ years experience in social work/public housing/foster care, experience with aged-out foster youth and NYCHA/supportive housing preferred; strong communication, data, and organizational skills.",
-      "salary": "$54k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "EDEN Inc",
       "title": "Housing Specialist",
       "location": "Cleveland, Ohio, United States",
@@ -51,6 +38,19 @@
       "date_posted": "2026-06-24T00:00:00.000Z",
       "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
       "salary": "$43k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HeartShare Human Services of New York",
+      "title": "Housing Specialist",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=345815&clientkey=3A72526C393045BB8A709C42D34E0024",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=345815&clientkey=3A72526C393045BB8A709C42D34E0024",
+      "date_posted": "2026-06-11T00:00:00.000Z",
+      "description": "Bachelor's degree required, 2+ years experience in social work/public housing/foster care, experience with aged-out foster youth and NYCHA/supportive housing preferred; strong communication, data, and organizational skills.",
+      "salary": "$54k–$59k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -108,6 +108,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Idaho Housing and Finance Association",
+      "title": "Housing Specialist",
+      "location": "Idaho Falls, Idaho, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "date_posted": "2026-06-12T03:13:07.000Z",
+      "description": "High school diploma or equivalent; strong organizational, communication, and computer (Microsoft Office) skills; ability to handle confidential information; previous housing assistance or social services experience preferred.",
+      "salary": "$40k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Santa Fe County, NM",
       "title": "Housing Specialist & Housing Specialist Senior",
       "location": "Santa Fe, New Mexico, United States",
@@ -147,27 +160,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Min",
+      "company": "Urban Resource Institute",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
-      "url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
-      "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Greater Nashua Mental Health",
-      "title": "Housing Specialist",
-      "location": "Nashua, New Hampshire, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4260644",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4260644",
-      "date_posted": "2026-06-17T15:35:40.000Z",
-      "description": "Bachelor's degree in psychology or related field required; 1+ years human services/housing/case management experience; valid driver’s license; proficiency with Microsoft Office; strong communication, advocacy, and organizational skills.",
-      "salary": "$37k–$48k/yr",
+      "url": "https://careers-workforce1-edsi.icims.com/jobs/1481/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-workforce1-edsi.icims.com/jobs/1481/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-01T04:00:00.000Z",
+      "description": "Bachelor's in human services or related, 1+ year counseling and 2+ years housing development/management or case management experience; strong communication, computer literacy (Microsoft), knowledge of DHS regulations; flexible schedule.",
+      "salary": "$39k–$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -186,14 +186,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Urban Resource Institute",
+      "company": "Greater Nashua Mental Health",
+      "title": "Housing Specialist",
+      "location": "Nashua, New Hampshire, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4260644",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4260644",
+      "date_posted": "2026-06-17T15:35:40.000Z",
+      "description": "Bachelor's degree in psychology or related field required; 1+ years human services/housing/case management experience; valid driver’s license; proficiency with Microsoft Office; strong communication, advocacy, and organizational skills.",
+      "salary": "$37k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
-      "url": "https://careers-workforce1-edsi.icims.com/jobs/1481/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-workforce1-edsi.icims.com/jobs/1481/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-01T04:00:00.000Z",
-      "description": "Bachelor's in human services or related, 1+ year counseling and 2+ years housing development/management or case management experience; strong communication, computer literacy (Microsoft), knowledge of DHS regulations; flexible schedule.",
-      "salary": "$39k–$48k/yr",
+      "url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-02T04:00:00.000Z",
+      "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
+      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -206,6 +219,19 @@
       "direct_url": "https://jobs.smartrecruiters.com/TheCocoonShelter/744000134523749-housing-specialist",
       "date_posted": "2026-06-26T17:01:04.156Z",
       "description": "Minimum 1 year related experience; bachelor\\u0002s degree preferred; valid driver\\u0002s license and vehicle required; strong oral and written communication; provides housing and case management; on-call and weekend availability as needed.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cbi",
+      "title": "Housing Specialist",
+      "location": "Phoenix or Arizona",
+      "url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "date_posted": "2026-06-08T07:00:00.000Z",
+      "description": "Bachelor's in behavioral health or equivalent combination of education/training; 1+ year experience with SMI and 1+ year outreach/engagement experience; able to pass criminal background check; experience coordinating housing and providing in-field client support.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -628,19 +654,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Virginia Department of Health",
-      "title": "Community Health Worker",
-      "location": "Orange, Virginia, United States",
-      "url": "https://careers.pageuppeople.com/1125/cw/en/job/5106509",
-      "direct_url": "https://careers.pageuppeople.com/1125/cw/en/job/5106509",
-      "date_posted": "2026-06-17T14:20:00.000Z",
-      "description": "Knowledge of public health, social determinants of health, and mental/behavioral health; experience with underserved communities; strong communication, cultural competency, interpersonal skills; basic technology proficiency; CHW certification preferred or able to obtain; background checks required.",
-      "salary": "$52k–$62k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Rural Resources Community Action",
       "title": "Community Health Worker – Community Connect",
       "location": "Colville or Washington",
@@ -667,6 +680,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "SGOH Acquisition Inc. dba Ozarks Community Hospital",
+      "title": "Community Health Worker",
+      "location": "Webb City, Missouri, United States",
+      "url": "https://ochonline.isolvedhire.com/jobs/1811500",
+      "direct_url": "https://ochonline.isolvedhire.com/jobs/1811500",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "High school diploma or equivalent, obtain CHW certification within 12 months, valid Class E driver's license, current BLS, ability to provide culturally appropriate health education, coaching, and basic screening.",
+      "salary": "$40k–$44k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Jbfcs",
       "title": "Care Coordinator",
       "location": "Brooklyn, New York, United States",
@@ -675,19 +701,6 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
       "salary": "$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Abound Health",
-      "title": "Care Coordinator",
-      "location": "Southfield, Michigan, United States",
-      "url": "http://aboundhealth.hrmdirect.com/employment/view.php?req=3732308",
-      "direct_url": "http://aboundhealth.hrmdirect.com/employment/view.php?req=3732308",
-      "date_posted": "2026-06-05T03:00:00.000Z",
-      "description": "Experience in care coordination or case management, strong organization, communication, documentation skills, proficiency with Microsoft Office, and High School Diploma/GED.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -729,19 +742,6 @@
       "salary": "$48k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pro Care by Abound Health",
-      "title": "Care Coordinator",
-      "location": "Southfield, Michigan, United States",
-      "url": "http://ontargetconnect.hrmdirect.com/employment/view.php?req=3732308",
-      "direct_url": "http://ontargetconnect.hrmdirect.com/employment/view.php?req=3732308",
-      "date_posted": "2026-06-05T03:00:00.000Z",
-      "description": "Experience in care coordination or case management, strong organization and communication skills, high school diploma/GED, proficiency in Microsoft Office and documentation systems.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -831,19 +831,6 @@
       "date_posted": "2026-07-02T15:23:27.000Z",
       "description": "Current Kansas RN license required; BSN preferred. Experience in psychiatric/mental health nursing, care coordination, or outpatient practice preferred. Strong communication, collaboration, and technology proficiency required.",
       "salary": "$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pro Care by Abound Health",
-      "title": "Care Coordinator",
-      "location": "Southfield, Michigan, United States",
-      "url": "http://starpediatrics.hrmdirect.com/employment/view.php?req=3732308",
-      "direct_url": "http://starpediatrics.hrmdirect.com/employment/view.php?req=3732308",
-      "date_posted": "2026-06-05T03:00:00.000Z",
-      "description": "Experience in care coordination or case management, strong organizational and communication skills, High School Diploma/GED, proficiency with Microsoft Office and documentation systems, ability to manage multiple priorities and maintain regulatory documentation.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -953,6 +940,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Elevate Care Chicago North",
+      "title": "Social Services Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-10T00:00:00.000Z",
+      "description": "Bachelor's degree in social work, psychology, or related field (or equivalent experience). Experience in social services (healthcare preferred), strong communication, organizational and documentation skills, compassionate patient-focused approach.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sasllc",
       "title": "Social Services Coordinator",
       "location": "Hawkinsville, Georgia, United States",
@@ -1057,19 +1057,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Family Bridge Healthcare Services Inc",
-      "title": "Non-Profit Operations Program Coordinator",
-      "location": "Jonesboro, Georgia, United States",
-      "url": "https://apply.appone.com/job/6a2227a0376a89bd98af0dd1",
-      "direct_url": "https://apply.appone.com/job/6a2227a0376a89bd98af0dd1",
-      "date_posted": "2026-06-05T01:34:25.000Z",
-      "description": "Bachelor's degree in a related field, minimum 3 years nonprofit/program coordination or operations experience, strong project management and communication, Microsoft Office and database proficiency, valid driver's license, ability to lift 30 lbs, volunteer management experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Center for Better Aging",
       "title": "Program Manager",
       "location": "Chicago, Illinois, United States",
@@ -1109,5 +1096,58 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Idaho Housing and Finance Association",
+      "title": "Housing Specialist",
+      "location": "Idaho Falls, Idaho, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "date_posted": "2026-06-12T03:13:07.000Z",
+      "description": "High school diploma or equivalent; strong organizational, communication, and computer (Microsoft Office) skills; ability to handle confidential information; previous housing assistance or social services experience preferred.",
+      "salary": "$40k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cbi",
+      "title": "Housing Specialist",
+      "location": "Phoenix or Arizona",
+      "url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
+      "date_posted": "2026-06-08T07:00:00.000Z",
+      "description": "Bachelor's in behavioral health or equivalent combination of education/training; 1+ year experience with SMI and 1+ year outreach/engagement experience; able to pass criminal background check; experience coordinating housing and providing in-field client support.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "SGOH Acquisition Inc. dba Ozarks Community Hospital",
+      "title": "Community Health Worker",
+      "location": "Webb City, Missouri, United States",
+      "url": "https://ochonline.isolvedhire.com/jobs/1811500",
+      "direct_url": "https://ochonline.isolvedhire.com/jobs/1811500",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "High school diploma or equivalent, obtain CHW certification within 12 months, valid Class E driver's license, current BLS, ability to provide culturally appropriate health education, coaching, and basic screening.",
+      "salary": "$40k–$44k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elevate Care Chicago North",
+      "title": "Social Services Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-10T00:00:00.000Z",
+      "description": "Bachelor's degree in social work, psychology, or related field (or equivalent experience). Experience in social services (healthcare preferred), strong communication, organizational and documentation skills, compassionate patient-focused approach.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
