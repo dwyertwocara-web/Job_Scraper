@@ -1,14 +1,14 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-07-04 10:47 UTC*
+*Last updated: 2026-07-05 11:09 UTC*
 
-**2 new role(s)** since last run · 3 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [Housing Specialist (Must Reside in Florida)](https://www.linkedin.com/jobs/view/4416792534/) — Molina Healthcare
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $19.84 - $38.69
-- 🕒 **Posted:** 2026-07-03
+### [Program Manager IV (Finance, Data Analytics, Advanced Excel & Power Query)](https://www.linkedin.com/jobs/view/4436001098/) — Kaiser Permanente
+- 📍 **Location:** Downey, CA
+- 💰 **Salary:** $117,900.00/yr - $152,570.00/yr
+- 🕒 **Posted:** 2026-07-04
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4435438612/) — Kaiser Permanente
-- 📍 **Location:** Towson, MD
-- 💰 **Salary:** $48.39/hr - $62.72/hr
-- 🕒 **Posted:** 2026-07-03
+### [Program Manager VI](https://www.linkedin.com/jobs/view/4435788580/) — Kaiser Permanente
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $175,600.00/yr - $227,150.00/yr
+- 🕒 **Posted:** 2026-07-04
