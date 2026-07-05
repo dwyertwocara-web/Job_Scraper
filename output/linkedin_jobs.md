@@ -1,67 +1,44 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-05 20:05 UTC*
+*Last updated: 2026-07-05 23:58 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Housing Navigator - STOP (100% Onsite - Los Angeles)](https://www.linkedin.com/jobs/view/4437122289/) — Amity Foundation
+### [RN Case Manager - Value Based Service Organization - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4436959924/) — Keck Medicine of USC
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $60,000 - $70,000
+- 💰 **Salary:** $53.00 - $87.45
 - 🕒 **Posted:** 2026-07-05
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4399490668/) — PDS Health
-- 📍 **Location:** Redondo Beach, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-05
-
-### [TikTok Shop - SOP Program Manager](https://www.linkedin.com/jobs/view/4436035857/) — TikTok
+### [TLS Case Manager](https://www.linkedin.com/jobs/view/4292462767/) — Coalition for Responsible Community Development
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $88920 - $159600 annually
+- 💰 **Salary:** $50,000-$55,000 annually
 - 🕒 **Posted:** 2026-07-05
 
-### [Operations & Facilities Program Manager](https://www.linkedin.com/jobs/view/4435244932/) — Terawatt
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+### [Program Coordinator- OTA or PTA](https://www.linkedin.com/jobs/view/4436050499/) — Key Rehabilitation
+- 📍 **Location:** Humboldt, NE
 - 🕒 **Posted:** 2026-07-05
 
-### [Family Services Support Coordinator Case Manager](https://www.linkedin.com/jobs/view/4437114514/) — Avalon Housing
-- 📍 **Location:** Ann Arbor, MI
+### [Program Coordinator/ Co-Facilitator](https://www.linkedin.com/jobs/view/4436050477/) — Safe Places Coaching & Development LLC
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-07-05
 
-### [Case Manager I](https://www.linkedin.com/jobs/view/4437122275/) — Catholic Charities of Acadiana
-- 📍 **Location:** Lafayette, LA
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4436037910/) — Your Health
+- 📍 **Location:** Myrtle Beach, SC
 - 🕒 **Posted:** 2026-07-05
 
-### [Bilingual Housing Case Manager](https://www.linkedin.com/jobs/view/4437110732/) — Victory Programs
-- 📍 **Location:** Boston, MA
+### [Inbound Healthcare Program Specialist](https://www.linkedin.com/jobs/view/4437111940/) — Medici Orthopaedics and Spine
+- 📍 **Location:** Kennesaw, GA
 - 🕒 **Posted:** 2026-07-05
 
-### [Case Manager - Rural Counties](https://www.linkedin.com/jobs/view/4437109650/) — Catholic Charities of the Archdiocese of St. Louis
-- 📍 **Location:** St Louis, MO
+### [Case Manager](https://www.linkedin.com/jobs/view/4421868347/) — Addison Group
+- 📍 **Location:** Frederick, MD
+- 💰 **Salary:** $55,000 – $62,000 annually
 - 🕒 **Posted:** 2026-07-05
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4437106890/) — Community Bridges
-- 📍 **Location:** Phoenix, AZ
+### [Portfolio Program Manager](https://www.linkedin.com/jobs/view/4418624161/) — Toyota North America
+- 📍 **Location:** Plano, TX
+- 💰 **Salary:** $55.00 - $74.07/Hr
 - 🕒 **Posted:** 2026-07-05
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4437124163/) — Specialty1 Partners
-- 📍 **Location:** Norwood, MA
-- 💰 **Salary:** $28 - $32 USD
-- 🕒 **Posted:** 2026-07-05
-
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4425567239/) — KSA Integration
-- 📍 **Location:** Colchester, VT
-- 🕒 **Posted:** 2026-07-05
-
-### [CU Student Government Program Coordinator](https://www.linkedin.com/jobs/view/4436409318/) — University of Colorado Boulder
-- 📍 **Location:** Boulder, CO
-- 💰 **Salary:** $58,200 - $65,000
-- 🕒 **Posted:** 2026-07-05
-
-### [FACT Team Housing Specialist](https://www.linkedin.com/jobs/view/4437107849/) — NORTHEAST COUNSELING SERVICES
-- 📍 **Location:** Nanticoke, PA
-- 🕒 **Posted:** 2026-07-05
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4437126170/) — Five Stones Research Corporation
-- 📍 **Location:** Falls Church, VA
-- 💰 **Salary:** $194k - $237k
+### [Research Assistant / Medical Assistant](https://www.linkedin.com/jobs/view/4434635279/) — Alcanza Clinical Research
+- 📍 **Location:** Maitland, FL
 - 🕒 **Posted:** 2026-07-05
