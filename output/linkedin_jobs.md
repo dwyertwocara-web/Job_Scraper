@@ -1,114 +1,67 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-05 09:42 UTC*
+*Last updated: 2026-07-05 20:05 UTC*
 
-**25 new role(s)** since last run · 25 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Case Manager III - Mental Health 639](https://www.linkedin.com/jobs/view/4400239677/) — Telecare Corporation
-- 📍 **Location:** Stockton, CA
-- 💰 **Salary:** $22.17 - $27.08
+### [Housing Navigator - STOP (100% Onsite - Los Angeles)](https://www.linkedin.com/jobs/view/4437122289/) — Amity Foundation
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $60,000 - $70,000
 - 🕒 **Posted:** 2026-07-05
 
-### [Case Manager Masters - Mental Health 639](https://www.linkedin.com/jobs/view/4400234952/) — Telecare Corporation
-- 📍 **Location:** Stockton, CA
-- 💰 **Salary:** $27.30 - $33.73
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4399490668/) — PDS Health
+- 📍 **Location:** Redondo Beach, CA
+- 💰 **Salary:** $18.00/hr - $25.50/hr
 - 🕒 **Posted:** 2026-07-05
 
-### [Martech - Analytics Program Manager - Marketing Performance](https://www.linkedin.com/jobs/view/4400674759/) — Golden 1 Credit Union
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $124,700.00 - $130,000.00 Annually
+### [TikTok Shop - SOP Program Manager](https://www.linkedin.com/jobs/view/4436035857/) — TikTok
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $88920 - $159600 annually
 - 🕒 **Posted:** 2026-07-05
 
-### [Case Manager - Macomb County](https://www.linkedin.com/jobs/view/4436026719/) — Hope Network
-- 📍 **Location:** Mount Clemens, MI
+### [Operations & Facilities Program Manager](https://www.linkedin.com/jobs/view/4435244932/) — Terawatt
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
 - 🕒 **Posted:** 2026-07-05
 
-### [Medical Care Coordinator I (002)](https://www.linkedin.com/jobs/view/4436041112/) — Hope Network
-- 📍 **Location:** Kalamazoo, MI
-- 🕒 **Posted:** 2026-07-05
-
-### [Resident Program Coordinator](https://www.linkedin.com/jobs/view/4436983704/) — Morningside Ministries Senior Living Communities
-- 📍 **Location:** Boerne, TX
-- 🕒 **Posted:** 2026-07-05
-
-### [Program Coordinator / Patient Scheduler - Harborview Medical Center's Foot, Ankle and Hand Clinics](https://www.linkedin.com/jobs/view/4436020920/) — Home Health Focus AI
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-05
-
-### [HealthySteps Specialist (Community Health Worker)](https://www.linkedin.com/jobs/view/4433901031/) — URBAN HEALTH PLAN, INC.
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-07-05
-
-### [Case Manager (Bilingual English/Spanish)- Intermittent Hybrid/Remote](https://www.linkedin.com/jobs/view/4433784462/) — URBAN HEALTH PLAN, INC.
-- 📍 **Location:** Bronx, NY
-- 🕒 **Posted:** 2026-07-05
-
-### [Medical Case Manager Assistant / WC Scheduler](https://www.linkedin.com/jobs/view/4436025715/) — Pinnacle Method Consulting
-- 📍 **Location:** United States
-- 💰 **Salary:** $18.00/hr - $22.00/hr
-- 🕒 **Posted:** 2026-07-05
-
-### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4417504712/) — Enlyte
-- 📍 **Location:** West Palm Beach, FL
-- 💰 **Salary:** $70,000 - $90,000 annually
-- 🕒 **Posted:** 2026-07-05
-
-### [Program Specialist II](https://www.linkedin.com/jobs/view/4202427272/) — EVERSANA
-- 📍 **Location:** Chesterfield, MO
-- 🕒 **Posted:** 2026-07-05
-
-### [Regional Hospital Development Coordinator (10217-2026351)](https://www.linkedin.com/jobs/view/4407947648/) — LifeNet Health
-- 📍 **Location:** Charlottesville, VA
-- 💰 **Salary:** $75,841.00/yr - $101,121.00/yr
-- 🕒 **Posted:** 2026-07-05
-
-### [Strategy Program Manager](https://www.linkedin.com/jobs/view/4414348996/) — NRG Energy
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-05
-
-### [Lawyers Club Program Manager](https://www.linkedin.com/jobs/view/4424975152/) — University of Michigan
+### [Family Services Support Coordinator Case Manager](https://www.linkedin.com/jobs/view/4437114514/) — Avalon Housing
 - 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $54,100.00/yr - $62,200.00/yr
 - 🕒 **Posted:** 2026-07-05
 
-### [Program Manager, Water - USA](https://www.linkedin.com/jobs/view/4377643353/) — GHD
-- 📍 **Location:** Washington, DC
+### [Case Manager I](https://www.linkedin.com/jobs/view/4437122275/) — Catholic Charities of Acadiana
+- 📍 **Location:** Lafayette, LA
 - 🕒 **Posted:** 2026-07-05
 
-### [Agile Project/Program Manager](https://www.linkedin.com/jobs/view/4436038098/) — Pinnacle Method Consulting
-- 📍 **Location:** United States
+### [Bilingual Housing Case Manager](https://www.linkedin.com/jobs/view/4437110732/) — Victory Programs
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-07-05
 
-### [Program Manager - Sales Excellence](https://www.linkedin.com/jobs/view/4436023802/) — Pinnacle Method Consulting
-- 📍 **Location:** United States
+### [Case Manager - Rural Counties](https://www.linkedin.com/jobs/view/4437109650/) — Catholic Charities of the Archdiocese of St. Louis
+- 📍 **Location:** St Louis, MO
 - 🕒 **Posted:** 2026-07-05
 
-### [Program Manager, Water - USA](https://www.linkedin.com/jobs/view/4377649157/) — GHD
-- 📍 **Location:** Houston, TX
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4437106890/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-05
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4425382671/) — Eaton
-- 📍 **Location:** Westerville, OH
-- 💰 **Salary:** $129000 - $189000
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4437124163/) — Specialty1 Partners
+- 📍 **Location:** Norwood, MA
+- 💰 **Salary:** $28 - $32 USD
 - 🕒 **Posted:** 2026-07-05
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4425391053/) — Eaton
-- 📍 **Location:** Moon, PA
-- 💰 **Salary:** $129000 - $189000
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4425567239/) — KSA Integration
+- 📍 **Location:** Colchester, VT
 - 🕒 **Posted:** 2026-07-05
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4425387711/) — Eaton
-- 📍 **Location:** Beachwood, OH
-- 💰 **Salary:** $129000 - $189000
+### [CU Student Government Program Coordinator](https://www.linkedin.com/jobs/view/4436409318/) — University of Colorado Boulder
+- 📍 **Location:** Boulder, CO
+- 💰 **Salary:** $58,200 - $65,000
 - 🕒 **Posted:** 2026-07-05
 
-### [CBCM Case Manager](https://www.linkedin.com/jobs/view/4436043010/) — Kalihi Palama Mental Health
-- 📍 **Location:** Honolulu, HI
+### [FACT Team Housing Specialist](https://www.linkedin.com/jobs/view/4437107849/) — NORTHEAST COUNSELING SERVICES
+- 📍 **Location:** Nanticoke, PA
 - 🕒 **Posted:** 2026-07-05
 
-### [Patient Care Coordinator (Team Coordinator RN) - Medical Telemetry Innovation Unit 3T - FT Rotating](https://www.linkedin.com/jobs/view/4417171041/) — Jefferson Health
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-07-05
-
-### [Program Manager, Professional Services](https://www.linkedin.com/jobs/view/4418624663/) — Icertis
-- 📍 **Location:** Bellevue, WA
+### [Program Manager](https://www.linkedin.com/jobs/view/4437126170/) — Five Stones Research Corporation
+- 📍 **Location:** Falls Church, VA
+- 💰 **Salary:** $194k - $237k
 - 🕒 **Posted:** 2026-07-05
