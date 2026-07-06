@@ -1,5 +1,5 @@
 # 🏛 NEOGOV — State & Local Government Housing & Community Impact Roles
-*Last updated: 2026-07-05 20:36 UTC*
+*Last updated: 2026-07-06 21:53 UTC*
 
 **0 new role(s)** since last run · 0 total in recent GovernmentJobs postings
 
