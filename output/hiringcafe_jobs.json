@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-05 20:41 UTC",
-  "total": 80,
-  "new_count": 0,
+  "scraped_at": "2026-07-06 22:02 UTC",
+  "total": 83,
+  "new_count": 7,
   "jobs": [
     {
       "company": "Merakey",
@@ -25,6 +25,19 @@
       "date_posted": "2026-06-22T20:46:00.000Z",
       "description": "Experience negotiating leases and securing housing for special-needs populations; knowledge of state/city housing and disability laws; valid driver's license; ability to prepare housing packages and maintain housing option databases.",
       "salary": "$45k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Pittsburg",
+      "title": "Housing Specialist (Housing Authority)",
+      "location": "Pittsburg, California, United States",
+      "url": "https://www.governmentjobs.com/careers/pittsburg/jobs/5398640",
+      "direct_url": "https://www.governmentjobs.com/careers/pittsburg/jobs/5398640",
+      "date_posted": "2026-07-06T00:39:12.000Z",
+      "description": "Manage Section 8/Housing Choice Voucher caseloads, determine eligibility, perform inspections, calculate rents, maintain records, and apply federal/state/local housing rules. Requires familiarity with housing software and Microsoft Office.",
+      "salary": "$72k–$87k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -103,6 +116,19 @@
       "date_posted": "2026-06-17T00:00:00.000Z",
       "description": "Coordinate housing and weatherization programs, conduct energy audits and quality control inspections, prepare reports, maintain client records, and ensure compliance with federal, state, and local regulations.",
       "salary": "$38k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Idaho Housing and Finance Association",
+      "title": "Housing Specialist",
+      "location": "Idaho Falls, Idaho, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "date_posted": "2026-06-12T03:13:07.000Z",
+      "description": "High school diploma or equivalent; strong organizational, communication, and computer (Microsoft Office) skills; ability to handle confidential information; previous housing assistance or social services experience preferred.",
+      "salary": "$40k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -212,19 +238,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Cbi",
-      "title": "Housing Specialist",
-      "location": "Phoenix or Arizona",
-      "url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cbi/candidateportal/jobs/47956",
-      "date_posted": "2026-06-08T07:00:00.000Z",
-      "description": "Bachelor's in behavioral health or equivalent combination of education/training; 1+ year experience with SMI and 1+ year outreach/engagement experience; able to pass criminal background check; experience coordinating housing and providing in-field client support.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "New Narrative",
       "title": "Housing Navigator",
       "location": "Beaverton or Portland",
@@ -238,19 +251,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Road Home",
-      "title": "Housing Navigator",
-      "location": "Midvale, Utah, United States",
-      "url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
-      "direct_url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "Provide housing navigation, complete eligibility assessments, coordinate with case managers and landlords, process rental payments, enter HMIS data, pass background check and drug screen, HS diploma required, valid driver license and ability to drive, lifting up to 25 lbs.",
-      "salary": "$39k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Booker T Washington Community Service Center",
       "title": "Housing Navigator",
       "location": "San Francisco, California, United States",
@@ -259,6 +259,19 @@
       "date_posted": "2026-07-02T00:00:00.000Z",
       "description": "Minimum 3 years housing navigation/case management experience, proficiency with DAHLIA, Airtable, SF ONE (HMIS), Google Workspace and Microsoft Excel, valid driver’s license and insurance, CPR/First Aid and TB clearance; Bachelor’s degree or HS + 3 years experience.",
       "salary": "$75k–$80k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Road Home",
+      "title": "Housing Navigator",
+      "location": "Midvale, Utah, United States",
+      "url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
+      "direct_url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
+      "date_posted": "2026-06-30T00:00:00.000Z",
+      "description": "Provide housing navigation, complete eligibility assessments, coordinate with case managers and landlords, process rental payments, enter HMIS data, pass background check and drug screen, HS diploma required, valid driver license and ability to drive, lifting up to 25 lbs.",
+      "salary": "$39k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -383,12 +396,12 @@
     {
       "company": "Titanium Healthcare",
       "title": "Housing Navigator ",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
+      "location": "San Luis Obispo, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
       "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
-      "salary": "$48k–$58k/yr",
+      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
+      "salary": "$44k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -407,27 +420,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pacific Clinics",
+      "company": "Serene Health",
       "title": "Housing Navigator",
-      "location": "San Jose, California, United States",
-      "url": "https://careers.pacificclinics.org/jobs/1422?lang=en-us",
-      "direct_url": "https://careers.pacificclinics.org/jobs/1422?lang=en-us",
-      "date_posted": "2026-06-29T20:53:56.000Z",
-      "description": "High School diploma/GED plus 4+ years relevant experience (or equivalent combination). Knowledge of CES/CoC/HUD, HMIS and Salesforce documentation, Motivational Interviewing/Trauma Informed Care/Harm Reduction training, valid CA driver's license or ability to use transit.",
-      "salary": "$59k–$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Mission Action",
-      "title": "Housing Navigator",
-      "location": "San Francisco, California, United States",
-      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
-      "date_posted": "2026-06-10T22:28:27.586Z",
-      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
-      "salary": "$62k/yr",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -446,6 +446,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Mission Action",
+      "title": "Housing Navigator",
+      "location": "San Francisco, California, United States",
+      "url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "direct_url": "https://ats.rippling.com/mission-action/jobs/f3655dfb-30f1-42ad-96b2-1991d49c4a42",
+      "date_posted": "2026-06-10T22:28:27.586Z",
+      "description": "2+ years direct service experience in case management or counseling, crisis intervention skills, strong written/oral communication, proficiency with Microsoft Word/Outlook/Excel and client record systems; Spanish bilingual preferred.",
+      "salary": "$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "SupportWorks Housing (formerly known as Virginia Supportive Housing)",
       "title": "Housing Navigator",
       "location": "Chesapeake or Virginia",
@@ -454,6 +467,19 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
       "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pacific Clinics",
+      "title": "Housing Navigator",
+      "location": "San Jose, California, United States",
+      "url": "https://careers.pacificclinics.org/jobs/1422?lang=en-us",
+      "direct_url": "https://careers.pacificclinics.org/jobs/1422?lang=en-us",
+      "date_posted": "2026-06-29T20:53:56.000Z",
+      "description": "High School diploma/GED plus 4+ years relevant experience (or equivalent combination). Knowledge of CES/CoC/HUD, HMIS and Salesforce documentation, Motivational Interviewing/Trauma Informed Care/Harm Reduction training, valid CA driver's license or ability to use transit.",
+      "salary": "$59k–$73k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -654,27 +680,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "emh",
+      "company": "AdventHealth",
       "title": "Community Health Worker",
-      "location": "Ellsworth, Maine, United States",
-      "url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-emh-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(10,89749,1).JobPostingDisplayNav?csk.HROrganization=10&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-06-16T00:00:00.000Z",
-      "description": "Provides social support, health coaching, care navigation and advocacy; performs home visits, outreach and telehealth; documents encounters in electronic medical record; valid driver requirement; no prior experience required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SGOH Acquisition Inc. dba Ozarks Community Hospital",
-      "title": "Community Health Worker",
-      "location": "Webb City, Missouri, United States",
-      "url": "https://ochonline.isolvedhire.com/jobs/1811500",
-      "direct_url": "https://ochonline.isolvedhire.com/jobs/1811500",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "High school diploma or equivalent, obtain CHW certification within 12 months, valid Class E driver's license, current BLS, ability to provide culturally appropriate health education, coaching, and basic screening.",
-      "salary": "$40k–$44k/yr",
+      "location": "Manchester, Kentucky, United States",
+      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "High school diploma or equivalent, clinical or community health experience, community health worker training/certification, driver's license required, experience with insurance authorization/verification preferred, Microsoft Office proficiency.",
+      "salary": "$38k–$61k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -784,19 +797,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BEEHIVE HOMES OF VERNAL",
-      "title": "Care Coordinator",
-      "location": "Vernal, Utah, United States",
-      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "date_posted": "2026-06-16T20:41:40.000Z",
-      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Peerstar LLC",
       "title": "Care Coordinator",
       "location": "Clifton, New Jersey, United States",
@@ -805,6 +805,19 @@
       "date_posted": "2026-06-19T00:00:00.000Z",
       "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
       "salary": "$55k–$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BEEHIVE HOMES OF VERNAL",
+      "title": "Care Coordinator",
+      "location": "Vernal, Utah, United States",
+      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
+      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
+      "date_posted": "2026-06-16T20:41:40.000Z",
+      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -849,19 +862,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Gabbi, Inc.",
-      "title": "Care Coordinator",
-      "location": "United States",
-      "url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
-      "direct_url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
-      "date_posted": "2026-06-29T20:47:42.929Z",
-      "description": "1+ years in customer-facing, care coordination, or patient service role; tech-savvy; strong verbal/written communication, organization, empathy for sensitive moments, ability to manage multiple systems and own initiatives end-to-end.",
-      "salary": "$44k–$50k/yr",
-      "job_type": "Full Time, Contract",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Pcscco",
       "title": "Care Coordinator ",
       "location": "Rochester, New York, United States",
@@ -872,6 +872,19 @@
       "salary": "$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Gabbi, Inc.",
+      "title": "Care Coordinator",
+      "location": "United States",
+      "url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
+      "direct_url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
+      "date_posted": "2026-06-29T20:47:42.929Z",
+      "description": "1+ years in customer-facing, care coordination, or patient service role; tech-savvy; strong verbal/written communication, organization, empathy for sensitive moments, ability to manage multiple systems and own initiatives end-to-end.",
+      "salary": "$44k–$50k/yr",
+      "job_type": "Full Time, Contract",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -927,6 +940,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Elevate Care Chicago North",
+      "title": "Social Services Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-10T00:00:00.000Z",
+      "description": "Bachelor's degree in social work, psychology, or related field (or equivalent experience). Experience in social services (healthcare preferred), strong communication, organizational and documentation skills, compassionate patient-focused approach.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sasllc",
       "title": "Social Services Coordinator",
       "location": "Hawkinsville, Georgia, United States",
@@ -963,6 +989,19 @@
       "salary": "$52k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Let Me Run, Inc",
+      "title": "Program Coordinator - Seattle",
+      "location": "Seattle or Charlotte",
+      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "date_posted": "2026-06-10T01:04:42.022Z",
+      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1044,5 +1083,97 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "City of Pittsburg",
+      "title": "Housing Specialist (Housing Authority)",
+      "location": "Pittsburg, California, United States",
+      "url": "https://www.governmentjobs.com/careers/pittsburg/jobs/5398640",
+      "direct_url": "https://www.governmentjobs.com/careers/pittsburg/jobs/5398640",
+      "date_posted": "2026-07-06T00:39:12.000Z",
+      "description": "Manage Section 8/Housing Choice Voucher caseloads, determine eligibility, perform inspections, calculate rents, maintain records, and apply federal/state/local housing rules. Requires familiarity with housing software and Microsoft Office.",
+      "salary": "$72k–$87k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Idaho Housing and Finance Association",
+      "title": "Housing Specialist",
+      "location": "Idaho Falls, Idaho, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
+      "date_posted": "2026-06-12T03:13:07.000Z",
+      "description": "High school diploma or equivalent; strong organizational, communication, and computer (Microsoft Office) skills; ability to handle confidential information; previous housing assistance or social services experience preferred.",
+      "salary": "$40k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Titanium Healthcare",
+      "title": "Housing Navigator ",
+      "location": "San Luis Obispo, California, United States",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/680",
+      "date_posted": "2026-06-17T00:00:00.000Z",
+      "description": "Diploma/GED required; 2+ years experience in healthcare/social services/case management; HMIS experience; valid driver\\u0019s license, reliable transportation, BLS certification, ability to travel within county and maintain documentation.",
+      "salary": "$44k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AdventHealth",
+      "title": "Community Health Worker",
+      "location": "Manchester, Kentucky, United States",
+      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0382281",
+      "date_posted": "2026-07-06T00:00:00.000Z",
+      "description": "High school diploma or equivalent, clinical or community health experience, community health worker training/certification, driver's license required, experience with insurance authorization/verification preferred, Microsoft Office proficiency.",
+      "salary": "$38k–$61k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elevate Care Chicago North",
+      "title": "Social Services Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1877677?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=7c0bace4f0364284bea738b5488b511d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1877677&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0115933&ajs_prop_job_location_lon=-87.6921164&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-10T00:00:00.000Z",
+      "description": "Bachelor's degree in social work, psychology, or related field (or equivalent experience). Experience in social services (healthcare preferred), strong communication, organizational and documentation skills, compassionate patient-focused approach.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Let Me Run, Inc",
+      "title": "Program Coordinator - Seattle",
+      "location": "Seattle or Charlotte",
+      "url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "direct_url": "https://jobs.gusto.com/postings/let-me-run-inc-program-coordinator-seattle-143ec3f5-46eb-4b65-88fe-f64e6befcc5d",
+      "date_posted": "2026-06-10T01:04:42.022Z",
+      "description": "High school diploma, strong organizational and communication skills, proficiency with Microsoft Office or Google Workspace, ability to work independently in a remote environment; associate's/bachelor's and nonprofit/volunteer program experience preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    }
+  ]
 }
