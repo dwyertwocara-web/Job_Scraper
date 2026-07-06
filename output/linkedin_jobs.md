@@ -1,44 +1,27 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-05 23:58 UTC*
+*Last updated: 2026-07-06 00:25 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**5 new role(s)** since last run · 10 total in last 1h
 
-### [RN Case Manager - Value Based Service Organization - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4436959924/) — Keck Medicine of USC
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $53.00 - $87.45
-- 🕒 **Posted:** 2026-07-05
+### [Performance Program Manager - Ski & Snowboard Teams](https://www.linkedin.com/jobs/view/4433798966/) — Palisades Tahoe
+- 📍 **Location:** Olympic Valley, CA
+- 💰 **Salary:** $67,082 - $93,914 per year
+- 🕒 **Posted:** 2026-07-06
 
-### [TLS Case Manager](https://www.linkedin.com/jobs/view/4292462767/) — Coalition for Responsible Community Development
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $50,000-$55,000 annually
-- 🕒 **Posted:** 2026-07-05
+### [Care Manager RN Per Diem Variable](https://www.linkedin.com/jobs/view/4436044857/) — Providence
+- 📍 **Location:** Eureka, CA
+- 💰 **Salary:** $54.61/hr - $92.23/hr
+- 🕒 **Posted:** 2026-07-06
 
-### [Program Coordinator- OTA or PTA](https://www.linkedin.com/jobs/view/4436050499/) — Key Rehabilitation
-- 📍 **Location:** Humboldt, NE
-- 🕒 **Posted:** 2026-07-05
+### [Housing Specialist](https://www.linkedin.com/jobs/view/4422457462/) — Idaho Housing and Finance Association
+- 📍 **Location:** Coeur d'Alene, ID
+- 🕒 **Posted:** 2026-07-06
 
-### [Program Coordinator/ Co-Facilitator](https://www.linkedin.com/jobs/view/4436050477/) — Safe Places Coaching & Development LLC
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-07-05
+### [Care Manager RN - Family Medicine](https://www.linkedin.com/jobs/view/4436052524/) — Providence
+- 📍 **Location:** Missoula, MT
+- 💰 **Salary:** $40.37/hr - $62.66/hr
+- 🕒 **Posted:** 2026-07-06
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4436037910/) — Your Health
-- 📍 **Location:** Myrtle Beach, SC
-- 🕒 **Posted:** 2026-07-05
-
-### [Inbound Healthcare Program Specialist](https://www.linkedin.com/jobs/view/4437111940/) — Medici Orthopaedics and Spine
-- 📍 **Location:** Kennesaw, GA
-- 🕒 **Posted:** 2026-07-05
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4421868347/) — Addison Group
-- 📍 **Location:** Frederick, MD
-- 💰 **Salary:** $55,000 – $62,000 annually
-- 🕒 **Posted:** 2026-07-05
-
-### [Portfolio Program Manager](https://www.linkedin.com/jobs/view/4418624161/) — Toyota North America
-- 📍 **Location:** Plano, TX
-- 💰 **Salary:** $55.00 - $74.07/Hr
-- 🕒 **Posted:** 2026-07-05
-
-### [Research Assistant / Medical Assistant](https://www.linkedin.com/jobs/view/4434635279/) — Alcanza Clinical Research
-- 📍 **Location:** Maitland, FL
-- 🕒 **Posted:** 2026-07-05
+### [Travel Nurse - RN - Case Manager](https://www.linkedin.com/jobs/view/4436044834/) — MEP Health
+- 📍 **Location:** Williamsburg, VA
+- 🕒 **Posted:** 2026-07-06
