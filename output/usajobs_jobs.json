@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-02 20:38 UTC",
-  "total": 3,
-  "new_count": 2,
+  "scraped_at": "2026-07-08 20:39 UTC",
+  "total": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Gulf Coast Ecosystem Restoration Council",
@@ -10,15 +10,6 @@
       "url": "https://www.usajobs.gov/job/874421400",
       "date_posted": "2026-06-26",
       "salary": "Starting at $89,508 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator)",
-      "location": "Tuskegee, Alabama",
-      "url": "https://www.usajobs.gov/job/875316200",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $109,565 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -31,24 +22,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Gulf Coast Ecosystem Restoration Council",
-      "title": "Ecosystem Restoration Program Specialist",
-      "location": "New Orleans, Louisiana",
-      "url": "https://www.usajobs.gov/job/874421400",
-      "date_posted": "2026-06-26",
-      "salary": "Starting at $89,508 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator)",
-      "location": "Tuskegee, Alabama",
-      "url": "https://www.usajobs.gov/job/875316200",
-      "date_posted": "2026-07-02",
-      "salary": "Starting at $109,565 Per year (GS 13)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
