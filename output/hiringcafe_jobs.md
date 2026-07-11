@@ -1,22 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-11 20:15 UTC*
+*Last updated: 2026-07-11 23:44 UTC*
 
-**4 new role(s)** since last run · 93 total in last 30d
+**2 new role(s)** since last run · 92 total in last 30d
 
-### [Housing Navigator ](https://titaniumhealthcare.bamboohr.com/careers/681) — Titanium Healthcare
-- 📍 **Location:** Santa Barbara, California, United States
-- 💰 **Salary:** $48k–$58k/yr
-- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+### [Housing Specialist](https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108) — Vista Maria
+- 📍 **Location:** Dearborn Heights, Michigan, United States
+- 💰 **Salary:** $43k–$56k/yr
+- 🕒 **Posted:** 2026-07-01T19:28:22.685Z
 
-### [Housing Navigator (Field Based)](https://careers-lafh.icims.com/jobs/1205/housing-navigator-%28field-based%29/job?in_iframe=1) — LA Family Housing
-- 📍 **Location:** North Hollywood, California, United States
-- 💰 **Salary:** $55k/yr
-- 🕒 **Posted:** 2026-06-24T04:00:00.000Z
-
-### [Community Health Worker](https://ats.rippling.com/suvida-careers/jobs/7a041445-1a73-400c-b7db-8708b6ce972f) — Suvida Healthcare LLC
-- 📍 **Location:** Katy, Texas, United States
-- 🕒 **Posted:** 2026-07-10T20:57:25.160Z
-
-### [College, Career & Civic Readiness Program Coordinator](https://secure2.saashr.com/ta/DeltaHealthAlliance.careers?ShowJob=855815171) — Delta Health Alliance
-- 📍 **Location:** Greenwood, Mississippi, United States
-- 🕒 **Posted:** 2026-07-10T22:38:09.001Z
+### [Social Services Coordinator](https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration) — Elevate Care Regency
+- 📍 **Location:** Niles, Illinois, United States
+- 💰 **Salary:** $52k/yr
+- 🕒 **Posted:** 2026-07-11T00:00:00.000Z
