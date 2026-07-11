@@ -1,17 +1,8 @@
 {
-  "scraped_at": "2026-07-10 20:47 UTC",
-  "total": 5,
-  "new_count": 3,
+  "scraped_at": "2026-07-11 18:39 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "Gulf Coast Ecosystem Restoration Council",
-      "title": "Ecosystem Restoration Program Specialist",
-      "location": "New Orleans, Louisiana",
-      "url": "https://www.usajobs.gov/job/874421400",
-      "date_posted": "2026-06-26",
-      "salary": "Starting at $89,508 Per year (GS 12-13)",
-      "ats": "USAJOBS"
-    },
     {
       "company": "Veterans Health Administration",
       "title": "Social Worker (Program Coordinator) - Prevention Management Disruptive Behavior",
@@ -49,33 +40,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker (Program Coordinator) - Prevention Management Disruptive Behavior",
-      "location": "Iowa City, Iowa",
-      "url": "https://www.usajobs.gov/job/876115000",
-      "date_posted": "2026-07-10",
-      "salary": "Starting at $97,100 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Commander, Navy Installations Command",
-      "title": "FFSP Clinical Counselor/FAP Case Manager",
-      "location": "Fallon, Nevada",
-      "url": "https://www.usajobs.gov/job/876101300",
-      "date_posted": "2026-07-10",
-      "salary": "Starting at $101,842 Per year (NF 4)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Psychology Program Manager, Assistant Chief of Psychology/Post-Traumatic Stress Disorder Program",
-      "location": "Las Vegas, Nevada",
-      "url": "https://www.usajobs.gov/job/875992800",
-      "date_posted": "2026-07-10",
-      "salary": "Starting at $159,322 Per year (GS 14)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
