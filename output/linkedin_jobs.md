@@ -1,76 +1,67 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-11 21:20 UTC*
+*Last updated: 2026-07-11 22:40 UTC*
 
-**16 new role(s)** since last run · 16 total in last 1h
+**14 new role(s)** since last run · 17 total in last 1h
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4436685338/) — Depaul USA
-- 📍 **Location:** Los Angeles, CA
+### [Program Specialist](https://www.linkedin.com/jobs/view/4439594084/) — UCSF Health
+- 📍 **Location:** California, United States
 - 🕒 **Posted:** 2026-07-11
 
-### [HUB Program Coordinator (Student Services Professional III)](https://www.linkedin.com/jobs/view/4438952194/) — NAFSA: Association of International Educators
-- 📍 **Location:** Chico, CA
-- 💰 **Salary:** $66,480 - $94,716 per year
-- 🕒 **Posted:** 2026-07-11
-
-### [Quality Patient Safety Program Manager](https://www.linkedin.com/jobs/view/4438941659/) — CommonSpirit Health
-- 📍 **Location:** Santa Maria, CA
-- 💰 **Salary:** $54.76 - $81.45 /hour
-- 🕒 **Posted:** 2026-07-11
-
-### [CARE COORDINATOR RN PD](https://www.linkedin.com/jobs/view/4438943659/) — CommonSpirit Health
-- 📍 **Location:** San Luis Obispo, CA
-- 💰 **Salary:** $78.48 - $78.48 /hour
-- 🕒 **Posted:** 2026-07-11
-
-### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4438949491/) — CommonSpirit Health
-- 📍 **Location:** Woodland, CA
-- 💰 **Salary:** $72.96 - $88.57 /hour
-- 🕒 **Posted:** 2026-07-11
-
-### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4439367411/) — UCSF Health
+### [Program Manager, REI Initiatives](https://www.linkedin.com/jobs/view/4439593102/) — UCSF Health
 - 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-11
 
-### [DCS CASE MANAGER 4 - 07072026-79019](https://www.linkedin.com/jobs/view/4436532447/) — State of Tennessee
-- 📍 **Location:** Shelbyville, TN
-- 💰 **Salary:** $4,672.00 - $5,844.00
+### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4439583539/) — UCSF Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-11
 
-### [Health Home Care Coordinator I](https://www.linkedin.com/jobs/view/4439578741/) — Catholic Health
-- 📍 **Location:** Buffalo, NY
-- 💰 **Salary:** $21.00/hr - $32.00/hr
+### [School Based Case Manager ( Northmont School District)](https://www.linkedin.com/jobs/view/4439581674/) — Primary Health Solutions
+- 📍 **Location:** Clayton, OH
 - 🕒 **Posted:** 2026-07-11
 
-### [Afterhours RN Care Manager](https://www.linkedin.com/jobs/view/4438949440/) — Gentiva
-- 📍 **Location:** Parsons, KS
+### [CERAMICS PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4438939771/) — ArtsQuest
+- 📍 **Location:** Bethlehem, PA
 - 🕒 **Posted:** 2026-07-11
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4439577721/) — Canyon Vista Recovery Center
-- 📍 **Location:** Mesa, AZ
+### [Senior Pharmacy Care Coordinator](https://www.linkedin.com/jobs/view/4439570970/) — Optum
+- 📍 **Location:** Everett, WA
+- 💰 **Salary:** $20 to $36 per hour
 - 🕒 **Posted:** 2026-07-11
 
-### [TRANSITIONAL CASE MANAGER WEEKEND - PRN](https://www.linkedin.com/jobs/view/4437076094/) — Cooper University Health Care
-- 📍 **Location:** Camden, NJ
+### [Senior Pharmacy Care Coordinator](https://www.linkedin.com/jobs/view/4439592066/) — Optum
+- 📍 **Location:** Draper, UT
+- 💰 **Salary:** $20 - $36 per hour
 - 🕒 **Posted:** 2026-07-11
 
-### [TRANSITIONAL CASE MANAGER WEEKEND - PRN](https://www.linkedin.com/jobs/view/4437052881/) — Cooper University Health Care
-- 📍 **Location:** Camden, NJ
+### [Senior Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439576847/) — Optum
+- 📍 **Location:** Manchester, CT
+- 💰 **Salary:** $20 - $36 per hour
 - 🕒 **Posted:** 2026-07-11
 
-### [Housing Case Manager](https://www.linkedin.com/jobs/view/4436684371/) — Depaul USA
-- 📍 **Location:** Little Rock, AR
+### [Senior Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439587204/) — Optum
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $20.00 to $36.00 per hour
 - 🕒 **Posted:** 2026-07-11
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4436694007/) — Depaul USA
-- 📍 **Location:** Little Rock, AR
-- 💰 **Salary:** $38,000.00/yr - $40,000.00/yr
+### [Program Manager - Valley View and Miamisburg School Districts](https://www.linkedin.com/jobs/view/4439580767/) — Primary Health Solutions
+- 📍 **Location:** Germantown, OH
 - 🕒 **Posted:** 2026-07-11
 
-### [Ambulatory Nurse Care Coordinator- Full-Time Days (Western Suburbs)](https://www.linkedin.com/jobs/view/4438932870/) — Northwestern Medicine Central DuPage Hospital
-- 📍 **Location:** Glen Ellyn, IL
-- 💰 **Salary:** $38.50 - $61.60
+### [Athletics Development Coordinator](https://www.linkedin.com/jobs/view/4438879715/) — Grand Canyon University
+- 📍 **Location:** Phoenix, AZ
+- 💰 **Salary:** $1,000 to $10,000
 - 🕒 **Posted:** 2026-07-11
 
-### [RESEARCH ASSISTANT (PART-TIME)](https://www.linkedin.com/jobs/view/4437561546/) — Cooper University Health Care
-- 📍 **Location:** Camden, NJ
+### [Program Manager](https://www.linkedin.com/jobs/view/4439579461/) — Rios Partners
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-11
+
+### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439594041/) — Optum
+- 📍 **Location:** Bethpage, NY
+- 💰 **Salary:** $16.00 to $29.00 per hour
+- 🕒 **Posted:** 2026-07-11
+
+### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439574879/) — Optum
+- 📍 **Location:** Surprise, AZ
+- 💰 **Salary:** $16 - $29 per hour
 - 🕒 **Posted:** 2026-07-11
