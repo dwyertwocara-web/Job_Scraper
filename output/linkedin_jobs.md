@@ -1,140 +1,76 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-11 18:24 UTC*
+*Last updated: 2026-07-11 21:20 UTC*
 
-**30 new role(s)** since last run · 30 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431148896/) — PDS Health
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Case Manager](https://www.linkedin.com/jobs/view/4436685338/) — Depaul USA
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-07-11
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431151891/) — PDS Health
-- 📍 **Location:** Pomona, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [HUB Program Coordinator (Student Services Professional III)](https://www.linkedin.com/jobs/view/4438952194/) — NAFSA: Association of International Educators
+- 📍 **Location:** Chico, CA
+- 💰 **Salary:** $66,480 - $94,716 per year
 - 🕒 **Posted:** 2026-07-11
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4411830357/) — PDS Health
-- 📍 **Location:** Lakewood, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Quality Patient Safety Program Manager](https://www.linkedin.com/jobs/view/4438941659/) — CommonSpirit Health
+- 📍 **Location:** Santa Maria, CA
+- 💰 **Salary:** $54.76 - $81.45 /hour
 - 🕒 **Posted:** 2026-07-11
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4420997323/) — PDS Health
-- 📍 **Location:** Highland, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [CARE COORDINATOR RN PD](https://www.linkedin.com/jobs/view/4438943659/) — CommonSpirit Health
+- 📍 **Location:** San Luis Obispo, CA
+- 💰 **Salary:** $78.48 - $78.48 /hour
 - 🕒 **Posted:** 2026-07-11
 
-### [Hospice Case Manager RN -$10k sign on](https://www.linkedin.com/jobs/view/4431143801/) — Trinity Health At Home
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $41.57 - $66.51
+### [Care Coordinator RN](https://www.linkedin.com/jobs/view/4438949491/) — CommonSpirit Health
+- 📍 **Location:** Woodland, CA
+- 💰 **Salary:** $72.96 - $88.57 /hour
 - 🕒 **Posted:** 2026-07-11
 
-### [Hospice Case Manager RN -$10k sign on](https://www.linkedin.com/jobs/view/4431180745/) — Trinity Health
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $41.57 - $66.51
+### [Research Data Analyst II](https://www.linkedin.com/jobs/view/4439367411/) — UCSF Health
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-11
 
-### [CASE MANAGER](https://www.linkedin.com/jobs/view/4438933675/) — Arizona Department of Child Safety
-- 📍 **Location:** Prescott, AZ
+### [DCS CASE MANAGER 4 - 07072026-79019](https://www.linkedin.com/jobs/view/4436532447/) — State of Tennessee
+- 📍 **Location:** Shelbyville, TN
+- 💰 **Salary:** $4,672.00 - $5,844.00
 - 🕒 **Posted:** 2026-07-11
 
-### [Case Manager- Adult Protective Services](https://www.linkedin.com/jobs/view/4422166275/) — JASA
-- 📍 **Location:** New York, NY
+### [Health Home Care Coordinator I](https://www.linkedin.com/jobs/view/4439578741/) — Catholic Health
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $21.00/hr - $32.00/hr
 - 🕒 **Posted:** 2026-07-11
 
-### [CASE MANAGER-SPECIAL PROGRAMS](https://www.linkedin.com/jobs/view/4436482494/) — Harmony Public Schools
-- 📍 **Location:** Houston, TX
+### [Afterhours RN Care Manager](https://www.linkedin.com/jobs/view/4438949440/) — Gentiva
+- 📍 **Location:** Parsons, KS
 - 🕒 **Posted:** 2026-07-11
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4438943442/) — NYC Department of Housing Preservation & Development
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $86,749.00/yr - $99,761.00/yr
+### [Case Manager](https://www.linkedin.com/jobs/view/4439577721/) — Canyon Vista Recovery Center
+- 📍 **Location:** Mesa, AZ
 - 🕒 **Posted:** 2026-07-11
 
-### [Community Health Worker - HPII - Community Action & Engagement Unit](https://www.linkedin.com/jobs/view/4439565691/) — State of Colorado
-- 📍 **Location:** Denver, CO
+### [TRANSITIONAL CASE MANAGER WEEKEND - PRN](https://www.linkedin.com/jobs/view/4437076094/) — Cooper University Health Care
+- 📍 **Location:** Camden, NJ
 - 🕒 **Posted:** 2026-07-11
 
-### [Medication Access & Care Coordinator](https://www.linkedin.com/jobs/view/4438931689/) — PARKVIEW HEALTH SYSTEM INC
-- 📍 **Location:** Fort Wayne, IN
+### [TRANSITIONAL CASE MANAGER WEEKEND - PRN](https://www.linkedin.com/jobs/view/4437052881/) — Cooper University Health Care
+- 📍 **Location:** Camden, NJ
 - 🕒 **Posted:** 2026-07-11
 
-### [Care Coordinator 2](https://www.linkedin.com/jobs/view/4391386311/) — Oregon Health & Science University
-- 📍 **Location:** Portland, Oregon Metropolitan Area
-- 💰 **Salary:** $29.38/hr - $39.72/hr
+### [Housing Case Manager](https://www.linkedin.com/jobs/view/4436684371/) — Depaul USA
+- 📍 **Location:** Little Rock, AR
 - 🕒 **Posted:** 2026-07-11
 
-### [Women’s Case Manager](https://www.linkedin.com/jobs/view/4438941440/) — Wayside Recovery
-- 📍 **Location:** St Louis Park, MN
-- 💰 **Salary:** $43,000.00 - $48,000.00 per year
+### [Case Manager](https://www.linkedin.com/jobs/view/4436694007/) — Depaul USA
+- 📍 **Location:** Little Rock, AR
+- 💰 **Salary:** $38,000.00/yr - $40,000.00/yr
 - 🕒 **Posted:** 2026-07-11
 
-### [Care Coordinator- Tarrytown](https://www.linkedin.com/jobs/view/4431162069/) — Spear Physical Therapy
-- 📍 **Location:** Tarrytown, NY
-- 💰 **Salary:** $18.00/hr - $18.00/hr
+### [Ambulatory Nurse Care Coordinator- Full-Time Days (Western Suburbs)](https://www.linkedin.com/jobs/view/4438932870/) — Northwestern Medicine Central DuPage Hospital
+- 📍 **Location:** Glen Ellyn, IL
+- 💰 **Salary:** $38.50 - $61.60
 - 🕒 **Posted:** 2026-07-11
 
-### [LPN Care Coordinator](https://www.linkedin.com/jobs/view/4438945373/) — The Wright Center for Graduate Medical Education
-- 📍 **Location:** South Abington, PA
-- 🕒 **Posted:** 2026-07-11
-
-### [Care Coordinator - RN  - Case Management - Hudson Valley Hospital - Full Time - Days](https://www.linkedin.com/jobs/view/4431318862/) — NewYork-Presbyterian Hospital
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $56.80-$62.35/Hourly
-- 🕒 **Posted:** 2026-07-11
-
-### [Wound Care Coordinator Full Time](https://www.linkedin.com/jobs/view/4439573499/) — Kindred
-- 📍 **Location:** Las Vegas, NV
-- 🕒 **Posted:** 2026-07-11
-
-### [Home Health Clinician Case Manager](https://www.linkedin.com/jobs/view/4366138620/) — BayCare Health System
-- 📍 **Location:** Sarasota, FL
-- 🕒 **Posted:** 2026-07-11
-
-### [Patient Care Coordinator- South Grove clinic](https://www.linkedin.com/jobs/view/4420983625/) — BenchMark Physical Therapy
-- 📍 **Location:** Knoxville, TN
-- 🕒 **Posted:** 2026-07-11
-
-### [Care Manager (RN) – Bone Marrow Transplant (BMT)](https://www.linkedin.com/jobs/view/4431315943/) — NewYork-Presbyterian Hospital
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $134,900-$168,000/Annual
-- 🕒 **Posted:** 2026-07-11
-
-### [Case Manager - Danvers CSS - Per Diem](https://www.linkedin.com/jobs/view/4420631973/) — Beth Israel Lahey Health
-- 📍 **Location:** Danvers, MA
-- 💰 **Salary:** $21.77 - $26.54
-- 🕒 **Posted:** 2026-07-11
-
-### [Case Manager RN PRN](https://www.linkedin.com/jobs/view/4420979379/) — HCA Florida Bayonet Point Hospital
-- 📍 **Location:** Hudson, FL
-- 🕒 **Posted:** 2026-07-11
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4400449522/) — WES HEALTH SYSTEM
-- 📍 **Location:** Philadelphia, PA
-- 💰 **Salary:** $30,000.00/yr - $36,000.00/yr
-- 🕒 **Posted:** 2026-07-11
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4438950013/) — Keplr Vision
-- 📍 **Location:** Fremont, MI
-- 🕒 **Posted:** 2026-07-11
-
-### [Home Health Clinician Case Manager - Sarasota](https://www.linkedin.com/jobs/view/4382177780/) — BayCare Health System
-- 📍 **Location:** Sarasota, FL
-- 🕒 **Posted:** 2026-07-11
-
-### [Care Manager (RN) Neurology Service Lines - Weill Cornell - Days](https://www.linkedin.com/jobs/view/4431315944/) — NewYork-Presbyterian Hospital
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $134,900-$168,000/Annual
-- 🕒 **Posted:** 2026-07-11
-
-### [RN Case Manager Rehab PRN](https://www.linkedin.com/jobs/view/4431176857/) — Wesley Healthcare
-- 📍 **Location:** Wichita, KS
-- 🕒 **Posted:** 2026-07-11
-
-### [Program Manager Medical Research- Trinity Health Mid-Atlantic](https://www.linkedin.com/jobs/view/4431141181/) — Trinity Health
-- 📍 **Location:** Langhorne, PA
-- 🕒 **Posted:** 2026-07-11
-
-### [Program Manager- Weapon Systems Program Execution](https://www.linkedin.com/jobs/view/4400835932/) — BAE Systems, Inc.
-- 📍 **Location:** Louisville, KY
-- 💰 **Salary:** $120874 - $205486
+### [RESEARCH ASSISTANT (PART-TIME)](https://www.linkedin.com/jobs/view/4437561546/) — Cooper University Health Care
+- 📍 **Location:** Camden, NJ
 - 🕒 **Posted:** 2026-07-11
