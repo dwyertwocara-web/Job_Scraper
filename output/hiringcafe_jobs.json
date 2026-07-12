@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-11 23:44 UTC",
-  "total": 92,
+  "scraped_at": "2026-07-12 07:51 UTC",
+  "total": 91,
   "new_count": 2,
   "jobs": [
     {
@@ -121,19 +121,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mount Rogers Community Services",
-      "title": "Housing Specialist",
-      "location": "United States",
-      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -142,6 +129,19 @@
       "date_posted": "2026-06-24T04:00:00.000Z",
       "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mount Rogers Community Services",
+      "title": "Housing Specialist",
+      "location": "United States",
+      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -212,19 +212,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Idaho Housing and Finance Association",
-      "title": "Housing Specialist",
-      "location": "Idaho Falls, Idaho, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248562",
-      "date_posted": "2026-06-12T03:13:07.000Z",
-      "description": "High school diploma or equivalent; strong organizational, communication, and computer (Microsoft Office) skills; ability to handle confidential information; previous housing assistance or social services experience preferred.",
-      "salary": "$40k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Santa Fe County, NM",
       "title": "Housing Specialist & Housing Specialist Senior",
       "location": "Santa Fe, New Mexico, United States",
@@ -246,19 +233,6 @@
       "date_posted": "2026-06-30T00:00:00.000Z",
       "description": "Provide housing case management for households experiencing or at-risk of homelessness; complete HMIS and empowOR data entry; obtain HMIS and HQS credentials; reliable transportation and valid driver’s license required.",
       "salary": "$38k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Vivent Health",
-      "title": "Housing Specialist",
-      "location": "Austin, Texas, United States",
-      "url": "https://recruiting2.ultipro.com/viv1002vivhe/JobBoard/47c9bc3a-8c84-4a15-a882-998936cd7f40/OpportunityDetail?opportunityId=341d4c64-3968-4f0c-9c59-84bc975b5b0b",
-      "direct_url": "https://recruiting2.ultipro.com/viv1002vivhe/JobBoard/47c9bc3a-8c84-4a15-a882-998936cd7f40/OpportunityDetail?opportunityId=341d4c64-3968-4f0c-9c59-84bc975b5b0b",
-      "date_posted": "2026-06-12T00:27:20.044Z",
-      "description": "Bachelor's degree required in social work, human services, public health, or related field; experience with housing programs, HMIS and Microsoft Office suite; strong communication, advocacy, and case management skills.",
-      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -511,6 +485,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "RH Community Builders",
       "title": "Housing Navigator - Ambassador BHBH",
       "location": "Fresno, California, United States",
@@ -680,6 +667,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Presbyterian Healthcare Services",
+      "title": "Community Health Worker",
+      "location": "Santa Fe or Española",
+      "url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
+      "direct_url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
+      "date_posted": "2026-06-30T00:00:00.000Z",
+      "description": "High school/GED required; CHW certification (Level II/III preferred) and 3 years community health experience preferred; ability to speak population language; comfortable with EPIC and Microsoft Office; experience with care navigation and community resource connection.",
+      "salary": "$38k–$57k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Hillsboro Medical Center",
       "title": "Community Health Worker",
       "location": "Hillsboro, Oregon, United States",
@@ -758,19 +758,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Benevolent Hearts Home Care - Bedford, TX",
-      "title": "Care Coordinator",
-      "location": "Bedford, Texas, United States",
-      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "date_posted": "2026-07-09T13:17:10.000Z",
-      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
-      "salary": "$42k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Jbfcs",
       "title": "Care Coordinator",
       "location": "Brooklyn, New York, United States",
@@ -784,14 +771,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Northwest Iowa Mental Health Center",
+      "company": "Benevolent Hearts Home Care - Bedford, TX",
       "title": "Care Coordinator",
-      "location": "Sheldon, Iowa, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248398",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4248398",
-      "date_posted": "2026-06-12T02:26:00.000Z",
-      "description": "Bachelor's degree in social work, human services, or related field required; care coordination experience preferred; active Iowa BSW preferred.",
-      "salary": "$46k–$54k/yr",
+      "location": "Bedford, Texas, United States",
+      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "date_posted": "2026-07-09T13:17:10.000Z",
+      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
+      "salary": "$42k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -823,19 +810,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Eventus WholeHealth",
-      "title": "Care Coordinator",
-      "location": "Charlotte or Raleigh or Chapel Hill or Concord or Durham",
-      "url": "https://eventus.rec.pro.ukg.net/eve1500evew/JobBoard/477175d5-314e-4f47-9310-11848f9cd31b/OpportunityDetail?opportunityId=53af9de1-4f11-4bfb-ae8d-951e279c8387",
-      "direct_url": "https://eventus.rec.pro.ukg.net/eve1500evew/JobBoard/477175d5-314e-4f47-9310-11848f9cd31b/OpportunityDetail?opportunityId=53af9de1-4f11-4bfb-ae8d-951e279c8387",
-      "date_posted": "2026-07-09T19:30:21.818Z",
-      "description": "LPN or certified MA with minimum 2 years LTC/ALF experience; care coordination experience; competency with Excel, PCC and Matrix; strong communication and geriatric knowledge.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Seniors Helping Seniors Provo Sandy",
       "title": "Care Coordinator",
       "location": "Lehi or Salt Lake County or Utah County",
@@ -849,14 +823,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Harris Center",
+      "company": "Eventus WholeHealth",
       "title": "Care Coordinator",
-      "location": "Pasadena, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "date_posted": "2026-07-10T17:53:29.731Z",
-      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
-      "salary": "$47k–$51k/yr",
+      "location": "Charlotte or Raleigh or Chapel Hill or Concord or Durham",
+      "url": "https://eventus.rec.pro.ukg.net/eve1500evew/JobBoard/477175d5-314e-4f47-9310-11848f9cd31b/OpportunityDetail?opportunityId=53af9de1-4f11-4bfb-ae8d-951e279c8387",
+      "direct_url": "https://eventus.rec.pro.ukg.net/eve1500evew/JobBoard/477175d5-314e-4f47-9310-11848f9cd31b/OpportunityDetail?opportunityId=53af9de1-4f11-4bfb-ae8d-951e279c8387",
+      "date_posted": "2026-07-09T19:30:21.818Z",
+      "description": "LPN or certified MA with minimum 2 years LTC/ALF experience; care coordination experience; competency with Excel, PCC and Matrix; strong communication and geriatric knowledge.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Kno'Qoti Native Wellness, Inc.",
+      "title": "Care Coordinator ",
+      "location": "Willows, California, United States",
+      "url": "https://knwi.bamboohr.com/careers/31",
+      "direct_url": "https://knwi.bamboohr.com/careers/31",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Provide culturally grounded care coordination and case management, connect clients to healthcare, behavioral health, housing, cultural healing, and community resources, and collaborate with tribal and community partners.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,14 +875,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kno'Qoti Native Wellness, Inc.",
-      "title": "Care Coordinator ",
-      "location": "Willows, California, United States",
-      "url": "https://knwi.bamboohr.com/careers/31",
-      "direct_url": "https://knwi.bamboohr.com/careers/31",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Provide culturally grounded care coordination and case management, connect clients to healthcare, behavioral health, housing, cultural healing, and community resources, and collaborate with tribal and community partners.",
-      "salary": "$52k–$58k/yr",
+      "company": "The Harris Center",
+      "title": "Care Coordinator",
+      "location": "Pasadena, Texas, United States",
+      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "date_posted": "2026-07-10T17:53:29.731Z",
+      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
+      "salary": "$47k–$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -914,19 +901,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BEEHIVE HOMES OF VERNAL",
-      "title": "Care Coordinator",
-      "location": "Vernal, Utah, United States",
-      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "date_posted": "2026-06-16T20:41:40.000Z",
-      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Peerstar LLC",
       "title": "Care Coordinator",
       "location": "Clifton, New Jersey, United States",
@@ -935,6 +909,19 @@
       "date_posted": "2026-06-19T00:00:00.000Z",
       "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
       "salary": "$55k–$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BEEHIVE HOMES OF VERNAL",
+      "title": "Care Coordinator",
+      "location": "Vernal, Utah, United States",
+      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
+      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
+      "date_posted": "2026-06-16T20:41:40.000Z",
+      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,19 +966,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Children's Specialized ABA",
-      "title": "CARE COORDINATOR",
-      "location": "Clark, New Jersey, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
-      "date_posted": "2026-06-15T14:48:27.000Z",
-      "description": "High school diploma or GED required (associate or bachelor’s preferred). 2 years intake/care coordination or 2 years ABA experience. Proficient with Microsoft Office; detail-oriented with strong verbal/written communication.",
-      "salary": "$55k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mango Home Health",
       "title": "Care Coordinator",
       "location": "Jackson, New Jersey, United States",
@@ -1000,6 +974,19 @@
       "date_posted": "2026-07-02T17:51:12.000Z",
       "description": "1–2 years care‑coordination or case‑management experience; valid driver’s license and reliable transportation; familiarity with EMR/CRM and Microsoft Office; certifications such as CMA/CNA/LPN/RN/social work welcome.",
       "salary": "$37k–$42k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Children's Specialized ABA",
+      "title": "CARE COORDINATOR",
+      "location": "Clark, New Jersey, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
+      "date_posted": "2026-06-15T14:48:27.000Z",
+      "description": "High school diploma or GED required (associate or bachelor’s preferred). 2 years intake/care coordination or 2 years ABA experience. Proficient with Microsoft Office; detail-oriented with strong verbal/written communication.",
+      "salary": "$55k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1202,27 +1189,27 @@
   ],
   "new_jobs": [
     {
-      "company": "Vista Maria",
-      "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Elevate Care Regency",
-      "title": "Social Services Coordinator",
-      "location": "Niles, Illinois, United States",
-      "url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "description": "Bachelor's degree in social work/psychology or equivalent experience; experience in social services preferred; strong communication, interpersonal, and organizational skills.",
-      "salary": "$52k/yr",
+      "company": "Presbyterian Healthcare Services",
+      "title": "Community Health Worker",
+      "location": "Santa Fe or Española",
+      "url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
+      "direct_url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
+      "date_posted": "2026-06-30T00:00:00.000Z",
+      "description": "High school/GED required; CHW certification (Level II/III preferred) and 3 years community health experience preferred; ability to speak population language; comfortable with EPIC and Microsoft Office; experience with care navigation and community resource connection.",
+      "salary": "$38k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
