@@ -1,14 +1,19 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-12 07:51 UTC*
+*Last updated: 2026-07-12 20:11 UTC*
 
-**2 new role(s)** since last run · 91 total in last 30d
+**3 new role(s)** since last run · 88 total in last 30d
 
-### [Housing Navigator](https://serenehealth.com/careers/?gh_jid=5171792007) — Serene Health
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $52k–$58k/yr
-- 🕒 **Posted:** 2026-06-23T23:53:52.000Z
+### [Housing Specialist](https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1) — Min
+- 📍 **Location:** New York, New York, United States
+- 💰 **Salary:** $48k/yr
+- 🕒 **Posted:** 2026-07-02T04:00:00.000Z
 
-### [Community Health Worker](https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929) — Presbyterian Healthcare Services
-- 📍 **Location:** Santa Fe or Española
-- 💰 **Salary:** $38k–$57k/yr
-- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
+### [Housing Navigator ](https://titaniumhealthcare.bamboohr.com/careers/680) — Titanium Healthcare
+- 📍 **Location:** San Luis Obispo, California, United States
+- 💰 **Salary:** $44k–$52k/yr
+- 🕒 **Posted:** 2026-06-17T00:00:00.000Z
+
+### [Care Coordinator ](https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364) — Pcscco
+- 📍 **Location:** Rochester, New York, United States
+- 💰 **Salary:** $50k/yr
+- 🕒 **Posted:** 2026-07-12T04:00:00.000Z
