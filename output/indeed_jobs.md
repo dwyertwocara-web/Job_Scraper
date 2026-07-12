@@ -1,14 +1,18 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-12 07:20 UTC*
+*Last updated: 2026-07-12 18:43 UTC*
 
-**2 new role(s)** since last run · 12 total in last 24h
+**3 new role(s)** since last run · 5 total in last 24h
 
-### [Housing Navigator - Bilingual Preferred (Russian/Farsi/Spanish)](https://www.indeed.com/viewjob?jk=13f50344d35084bc) — Elica Health Centers
-- 📍 **Location:** North Highlands, CA, US
-- 💰 **Salary:** $25–$27/hr
-- 🕒 **Posted:** 2026-07-11
-
-### [Patient Care Coordinator — Golden State Hearing Aid Center](https://www.indeed.com/viewjob?jk=c9e39ef633c7f7c2) — Golden State Hearing Aid Center
-- 📍 **Location:** Modesto, CA, US
-- 💰 **Salary:** $22–$26/hr
+### [Senior Program Coordinator — Homelessness & Coordinated Care](https://www.indeed.com/viewjob?jk=92c280945b9160fd) — Marin County, CA
+- 📍 **Location:** San Rafael, CA, US
+- 💰 **Salary:** $106k–$129k/yr
 - 🕒 **Posted:** 2026-07-12
+
+### [RN Care Coordinator ($3,100/week)](https://www.indeed.com/viewjob?jk=c835222f46e71f93) — Learn Beyond Consulting
+- 📍 **Location:** Chico, CA, US
+- 💰 **Salary:** $2800–$3100/wk
+- 🕒 **Posted:** 2026-07-12
+
+### [Strategic Learning Program Coordinator (5144C), Student Learning Center 87441](https://www.indeed.com/viewjob?jk=fd204a407f7a0b71) — University of California Berkeley
+- 📍 **Location:** Berkeley, CA, US
+- 🕒 **Posted:** 2026-07-11
