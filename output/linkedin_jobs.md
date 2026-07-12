@@ -1,76 +1,72 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-12 00:26 UTC*
+*Last updated: 2026-07-12 07:48 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Care Manager MSW Full-time Day](https://www.linkedin.com/jobs/view/4438950754/) — Providence
-- 📍 **Location:** Mission Viejo, CA
-- 💰 **Salary:** $38.56/hr - $59.88/hr
+### [Case Manager, RN &#8211; Pre Access](https://www.linkedin.com/jobs/view/4437205731/) — Working Nurse
+- 📍 **Location:** Santa Clarita, CA
+- 💰 **Salary:** $51.31 to $78.76
 - 🕒 **Posted:** 2026-07-12
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439599169/) — val's services
-- 📍 **Location:** East Alton, IL
+### [Case Manager- July Job Fair Event](https://www.linkedin.com/jobs/view/4438967779/) — Regional Center of the East Bay
+- 📍 **Location:** San Leandro, CA
+- 💰 **Salary:** $2,621.57 - $3,873.25
 - 🕒 **Posted:** 2026-07-12
 
-### [Patient Care Coordinator/Medical Assistant](https://www.linkedin.com/jobs/view/4439584754/) — val's services
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $20-$24 per hour
-- 🕒 **Posted:** 2026-07-12
-
-### [Patient Care Manager (RN) - Home Health](https://www.linkedin.com/jobs/view/4438948980/) — Proforma Health
-- 📍 **Location:** Manor, TX
-- 🕒 **Posted:** 2026-07-12
-
-### [LPN Medication Care Manager – Senior Living](https://www.linkedin.com/jobs/view/4438963125/) — Health Marketing
-- 📍 **Location:** River Forest, IL
-- 🕒 **Posted:** 2026-07-12
-
-### [RN Care Manager](https://www.linkedin.com/jobs/view/4438953308/) — Aura Health
-- 📍 **Location:** Olympia, WA
-- 🕒 **Posted:** 2026-07-12
-
-### [Patient Care Manager (RN) - Home Health](https://www.linkedin.com/jobs/view/4438951675/) — Personal Touch Home Health Care Services Inc.
-- 📍 **Location:** Pflugerville, TX
-- 🕒 **Posted:** 2026-07-12
-
-### [Patient Care Manager (RN) – Home Health](https://www.linkedin.com/jobs/view/4438953440/) — The VIOS Clinic
-- 📍 **Location:** Del Valle, TX
-- 🕒 **Posted:** 2026-07-12
-
-### [Medication Care Manager – Senior Living](https://www.linkedin.com/jobs/view/4438939979/) — AccessHealth
-- 📍 **Location:** Westwood, NJ
-- 🕒 **Posted:** 2026-07-12
-
-### [Patient Care Manager (RN) – Home Health](https://www.linkedin.com/jobs/view/4438964218/) — Cherry Hill Free Clinic
-- 📍 **Location:** Manor, TX
-- 🕒 **Posted:** 2026-07-12
-
-### [Program Specialist III](https://www.linkedin.com/jobs/view/4436687290/) — Research Compliance Office at the Texas A&M University System
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-07-12
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439587517/) — Workday Talent Hub
-- 📍 **Location:** Oak Lawn, IL
-- 🕒 **Posted:** 2026-07-12
-
-### [Full-Time Nursing / Healthcare Coordinator](https://www.linkedin.com/jobs/view/4438959274/) — Cherry Hill Free Clinic
-- 📍 **Location:** Gahanna, OH
-- 🕒 **Posted:** 2026-07-12
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439582741/) — AEG Vision
-- 📍 **Location:** Humble, TX
-- 🕒 **Posted:** 2026-07-11
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439580841/) — AEG Vision
-- 📍 **Location:** Columbia, SC
-- 🕒 **Posted:** 2026-07-11
-
-### [Virtual Care Coordinator-Works onsite at 42nd st Clinical Command Center- FT- N EOW](https://www.linkedin.com/jobs/view/4435239939/) — Mount Sinai Health System
+### [Housing Specialist (Monument)](https://www.linkedin.com/jobs/view/4408728228/) — Goddard Riverside
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $66482.07 - $72467
-- 🕒 **Posted:** 2026-07-11
+- 💰 **Salary:** $43,000.00/yr - $50,000.00/yr
+- 🕒 **Posted:** 2026-07-12
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4438949672/) — Child & Family Support Services, Inc
-- 📍 **Location:** Prescott Valley, AZ
-- 💰 **Salary:** $21.00/hr - $23.00/hr
-- 🕒 **Posted:** 2026-07-11
+### [Case Manager (Hillside)](https://www.linkedin.com/jobs/view/4404344142/) — Goddard Riverside
+- 📍 **Location:** Queens, NY
+- 💰 **Salary:** $43,000.00/yr - $50,000.00/yr
+- 🕒 **Posted:** 2026-07-12
+
+### [Case Manager I](https://www.linkedin.com/jobs/view/4439711469/) — University of Maryland Medical System
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-07-12
+
+### [Case Manager (Baxter)](https://www.linkedin.com/jobs/view/4399432582/) — Goddard Riverside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $40,207.00/yr - $47,000.00/yr
+- 🕒 **Posted:** 2026-07-12
+
+### [Case Manager (The Monument)](https://www.linkedin.com/jobs/view/4399433554/) — Goddard Riverside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $45,000.00/yr - $50,000.00/yr
+- 🕒 **Posted:** 2026-07-12
+
+### [Public Health Coordinator - Jefferson County Department of Health](https://www.linkedin.com/jobs/view/4438975486/) — Personnel Board of Jefferson County
+- 📍 **Location:** Greater Birmingham, Alabama Area
+- 💰 **Salary:** $65,228 - $101,192
+- 🕒 **Posted:** 2026-07-12
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4439718019/) — TEKsystems
+- 📍 **Location:** Livonia, MI
+- 💰 **Salary:** $18.25 - $22.00/hr
+- 🕒 **Posted:** 2026-07-12
+
+### [TMS & Mental Health Care Coordinator - Outpatient](https://www.linkedin.com/jobs/view/4437202775/) — Discovery Behavioral Health
+- 📍 **Location:** Magnolia, TX
+- 💰 **Salary:** $21.00/yr - $26.00/yr
+- 🕒 **Posted:** 2026-07-12
+
+### [Bilingual Case Manager (Manhattanville/Resource Center)](https://www.linkedin.com/jobs/view/4411217281/) — Goddard Riverside
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $41,000.00/yr - $45,000.00/yr
+- 🕒 **Posted:** 2026-07-12
+
+### [RN-Care Coordinator](https://www.linkedin.com/jobs/view/4439723161/) — Reid Health
+- 📍 **Location:** Connersville, IN
+- 🕒 **Posted:** 2026-07-12
+
+### [Public Health Coordinator - Jefferson County Department of Health](https://www.linkedin.com/jobs/view/4438961985/) — Personnel Board of Jefferson County
+- 📍 **Location:** Greater Birmingham, Alabama Area
+- 💰 **Salary:** $65,228 - $101,192
+- 🕒 **Posted:** 2026-07-12
+
+### [Senior FMS Program Manager](https://www.linkedin.com/jobs/view/4438986093/) — Sumaria Systems, LLC
+- 📍 **Location:** Bedford, MA
+- 💰 **Salary:** $140K-$150K Annually
+- 🕒 **Posted:** 2026-07-12
