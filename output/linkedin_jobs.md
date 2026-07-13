@@ -1,127 +1,115 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-13 08:47 UTC*
+*Last updated: 2026-07-13 10:52 UTC*
 
-**27 new role(s)** since last run · 27 total in last 1h
+**25 new role(s)** since last run · 25 total in last 1h
 
-### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4437302344/) — Crossover
+### [Program Manager](https://www.linkedin.com/jobs/view/4439155400/) — US Army Corps of Engineers
+- 📍 **Location:** Sacramento, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Literacy Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4437312107/) — Crossover
 - 📍 **Location:** San Francisco, CA
 - 💰 **Salary:** $60.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-07-13
 
-### [Business Operations Program Manager (Global)](https://www.linkedin.com/jobs/view/4437240747/) — Bullpen Capital
-- 📍 **Location:** Mather, CA
-- 💰 **Salary:** $35,000-45,000
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4437090987/) — Crossover
+- 📍 **Location:** Beverly Hills, CA
+- 💰 **Salary:** $60.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-07-13
 
-### [McCann Treatment Center Program Coordinator](https://www.linkedin.com/jobs/view/4439781950/) — Yukon-Kuskokwim Health Corporation
-- 📍 **Location:** Bethel, AK
+### [Program Manager – forensic mental health](https://www.linkedin.com/jobs/view/4439117004/) — Liberty Healthcare Corporation
+- 📍 **Location:** Santee, CA
 - 🕒 **Posted:** 2026-07-13
 
-### [Regional Client Care Manager](https://www.linkedin.com/jobs/view/4438509246/) — American Red Cross
-- 📍 **Location:** Wilmington, NC
-- 🕒 **Posted:** 2026-07-13
-
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4440005197/) — Interim HealthCare Inc.
-- 📍 **Location:** Greenville, SC
-- 💰 **Salary:** $18.00/hr - $19.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4439703306/) — Specialized Education Services, Inc.
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** USD $48,200.00 - USD $63,000.00 /Yr
-- 🕒 **Posted:** 2026-07-13
-
-### [Care Manager (RN) - Regional Hospital Float, System Staffing Office](https://www.linkedin.com/jobs/view/4439132777/) — Dartmouth Health
-- 📍 **Location:** Lebanon, NH
-- 🕒 **Posted:** 2026-07-13
-
-### [Home Health Care Manager](https://www.linkedin.com/jobs/view/4439139653/) — Prime
-- 📍 **Location:** Olympia Fields, IL
-- 💰 **Salary:** $96,720.00 to $130,790.00
-- 🕒 **Posted:** 2026-07-13
-
-### [Case Manager (RN Required ) in Espanola, NM](https://www.linkedin.com/jobs/view/4439135651/) — United Energy Workers Healthcare
-- 📍 **Location:** Espanola, NM
-- 💰 **Salary:** USD $45.00 - USD $50.00 /Hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Ambulatory Clinic RN Care Coordinator - Breast Surgery Oncology](https://www.linkedin.com/jobs/view/4439795558/) — Live Well Homecare
-- 📍 **Location:** Overland Park, KS
-- 🕒 **Posted:** 2026-07-13
-
-### [Community Outreach Coordinator - Unity World Headquarters](https://www.linkedin.com/jobs/view/4439140674/) — Christian Career Center
-- 📍 **Location:** Unity Village, MO
-- 🕒 **Posted:** 2026-07-13
-
-### [Program Manager (Scrum Master)](https://www.linkedin.com/jobs/view/4439138456/) — Jobgether
-- 📍 **Location:** United States
-- 💰 **Salary:** $60 - $70 USD per hour
-- 🕒 **Posted:** 2026-07-13
-
-### [Agile Project/Program Manager](https://www.linkedin.com/jobs/view/4439151124/) — Pinnacle Method Consulting
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-13
-
-### [Community Mitigation Program Coordinator (SO)](https://www.linkedin.com/jobs/view/4437246506/) — Jefferson County, Colorado
-- 📍 **Location:** Golden, CO
-- 💰 **Salary:** $32.25 to $48.37 per hour
-- 🕒 **Posted:** 2026-07-13
-
-### [PROGRAM MANAGER](https://www.linkedin.com/jobs/view/4439798580/) — Naval Air Warfare Center Training Systems Division (NAWCTSD)
-- 📍 **Location:** Patuxent River, MD
-- 🕒 **Posted:** 2026-07-13
-
-### [SUPERVISORY PROGRAM MANAGER](https://www.linkedin.com/jobs/view/4439799573/) — Naval Air Warfare Center Training Systems Division (NAWCTSD)
-- 📍 **Location:** Lakehurst, NJ
-- 🕒 **Posted:** 2026-07-13
-
-### [Entrepreneurship Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4437304315/) — Crossover
-- 📍 **Location:** Yonkers, NY
+### [Youth Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437091981/) — Crossover
+- 📍 **Location:** Piedmont, CA
 - 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-07-13
 
-### [Program Manager N.F.A.T.C. T.O.P.S. Support Services](https://www.linkedin.com/jobs/view/4439789648/) — Chi-Chack LLC
-- 📍 **Location:** Arlington, VA
+### [Business Operations Program Manager - Americas](https://www.linkedin.com/jobs/view/4411736309/) — Specialized Bicycle Components
+- 📍 **Location:** Morgan Hill, CA
+- 💰 **Salary:** $80,000 to $120,000 annually
 - 🕒 **Posted:** 2026-07-13
 
-### [Project Manager/Program Manager With Network Experience](https://www.linkedin.com/jobs/view/4439152118/) — Pinnacle Method Consulting
+### [Program Manager Revenue Integrity Compliance: Corporate Compliance](https://www.linkedin.com/jobs/view/4370898874/) — Hoag Health System
+- 📍 **Location:** Costa Mesa, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Technical Program Manager II, Electrical Engineering, Wearables](https://www.linkedin.com/jobs/view/4439149911/) — Google
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $138000 - $198000
+- 🕒 **Posted:** 2026-07-13
+
+### [Technical Program Manager, PMO AI & Product Software (Contract)](https://www.linkedin.com/jobs/view/4365262086/) — Zoox
+- 📍 **Location:** Foster City, CA
+- 🕒 **Posted:** 2026-07-13
+
+### [Senior UX Program Manager, Google Home and Nest](https://www.linkedin.com/jobs/view/4439162285/) — Google
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $159000 - $231000
+- 🕒 **Posted:** 2026-07-13
+
+### [Housing Specialist](https://www.linkedin.com/jobs/view/4412197009/) — Jewish Board of Family and Children's Services
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-13
+
+### [Patient Care Program Coordinator, Neuroscience Clinic](https://www.linkedin.com/jobs/view/4439154389/) — Tennessee Dementia ECHO
+- 📍 **Location:** Nashville, TN
+- 🕒 **Posted:** 2026-07-13
+
+### [Patient Care Program Coordinator, Neuroscience Clinic](https://www.linkedin.com/jobs/view/4437273202/) — Vanderbilt University Medical Center
+- 📍 **Location:** Nashville Metropolitan Area
+- 🕒 **Posted:** 2026-07-13
+
+### [College Leadership Program Coordinator](https://www.linkedin.com/jobs/view/4329734528/) — Harlem Children's Zone
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Data Analyst -Remote](https://www.linkedin.com/jobs/view/4439151525/) — RemoteHunter
 - 📍 **Location:** United States
+- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-07-13
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4439740706/) — Kestra Financial
-- 📍 **Location:** Austin, TX
+### [Medication Assisted Treatment Case Manager](https://www.linkedin.com/jobs/view/4342981800/) — Cherokee Indian Hospital
+- 📍 **Location:** Cherokee, NC
 - 🕒 **Posted:** 2026-07-13
 
-### [Youth Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437096801/) — Crossover
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [Care Manager SNP- PEAK](https://www.linkedin.com/jobs/view/4436636248/) — Peak Health
+- 📍 **Location:** Core, WV
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4437250581/) — Haystack
-- 📍 **Location:** Madison, WI
+### [RN Stroke Program Coordinator - Neuro - Full-Time](https://www.linkedin.com/jobs/view/4346635537/) — Erlanger
+- 📍 **Location:** Chattanooga, TN
 - 🕒 **Posted:** 2026-07-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4437249629/) — Haystack
-- 📍 **Location:** Olympia, WA
-- 💰 **Salary:** $95,676.00/yr - $128,688.00/yr
+### [Clinical Care Manager](https://www.linkedin.com/jobs/view/4403493948/) — Cherokee Indian Hospital
+- 📍 **Location:** Cherokee, NC
 - 🕒 **Posted:** 2026-07-13
 
-### [Youth Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437303328/) — Crossover
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $100.00/hr - $100.00/hr
+### [Assistant Program Manager- Female Only](https://www.linkedin.com/jobs/view/4440009316/) — Advocates
+- 📍 **Location:** Leominster, MA
 - 🕒 **Posted:** 2026-07-13
 
-### [Education Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4437312092/) — Crossover
+### [RN Case Manager, Home Health FT w/ Excellent Benefit Package](https://www.linkedin.com/jobs/view/4439794908/) — JobsInMass.com
+- 📍 **Location:** Fall River, MA
+- 💰 **Salary:** $38.95 - $47.91 per hour
+- 🕒 **Posted:** 2026-07-13
+
+### [Human Resource Specialist (Drug Free Workplace Program Specialist)](https://www.linkedin.com/jobs/view/4439161199/) — U.S. Customs and Border Protection
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $70,623.00/yr - $111,087.00/yr
+- 🕒 **Posted:** 2026-07-13
+
+### [Environmental Monitoring Program Manager I](https://www.linkedin.com/jobs/view/4439160410/) — City of Salem
+- 📍 **Location:** Salem, OR
+- 🕒 **Posted:** 2026-07-13
+
+### [Coordinator I (Program Coordinator)](https://www.linkedin.com/jobs/view/4440008620/) — Harvard T.H. Chan School of Public Health
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-07-13
 
-### [Accelerator Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4437092928/) — Crossover
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $100.00/hr - $100.00/hr
-- 🕒 **Posted:** 2026-07-13
-
-### [Clinical Research Assistant/Interviewer - French - 138207](https://www.linkedin.com/jobs/view/4439137640/) — UC San Diego Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $34.58 - $38.93
+### [Genetic Counseling Assistant / Clinical Research Assistant](https://www.linkedin.com/jobs/view/4439156275/) — Northwell Health
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $39,290-$59,800/year
 - 🕒 **Posted:** 2026-07-13
