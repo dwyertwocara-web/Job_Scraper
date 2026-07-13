@@ -1,14 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-07-12 09:45 UTC*
+*Last updated: 2026-07-13 11:04 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Case Manager Continuing Care Coord RN](https://www.linkedin.com/jobs/view/4438932190/) — Kaiser Permanente
-- 📍 **Location:** Tustin, CA
-- 💰 **Salary:** $64.74/hr - $79.23/hr
-- 🕒 **Posted:** 2026-07-11
-
-### [Case Manager Utilization RN, 40/hr Day](https://www.linkedin.com/jobs/view/4438937042/) — Kaiser Permanente
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $64.74/hr - $79.23/hr
-- 🕒 **Posted:** 2026-07-11
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4438980601/) — Kaiser Permanente
+- 📍 **Location:** Glen Burnie, MD
+- 💰 **Salary:** $48.39/hr - $62.72/hr
+- 🕒 **Posted:** 2026-07-12
