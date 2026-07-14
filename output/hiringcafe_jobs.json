@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-14 07:25 UTC",
-  "total": 95,
-  "new_count": 5,
+  "scraped_at": "2026-07-14 20:43 UTC",
+  "total": 92,
+  "new_count": 2,
   "jobs": [
     {
       "company": "THE HOUSING AUTHORITY OF THE CITY OF COLORADO SPRINGS",
@@ -121,19 +121,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Min",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mount Rogers Community Services",
       "title": "Housing Specialist",
       "location": "United States",
@@ -147,6 +134,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Min",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-06-24T04:00:00.000Z",
+      "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
+      "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "The New York Foundling",
       "title": "Housing Specialist",
       "location": "Brooklyn, New York, United States",
@@ -155,19 +155,6 @@
       "date_posted": "2026-07-08T04:00:00.000Z",
       "description": "Bachelor's in social service field, minimum 2 years in social service or housing agency, knowledge of NYC youth housing options, strong communication, trauma-informed youth engagement, proficiency with Excel, Word, Teams, Outlook, PowerPoint, CONNXs, Care4, Evolv NX.",
       "salary": "$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Samaritan Daytop Village, Inc.",
-      "title": "Housing Specialist",
-      "location": "Staten Island, New York, United States",
-      "url": "https://careers-workforce1-edsi.icims.com/jobs/1494/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-workforce1-edsi.icims.com/jobs/1494/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-06T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing or real estate experience (NYC DHS or similar) preferred; case management/social services experience; knowledge of housing subsidies and entitlement programs; Microsoft Office and EHR experience; flexible schedule and ability to travel within NYC.",
-      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -238,14 +225,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
+      "company": "Min",
       "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
+      "location": "New York, New York, United States",
+      "url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-02T04:00:00.000Z",
+      "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
+      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -264,14 +251,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Min",
+      "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-sus.icims.com/jobs/18637/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
-      "salary": "$48k/yr",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -493,6 +480,19 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
       "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -784,19 +784,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
-      "title": "Care Coordinator",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
-      "salary": "$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Benevolent Hearts Home Care - Bedford, TX",
       "title": "Care Coordinator",
       "location": "Bedford, Texas, United States",
@@ -805,6 +792,19 @@
       "date_posted": "2026-07-09T13:17:10.000Z",
       "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
       "salary": "$42k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Care Coordinator",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "date_posted": "2026-07-02T04:00:00.000Z",
+      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
+      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Harris Center",
-      "title": "Care Coordinator",
-      "location": "Pasadena, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "date_posted": "2026-07-10T17:53:29.731Z",
-      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
-      "salary": "$47k–$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Phoebehealth",
       "title": "Care Coordinator",
       "location": "Albany, Georgia, United States",
@@ -914,14 +901,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Peerstar LLC",
+      "company": "Brightli",
       "title": "Care Coordinator",
-      "location": "Clifton, New Jersey, United States",
-      "url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
-      "salary": "$55k–$65k/yr",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -940,14 +927,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Brightli",
+      "company": "Peerstar LLC",
       "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
-      "salary": "",
+      "location": "Clifton, New Jersey, United States",
+      "url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-19T00:00:00.000Z",
+      "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
+      "salary": "$55k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,6 +966,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Richardson, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "date_posted": "2026-07-08T16:50:52.000Z",
+      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pcscco",
       "title": "Care Coordinator ",
       "location": "Rochester, New York, United States",
@@ -992,14 +992,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Innovista Medical Center Texas LLC",
-      "title": "Care Coordinator",
-      "location": "Richardson, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "date_posted": "2026-07-08T16:50:52.000Z",
-      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
-      "salary": "",
+      "company": "Children's Specialized ABA",
+      "title": "CARE COORDINATOR",
+      "location": "Clark, New Jersey, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
+      "date_posted": "2026-06-15T14:48:27.000Z",
+      "description": "High school diploma or GED required (associate or bachelor’s preferred). 2 years intake/care coordination or 2 years ABA experience. Proficient with Microsoft Office; detail-oriented with strong verbal/written communication.",
+      "salary": "$55k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1028,32 +1028,6 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Children's Specialized ABA",
-      "title": "CARE COORDINATOR",
-      "location": "Clark, New Jersey, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4253659",
-      "date_posted": "2026-06-15T14:48:27.000Z",
-      "description": "High school diploma or GED required (associate or bachelor’s preferred). 2 years intake/care coordination or 2 years ABA experience. Proficient with Microsoft Office; detail-oriented with strong verbal/written communication.",
-      "salary": "$55k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Gabbi, Inc.",
-      "title": "Care Coordinator",
-      "location": "United States",
-      "url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
-      "direct_url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
-      "date_posted": "2026-06-29T20:47:42.929Z",
-      "description": "1+ years in customer-facing, care coordination, or patient service role; tech-savvy; strong verbal/written communication, organization, empathy for sensitive moments, ability to manage multiple systems and own initiatives end-to-end.",
-      "salary": "$44k–$50k/yr",
-      "job_type": "Full Time, Contract",
-      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1148,19 +1122,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Housing Authority of the City of Los Angeles",
-      "title": "Program Development Coordinator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://www.governmentjobs.com/careers/hacla/jobs/5403124",
-      "direct_url": "https://www.governmentjobs.com/careers/hacla/jobs/5403124",
-      "date_posted": "2026-07-10T01:24:31.000Z",
-      "description": "Bachelor's degree and minimum 3 years progressive public/nonprofit program experience; research, data analysis, contract and grant writing, RFP development, and project planning skills; valid California driver’s license required.",
-      "salary": "$87k–$107k/yr",
-      "job_type": "Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Houston-Galveston Area Council",
       "title": "Senior Program Coordinator – Child Care Scholarships",
       "location": "Houston, Texas, United States",
@@ -1241,66 +1202,27 @@
   ],
   "new_jobs": [
     {
-      "company": "Vista Maria",
+      "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Path of Life Ministries",
-      "title": "Temp Housing Navigator",
-      "location": "Riverside, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "date_posted": "2026-07-13T18:25:52.000Z",
-      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Penn State Health",
-      "title": "Community Health Worker - Community Health",
-      "location": "Hershey, Pennsylvania, United States",
-      "url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
-      "direct_url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year community outreach experience, valid PA driver's license; CHW certification within 1 year preferred; bilingual English/Spanish preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Stockbridge Munsee Community",
-      "title": "Community Health Worker",
-      "location": "Bowler, Wisconsin, United States",
-      "url": "https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b",
-      "direct_url": "https://mohican.rec.pro.ukg.net/sto1014munse/JobBoard/24285ec7-5cae-43e8-aeb0-90052d681827/OpportunityDetail?opportunityId=35f25ed9-afbd-4103-ae02-3931ac5dd85b",
-      "date_posted": "2026-07-13T20:34:24.739Z",
-      "description": "High school/GED, valid Wisconsin driver’s license, ability to pass background/drug/health screening, experience with EHR preferred, strong oral/written communication, ability to work nights/weekends, and lift up to 25 lbs.",
-      "salary": "$37k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brattleboro Memorial Hospital",
-      "title": "CARE COORDINATOR",
-      "location": "Brattleboro, Vermont, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
-      "date_posted": "2026-07-13T17:39:32.000Z",
-      "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
-      "salary": "$52k–$69k/yr",
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
