@@ -1,302 +1,285 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-15 19:03 UTC*
+*Last updated: 2026-07-15 20:06 UTC*
 
-**66 new role(s)** since last run · 66 total in last 1h
+**63 new role(s)** since last run · 79 total in last 1h
 
-### [BHRS Program Coordinator](https://www.linkedin.com/jobs/view/4430119525/) — Merced County
-- 📍 **Location:** Merced, CA
+### [RN - Case Manager](https://www.linkedin.com/jobs/view/4441242467/) — YoloCares
+- 📍 **Location:** Greater Sacramento
+- 💰 **Salary:** $114,000 - $124,800 annually
 - 🕒 **Posted:** 2026-07-15
 
-### [Community Health Worker I](https://www.linkedin.com/jobs/view/4441244050/) — Children's Hospital Los Angeles (CHLA)
-- 📍 **Location:** Los Angeles, CA
+### [Community Program Coordinator (Richmond & Pullman)](https://www.linkedin.com/jobs/view/4441241613/) — Project Access
+- 📍 **Location:** Richmond, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Bilingual Spanish Sr. Community Health Worker (Riverside)](https://www.linkedin.com/jobs/view/4419635916/) — SCAN
-- 📍 **Location:** Riverside, CA
-- 💰 **Salary:** $25.38 to $35.01 per hour
+### [Community Program Coordinator (Richmond & Pullman)](https://www.linkedin.com/jobs/view/4441253327/) — Project Access
+- 📍 **Location:** Richmond, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4441222603/) — Hope Services
-- 📍 **Location:** Salinas, CA
-- 💰 **Salary:** $5,859.00 - $6,414.75 per month
+### [Senior Program Specialist-SCC Recycling Education (SCICON)](https://www.linkedin.com/jobs/view/4441243548/) — Community Services and Employment Training (CSET)
+- 📍 **Location:** Springville, CA
+- 💰 **Salary:** $21.36 – $22.11 per hour
 - 🕒 **Posted:** 2026-07-15
 
-### [Retreat Program Manager](https://www.linkedin.com/jobs/view/4440263035/) — Occidental Arts & Ecology Center
-- 📍 **Location:** Occidental, CA
+### [ABA Case Manager](https://www.linkedin.com/jobs/view/4441250302/) — Positive Behavior Steps
+- 📍 **Location:** Glendora, CA
+- 💰 **Salary:** $27.00-$30.00 /per
 - 🕒 **Posted:** 2026-07-15
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4441235195/) — PDS Health
-- 📍 **Location:** Oceanside, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [ABA Case Manager](https://www.linkedin.com/jobs/view/4441240487/) — Positive Behavior Steps
+- 📍 **Location:** Covina, CA
+- 💰 **Salary:** $27.00-$30.00 /per
 - 🕒 **Posted:** 2026-07-15
 
-### [Behavioral Health & Recovery Services Program Manager](https://www.linkedin.com/jobs/view/4430125455/) — Merced County
-- 📍 **Location:** Merced, CA
+### [RN Case Manager, Hospice (Bilingual Spanish & English )](https://www.linkedin.com/jobs/view/4441242593/) — Commonwealth Senior Living
+- 📍 **Location:** Ventura, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [ICMS Case Manager - Villa Vanowen](https://www.linkedin.com/jobs/view/4438433015/) — The People Concern
-- 📍 **Location:** Los Angeles, CA
+### [Case Manager, Compass Urgent Accommodation Vouchers (afternoon/evening shift)](https://www.linkedin.com/jobs/view/4438810593/) — Compass Family Services
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $29 - $31 per hour
 - 🕒 **Posted:** 2026-07-15
 
-### [ICMS Case Manager - Flower](https://www.linkedin.com/jobs/view/4438435001/) — The People Concern
-- 📍 **Location:** Los Angeles, CA
+### [Program Manager, TikTok Program Management Office](https://www.linkedin.com/jobs/view/4440266225/) — TikTok
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $132000 - $216000 annually
 - 🕒 **Posted:** 2026-07-15
 
-### [Bilingual Case Manager - Brine](https://www.linkedin.com/jobs/view/4438421364/) — The People Concern
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4440252532/) — Scion Staffing
-- 📍 **Location:** Rancho Cucamonga, CA
-- 💰 **Salary:** $100,000.00/yr - $120,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Community Engagement Coordinator](https://www.linkedin.com/jobs/view/4432413329/) — Dermalogica
-- 📍 **Location:** Carson, CA
-- 💰 **Salary:** $24 to $26 per hour
-- 🕒 **Posted:** 2026-07-15
-
-### [Assistant Program Manager, ABAG POWER](https://www.linkedin.com/jobs/view/4441240307/) — TalentAlly
-- 📍 **Location:** San Francisco Bay Area
-- 🕒 **Posted:** 2026-07-15
-
-### [HEALTH PROGRAM SPECIALIST I JC-524878](https://www.linkedin.com/jobs/view/4440252407/) — California Department of Public Health
-- 📍 **Location:** Contra Costa County, CA
-- 💰 **Salary:** $6,623.00/mo - $8,290.00/mo
-- 🕒 **Posted:** 2026-07-15
-
-### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4438422319/) — Vector-Borne Diseases Hub
+### [Project/Program Manager II : 26-02032](https://www.linkedin.com/jobs/view/4441232921/) — Akraya, Inc.
 - 📍 **Location:** California, United States
+- 💰 **Salary:** $55 - $60
 - 🕒 **Posted:** 2026-07-15
 
-### [Medicare Enrollment Support Program Coordinator - REMOTE](https://www.linkedin.com/jobs/view/4438408824/) — ForHealth Consulting at UMass Chan Medical School
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $45,000.00/yr - $54,000.00/yr
+### [Engagement PMM Program Manager](https://www.linkedin.com/jobs/view/4438405543/) — Ursus, Inc.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $56.00/hr - $66.90/hr
 - 🕒 **Posted:** 2026-07-15
 
-### [Community Health Worker (SDoH) *Eastern Shore MD](https://www.linkedin.com/jobs/view/4440367078/) — Maryland Physicians Care
-- 📍 **Location:** Cumberland, MD
+### [Employer Brand Program Manager](https://www.linkedin.com/jobs/view/4440265321/) — Adyen
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $120,000-$155,000
 - 🕒 **Posted:** 2026-07-15
 
-### [Field Based Clinical Care Coordinator - Allen County, IN](https://www.linkedin.com/jobs/view/4440246902/) — UnitedHealth Group
-- 📍 **Location:** Fort Wayne, IN
-- 💰 **Salary:** $29 - $52 per hour
+### [AI Evangelist - Program Manager](https://www.linkedin.com/jobs/view/4422631481/) — Axon
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $147,675 USD - $236,280 USD
 - 🕒 **Posted:** 2026-07-15
 
-### [Case Manager BSW](https://www.linkedin.com/jobs/view/4438416737/) — Novant Health
-- 📍 **Location:** Wilmington, NC
+### [Case Manager-St. Helena-CA--Pay Negotiable](https://www.linkedin.com/jobs/view/4441231998/) — Talented Medical Solutions
+- 📍 **Location:** St Helena, CA
 - 🕒 **Posted:** 2026-07-15
 
-### [Case Management Care Coordinator | Case Management | Day | Full-Time](https://www.linkedin.com/jobs/view/4440595522/) — UF Health Central Florida
-- 📍 **Location:** Leesburg, FL
+### [External Engagement Program Manager, Learning and Education](https://www.linkedin.com/jobs/view/4440248984/) — Google
+- 📍 **Location:** Mountain View, CA
+- 💰 **Salary:** $150000 - $218000
 - 🕒 **Posted:** 2026-07-15
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4441219982/) — Caring for Family of Companies
-- 📍 **Location:** Medford, OR
-- 💰 **Salary:** $55,000 - $65,000
+### [Clinical Case Manager (Housing) - Department 800](https://www.linkedin.com/jobs/view/4441236845/) — Bridgewell
+- 📍 **Location:** Lynn, MA
 - 🕒 **Posted:** 2026-07-15
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4441235292/) — Caring for Family of Companies
-- 📍 **Location:** Lincoln City, OR
-- 💰 **Salary:** $55,000 - $70,000
+### [Housing Coordinator](https://www.linkedin.com/jobs/view/4441236762/) — Community Reach Center
+- 📍 **Location:** Brighton, CO
+- 💰 **Salary:** $23.50 - $27.00 per hour
 - 🕒 **Posted:** 2026-07-15
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4432435081/) — Sound to Summit Physical Therapy
-- 📍 **Location:** Mount Vernon, WA
-- 💰 **Salary:** $18—$20 USD
+### [Case Manager](https://www.linkedin.com/jobs/view/4441243576/) — Call to Freedom
+- 📍 **Location:** Sioux Falls, SD
 - 🕒 **Posted:** 2026-07-15
 
-### [Energy Efficiency Program Coordinator](https://www.linkedin.com/jobs/view/4441222804/) — Resource Innovations
-- 📍 **Location:** Pennsylvania, United States
-- 💰 **Salary:** $40,000-$50,000
+### [Case Manager](https://www.linkedin.com/jobs/view/4441252158/) — Utah Community Action
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-07-15
 
-### [Community Health Worker- Joplin](https://www.linkedin.com/jobs/view/4438420257/) — Mercy Hospital St. Louis Critical Care Medicine Fellowship
-- 📍 **Location:** Joplin, MO
+### [Money Management Case Manager](https://www.linkedin.com/jobs/view/4440269428/) — Catholic Charities, Diocese of Joliet
+- 📍 **Location:** Kankakee, IL
 - 🕒 **Posted:** 2026-07-15
 
-### [Community Health Worker (SDoH) *Baltimore](https://www.linkedin.com/jobs/view/4440366070/) — Maryland Physicians Care
-- 📍 **Location:** Baltimore, MD
+### [Talent Network Coordinator (Program Coordinator)](https://www.linkedin.com/jobs/view/4441234884/) — City of Charlottesville
+- 📍 **Location:** Charlottesville, VA
+- 💰 **Salary:** $65,757.80 - $79,182.91 Annually
 - 🕒 **Posted:** 2026-07-15
 
-### [Community Health Worker](https://www.linkedin.com/jobs/view/4441223883/) — The Harris Center for Mental Health and IDD
-- 📍 **Location:** Houston, TX
+### [Outreach Case Manager](https://www.linkedin.com/jobs/view/4441240686/) — Call to Freedom
+- 📍 **Location:** Sioux Falls, SD
+- 💰 **Salary:** $18–$23 per hour
 - 🕒 **Posted:** 2026-07-15
 
-### [Community Services Coordinator](https://www.linkedin.com/jobs/view/4440259326/) — UnitedHealth Group
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $18 to $32 annually
-- 🕒 **Posted:** 2026-07-15
-
-### [Care Coordinator- West Village/Downtown Manhattan](https://www.linkedin.com/jobs/view/4413131898/) — Spear Physical Therapy
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $18.00/hr - $18.00/hr
-- 🕒 **Posted:** 2026-07-15
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4432423346/) — PINN | Peoples Injury Network Northwest
-- 📍 **Location:** Kent, WA
-- 💰 **Salary:** $18—$22 USD
-- 🕒 **Posted:** 2026-07-15
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4432487105/) — PDS Health
-- 📍 **Location:** Katy, TX
-- 💰 **Salary:** $15.75/hr - $22.00/hr
-- 🕒 **Posted:** 2026-07-15
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4421870442/) — PDS Health
-- 📍 **Location:** Winter Park, FL
-- 💰 **Salary:** $16.50/hr - $23.00/hr
-- 🕒 **Posted:** 2026-07-15
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4432472784/) — PDS Health
-- 📍 **Location:** Sheridan, CO
-- 💰 **Salary:** $19.75/hr - $28.00/hr
-- 🕒 **Posted:** 2026-07-15
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4432432146/) — BenchMark Physical Therapy
-- 📍 **Location:** Auburn, AL
-- 🕒 **Posted:** 2026-07-15
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4432476263/) — PDS Health
+### [Supportive Housing Specialist](https://www.linkedin.com/jobs/view/4441249227/) — HopeLink Behavioral Health
 - 📍 **Location:** Fairfax, VA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
 - 🕒 **Posted:** 2026-07-15
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4440251343/) — Keplr Vision
-- 📍 **Location:** Albuquerque-Santa Fe Metropolitan Area
+### [Care Manager (Hybrid-Remote)](https://www.linkedin.com/jobs/view/4440268551/) — AltaPointe Health Systems
+- 📍 **Location:** Sylacauga, AL
 - 🕒 **Posted:** 2026-07-15
 
-### [Case Manager III](https://www.linkedin.com/jobs/view/4441219570/) — Medica
-- 📍 **Location:** United States
-- 💰 **Salary:** $72,100 - $123,600
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4441245290/) — 1st Choice Healthcare
+- 📍 **Location:** Corning, AR
 - 🕒 **Posted:** 2026-07-15
 
-### [Case Manager- Columbia](https://www.linkedin.com/jobs/view/4440238958/) — State of South Carolina
-- 📍 **Location:** Columbia, SC
-- 🕒 **Posted:** 2026-07-15
-
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4441233262/) — VISITING NURSE HOME CARE & HOSPICE OF CARROLL COUNTY AND WESTERN MAINE
-- 📍 **Location:** North Conway, NH
-- 🕒 **Posted:** 2026-07-15
-
-### [CHOICES Care Coordinator- Shelby County](https://www.linkedin.com/jobs/view/4441239191/) — BlueCross BlueShield of Tennessee
-- 📍 **Location:** Memphis, TN
-- 🕒 **Posted:** 2026-07-15
-
-### [SY26 -27 Anticipated Case Manager](https://www.linkedin.com/jobs/view/4440253625/) — Chicago Public Schools
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $64,469.94 to $82,839.39
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Coordinator, Political Science - Emory College of Arts and Sciences](https://www.linkedin.com/jobs/view/4438421339/) — Emory University
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-07-15
-
-### [Project/Program Manager - Aviation](https://www.linkedin.com/jobs/view/4239629298/) — STV
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $143,435.23 - $163,925.98
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Manager / Project Manager](https://www.linkedin.com/jobs/view/4440244938/) — Infotree Global Solutions
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $155,000.00/yr - $170,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4440247966/) — Waukesha Metal Products
-- 📍 **Location:** Sussex, WI
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Manager, IPS Proposal Support](https://www.linkedin.com/jobs/view/4422667278/) — General Atomics Aeronautical Systems
-- 📍 **Location:** Poway, CA
-- 💰 **Salary:** $112,320 - $205,058
-- 🕒 **Posted:** 2026-07-15
-
-### [Project/Program Manager - Aviation](https://www.linkedin.com/jobs/view/4239621611/) — STV
-- 📍 **Location:** Newark, NJ
-- 💰 **Salary:** $143,435.23 - $163,925.98
-- 🕒 **Posted:** 2026-07-15
-
-### [ReNew Woman's Advocacy Case Manager](https://www.linkedin.com/jobs/view/4403854698/) — Bethany Christian Services
-- 📍 **Location:** Rapid City, SD
-- 🕒 **Posted:** 2026-07-15
-
-### [OB Care Manager](https://www.linkedin.com/jobs/view/4441217976/) — Maryland Physicians Care
-- 📍 **Location:** Linthicum, MD
-- 🕒 **Posted:** 2026-07-15
-
-### [Care Coordinator Manager](https://www.linkedin.com/jobs/view/4438424232/) — University of Maryland Faculty Physicians
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $72,500.00/yr - $106,000.00/yr
-- 🕒 **Posted:** 2026-07-15
-
-### [Staff Development Coordinator LPN](https://www.linkedin.com/jobs/view/4441221893/) — Signature HealthCARE
-- 📍 **Location:** Jamestown, TN
-- 🕒 **Posted:** 2026-07-15
-
-### [RN Case Manager / RNCM (Home Health)](https://www.linkedin.com/jobs/view/4440831316/) — Mission Healthcare
-- 📍 **Location:** Reno, NV
-- 💰 **Salary:** $41 to $62 per hour
-- 🕒 **Posted:** 2026-07-15
-
-### [Community Engagement Coordinator](https://www.linkedin.com/jobs/view/4440265176/) — Citizens for Free Enterprise
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-07-15
-
-### [Health Data Coordinator III](https://www.linkedin.com/jobs/view/4441223800/) — University of Rochester Medicine
-- 📍 **Location:** Henrietta, NY
-- 💰 **Salary:** $20.30 - $27.41
-- 🕒 **Posted:** 2026-07-15
-
-### [Health Data Coordinator IV](https://www.linkedin.com/jobs/view/4441227729/) — University of Rochester Medicine
-- 📍 **Location:** Henrietta, NY
-- 💰 **Salary:** $20.93 - $28.26
-- 🕒 **Posted:** 2026-07-15
-
-### [Learning Program Coordinator](https://www.linkedin.com/jobs/view/4440259130/) — Adecco
-- 📍 **Location:** United States
-- 💰 **Salary:** $28.00/hr - $30.00/hr
-- 🕒 **Posted:** 2026-07-15
-
-### [Medical Education Program Specialist](https://www.linkedin.com/jobs/view/4438418616/) — Advocate Health Care
-- 📍 **Location:** Park Ridge, IL
-- 💰 **Salary:** $25.30/hr - $37.95/hr
-- 🕒 **Posted:** 2026-07-15
-
-### [Research Administration and Development Coordinator](https://www.linkedin.com/jobs/view/4440268167/) — Virginia Tech Academy of Data Science
-- 📍 **Location:** Blacksburg, VA
-- 💰 **Salary:** $60,000 - 65,000
-- 🕒 **Posted:** 2026-07-15
-
-### [Education Program Manager](https://www.linkedin.com/jobs/view/4441212896/) — FAMU National Alumni Association
-- 📍 **Location:** Lawrence, KS
-- 🕒 **Posted:** 2026-07-15
-
-### [Teen Health Program Coordinator](https://www.linkedin.com/jobs/view/4438407916/) — Navajo County
-- 📍 **Location:** Show Low, AZ
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Manager, Talent Succession & Mobility](https://www.linkedin.com/jobs/view/4430170011/) — WM
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4441239124/) — The Harris Center for Mental Health and IDD
 - 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-07-15
 
-### [AI Evangelist - Program Manager](https://www.linkedin.com/jobs/view/4422647325/) — Axon
-- 📍 **Location:** Seattle, WA
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4441243012/) — The Harris Center for Mental Health and IDD
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-07-15
 
-### [Research Assistant Scientist](https://www.linkedin.com/jobs/view/4440257148/) — CHEManager International
-- 📍 **Location:** Gainesville, FL
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4441237188/) — The Harris Center for Mental Health and IDD
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-07-15
 
-### [Clinical Research Assistant](https://www.linkedin.com/jobs/view/4441226704/) — One GI®
-- 📍 **Location:** Mentor, OH
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4441224827/) — The Harris Center for Mental Health and IDD
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-07-15
 
-### [Research Assistant (Reischauer Center)](https://www.linkedin.com/jobs/view/4440086068/) — The Johns Hopkins University
-- 📍 **Location:** District of Columbia, United States
-- 💰 **Salary:** $17.20 - $30.30
+### [Care Coordinator - Full-time](https://www.linkedin.com/jobs/view/4441230871/) — Care Advantage, Inc.
+- 📍 **Location:** Ashland, VA
 - 🕒 **Posted:** 2026-07-15
 
-### [PORTAL Research Assistant](https://www.linkedin.com/jobs/view/4441228987/) — Brigham and Women's Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $21.00 - $29.01/Hourly
+### [Case Manager (Human Services Case Manager)](https://www.linkedin.com/jobs/view/4441238831/) — Oregon Department of Human Services
+- 📍 **Location:** St Helens, OR
+- 💰 **Salary:** $5,193.00/mo - $6,904.00/mo
+- 🕒 **Posted:** 2026-07-15
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4440256910/) — AltaPointe Health Systems
+- 📍 **Location:** Roanoke, AL
+- 🕒 **Posted:** 2026-07-15
+
+### [Case Manager - Community-Based Services](https://www.linkedin.com/jobs/view/4441244431/) — CommQuest Services, Inc.
+- 📍 **Location:** Canton, OH
+- 🕒 **Posted:** 2026-07-15
+
+### [Lead Medical Case Manager](https://www.linkedin.com/jobs/view/4426991672/) — Positive Impact Health Centers
+- 📍 **Location:** Marietta, GA
+- 🕒 **Posted:** 2026-07-15
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4441231270/) — Embark Behavioral Health
+- 📍 **Location:** Rockville, MD
+- 💰 **Salary:** $26.45 to $28.85
+- 🕒 **Posted:** 2026-07-15
+
+### [DSNP RN Care Manager](https://www.linkedin.com/jobs/view/4434676236/) — Blue Cross & Blue Shield of Rhode Island
+- 📍 **Location:** Providence, RI
+- 💰 **Salary:** $73,600.00 - $110,400.00
+- 🕒 **Posted:** 2026-07-15
+
+### [Workers' Compensation Case Manager](https://www.linkedin.com/jobs/view/4440272134/) — Titus Talent Strategies
+- 📍 **Location:** White Plains, NY
+- 🕒 **Posted:** 2026-07-15
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4441241506/) — Specialty1 Partners
+- 📍 **Location:** Marietta, GA
+- 💰 **Salary:** $16 - $22 USD
+- 🕒 **Posted:** 2026-07-15
+
+### [URM FC Case Manager](https://www.linkedin.com/jobs/view/4432421819/) — Bethany Christian Services
+- 📍 **Location:** Jenkintown, PA
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4438413870/) — Turn2Partners
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $55,000.00/yr - $65,000.00/yr
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Manager, GreenLight Fund Denver](https://www.linkedin.com/jobs/view/4440248975/) — GreenLight Fund
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $95,000 - $98,300
+- 🕒 **Posted:** 2026-07-15
+
+### [Home Delivery Program Manager](https://www.linkedin.com/jobs/view/4441230962/) — Feeding Northeast Florida
+- 📍 **Location:** Jacksonville, FL
+- 🕒 **Posted:** 2026-07-15
+
+### [National Program Manager](https://www.linkedin.com/jobs/view/4440071412/) — Dignity Grows, Inc.
+- 📍 **Location:** Hartford, CT
+- 🕒 **Posted:** 2026-07-15
+
+### [Hemp Program Coordinator](https://www.linkedin.com/jobs/view/4440264402/) — Virginia Cannabis Control Authority
+- 📍 **Location:** Henrico, VA
+- 💰 **Salary:** $60608.00 to $98488.00
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4440253744/) — Fooda
+- 📍 **Location:** Temple, TX
+- 💰 **Salary:** $55,000- $70,000
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4441239222/) — Stride, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $55,068-$75,000
+- 🕒 **Posted:** 2026-07-15
+
+### [Deputy Program Manager (DPM)/Organizational Change Manager w/Top Secret Clearance](https://www.linkedin.com/jobs/view/4440262698/) — TekSynap
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $160,000 - $200,000
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4440256913/) — RemoteHunter
+- 📍 **Location:** United States
+- 💰 **Salary:** $135,200—$278,500 USD
+- 🕒 **Posted:** 2026-07-15
+
+### [Case Manager Supervisor](https://www.linkedin.com/jobs/view/4441238471/) — Wellspring Lutheran Services
+- 📍 **Location:** Gaylord, MI
+- 🕒 **Posted:** 2026-07-15
+
+### [DSP Program Manager](https://www.linkedin.com/jobs/view/4438415992/) — CHI
+- 📍 **Location:** Fargo, ND
+- 💰 **Salary:** $22.12 - $32.90 /hour
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Manager of Client Services](https://www.linkedin.com/jobs/view/4441253166/) — Rescue Mission Alliance of Syracuse, NY
+- 📍 **Location:** Syracuse, NY
+- 🕒 **Posted:** 2026-07-15
+
+### [Case Manager - Behavioral Health](https://www.linkedin.com/jobs/view/4435019091/) — Blue Cross & Blue Shield of Rhode Island
+- 📍 **Location:** Providence, RI
+- 💰 **Salary:** $73,600.00 - $110,400.00
+- 🕒 **Posted:** 2026-07-15
+
+### [Youth Care Management Program Coordinator](https://www.linkedin.com/jobs/view/4441239405/) — WellLife Network
+- 📍 **Location:** Huntington, NY
+- 🕒 **Posted:** 2026-07-15
+
+### [Care Manager (RN) - Regional Hospital Float, System Staffing Office](https://www.linkedin.com/jobs/view/4440273008/) — Dartmouth Health
+- 📍 **Location:** Lebanon, NH
+- 🕒 **Posted:** 2026-07-15
+
+### [Care Manager, RN](https://www.linkedin.com/jobs/view/4441243225/) — University of Maryland Medical System
+- 📍 **Location:** Towson, MD
+- 🕒 **Posted:** 2026-07-15
+
+### [Post BSN-Doctor of Nursing Practice (DNP) Program Coordinator and Instructional Faculty](https://www.linkedin.com/jobs/view/4441251235/) — Temple University
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Specialist, PM](https://www.linkedin.com/jobs/view/4440277150/) — AltaPointe Health Systems
+- 📍 **Location:** Mobile, AL
+- 🕒 **Posted:** 2026-07-15
+
+### [Foundation Development Coordinator](https://www.linkedin.com/jobs/view/4438437025/) — CHI
+- 📍 **Location:** Omaha, NE
+- 💰 **Salary:** $32.30 - $48.05 /hour
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Coordinator - Stroke Community Outreach & Education](https://www.linkedin.com/jobs/view/4441243458/) — UTHealth Houston
+- 📍 **Location:** Houston, TX
+- 🕒 **Posted:** 2026-07-15
+
+### [Program Coordinator Community Schools - Bon Secours Community Works](https://www.linkedin.com/jobs/view/4438011633/) — Bon Secours Mercy Health
+- 📍 **Location:** Baltimore, MD
+- 🕒 **Posted:** 2026-07-15
+
+### [Development Coordinator, Individual Giving](https://www.linkedin.com/jobs/view/4439328876/) — Biological Sciences Division at the University of Chicago
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $60,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-07-15
+
+### [Academic Program Manager  - Graduate Medical Education- Fairfield Hospital](https://www.linkedin.com/jobs/view/4437648039/) — Bon Secours Mercy Health
+- 📍 **Location:** Fairfield, OH
+- 🕒 **Posted:** 2026-07-15
+
+### [Clinical Research Assistant II - Medicine](https://www.linkedin.com/jobs/view/4441238698/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-07-15
