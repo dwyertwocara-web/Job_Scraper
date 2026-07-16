@@ -1,196 +1,138 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-16 07:47 UTC*
+*Last updated: 2026-07-16 09:18 UTC*
 
-**42 new role(s)** since last run · 42 total in last 1h
+**29 new role(s)** since last run · 29 total in last 1h
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4406103424/) — Second Harvest of Silicon Valley
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $70,075 - $74,262
-- 🕒 **Posted:** 2026-07-16
-
-### [Patient Care Coordinator (Temporary)](https://www.linkedin.com/jobs/view/4440659388/) — OroMed
-- 📍 **Location:** Glendale, CA
-- 💰 **Salary:** $18.00 – $20.00 per hour
-- 🕒 **Posted:** 2026-07-16
-
-### [Care Coordinator for Orthopedic Medical Group](https://www.linkedin.com/jobs/view/4438467709/) — SYNERGY ORTHOPEDIC SPECIALISTS
-- 📍 **Location:** Chula Vista, CA
-- 🕒 **Posted:** 2026-07-16
-
-### [Care Coordinator for Orthopedic Medical Group](https://www.linkedin.com/jobs/view/4438471564/) — SYNERGY ORTHOPEDIC SPECIALISTS
+### [Program Manager](https://www.linkedin.com/jobs/view/4441448162/) — SAIC
 - 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $160,001 - $200,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Rapid Rehousing Program Manager](https://www.linkedin.com/jobs/view/4440643703/) — Upward Bound House
-- 📍 **Location:** El Segundo, CA
+### [Case Manager III Bilingual - Mental Health 152](https://www.linkedin.com/jobs/view/4422638102/) — Telecare Corporation
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $22.62 - $27.63
 - 🕒 **Posted:** 2026-07-16
 
-### [Youth Housing Coordinator - YHHS](https://www.linkedin.com/jobs/view/4440651672/) — Sabathani Community Center
-- 📍 **Location:** Minneapolis, MN
+### [Case Manager II Bilingual- Mental Health 152](https://www.linkedin.com/jobs/view/4422636084/) — Telecare Corporation
+- 📍 **Location:** Oakland, CA
+- 💰 **Salary:** $21.00 - $23.71
 - 🕒 **Posted:** 2026-07-16
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4409614578/) — Concern Housing
-- 📍 **Location:** Port Jefferson, NY
+### [Case Manager III - Mental Health 617](https://www.linkedin.com/jobs/view/4410912173/) — Telecare Corporation
+- 📍 **Location:** La Palma, CA
+- 💰 **Salary:** $21.49 - $26.25
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Coordinator- Gambling Disorder Prevention Services](https://www.linkedin.com/jobs/view/4440665113/) — Trinity Services Inc.
-- 📍 **Location:** Joliet, IL
-- 💰 **Salary:** $58,000-$62,000
+### [Case Manager CADC CATC SUDCC - Mental Health 327](https://www.linkedin.com/jobs/view/4432890421/) — Telecare Corporation
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $26.50 – $32.50/hour
 - 🕒 **Posted:** 2026-07-16
 
-### [State Prog Admin Prin – Program Coordinator](https://www.linkedin.com/jobs/view/4440633987/) — Greater St. Cloud
-- 📍 **Location:** St Cloud, MN
-- 💰 **Salary:** $32.97 - $48.60
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4441434470/) — WellSky
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-16
 
-### [Nurse Residency Program Coordinator](https://www.linkedin.com/jobs/view/4423177583/) — Johns Hopkins Howard County Medical Center
-- 📍 **Location:** Columbia, MD
+### [CFSP Managed Care Coordinator - Henderson County](https://www.linkedin.com/jobs/view/4441432765/) — Elevance Health
+- 📍 **Location:** Hendersonville, NC
 - 🕒 **Posted:** 2026-07-16
 
-### [Community Health Worker FT, Day](https://www.linkedin.com/jobs/view/4440634936/) — Prisma Health
-- 📍 **Location:** Columbia, SC
+### [CFSP Managed Care Coordinator  - Wake County](https://www.linkedin.com/jobs/view/4441449173/) — Elevance Health
+- 📍 **Location:** Raleigh, NC
 - 🕒 **Posted:** 2026-07-16
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4440637754/) — PDS Health
-- 📍 **Location:** Georgetown, TX
-- 💰 **Salary:** $15.75/hr - $22.00/hr
+### [Clinical Case Manager I](https://www.linkedin.com/jobs/view/4441447361/) — University of Florida - Chemical Engineering Masters Program
+- 📍 **Location:** Gainesville, FL
+- 💰 **Salary:** $55,000 - $58,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Care Coordinator (Texas)](https://www.linkedin.com/jobs/view/4440662264/) — Tuesday Health
-- 📍 **Location:** Texas, United States
+### [Clinical Case Manager I - Early Steps](https://www.linkedin.com/jobs/view/4441433696/) — University of Florida - Chemical Engineering Masters Program
+- 📍 **Location:** Metro Jacksonville
+- 💰 **Salary:** $46,000 to $55,000 annually
 - 🕒 **Posted:** 2026-07-16
 
-### [Care Coordinator - Auth - Scheduling Specialist](https://www.linkedin.com/jobs/view/4438477088/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
+### [DCS PROGRAM SPECIALIST - TRANSITIONAL HOME COORDINATOR - 07162026-79328](https://www.linkedin.com/jobs/view/4440651962/) — State of Tennessee
+- 📍 **Location:** Clarksville, TN
+- 💰 **Salary:** $4,562.00 - $6,825.00
 - 🕒 **Posted:** 2026-07-16
 
-### [Care Coordinator - Auth - Scheduling Specialist](https://www.linkedin.com/jobs/view/4438480087/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4441436433/) — Skilled Care of Mexia
+- 📍 **Location:** Mexia, TX
 - 🕒 **Posted:** 2026-07-16
 
-### [Veterinary Receptionist (Care Coordinator) - Woburn Animal Hospital](https://www.linkedin.com/jobs/view/4438457988/) — PetVet Care Centers
-- 📍 **Location:** Woburn, MA
-- 💰 **Salary:** $20—$24 USD
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441431582/) — Interim HealthCare Inc.
+- 📍 **Location:** Lexington, MA
+- 💰 **Salary:** $61,500.00/yr - $65,500.00/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [Patient Care Coordinator - Access Strategies](https://www.linkedin.com/jobs/view/4438467410/) — Providence
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $22.44/hr - $34.33/hr
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441442192/) — Interim HealthCare Inc.
+- 📍 **Location:** Greenville, SC
+- 💰 **Salary:** $18.00/hr - $19.00/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4438487124/) — UnitedHealth Group
-- 📍 **Location:** Flagstaff, AZ
-- 💰 **Salary:** $58,800 to $105,000 annually
+### [Patient Care Coordinator | $15/hour | 8/6/26](https://www.linkedin.com/jobs/view/4440234325/) — Carenet Health
+- 📍 **Location:** San Antonio, Texas Metropolitan Area
 - 🕒 **Posted:** 2026-07-16
 
-### [Case Manager RN Cottonwood,](https://www.linkedin.com/jobs/view/4438479282/) — UnitedHealth Group
-- 📍 **Location:** Cottonwood, AZ
-- 💰 **Salary:** $85,196 to $127,794 annually
+### [Care Coordinator, RN](https://www.linkedin.com/jobs/view/4441445371/) — Northside Hospital
+- 📍 **Location:** Lawrenceville, GA
 - 🕒 **Posted:** 2026-07-16
 
-### [Telephonic Nurse Case Manager](https://www.linkedin.com/jobs/view/4440660127/) — Paradigm
-- 📍 **Location:** Milwaukee, WI
+### [Medication Care Manager](https://www.linkedin.com/jobs/view/4440651872/) — Aegis Living
+- 📍 **Location:** Kirkland, WA
 - 🕒 **Posted:** 2026-07-16
 
-### [Patient Care Manager/RN,](https://www.linkedin.com/jobs/view/4438468601/) — UnitedHealth Group
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $89,680 to $134,520 annually
+### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4424000141/) — Enlyte
+- 📍 **Location:** Greensboro, NC
+- 💰 **Salary:** $70,600 - $85,000 annually
 - 🕒 **Posted:** 2026-07-16
 
-### [Cardiovascular Obstetrics Care Coordinator](https://www.linkedin.com/jobs/view/4438472322/) — Atrium Health Navicent
-- 📍 **Location:** Macon, GA
-- 💰 **Salary:** $41.10 - $61.65
+### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4432109498/) — Enlyte
+- 📍 **Location:** Augusta, GA
+- 💰 **Salary:** $80,000 - $90,000 annually
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4440655141/) — Community Options, Inc.
-- 📍 **Location:** Indiana, PA
+### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4432124345/) — Enlyte
+- 📍 **Location:** Chattanooga, TN
+- 💰 **Salary:** $70,000 - $80,000 annually
 - 🕒 **Posted:** 2026-07-16
 
-### [RN Case Manager $10k Sign-On Bonus!](https://www.linkedin.com/jobs/view/4438475306/) — Continuum Hospice & Palliative Care Massachusetts
-- 📍 **Location:** Braintree, MA
-- 💰 **Salary:** $98,000 - $108,000 per year
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4438494065/) — Eichleay, Inc.
+- 📍 **Location:** Blaine, WA
 - 🕒 **Posted:** 2026-07-16
 
-### [Travel RN Case Manager - $2,332 per week](https://www.linkedin.com/jobs/view/4440660081/) — Access Healthcare LLC
-- 📍 **Location:** Appleton, WI
+### [LTSS Service Coordinator - Case Manager (Region H: Broward County)](https://www.linkedin.com/jobs/view/4436470380/) — Elevance Health
+- 📍 **Location:** Fort Lauderdale, FL
 - 🕒 **Posted:** 2026-07-16
 
-### [Blended Case Manager (County Caseworker 3, Local Government) - Crawford County MH/ID](https://www.linkedin.com/jobs/view/4440657016/) — Commonwealth of Pennsylvania
-- 📍 **Location:** Crawford County, PA
+### [Resident / Fellowship Program Coordinator I](https://www.linkedin.com/jobs/view/4441444273/) — University of Florida - Chemical Engineering Masters Program
+- 📍 **Location:** Gainesville, FL
+- 💰 **Salary:** $46,000 - $55,000
 - 🕒 **Posted:** 2026-07-16
 
-### [School Program Coordinator](https://www.linkedin.com/jobs/view/4434083317/) — The Gardner School
-- 📍 **Location:** Warrenville, IL
-- 💰 **Salary:** $41,200-$48,500 annually
+### [Vertical Transportation Systems Program Manager (Construction/Maintenance Project Manager II)](https://www.linkedin.com/jobs/view/4440654649/) — Fairfax County Government
+- 📍 **Location:** Fairfax Station, VA
+- 💰 **Salary:** $84,670.14/yr - $148,172.75/yr
 - 🕒 **Posted:** 2026-07-16
 
-### [School Program Coordinator](https://www.linkedin.com/jobs/view/4430109994/) — The Gardner School
-- 📍 **Location:** Dedham, MA
-- 💰 **Salary:** $49,700-$58,500 annually
+### [CDA- Bureau of Animal Protection Program Manager (Veterinarian II).](https://www.linkedin.com/jobs/view/4441443238/) — State of Colorado
+- 📍 **Location:** Broomfield County, CO
+- 💰 **Salary:** $4,096.62 - $5,341.85 MONTHLY
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4438484320/) — CHALDEAN COMMUNITY FOUNDATION
-- 📍 **Location:** West Bloomfield Township, MI
+### [Academic Program Specialist I (Outreach Coordinator)](https://www.linkedin.com/jobs/view/4441438549/) — University of Florida - Chemical Engineering Masters Program
+- 📍 **Location:** Gainesville, FL
 - 🕒 **Posted:** 2026-07-16
 
-### [Workforce Development Program Manager](https://www.linkedin.com/jobs/view/4440658175/) — All In Energy
-- 📍 **Location:** Lawrence, MA
+### [Data Analyst](https://www.linkedin.com/jobs/view/4440674042/) — Haystack
+- 📍 **Location:** Washington DC-Baltimore Area
+- 💰 **Salary:** $62,000 - $141,000
 - 🕒 **Posted:** 2026-07-16
 
-### [Judicial Case Manager I-II](https://www.linkedin.com/jobs/view/4440652607/) — Office of the Child Advocate Delaware
-- 📍 **Location:** New Castle, DE
+### [Program Manager - US Navy](https://www.linkedin.com/jobs/view/4432605688/) — GHD
+- 📍 **Location:** Chantilly, VA
+- 💰 **Salary:** $183,870 to $250,150
 - 🕒 **Posted:** 2026-07-16
 
-### [Program Specialist](https://www.linkedin.com/jobs/view/4434742320/) — LMI
-- 📍 **Location:** Greater Cleveland
-- 💰 **Salary:** $120,000-$140,000
-- 🕒 **Posted:** 2026-07-16
-
-### [PROGRAM MANAGER](https://www.linkedin.com/jobs/view/4438476605/) — Naval Air Warfare Center Training Systems Division (NAWCTSD)
-- 📍 **Location:** Lakehurst, NJ
-- 🕒 **Posted:** 2026-07-16
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4438486304/) — Securitas Security Services USA, Inc.
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $100,000.00/yr - $107,000.00/yr
-- 🕒 **Posted:** 2026-07-16
-
-### [Program Manager, OEM (Original Equipment Manufacturer) Programs](https://www.linkedin.com/jobs/view/4440633980/) — Snap-on
-- 📍 **Location:** Kenosha, WI
-- 💰 **Salary:** $90,000-$120,000
-- 🕒 **Posted:** 2026-07-16
-
-### [BENEFITS PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4440650339/) — JBS USA
-- 📍 **Location:** Greeley, CO
-- 💰 **Salary:** $58,000 - $60,000
-- 🕒 **Posted:** 2026-07-16
-
-### [IPF Atid Program Coordinator – Washington, DC](https://www.linkedin.com/jobs/view/4440668117/) — Communal Hebrew School
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $62,500 – $72,500,
-- 🕒 **Posted:** 2026-07-16
-
-### [Quality Program Specialist](https://www.linkedin.com/jobs/view/4440651478/) — Paradigm
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-07-16
-
-### [Captive Program Specialist](https://www.linkedin.com/jobs/view/4435943739/) — QBE Insurance
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $130,500-$195,500
-- 🕒 **Posted:** 2026-07-16
-
-### [PORTAL Research Assistant](https://www.linkedin.com/jobs/view/4441228987/) — Brigham and Women's Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $21.00 - $29.01/Hourly
-- 🕒 **Posted:** 2026-07-16
-
-### [Research Assistant II Neurology KL](https://www.linkedin.com/jobs/view/4441230734/) — Brigham and Women's Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $24.28 - $39.43/Hourly
-- 🕒 **Posted:** 2026-07-16
-
-### [Research Assistant I - Leukemia](https://www.linkedin.com/jobs/view/4440659315/) — UT MD Anderson
-- 📍 **Location:** Houston, TX
+### [Research Assistant Scientist](https://www.linkedin.com/jobs/view/4441450006/) — University of Florida - Chemical Engineering Masters Program
+- 📍 **Location:** Gainesville, FL
 - 🕒 **Posted:** 2026-07-16
