@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-16 20:17 UTC",
-  "total": 97,
-  "new_count": 6,
+  "scraped_at": "2026-07-17 00:17 UTC",
+  "total": 96,
+  "new_count": 3,
   "jobs": [
     {
       "company": "THE HOUSING AUTHORITY OF THE CITY OF COLORADO SPRINGS",
@@ -95,6 +95,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "EDEN Inc",
+      "title": "Housing Specialist",
+      "location": "Cleveland, Ohio, United States",
+      "url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
+      "salary": "$43k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Rockbridge Area Community Services",
       "title": "Housing Specialist",
       "location": "Lexington or Buena Vista or Rockbridge County or Bath County",
@@ -108,19 +121,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mount Rogers Community Services",
-      "title": "Housing Specialist",
-      "location": "United States",
-      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -129,6 +129,19 @@
       "date_posted": "2026-06-24T04:00:00.000Z",
       "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mount Rogers Community Services",
+      "title": "Housing Specialist",
+      "location": "United States",
+      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -446,19 +459,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Titanium Healthcare",
-      "title": "Housing Navigator ",
-      "location": "Santa Barbara, California, United States",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/681",
-      "date_posted": "2026-06-17T00:00:00.000Z",
-      "description": "Diploma/GED required (associate preferred); 2+ years in healthcare/social services/case management; HMIS experience; BLS certification; valid driver\\u0019s license, reliable transportation and auto insurance; strong communication and organizational skills.",
-      "salary": "$48k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Illumination Health + Home",
       "title": "Housing Navigator",
       "location": "Anaheim, California, United States",
@@ -506,32 +506,6 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
       "salary": "$50k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://caowash.applicantpro.com/jobs/4146929",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -667,6 +641,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Essentiahealth",
+      "title": "Community Health Worker",
+      "location": "Grand Rapids, Minnesota, United States",
+      "url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
+      "direct_url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "1+ year experience in customer service, social services, healthcare or related field; Community Health Worker certificate (or obtain within 18 months); strong communication and knowledge of local resources.",
+      "salary": "$40k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Suvida Healthcare LLC",
       "title": "Community Health Worker",
       "location": "Katy, Texas, United States",
@@ -675,6 +662,19 @@
       "date_posted": "2026-07-10T20:57:25.160Z",
       "description": "4-5 years healthcare experience preferred; Community Health Worker certification required; bilingual English/Spanish preferred; proficiency with EMRs and referral systems; strong communication and care coordination skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Sabathani Community Center",
+      "title": "Community Health Worker",
+      "location": "Minneapolis, Minnesota, United States",
+      "url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
+      "direct_url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
+      "date_posted": "2026-07-07T19:07:22.411Z",
+      "description": "CHW certification and valid MN driver's license required; HS diploma; 2+ years community health or related direct service experience; proficiency with Salesforce and Microsoft Office; strong communication and caseload management skills.",
+      "salary": "$58k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -940,32 +940,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Peerstar LLC",
-      "title": "Care Coordinator",
-      "location": "Clifton, New Jersey, United States",
-      "url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
-      "salary": "$55k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "BEEHIVE HOMES OF VERNAL",
-      "title": "Care Coordinator",
-      "location": "Vernal, Utah, United States",
-      "url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "direct_url": "https://beehive-homes-of-vernal.prismhr-hire.com/job/106485/care-coordinator",
-      "date_posted": "2026-06-16T20:41:40.000Z",
-      "description": "CNA certification required; previous care coordination, case management, or supervisory experience preferred. Strong communication, organizational, and documentation skills; ability to handle confidential information and advocate for residents.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brightli",
       "title": "Care Coordinator",
       "location": "Indianapolis, Indiana, United States",
@@ -974,6 +948,19 @@
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Peerstar LLC",
+      "title": "Care Coordinator",
+      "location": "Clifton, New Jersey, United States",
+      "url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-06-19T00:00:00.000Z",
+      "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
+      "salary": "$55k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,6 +1005,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Richardson, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "date_posted": "2026-07-08T16:50:52.000Z",
+      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pcscco",
       "title": "Care Coordinator ",
       "location": "Rochester, New York, United States",
@@ -1031,14 +1031,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Innovista Medical Center Texas LLC",
+      "company": "Mango Home Health",
       "title": "Care Coordinator",
-      "location": "Richardson, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "date_posted": "2026-07-08T16:50:52.000Z",
-      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
-      "salary": "",
+      "location": "Jackson, New Jersey, United States",
+      "url": "https://hce-careers.careerplug.com/jobs/3481471",
+      "direct_url": "https://hce-careers.careerplug.com/jobs/3481471",
+      "date_posted": "2026-07-02T17:51:12.000Z",
+      "description": "1–2 years care‑coordination or case‑management experience; valid driver’s license and reliable transportation; familiarity with EMR/CRM and Microsoft Office; certifications such as CMA/CNA/LPN/RN/social work welcome.",
+      "salary": "$37k–$42k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1054,19 +1054,6 @@
       "salary": "$42k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Mango Home Health",
-      "title": "Care Coordinator",
-      "location": "Jackson, New Jersey, United States",
-      "url": "https://hce-careers.careerplug.com/jobs/3481471",
-      "direct_url": "https://hce-careers.careerplug.com/jobs/3481471",
-      "date_posted": "2026-07-02T17:51:12.000Z",
-      "description": "1–2 years care‑coordination or case‑management experience; valid driver’s license and reliable transportation; familiarity with EMR/CRM and Microsoft Office; certifications such as CMA/CNA/LPN/RN/social work welcome.",
-      "salary": "$37k–$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1267,79 +1254,40 @@
   ],
   "new_jobs": [
     {
-      "company": "Path of Life Ministries",
-      "title": "Temp Housing Navigator",
-      "location": "Riverside, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "date_posted": "2026-07-13T18:25:52.000Z",
-      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
+      "company": "EDEN Inc",
+      "title": "Housing Specialist",
+      "location": "Cleveland, Ohio, United States",
+      "url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
+      "date_posted": "2026-06-24T00:00:00.000Z",
+      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
+      "salary": "$43k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://caowash.applicantpro.com/jobs/4146929",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
-      "salary": "$48k–$52k/yr",
+      "company": "Essentiahealth",
+      "title": "Community Health Worker",
+      "location": "Grand Rapids, Minnesota, United States",
+      "url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
+      "direct_url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "1+ year experience in customer service, social services, healthcare or related field; Community Health Worker certificate (or obtain within 18 months); strong communication and knowledge of local resources.",
+      "salary": "$40k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "St. Vincent's Hospital Westchester",
-      "title": "Care Coordinator",
-      "location": "Staten Island, New York, United States",
-      "url": "https://myjobs.adp.com/stvincentsjobs/cx/job-details?reqId=5001212389806",
-      "direct_url": "https://myjobs.adp.com/stvincentsjobs/cx/job-details?reqId=5001212389806",
-      "date_posted": "2026-07-16T14:46:05.000Z",
-      "description": "Coordinate care for health home members, arrange appointments, conduct assessments, develop care plans, educate members, document and communicate with providers and families.",
-      "salary": "$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brightli",
-      "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Refugees International",
-      "title": "Refugee Leadership and Partnerships Program Coordinator",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://refugeesinternational.bamboohr.com/careers/72",
-      "direct_url": "https://refugeesinternational.bamboohr.com/careers/72",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Bachelor's degree and 3+ years nonprofit experience; experience managing fellowships, events, budgets; strong organization, communication, Google Sheets proficiency; eligible to work in the U.S.",
-      "salary": "$65k–$70k/yr",
+      "company": "Sabathani Community Center",
+      "title": "Community Health Worker",
+      "location": "Minneapolis, Minnesota, United States",
+      "url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
+      "direct_url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
+      "date_posted": "2026-07-07T19:07:22.411Z",
+      "description": "CHW certification and valid MN driver's license required; HS diploma; 2+ years community health or related direct service experience; proficiency with Salesforce and Microsoft Office; strong communication and caseload management skills.",
+      "salary": "$58k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
