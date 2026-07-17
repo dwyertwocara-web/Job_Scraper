@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-17 00:17 UTC",
-  "total": 96,
-  "new_count": 3,
+  "scraped_at": "2026-07-17 09:21 UTC",
+  "total": 98,
+  "new_count": 4,
   "jobs": [
     {
       "company": "THE HOUSING AUTHORITY OF THE CITY OF COLORADO SPRINGS",
@@ -355,6 +355,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Acacia Health",
+      "title": "Housing Navigator - MSW",
+      "location": "Irvine or Santa Clara County",
+      "url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
+      "direct_url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
+      "date_posted": "2026-07-17T00:08:09.000Z",
+      "description": "Master's in social work or related, 2+ years housing navigation/case management experience, knowledge of CES/VI-SPDAT/HMIS, valid California driver's license and reliable transportation, strong communication and relationship-building skills.",
+      "salary": "$71k–$79k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Call To Freedom",
       "title": "Housing Navigator",
       "location": "Sioux Falls, South Dakota, United States",
@@ -506,6 +519,32 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
       "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://caowash.applicantpro.com/jobs/4146929",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -771,19 +810,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Red Cliff Band of Lake Superior Chippewa",
-      "title": "Community Health Worker",
-      "location": "Red Cliff, Wisconsin, United States",
-      "url": "https://www.governmentjobs.com/careers/redcliffnsn/jobs/5403076",
-      "direct_url": "https://www.governmentjobs.com/careers/redcliffnsn/jobs/5403076",
-      "date_posted": "2026-07-08T19:55:46.617Z",
-      "description": "High school diploma/HSED/GED, completion of AHEC Community Health Worker program within six months of hire, valid driver license, CPR within 90 days, computer skills (data entry, Excel, Word, Publisher), ability to travel overnight and perform physical tasks.",
-      "salary": "$42k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AlohaCare",
       "title": "Care Coordinator",
       "location": "Honolulu, Hawaii, United States",
@@ -1031,6 +1057,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "childrens",
+      "title": " Care Coordinator",
+      "location": "Dallas, Texas, United States",
+      "url": "https://css-childrens-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,32307,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=CANDIDATEEXPERIENCE",
+      "direct_url": "https://css-childrens-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,32307,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=CANDIDATEEXPERIENCE",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "Texas RN with BSN (or equivalent), 4+ years pediatric nursing/case management/care coordination experience, BLS required, ACM/CCM/CCTM preferred, knowledge of discharge planning and payor navigation.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Mango Home Health",
       "title": "Care Coordinator",
       "location": "Jackson, New Jersey, United States",
@@ -1237,57 +1276,57 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "CRISTA Ministries",
-      "title": "Grants Coordinator",
-      "location": "Shoreline, Washington, United States",
-      "url": "https://jobs.jobvite.com/cristaministries/job/oStnAfw2?nl=1&fr=true",
-      "direct_url": "https://jobs.jobvite.com/cristaministries/job/oStnAfw2?nl=1&fr=true",
-      "date_posted": "2026-06-22T12:00:00.000Z",
-      "description": "Bachelor's degree (or equivalent experience), 2+ years grants or project coordination experience with NGOs/nonprofits, strong MS Office skills, familiarity with donor portals, excellent organization and communication, alignment with CRISTA Statement of Faith.",
-      "salary": "$57k–$75k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "EDEN Inc",
-      "title": "Housing Specialist",
-      "location": "Cleveland, Ohio, United States",
-      "url": "https://edencle.isolvedhire.com/jobs/1800974",
-      "direct_url": "https://edencle.isolvedhire.com/jobs/1800974",
-      "date_posted": "2026-06-24T00:00:00.000Z",
-      "description": "High school diploma/GED required; Associate's in social services preferred. Experience with Housing Choice Voucher or housing assistance programs and working with mental health population preferred. Strong communication and case management skills.",
-      "salary": "$43k/yr",
+      "company": "Acacia Health",
+      "title": "Housing Navigator - MSW",
+      "location": "Irvine or Santa Clara County",
+      "url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
+      "direct_url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
+      "date_posted": "2026-07-17T00:08:09.000Z",
+      "description": "Master's in social work or related, 2+ years housing navigation/case management experience, knowledge of CES/VI-SPDAT/HMIS, valid California driver's license and reliable transportation, strong communication and relationship-building skills.",
+      "salary": "$71k–$79k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Essentiahealth",
-      "title": "Community Health Worker",
-      "location": "Grand Rapids, Minnesota, United States",
-      "url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
-      "direct_url": "https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318",
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://caowash.applicantpro.com/jobs/4146929",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "childrens",
+      "title": " Care Coordinator",
+      "location": "Dallas, Texas, United States",
+      "url": "https://css-childrens-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,32307,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=CANDIDATEEXPERIENCE",
+      "direct_url": "https://css-childrens-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,32307,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=CANDIDATEEXPERIENCE",
       "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "1+ year experience in customer service, social services, healthcare or related field; Community Health Worker certificate (or obtain within 18 months); strong communication and knowledge of local resources.",
-      "salary": "$40k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sabathani Community Center",
-      "title": "Community Health Worker",
-      "location": "Minneapolis, Minnesota, United States",
-      "url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
-      "direct_url": "https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699",
-      "date_posted": "2026-07-07T19:07:22.411Z",
-      "description": "CHW certification and valid MN driver's license required; HS diploma; 2+ years community health or related direct service experience; proficiency with Salesforce and Microsoft Office; strong communication and caseload management skills.",
-      "salary": "$58k–$65k/yr",
+      "description": "Texas RN with BSN (or equivalent), 4+ years pediatric nursing/case management/care coordination experience, BLS required, ACM/CCM/CCTM preferred, knowledge of discharge planning and payor navigation.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"

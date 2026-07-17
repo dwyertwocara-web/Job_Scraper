@@ -1,19 +1,23 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-17 00:17 UTC*
+*Last updated: 2026-07-17 09:21 UTC*
 
-**3 new role(s)** since last run · 96 total in last 30d
+**4 new role(s)** since last run · 98 total in last 30d
 
-### [Housing Specialist](https://edencle.isolvedhire.com/jobs/1800974) — EDEN Inc
-- 📍 **Location:** Cleveland, Ohio, United States
-- 💰 **Salary:** $43k/yr
-- 🕒 **Posted:** 2026-06-24T00:00:00.000Z
+### [Housing Navigator - MSW](https://apply.appone.com/job/6a501aeed12a86db70ff21d9) — Acacia Health
+- 📍 **Location:** Irvine or Santa Clara County
+- 💰 **Salary:** $71k–$79k/yr
+- 🕒 **Posted:** 2026-07-17T00:08:09.000Z
 
-### [Community Health Worker](https://essentiahealth.wd1.myworkdayjobs.com/essentia_health/job/Grand-Rapids-MN/Community-Health-Worker_R080318) — Essentiahealth
-- 📍 **Location:** Grand Rapids, Minnesota, United States
-- 💰 **Salary:** $40k–$60k/yr
+### [Housing Navigator](https://serenehealth.com/careers/?gh_jid=5171792007) — Serene Health
+- 📍 **Location:** San Diego, California, United States
+- 💰 **Salary:** $52k–$58k/yr
+- 🕒 **Posted:** 2026-06-23T23:53:52.000Z
+
+### [Housing Navigator](https://caowash.applicantpro.com/jobs/4146929) — Community Action Organization
+- 📍 **Location:** Tualatin, Oregon, United States
+- 💰 **Salary:** $48k–$52k/yr
+- 🕒 **Posted:** 2026-07-14T00:00:00.000Z
+
+### [ Care Coordinator](https://css-childrens-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,32307,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=CANDIDATEEXPERIENCE) — childrens
+- 📍 **Location:** Dallas, Texas, United States
 - 🕒 **Posted:** 2026-07-16T00:00:00.000Z
-
-### [Community Health Worker](https://ats.rippling.com/scc/jobs/13a16e57-ab70-454c-a631-167699f53699) — Sabathani Community Center
-- 📍 **Location:** Minneapolis, Minnesota, United States
-- 💰 **Salary:** $58k–$65k/yr
-- 🕒 **Posted:** 2026-07-07T19:07:22.411Z
