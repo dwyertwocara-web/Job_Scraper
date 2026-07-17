@@ -1,94 +1,103 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-17 07:30 UTC*
+*Last updated: 2026-07-17 19:01 UTC*
 
-**19 new role(s)** since last run · 43 total in last 24h
+**20 new role(s)** since last run · 47 total in last 24h
 
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=565289e7d90a7d15) — Behavioral Health Services California
-- 📍 **Location:** Gardena, CA, US
-- 💰 **Salary:** $24–$28/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Resident Services Coordinator/ Program Coordinator](https://www.indeed.com/viewjob?jk=e1f5195498705dff) — Life Skills Training and Educational Programs - LifeSTEPS
-- 📍 **Location:** Vallejo, CA, US
-- 💰 **Salary:** $21–$28/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=9d08cff5d1d4df5a) — Life Skills Training and Educational Programs - LifeSTEPS
-- 📍 **Location:** Gilroy, CA, US
-- 🕒 **Posted:** 2026-07-14
-
-### [Patient Care Coordinator (Oncology or Imaging Experience)](https://www.indeed.com/viewjob?jk=e388cf933935b776) — Unknown
-- 📍 **Location:** Beverly Hills, CA, US
-- 💰 **Salary:** $23–$30/hr
+### [Physical Therapy Technician/Patient Care Coordinator - Full Time](https://www.indeed.com/viewjob?jk=db2e7adfbaf27e5a) — Therapy Partners Group
+- 📍 **Location:** Napa, CA, US
+- 💰 **Salary:** $18–$19/hr
 - 🕒 **Posted:** 2026-07-17
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=f56d4344e8b4b685) — TechBridge
-- 📍 **Location:** Murrieta, CA, US
-- 💰 **Salary:** $26–$28/hr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=135e25e372dac88c) — Serene health
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-07-17
 
-### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=defbcbde6b2e57d4) — Ivy Living
-- 📍 **Location:** West Hills, CA, US
+### [Long Term Temp Radiological Technology Instructor/Program Coordinator, Full-Time](https://www.indeed.com/viewjob?jk=8695eb72097fef19) — Yuba County Community College District
+- 📍 **Location:** Marysville, CA, US
+- 💰 **Salary:** $68k–$109k/yr
+- 🕒 **Posted:** 2026-07-17
+
+### [Rapid Rehousing Coordinator (STDT LIFE DEV SPEC 3 SV)](https://www.indeed.com/viewjob?jk=45b1404e8341379a) — UC Davis
+- 📍 **Location:** Davis, CA, US
+- 💰 **Salary:** $59k–$104k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Housing Navigator - Sierra Sunrise](https://www.indeed.com/viewjob?jk=7c5dff0f7e14df2a) — RH Community Builders
+- 📍 **Location:** Fresno, CA, US
+- 💰 **Salary:** $26–$27/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Housing Navigator - MSW](https://www.indeed.com/viewjob?jk=7eb23286f20e7ade) — Acacia Health
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $34–$38/hr
+- 🕒 **Posted:** 2026-07-09
+
+### [Patient Care Coordinator (Phone Operator)](https://www.indeed.com/viewjob?jk=526b9029fab89798) — Vita Aesthetics & Wellness
+- 📍 **Location:** Inglewood, CA, US
+- 💰 **Salary:** $19–$22/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Care Coordinator Nurse](https://www.indeed.com/viewjob?jk=6b508e2013c2b42d) — Glendale Post Acute Center
+- 📍 **Location:** Glendale, CA, US
+- 💰 **Salary:** $42–$44/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Home Care Aide Supervisor | Case Manager NEEDED For Home Care Agency In Redding, CA](https://www.indeed.com/viewjob?jk=7dcd45568e082a6a) — Care Planning Institute
+- 📍 **Location:** Redding, CA, US
+- 🕒 **Posted:** 2026-07-17
+
+### [Licensed Aesthetician Specialist / Patient Care Coordinator](https://www.indeed.com/viewjob?jk=a5692a1c80bfad11) — Platinum Medical Spa
+- 📍 **Location:** Aliso Viejo, CA, US
+- 💰 **Salary:** $21–$30/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [RN-Case Manager](https://www.indeed.com/viewjob?jk=db96ab4b79b3f450) — Kaweah Health
+- 📍 **Location:** Visalia, CA, US
+- 💰 **Salary:** $46–$69/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [RN Care Coordinator](https://www.indeed.com/viewjob?jk=6ec8e366cc45c4d9) — CommonSpirit Health
+- 📍 **Location:** Santa Cruz, CA, US
+- 💰 **Salary:** $103–$112/hr
+- 🕒 **Posted:** 2026-07-16
+
+### [Case Manager II-Recovery Oriented Services-FT-w/SUDs Certification](https://www.indeed.com/viewjob?jk=cbff4fdf3f8c309b) — KINGS VIEW
+- 📍 **Location:** Hanford, CA, US
 - 💰 **Salary:** $25–$26/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Client Care Coordinator - LVN, EMT, MA, CNA OVERNIGHT](https://www.indeed.com/viewjob?jk=b8d74dc28d845144) — quadrant health group
-- 📍 **Location:** Mission Viejo, CA, US
-- 💰 **Salary:** $25–$35/hr
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=21ebad2a884537c6) — EmpowerMe Wellness
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $20–$27/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=bc0c63d9e36166a8) — Unknown
-- 📍 **Location:** San Bernardino, CA, US
-- 💰 **Salary:** $24–$25/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Hospice RN Case Manager](https://www.indeed.com/viewjob?jk=9b3b9bbcc63acc4f) — The Elizabeth Hospice
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $45–$61/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=7f6f1e5d755baad8) — Cogir Senior Living
-- 📍 **Location:** Rancho Cucamonga, CA, US
-- 🕒 **Posted:** 2026-07-16
-
-### [Case Manager/ Group Facilitator II (Outpatient)](https://www.indeed.com/viewjob?jk=56dd112a69b6495e) — Unknown
-- 📍 **Location:** Fresno, CA, US
-- 🕒 **Posted:** 2026-07-16
-
-### [RN/LVN Case Manager- Regulatory Case Management](https://www.indeed.com/viewjob?jk=8cad459da3a870c2) — MEDPOINT MANAGEMENT
-- 📍 **Location:** Woodland Hills, CA, US
-- 💰 **Salary:** $35–$40/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=f0df440c218e3f64) — Total Vision
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $16–$20/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Care Coordinator Supervisor - Animal Clinic of Benicia](https://www.indeed.com/viewjob?jk=f12d4267c9d3195c) — PetVet Care Centers
-- 📍 **Location:** Benicia, CA, US
-- 💰 **Salary:** $18–$22/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Community Health Worker (Promotora)](https://www.indeed.com/viewjob?jk=d040ec74146ad68b) — Next Door Solutions to Domestic Violence
-- 📍 **Location:** San Jose, CA, US
+### [Clinical Program Manager](https://www.indeed.com/viewjob?jk=395eef8bd9876655) — International Rescue Committee
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $96k–$100k/yr
 - 🕒 **Posted:** 2026-07-17
 
-### [Community Health Worker (FTE, Dayshift)](https://www.indeed.com/viewjob?jk=028e3dc4e4950d8b) — Adventist Health
-- 📍 **Location:** Tulare, CA, US
+### [Community Health Worker (FTE, Dayshift)](https://www.indeed.com/viewjob?jk=a05a21ecea788893) — Adventist Health
+- 📍 **Location:** Paradise, CA, US
 - 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [RN Professional Development Program Coordinator](https://www.indeed.com/viewjob?jk=c6b1e0c8461028dc) — CommonSpirit Health
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $58–$89/hr
 - 🕒 **Posted:** 2026-07-16
 
-### [Homeless Outreach Case Manager](https://www.indeed.com/viewjob?jk=df604b41e91e2575) — City of Huntington Beach, CA
-- 📍 **Location:** Huntington Beach, CA, US
-- 💰 **Salary:** $20–$31/hr
-- 🕒 **Posted:** 2026-07-16
-
-### [Case Manager for DMH Homeless Recovery and Mental Health Services](https://www.indeed.com/viewjob?jk=ddc372f5e849ca51) — Mental Health America of Los Angeles
-- 📍 **Location:** Long Beach, CA, US
-- 🕒 **Posted:** 2026-07-16
-
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=a6206e644dcbc60c) — Alef Case Management LLC
+### [Plastic Surgery Care Coordinator (commission-based)](https://www.indeed.com/viewjob?jk=039d7dcf04741e24) — Pulse Protocol
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $45k–$52k/yr
+- 💰 **Salary:** $1500–$8000/mo
+- 🕒 **Posted:** 2026-07-17
+
+### [Care Manager, Telephonic Nurse](https://www.indeed.com/viewjob?jk=8cb7621951d84dfd) — CenterWell
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $71k–$98k/yr
+- 🕒 **Posted:** 2026-07-16
+
+### [Care Manager- Telephonic Nurse Part Time](https://www.indeed.com/viewjob?jk=ea57994c486aa782) — CenterWell
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $71k–$98k/yr
 - 🕒 **Posted:** 2026-07-16
