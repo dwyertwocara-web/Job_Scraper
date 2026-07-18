@@ -1,6 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-07-17 09:44 UTC*
+*Last updated: 2026-07-18 09:25 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Care Manager, LTSS (LSW) - Southwest Ohio](https://www.linkedin.com/jobs/view/4442423711/) — Molina Healthcare
+- 📍 **Location:** Hamilton, OH
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-07-18
