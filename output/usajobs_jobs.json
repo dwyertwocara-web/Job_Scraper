@@ -1,15 +1,24 @@
 {
-  "scraped_at": "2026-07-16 19:46 UTC",
-  "total": 5,
-  "new_count": 4,
+  "scraped_at": "2026-07-18 18:41 UTC",
+  "total": 4,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker-Post 911 Military 2VA Case Manager",
-      "location": "Ann Arbor, Michigan",
-      "url": "https://www.usajobs.gov/job/876598800",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $69,716 Per year (GS 9-11)",
+      "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention",
+      "location": "Hot Springs, South Dakota",
+      "url": "https://www.usajobs.gov/job/876967200",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Offices, Boards and Divisions",
+      "title": "IT Program Manager (INFOSEC)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/877074400",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     },
     {
@@ -19,24 +28,6 @@
       "url": "https://www.usajobs.gov/job/876661800",
       "date_posted": "2026-07-15",
       "salary": "Starting at $85,473 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Program Manager (Deputy Division Administrator) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Cambridge, Massachusetts",
-      "url": "https://www.usajobs.gov/job/876374000",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $142,452 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Pharmacy Program Manager (Pharmacoeconomics/Formulary Management)- EDRP Authorized",
-      "location": "Dallas, Texas",
-      "url": "https://www.usajobs.gov/job/876529300",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $143,798 Per year (GS 13)",
       "ats": "USAJOBS"
     },
     {
@@ -52,38 +43,20 @@
   "new_jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Social Worker-Post 911 Military 2VA Case Manager",
-      "location": "Ann Arbor, Michigan",
-      "url": "https://www.usajobs.gov/job/876598800",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $69,716 Per year (GS 9-11)",
+      "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention",
+      "location": "Hot Springs, South Dakota",
+      "url": "https://www.usajobs.gov/job/876967200",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Veterans Health Administration",
-      "title": "Social Worker- Housing and Urban Development/VA Supportive Housing (HUD-VASH) Case Manager",
-      "location": "Memphis, Tennessee",
-      "url": "https://www.usajobs.gov/job/876661800",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $85,473 Per year (GS 11)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Federal Highway Administration",
-      "title": "Program Manager (Deputy Division Administrator) (Open to both U.S. Citizens and Federal Employees)",
-      "location": "Cambridge, Massachusetts",
-      "url": "https://www.usajobs.gov/job/876374000",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $142,452 Per year (GS 14)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Veterans Health Administration",
-      "title": "Pharmacy Program Manager (Pharmacoeconomics/Formulary Management)- EDRP Authorized",
-      "location": "Dallas, Texas",
-      "url": "https://www.usajobs.gov/job/876529300",
-      "date_posted": "2026-07-15",
-      "salary": "Starting at $143,798 Per year (GS 13)",
+      "company": "Offices, Boards and Divisions",
+      "title": "IT Program Manager (INFOSEC)",
+      "location": "Washington, District of Columbia",
+      "url": "https://www.usajobs.gov/job/877074400",
+      "date_posted": "2026-07-17",
+      "salary": "Starting at $143,913 Per year (GS 14)",
       "ats": "USAJOBS"
     }
   ]

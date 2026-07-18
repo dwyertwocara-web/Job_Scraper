@@ -1,24 +1,14 @@
 # 🇺🇸 USAJOBS — Federal Housing & Community Impact Roles
-*Last updated: 2026-07-16 19:46 UTC*
+*Last updated: 2026-07-18 18:41 UTC*
 
-**4 new role(s)** since last run · 5 total in current USAJOBS postings
+**2 new role(s)** since last run · 4 total in current USAJOBS postings
 
-### [Social Worker-Post 911 Military 2VA Case Manager](https://www.usajobs.gov/job/876598800) — Veterans Health Administration
-- 📍 **Location:** Ann Arbor, Michigan
-- 💰 **Salary:** Starting at $69,716 Per year (GS 9-11)
-- 🕒 **Posted:** 2026-07-15
+### [Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention](https://www.usajobs.gov/job/876967200) — Veterans Health Administration
+- 📍 **Location:** Hot Springs, South Dakota
+- 💰 **Salary:** Starting at $89,508 Per year (GS 12)
+- 🕒 **Posted:** 2026-07-17
 
-### [Social Worker- Housing and Urban Development/VA Supportive Housing (HUD-VASH) Case Manager](https://www.usajobs.gov/job/876661800) — Veterans Health Administration
-- 📍 **Location:** Memphis, Tennessee
-- 💰 **Salary:** Starting at $85,473 Per year (GS 11)
-- 🕒 **Posted:** 2026-07-15
-
-### [Program Manager (Deputy Division Administrator) (Open to both U.S. Citizens and Federal Employees)](https://www.usajobs.gov/job/876374000) — Federal Highway Administration
-- 📍 **Location:** Cambridge, Massachusetts
-- 💰 **Salary:** Starting at $142,452 Per year (GS 14)
-- 🕒 **Posted:** 2026-07-15
-
-### [Pharmacy Program Manager (Pharmacoeconomics/Formulary Management)- EDRP Authorized](https://www.usajobs.gov/job/876529300) — Veterans Health Administration
-- 📍 **Location:** Dallas, Texas
-- 💰 **Salary:** Starting at $143,798 Per year (GS 13)
-- 🕒 **Posted:** 2026-07-15
+### [IT Program Manager (INFOSEC)](https://www.usajobs.gov/job/877074400) — Offices, Boards and Divisions
+- 📍 **Location:** Washington, District of Columbia
+- 💰 **Salary:** Starting at $143,913 Per year (GS 14)
+- 🕒 **Posted:** 2026-07-17
