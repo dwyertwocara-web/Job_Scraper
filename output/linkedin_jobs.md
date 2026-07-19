@@ -1,59 +1,49 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-19 07:50 UTC*
+*Last updated: 2026-07-19 08:14 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**11 new role(s)** since last run · 19 total in last 1h
 
-### [Housing Coordinator](https://www.linkedin.com/jobs/view/4441768573/) — Community Bridges
+### [Program Coordinator - Patient Scheduler / Harborview Pioneer Square Neighborhood Clinic](https://www.linkedin.com/jobs/view/4441774440/) — Prism Data Consulting
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-07-19
+
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4442501983/) — Interim HealthCare Inc.
+- 📍 **Location:** Lexington, MA
+- 💰 **Salary:** $63,000.00/yr - $68,000.00/yr
+- 🕒 **Posted:** 2026-07-19
+
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441770564/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Housing Coordinator BHT](https://www.linkedin.com/jobs/view/4441772513/) — Community Bridges
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441772509/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441764788/) — Community Bridges
-- 📍 **Location:** Mesa, AZ
+### [Agile Project/Program Manager](https://www.linkedin.com/jobs/view/4441773522/) — Pinnacle Method Consulting
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-19
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441763779/) — Community Bridges
+### [Program Manager](https://www.linkedin.com/jobs/view/4442512454/) — Kestra Financial
+- 📍 **Location:** Austin, TX
+- 🕒 **Posted:** 2026-07-19
+
+### [Program Manager (HVAC & Engine Systems)](https://www.linkedin.com/jobs/view/4442507747/) — Stefanini North America and APAC
+- 📍 **Location:** Auburn Hills, MI
+- 🕒 **Posted:** 2026-07-19
+
+### [Program Manager BHT Day/Night Shifts](https://www.linkedin.com/jobs/view/4441768571/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Case Manager RN - Work From Home - EST](https://www.linkedin.com/jobs/view/4442514287/) — CVS Health
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $66,575.00 - $142,576.00
-- 🕒 **Posted:** 2026-07-19
-
-### [Case Manager RN - Work From Home - MST or PST](https://www.linkedin.com/jobs/view/4442510394/) — CVS Health
-- 📍 **Location:** Olympia, WA
-- 💰 **Salary:** $66,575.00 - $142,576.00
-- 🕒 **Posted:** 2026-07-19
-
-### [Health Care Case Manager](https://www.linkedin.com/jobs/view/4441767690/) — Community Bridges
+### [Client Care Coordinator - Day Shift](https://www.linkedin.com/jobs/view/4441752712/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4441778186/) — Community Bridges
-- 📍 **Location:** Payson, AZ
-- 🕒 **Posted:** 2026-07-19
-
-### [Case Manager Behavioral Health (LCPC, LCSW) Field - Cook County](https://www.linkedin.com/jobs/view/4442507634/) — CVS Health
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $66,575.00 - $142,576.00
-- 🕒 **Posted:** 2026-07-19
-
-### [Specialty Case Manager](https://www.linkedin.com/jobs/view/4441772510/) — Community Bridges
+### [Client Care Coordinator (Night Shift)](https://www.linkedin.com/jobs/view/4441751768/) — Community Bridges
 - 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Program Manager I](https://www.linkedin.com/jobs/view/4425936188/) — RIX Industries
-- 📍 **Location:** Sparks, NV
-- 🕒 **Posted:** 2026-07-19
-
-### [UPWARDS Program Manager](https://www.linkedin.com/jobs/view/4441760867/) — Virginia Tech Academy of Data Science
-- 📍 **Location:** Alexandria, VA
-- 🕒 **Posted:** 2026-07-19
-
-### [Program Manager BHT](https://www.linkedin.com/jobs/view/4441759933/) — Community Bridges
-- 📍 **Location:** Phoenix, AZ
+### [Research Assistant / Network Administrator / Data Survey (Remote)](https://www.linkedin.com/jobs/view/4441777181/) — Orchestrate Consulting Group
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-07-19
