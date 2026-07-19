@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-18 18:41 UTC",
+  "scraped_at": "2026-07-19 18:45 UTC",
   "total": 4,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Veterans Health Administration",
@@ -40,24 +40,5 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Veterans Health Administration",
-      "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention",
-      "location": "Hot Springs, South Dakota",
-      "url": "https://www.usajobs.gov/job/876967200",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $89,508 Per year (GS 12)",
-      "ats": "USAJOBS"
-    },
-    {
-      "company": "Offices, Boards and Divisions",
-      "title": "IT Program Manager (INFOSEC)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877074400",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $143,913 Per year (GS 14)",
-      "ats": "USAJOBS"
-    }
-  ]
+  "new_jobs": []
 }
