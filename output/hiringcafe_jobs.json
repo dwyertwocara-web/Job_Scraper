@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-18 23:42 UTC",
-  "total": 92,
+  "scraped_at": "2026-07-19 07:53 UTC",
+  "total": 89,
   "new_count": 0,
   "jobs": [
     {
@@ -134,19 +134,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mount Rogers Community Services",
-      "title": "Housing Specialist",
-      "location": "United States",
-      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -155,6 +142,19 @@
       "date_posted": "2026-06-24T04:00:00.000Z",
       "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mount Rogers Community Services",
+      "title": "Housing Specialist",
+      "location": "United States",
+      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -225,19 +225,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
-      "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -246,6 +233,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Grand Prairie, TX",
+      "title": "Housing Specialist",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -264,14 +264,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Grand Prairie, TX",
+      "company": "Vista Maria",
       "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
+      "location": "Dearborn Heights, Michigan, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "date_posted": "2026-07-01T19:28:22.685Z",
+      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
+      "salary": "$43k–$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -459,14 +459,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
+      "company": "Community Action Organization",
       "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://caowash.applicantpro.com/jobs/4146929",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -506,19 +506,6 @@
       "date_posted": "2026-06-23T23:53:52.000Z",
       "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
       "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://caowash.applicantpro.com/jobs/4146929",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -758,19 +745,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AlohaCare",
-      "title": "Care Coordinator",
-      "location": "Honolulu, Hawaii, United States",
-      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3742097&req_loc=1364962",
-      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3742097&req_loc=1364962",
-      "date_posted": "2026-06-19T03:00:00.000Z",
-      "description": "High school diploma, 1+ year related experience, behavioral health or care coordination experience preferred; strong communication, data entry, and care coordination skills; valid driver’s license; TB clearance; First Aid and CPR.",
-      "salary": "$34k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -862,19 +836,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Kno'Qoti Native Wellness, Inc.",
-      "title": "Care Coordinator ",
-      "location": "Willows, California, United States",
-      "url": "https://knwi.bamboohr.com/careers/31",
-      "direct_url": "https://knwi.bamboohr.com/careers/31",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Provide culturally grounded care coordination and case management, connect clients to healthcare, behavioral health, housing, cultural healing, and community resources, and collaborate with tribal and community partners.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Planstin Administration",
       "title": "Care Coordinator",
       "location": "St George, Utah, United States",
@@ -888,6 +849,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Kno'Qoti Native Wellness, Inc.",
+      "title": "Care Coordinator ",
+      "location": "Willows, California, United States",
+      "url": "https://knwi.bamboohr.com/careers/31",
+      "direct_url": "https://knwi.bamboohr.com/careers/31",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Provide culturally grounded care coordination and case management, connect clients to healthcare, behavioral health, housing, cultural healing, and community resources, and collaborate with tribal and community partners.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Phoebehealth",
       "title": "Care Coordinator",
       "location": "Albany, Georgia, United States",
@@ -896,19 +870,6 @@
       "date_posted": "2026-07-10T00:00:00.000Z",
       "description": "Bachelor's degree required, 2+ years clinical experience, current Georgia license in specialty, EMR experience preferred, skills in care coordination, chronic disease management, patient education.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Peerstar LLC",
-      "title": "Care Coordinator",
-      "location": "Clifton, New Jersey, United States",
-      "url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1883550?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=19332572a7fe463ab7f25ee3b8b30250&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1883550&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8470681&ajs_prop_job_location_lon=-74.1580643&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-06-19T00:00:00.000Z",
-      "description": "1+ years care coordination or healthcare operations experience; scheduling and staffing experience; proficiency with Microsoft Office and electronic documentation; strong communication, organization, and HIPAA-compliant documentation skills.",
-      "salary": "$55k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,14 +940,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pcscco",
-      "title": "Care Coordinator ",
-      "location": "Rochester, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
-      "date_posted": "2026-07-12T04:00:00.000Z",
-      "description": "Bachelor's degree or RN required with relevant experience (2 years for bachelors/RN or 1 year with master's). Valid driver's license, experience coordinating care and advocacy for individuals, strong communication skills.",
-      "salary": "$50k/yr",
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Richardson, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "date_posted": "2026-07-08T16:50:52.000Z",
+      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1005,14 +966,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Innovista Medical Center Texas LLC",
-      "title": "Care Coordinator",
-      "location": "Richardson, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "date_posted": "2026-07-08T16:50:52.000Z",
-      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
-      "salary": "",
+      "company": "Pcscco",
+      "title": "Care Coordinator ",
+      "location": "Rochester, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
+      "date_posted": "2026-07-12T04:00:00.000Z",
+      "description": "Bachelor's degree or RN required with relevant experience (2 years for bachelors/RN or 1 year with master's). Valid driver's license, experience coordinating care and advocacy for individuals, strong communication skills.",
+      "salary": "$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
