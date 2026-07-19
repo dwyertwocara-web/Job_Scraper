@@ -1,9 +1,14 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-18 21:38 UTC*
+*Last updated: 2026-07-19 07:20 UTC*
 
-**1 new role(s)** since last run · 34 total in last 24h
+**2 new role(s)** since last run · 8 total in last 24h
 
-### [Program Coordinator - Family Resource Center](https://www.indeed.com/viewjob?jk=054dd5dd5dea1469) — Bill Wilson Center
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $31–$33/hr
+### [Social Services Coordinator](https://www.indeed.com/viewjob?jk=7e8549d8696edec4) — WSH Management
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $27–$28/hr
+- 🕒 **Posted:** 2026-07-17
+
+### [Social Services Coordinator](https://www.indeed.com/viewjob?jk=96f20393e5c90fe8) — WSH Management
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $27–$28/hr
 - 🕒 **Posted:** 2026-07-17
