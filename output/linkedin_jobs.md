@@ -1,89 +1,59 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-19 00:26 UTC*
+*Last updated: 2026-07-19 07:50 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Travel Nurse - RN - Case Manager - Weekly Pay](https://www.linkedin.com/jobs/view/4441755299/) — Health Wealth Safe
-- 📍 **Location:** Sacramento, CA
+### [Housing Coordinator](https://www.linkedin.com/jobs/view/4441768573/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Travel Nurse - RN - Case Manager](https://www.linkedin.com/jobs/view/4441750547/) — Health Care Administrators Association® (HCAA)
-- 📍 **Location:** Sacramento, CA
+### [Housing Coordinator BHT](https://www.linkedin.com/jobs/view/4441772513/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Travel Nurse - RN - Case Manager - Weekly Pay](https://www.linkedin.com/jobs/view/4441742833/) — Seacrest Behavioral Health
-- 📍 **Location:** Simi Valley, CA
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441764788/) — Community Bridges
+- 📍 **Location:** Mesa, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Travel Nurse - RN - Case Manager - Weekly Pay](https://www.linkedin.com/jobs/view/4441745730/) — Fairview Hospital / Cleveland Clinic
-- 📍 **Location:** Santa Rosa, CA
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4441763779/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4442502124/) — HomeWell Care Services, Nashville TN
-- 📍 **Location:** Hendersonville, TN
-- 🕒 **Posted:** 2026-07-19
-
-### [Care Manager RN ED - Night](https://www.linkedin.com/jobs/view/4441749824/) — Providence
-- 📍 **Location:** Everett, WA
-- 💰 **Salary:** $47.73/hr - $89.59/hr
-- 🕒 **Posted:** 2026-07-19
-
-### [Nurse Case Manager](https://www.linkedin.com/jobs/view/4441760156/) — Health Wealth Safe
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-07-19
-
-### [Nurse Case Manager - CFHP](https://www.linkedin.com/jobs/view/4441741856/) — Black Women's Mental Health Institute
-- 📍 **Location:** Hondo, TX
-- 🕒 **Posted:** 2026-07-19
-
-### [Plaintiff Personal Injury Intake Case Manager (Miami Lakes, FL)](https://www.linkedin.com/jobs/view/4439628918/) — The Ward Law Group, PL
-- 📍 **Location:** Miami Lakes, FL
-- 🕒 **Posted:** 2026-07-19
-
-### [PROGRAM MANAGER, Study Abroad](https://www.linkedin.com/jobs/view/4442492408/) — Boston University
+### [Case Manager RN - Work From Home - EST](https://www.linkedin.com/jobs/view/4442514287/) — CVS Health
 - 📍 **Location:** Boston, MA
+- 💰 **Salary:** $66,575.00 - $142,576.00
 - 🕒 **Posted:** 2026-07-19
 
-### [Remote Program Manager](https://www.linkedin.com/jobs/view/4442504020/) — val's services
-- 📍 **Location:** Los Angeles, CA
+### [Case Manager RN - Work From Home - MST or PST](https://www.linkedin.com/jobs/view/4442510394/) — CVS Health
+- 📍 **Location:** Olympia, WA
+- 💰 **Salary:** $66,575.00 - $142,576.00
 - 🕒 **Posted:** 2026-07-19
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4439638357/) — McBride
-- 📍 **Location:** Oklahoma City, OK
+### [Health Care Case Manager](https://www.linkedin.com/jobs/view/4441767690/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Robotics Program Manager (RN) - Operating Room (OR)](https://www.linkedin.com/jobs/view/4441760308/) — Alpha Home Health and Hospice
-- 📍 **Location:** Richmond, VA
+### [Case Manager](https://www.linkedin.com/jobs/view/4441778186/) — Community Bridges
+- 📍 **Location:** Payson, AZ
 - 🕒 **Posted:** 2026-07-19
 
-### [Senior Research/Data Analyst (4206050)](https://www.linkedin.com/jobs/view/4442501141/) — State of Missouri
-- 📍 **Location:** Jefferson City, MO
+### [Case Manager Behavioral Health (LCPC, LCSW) Field - Cook County](https://www.linkedin.com/jobs/view/4442507634/) — CVS Health
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $66,575.00 - $142,576.00
 - 🕒 **Posted:** 2026-07-19
 
-### [Case Manager - Care Coordination - Full Time 8 hours Days (Union, Non-Exempt)](https://www.linkedin.com/jobs/view/4442491293/) — Keck Medicine of USC
-- 📍 **Location:** Arcadia, CA
-- 💰 **Salary:** $46.00 - $76.07
-- 🕒 **Posted:** 2026-07-18
+### [Specialty Case Manager](https://www.linkedin.com/jobs/view/4441772510/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-07-19
 
-### [Float Workforce Development Program Manager & Career Coach (Health Care Instructional Leadership)](https://www.linkedin.com/jobs/view/4441747658/) — Association of Fundraising Professionals (AFP) Silicon Valley Chapter
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $70,304 - $74,664
-- 🕒 **Posted:** 2026-07-18
+### [Program Manager I](https://www.linkedin.com/jobs/view/4425936188/) — RIX Industries
+- 📍 **Location:** Sparks, NV
+- 🕒 **Posted:** 2026-07-19
 
-### [Housing Coordinator](https://www.linkedin.com/jobs/view/4442496330/) — Placemakr
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-07-18
+### [UPWARDS Program Manager](https://www.linkedin.com/jobs/view/4441760867/) — Virginia Tech Academy of Data Science
+- 📍 **Location:** Alexandria, VA
+- 🕒 **Posted:** 2026-07-19
 
-### [Employee Experience Program Manager](https://www.linkedin.com/jobs/view/4442478983/) — Fast Forward Rewind
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $195,000 - $210,000 per year
-- 🕒 **Posted:** 2026-07-18
-
-### [Recruiting Program Manager](https://www.linkedin.com/jobs/view/4442491333/) — Fast Forward Rewind
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000 - $195,000 per year
-- 🕒 **Posted:** 2026-07-18
-
-### [Child Welfare Case Manager](https://www.linkedin.com/jobs/view/4413172497/) — One Hope United
-- 📍 **Location:** Tampa, FL
-- 🕒 **Posted:** 2026-07-18
+### [Program Manager BHT](https://www.linkedin.com/jobs/view/4441759933/) — Community Bridges
+- 📍 **Location:** Phoenix, AZ
+- 🕒 **Posted:** 2026-07-19
