@@ -1,5 +1,5 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-19 07:53 UTC*
+*Last updated: 2026-07-19 20:17 UTC*
 
 **0 new role(s)** since last run · 89 total in last 30d
 

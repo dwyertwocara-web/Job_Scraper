@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-19 07:53 UTC",
+  "scraped_at": "2026-07-19 20:17 UTC",
   "total": 89,
   "new_count": 0,
   "jobs": [
@@ -134,19 +134,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Min",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-06-24T04:00:00.000Z",
-      "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Mount Rogers Community Services",
       "title": "Housing Specialist",
       "location": "United States",
@@ -155,6 +142,19 @@
       "date_posted": "2026-07-09T00:00:00.000Z",
       "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Min",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careeropportunity-sus.icims.com/jobs/18594/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-06-24T04:00:00.000Z",
+      "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
+      "salary": "$48k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -381,19 +381,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Path of Life Ministries",
-      "title": "Temp Housing Navigator",
-      "location": "Riverside, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "date_posted": "2026-07-13T18:25:52.000Z",
-      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Father Heart Street Ministry",
       "title": "Medical Housing Navigator",
       "location": "Clackamas County, Oregon, United States",
@@ -403,6 +390,19 @@
       "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
       "salary": "$63k–$65k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Path of Life Ministries",
+      "title": "Temp Housing Navigator",
+      "location": "Riverside, California, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
+      "date_posted": "2026-07-13T18:25:52.000Z",
+      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
