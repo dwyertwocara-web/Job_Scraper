@@ -1,281 +1,102 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-20 08:41 UTC*
+*Last updated: 2026-07-20 10:43 UTC*
 
-**56 new role(s)** since last run · 56 total in last 1h
+**21 new role(s)** since last run · 21 total in last 1h
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4440339997/) — PDS Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4439919441/) — Crossover
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $60.00/hr - $60.00/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4435359169/) — PDS Health
-- 📍 **Location:** Rancho Cordova, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Health & Safety Program Manager (Southern CA)](https://www.linkedin.com/jobs/view/4415538845/) — American Water
+- 📍 **Location:** Imperial Beach, CA
+- 💰 **Salary:** $67,160 to $112,
 - 🕒 **Posted:** 2026-07-20
 
-### [Specialty Healthcare Coordinator](https://www.linkedin.com/jobs/view/4409099608/) — PDS Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Client Care Coordinator - MOOV - Los Angeles](https://www.linkedin.com/jobs/view/4374921289/) — Vituity
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $17.00/hr - $21.00/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4416454213/) — PDS Health
-- 📍 **Location:** Citrus Heights, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Pre-Lit Case Manager](https://www.linkedin.com/jobs/view/4431037142/) — Jobot
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $40.00/hr - $45.00/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4440868446/) — PDS Health
-- 📍 **Location:** Citrus Heights, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Case Manager](https://www.linkedin.com/jobs/view/4394203950/) — Bay Cove Human Services
+- 📍 **Location:** Cambridge, MA
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4409453443/) — PDS Health
-- 📍 **Location:** Folsom, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Social Worker (Program Coordinator) -  Behavioral Health Interdisciplinary Program Care Coordinator](https://www.linkedin.com/jobs/view/4442456115/) — U.S. Department of Veterans Affairs
+- 📍 **Location:** Jackson, MS
+- 💰 **Salary:** $89,508.00/yr - $116,362.00/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4399803019/) — PDS Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Care Manager -PD](https://www.linkedin.com/jobs/view/4442584776/) — Mount Sinai Medical Center
+- 📍 **Location:** Mount Sinai, NY
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4440855986/) — PDS Health
-- 📍 **Location:** Roseville, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Behavioral Health Care Manager II - ABA - GA/NC](https://www.linkedin.com/jobs/view/4436703324/) — Elevance Health
+- 📍 **Location:** Atlanta, GA
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4419993524/) — PDS Health
-- 📍 **Location:** Rocklin, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Case Manager- Part-Time or Full-Time](https://www.linkedin.com/jobs/view/4440113899/) — Home to Stay
+- 📍 **Location:** Lebanon, OR
 - 🕒 **Posted:** 2026-07-20
 
-### [Specialty Healthcare Coordinator](https://www.linkedin.com/jobs/view/4409031626/) — PDS Health
-- 📍 **Location:** Citrus Heights, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4405016634/) — Harlem Children's Zone
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $55,000.00/yr - $60,000.00/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4344547836/) — PDS Health
-- 📍 **Location:** Claremont, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Case Manager - Vocational Services (62544)](https://www.linkedin.com/jobs/view/4438915739/) — Aurora Mental Health & Recovery
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $21.03/hr - $31.56/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4411672365/) — PDS Health
-- 📍 **Location:** Santa Clarita, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4304928003/) — PDS Health
-- 📍 **Location:** Chino Hills, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4411830357/) — PDS Health
-- 📍 **Location:** Lakewood, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4427579890/) — PDS Health
-- 📍 **Location:** Vista, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4427058609/) — PDS Health
-- 📍 **Location:** Castaic, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431749959/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4438694410/) — PDS Health
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4422458394/) — PDS Health
-- 📍 **Location:** Hacienda Heights, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4431148896/) — PDS Health
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4400662161/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4429999155/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4438802076/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4422472290/) — PDS Health
-- 📍 **Location:** Escondido, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4419979844/) — PDS Health
-- 📍 **Location:** Bakersfield, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4379276095/) — PDS Health
-- 📍 **Location:** Placerville, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4417344581/) — PDS Health
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4438690401/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4374178763/) — PDS Health
-- 📍 **Location:** La Habra, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Clinical Trials Research Assistant - Medicine - 139994](https://www.linkedin.com/jobs/view/4442029159/) — UC San Diego Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $26.23 - $30.93
-- 🕒 **Posted:** 2026-07-20
-
-### [Youth Program Coordinator (Transportation Demand Management Specialist I)](https://www.linkedin.com/jobs/view/4442027427/) — City of Portland
-- 📍 **Location:** Portland, OR
-- 🕒 **Posted:** 2026-07-20
-
-### [Reading Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4439914620/) — Crossover
-- 📍 **Location:** Grand Prairie, TX
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4407895490/) — PDS Health
-- 📍 **Location:** Cross Roads, TX
-- 💰 **Salary:** $16.50/hr - $23.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4408513669/) — PDS Health
-- 📍 **Location:** Chantilly, VA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4434054705/) — PDS Health
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** $17.25/hr - $24.25/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4417432131/) — PDS Health
-- 📍 **Location:** Canton, GA
-- 💰 **Salary:** $17.25/hr - $24.25/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4398314090/) — PDS Health
-- 📍 **Location:** Silver Spring, MD
-- 💰 **Salary:** $19.00/hr - $26.75/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4405818353/) — PDS Health
-- 📍 **Location:** Franklin, TN
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4436126678/) — PDS Health
-- 📍 **Location:** Castle Rock, CO
-- 💰 **Salary:** $19.75/hr - $28.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4385101035/) — PDS Health
-- 📍 **Location:** Commerce City, CO
-- 💰 **Salary:** $19.75/hr - $28.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4438680878/) — PDS Health
-- 📍 **Location:** Naples, FL
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4378399669/) — PDS Health
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $17.25/hr - $24.25/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Part Time RN Care Manager](https://www.linkedin.com/jobs/view/4442585195/) — Vetted Solutions
-- 📍 **Location:** Joplin, MO
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4441626641/) — PDS Health
-- 📍 **Location:** Sugar Land, TX
-- 💰 **Salary:** $15.75/hr - $22.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4402651585/) — PDS Health
-- 📍 **Location:** Pearland, TX
-- 💰 **Salary:** $15.75/hr - $22.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4303099995/) — PDS Health
-- 📍 **Location:** Bristow, VA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4429996107/) — PDS Health
-- 📍 **Location:** Richmond, TX
-- 💰 **Salary:** $15.75/hr - $22.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4414502569/) — PDS Health
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $16.50/hr - $23.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4421204148/) — PDS Health
-- 📍 **Location:** Winter Park, FL
-- 💰 **Salary:** $16.50/hr - $23.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4437895805/) — PDS Health
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $17.25/hr - $24.25/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4416988546/) — PDS Health
-- 📍 **Location:** Grand Prairie, TX
-- 💰 **Salary:** $17.25/hr - $24.25/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4427042724/) — PDS Health
-- 📍 **Location:** Clarksville, TN
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Youth Program Coordinator, Alpha - $100,000/year USD](https://www.linkedin.com/jobs/view/4439903927/) — Crossover
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $50.00/hr - $50.00/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Remote Project/Program Manager](https://www.linkedin.com/jobs/view/4442017853/) — Pinnacle Method Consulting
+### [Program Manager (Remote - US)](https://www.linkedin.com/jobs/view/4440128371/) — Ladders
 - 📍 **Location:** United States
-- 💰 **Salary:** $150,000.00/yr - $250,000.00/yr
+- 💰 **Salary:** $112,400.00/yr - $149,800.00/yr
 - 🕒 **Posted:** 2026-07-20
 
-### [Accelerator Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4439902925/) — Crossover
+### [Program Manager, CS Operations](https://www.linkedin.com/jobs/view/4440118939/) — Ladders
+- 📍 **Location:** United States
+- 💰 **Salary:** $100,000.00/yr - $130,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4439924137/) — Crossover
 - 📍 **Location:** New York, NY
 - 💰 **Salary:** $100.00/hr - $100.00/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [DATA ANALYST (ON-SITE)](https://www.linkedin.com/jobs/view/4442591117/) — Springfield Empowerment Zone Partnership
-- 📍 **Location:** Springfield, MA
+### [Program Manager](https://www.linkedin.com/jobs/view/4394205331/) — Koniag Government Services
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-07-20
+
+### [Startup Program Manager, Founders School - $200,000/year USD](https://www.linkedin.com/jobs/view/4439911616/) — Crossover
+- 📍 **Location:** New Jersey, United States
+- 💰 **Salary:** $100.00/hr - $100.00/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [BDR Enablement Program Manager](https://www.linkedin.com/jobs/view/4440133110/) — Ladders
+- 📍 **Location:** United States
+- 💰 **Salary:** $120,000.00/yr - $145,000.00/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Program Manager - Data Center](https://www.linkedin.com/jobs/view/4442583715/) — Metric Geo
+- 📍 **Location:** Columbus, Ohio Metropolitan Area
+- 🕒 **Posted:** 2026-07-20
+
+### [Case Manager - Supportive Housing (62802)](https://www.linkedin.com/jobs/view/4442039112/) — Aurora Mental Health & Recovery
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $21.03/hr - $31.56/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Safety Program Specialist](https://www.linkedin.com/jobs/view/4434437982/) — Carhartt
+- 📍 **Location:** Camden, TN
+- 🕒 **Posted:** 2026-07-20
+
+### [Senior Program Manager, Cloud Responsible AI](https://www.linkedin.com/jobs/view/4442023932/) — Google
+- 📍 **Location:** Kirkland, WA
+- 💰 **Salary:** $188000 - $275000
 - 🕒 **Posted:** 2026-07-20
