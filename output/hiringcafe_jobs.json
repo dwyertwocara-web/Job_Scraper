@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-20 00:18 UTC",
-  "total": 90,
-  "new_count": 1,
+  "scraped_at": "2026-07-20 11:34 UTC",
+  "total": 88,
+  "new_count": 0,
   "jobs": [
     {
       "company": "THE HOUSING AUTHORITY OF THE CITY OF COLORADO SPRINGS",
@@ -472,6 +472,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Porter-Starke Knox",
       "title": "Housing Navigator",
       "location": "Knox, Indiana, United States",
@@ -493,32 +506,6 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
       "salary": "$50k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://caowash.applicantpro.com/jobs/4146929",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -823,19 +810,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "enmasseMEDIA, LLC",
-      "title": "Care Coordinator",
-      "location": "Marrero, Louisiana, United States",
-      "url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
-      "direct_url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
-      "date_posted": "2026-07-03T00:00:00.000Z",
-      "description": "Graduate of an accredited school of nursing preferred, current LPN in state of practice, current BLS, care management/ambulatory care experience preferred, strong communication and documentation skills, ability to coordinate referrals and follow-up.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Eventus WholeHealth",
       "title": "Care Coordinator",
       "location": "Charlotte or Raleigh or Chapel Hill or Concord or Durham",
@@ -953,14 +927,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Innovista Medical Center Texas LLC",
-      "title": "Care Coordinator",
-      "location": "Richardson, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "date_posted": "2026-07-08T16:50:52.000Z",
-      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
-      "salary": "",
+      "company": "Pcscco",
+      "title": "Care Coordinator ",
+      "location": "Rochester, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
+      "date_posted": "2026-07-12T04:00:00.000Z",
+      "description": "Bachelor's degree or RN required with relevant experience (2 years for bachelors/RN or 1 year with master's). Valid driver's license, experience coordinating care and advocacy for individuals, strong communication skills.",
+      "salary": "$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,29 +953,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pcscco",
-      "title": "Care Coordinator ",
-      "location": "Rochester, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3364",
-      "date_posted": "2026-07-12T04:00:00.000Z",
-      "description": "Bachelor's degree or RN required with relevant experience (2 years for bachelors/RN or 1 year with master's). Valid driver's license, experience coordinating care and advocacy for individuals, strong communication skills.",
-      "salary": "$50k/yr",
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Richardson, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "date_posted": "2026-07-08T16:50:52.000Z",
+      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Nadia Care",
-      "title": "Care Coordinator",
-      "location": "Maryland or District of Columbia or United States or North Dakota or Alabama or Hawaii or Puerto Rico",
-      "url": "https://job-boards.greenhouse.io/nadiacare/jobs/4307951009",
-      "direct_url": "https://job-boards.greenhouse.io/nadiacare/jobs/4307951009",
-      "date_posted": "2026-07-07T18:44:25.000Z",
-      "description": "High school diploma, 1-2 years care coordination or community health experience, 1+ year EHR/EMR experience, bilingual English/Spanish, insurance verification and scheduling experience, strong communication and organization.",
-      "salary": "$42k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1028,6 +989,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Nadia Care",
+      "title": "Care Coordinator",
+      "location": "Maryland or District of Columbia or United States or North Dakota or Alabama or Hawaii or Puerto Rico",
+      "url": "https://job-boards.greenhouse.io/nadiacare/jobs/4307951009",
+      "direct_url": "https://job-boards.greenhouse.io/nadiacare/jobs/4307951009",
+      "date_posted": "2026-07-07T18:44:25.000Z",
+      "description": "High school diploma, 1-2 years care coordination or community health experience, 1+ year EHR/EMR experience, bilingual English/Spanish, insurance verification and scheduling experience, strong communication and organization.",
+      "salary": "$42k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1174,19 +1148,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
