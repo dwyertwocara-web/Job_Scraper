@@ -1,85 +1,151 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-21 00:02 UTC*
+*Last updated: 2026-07-21 06:51 UTC*
 
-**17 new role(s)** since last run · 38 total in last 24h
+**31 new role(s)** since last run · 64 total in last 24h
 
-### [Case Manager - Housing Assistance](https://www.indeed.com/viewjob?jk=e5a1b65ef049c14f) — The Amelia Ann Adams Whole Life Center
-- 📍 **Location:** Stockton, CA, US
-- 💰 **Salary:** $24–$26/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Client Care Coordinator](https://www.indeed.com/viewjob?jk=3449f64159967e4e) — Sierra Mental Wellness Group
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $24–$26/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Housing Specialist II](https://www.indeed.com/viewjob?jk=15f9cb4c5b01aba2) — Volunteers of America
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $24–$26/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Customer Care Coordinator I](https://www.indeed.com/viewjob?jk=834fc61d3aea82b7) — Milgard Windows & Doors
-- 📍 **Location:** Temecula, CA, US
-- 💰 **Salary:** $24–$26/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Service Coordinator | Mental Health Case Manager](https://www.indeed.com/viewjob?jk=fa7e73b1f6a546bf) — Crestwood Behavioral Health
-- 📍 **Location:** Vallejo, CA, US
-- 💰 **Salary:** $23–$26/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Service Coordinator | Mental Health Case Manager](https://www.indeed.com/viewjob?jk=7344a34786d2eb1e) — Crestwood Behavioral Health
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $25–$27/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Medspa Patient Care Coordinator](https://www.indeed.com/viewjob?jk=797c8b0e24c568f2) — SELFishly Aesthetics & Wellness Medical Spa
-- 📍 **Location:** San Francisco, CA, US
-- 🕒 **Posted:** 2026-07-20
-
-### [Dental Treatment Coordinator / Patient Care Coordinator (Pediatric Dentistry)](https://www.indeed.com/viewjob?jk=7d205a89f70d8aed) — Milk Tooth
-- 📍 **Location:** Hermosa Beach, CA, US
-- 💰 **Salary:** $26–$36/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [RN Case Manager - Surgery Services](https://www.indeed.com/viewjob?jk=715c1cbc644054ac) — UCLA Health
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $68–$88/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [RN Case Manager - Swing Shift](https://www.indeed.com/viewjob?jk=5ea72608689ce300) — UCLA Health
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $68–$88/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [LVN Care Clinical Care Coordinator, Home Health](https://www.indeed.com/viewjob?jk=8feaecbc52fda984) — Sutter Health
-- 📍 **Location:** Salida, CA, US
-- 💰 **Salary:** $39–$55/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [ED CARE COORDINATOR - Care Integration - Per Diem - Days](https://www.indeed.com/viewjob?jk=76f59aa4b81393c0) — Sierra View Medical Center
-- 📍 **Location:** Porterville, CA, US
-- 🕒 **Posted:** 2026-07-20
-
-### [Case Manager I - FT - Days - Care Coordination-Patient Support @ MV](https://www.indeed.com/viewjob?jk=5d66cea767529003) — El Camino Health
-- 📍 **Location:** Mountain View, CA, US
-- 💰 **Salary:** $93–$122/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [FQHC Enhanced Care Manager](https://www.indeed.com/viewjob?jk=5e5ab5abde146bd9) — University of California - San Francisco
-- 📍 **Location:** Oakland, CA, US
-- 🕒 **Posted:** 2026-07-20
-
-### [Community Health Worker, FT, Day Shift, Hidden Valley Lake](https://www.indeed.com/viewjob?jk=50066406360785b4) — Adventist Health
-- 📍 **Location:** Clearlake, CA, US
+### [Community Health Worker (FTE, Dayshift)](https://www.indeed.com/viewjob?jk=26ec9d8123238a27) — Adventist Health
+- 📍 **Location:** Marysville, CA, US
 - 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=98f7933fe9df138c) — University of California - San Francisco
-- 📍 **Location:** San Francisco, CA, US
+### [Community Health Worker (FTE, Dayshift)](https://www.indeed.com/viewjob?jk=90ae2445d6b747b2) — Adventist Health
+- 📍 **Location:** Lodi, CA, US
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-07-20
 
-### [Program Coordinator(FT)](https://www.indeed.com/viewjob?jk=4092a5a0197a1975) — The Forum at Rancho San Antonio
-- 📍 **Location:** Cupertino, CA, US
-- 💰 **Salary:** $26–$37/hr
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=402e5fc1567226ac) — Peach Tree Healthcare
+- 📍 **Location:** Marysville, CA, US
+- 💰 **Salary:** $46k–$60k/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [Case Manager - Turning Point](https://www.indeed.com/viewjob?jk=0d82b4861040f747) — The People Concern
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [Case Manager - Turning Point](https://www.indeed.com/viewjob?jk=957320085bb8e864) — The People Concern
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [Program Coordinator](https://www.indeed.com/viewjob?jk=e3b2a13910ee75e6) — Life Skills Training and Educational Programs - LifeSTEPS
+- 📍 **Location:** Orange, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Program Coordinator](https://www.indeed.com/viewjob?jk=5eff173baac3326a) — Life Skills Training and Educational Programs - LifeSTEPS
+- 📍 **Location:** Irvine, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Housing Program Specialist](https://www.indeed.com/viewjob?jk=162b36f31cdbb3a6) — Symba Center
+- 📍 **Location:** Victorville, CA, US
+- 💰 **Salary:** $26–$28/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Case Manager](https://www.indeed.com/viewjob?jk=5a1f1985f45af729) — East Bay Innovations
+- 📍 **Location:** Hayward, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Affordable Housing Compliance Specialist & Housing Navigator](https://www.indeed.com/viewjob?jk=9823038a28b606c8) — Beach Front Property Management, Inc.
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $29–$30/hr
+- 🕒 **Posted:** 2026-07-09
+
+### [Case Manager Specialty RN - Population Mgt](https://www.indeed.com/viewjob?jk=9031054aaf1897cb) — Kaiser Permanente
+- 📍 **Location:** Lancaster, CA, US
+- 💰 **Salary:** $77–$95/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Transitional Care Coordinator - Temporary - (On-site, Salinas, CA)](https://www.indeed.com/viewjob?jk=535f140331b63840) — Salinas Valley Health
+- 📍 **Location:** Salinas, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Authorization Care Coordinator](https://www.indeed.com/viewjob?jk=8414c6b0efbeb4c2) — Bserved
+- 📍 **Location:** Pasadena, CA, US
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=9963615e792f6350) — Arrowhead Orthopaedics
+- 📍 **Location:** Redlands, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Veterinary Receptionist (Care Coordinator) - Ambassador Dog & Cat Hospital](https://www.indeed.com/viewjob?jk=35e2071415022020) — PetVet Care Centers
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $20–$23/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Managed Care Coordinator](https://www.indeed.com/viewjob?jk=8ca7e5bb232b6ed8) — CHOC Children's
+- 📍 **Location:** Orange, CA, US
+- 💰 **Salary:** $64k–$106k/yr
+- 🕒 **Posted:** 2026-07-20
+
+### [LVN Patient Care Coordinator, Hospice](https://www.indeed.com/viewjob?jk=170869aa28fc097f) — Assisted Home Health & Hospice
+- 📍 **Location:** Culver City, CA, US
+- 💰 **Salary:** $32–$36/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Memory Care Coordinator](https://www.indeed.com/viewjob?jk=d74670d102e92f5c) — The Oaks at Paso Robles
+- 📍 **Location:** Paso Robles, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Care Coordinator - Part-Time](https://www.indeed.com/viewjob?jk=dcedf671f5dbc49e) — EmpowerMe Wellness
+- 📍 **Location:** Redwood City, CA, US
+- 💰 **Salary:** $20–$27/hr
+- 🕒 **Posted:** 2026-07-19
+
+### [PACE Business Development Coordinator (North San Diego County)](https://www.indeed.com/viewjob?jk=fb6fd66b75b524fe) — San Ysidro Health
+- 📍 **Location:** Vista, CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (Central & East San Diego County)](https://www.indeed.com/viewjob?jk=fc71be9ea9c34a99) — San Ysidro Health
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (Central & East San Diego County)](https://www.indeed.com/viewjob?jk=ba71b6f4cf6ec730) — San Ysidro Health
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (North San Diego County)](https://www.indeed.com/viewjob?jk=0707bec718d49715) — San Ysidro Health
+- 📍 **Location:** Vista, CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (North San Diego County)](https://www.indeed.com/viewjob?jk=2cc027cf2b9b0463) — San Ysidro Health
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (Central & East San Diego County)](https://www.indeed.com/viewjob?jk=2aa1e1de49e80f59) — San Ysidro Health
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (North San Diego County)](https://www.indeed.com/viewjob?jk=b96f7a6380546d0e) — San Ysidro Health
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [PACE Business Development Coordinator (Central & East San Diego County)](https://www.indeed.com/viewjob?jk=08f85e3af63b23d8) — San Ysidro Health
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $34–$44/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [Case Manager](https://www.indeed.com/viewjob?jk=af03ff4da8bf2852) — San Diego Youth Services
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $22–$25/hr
+- 🕒 **Posted:** 2026-07-20
+
+### [Development Coordinator](https://www.indeed.com/viewjob?jk=6fde653e7f90e335) — Connections for Children
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-07-20
+
+### [Program Coordinator](https://www.indeed.com/viewjob?jk=b28fee8868f371fe) — Asociacion Mayab
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $23–$25/hr
+- 🕒 **Posted:** 2026-07-21
+
+### [Remote Care Coordinator ( Medical Assistant) – CCM/RPM](https://www.indeed.com/viewjob?jk=7336b6ccf97505c0) — TeleCare-USA
+- 📍 **Location:** Remote, US
 - 🕒 **Posted:** 2026-07-20
