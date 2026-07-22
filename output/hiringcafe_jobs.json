@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-22 18:06 UTC",
+  "scraped_at": "2026-07-22 20:10 UTC",
   "total": 92,
-  "new_count": 4,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Westhab",
@@ -95,19 +95,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mount Rogers Community Services",
-      "title": "Housing Specialist",
-      "location": "United States",
-      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -116,6 +103,19 @@
       "date_posted": "2026-06-24T04:00:00.000Z",
       "description": "High school diploma/GED and 2 years in human services required. Must assess housing needs, submit housing applications, maintain records, run groups, liaise with landlords and agencies; bilingual English/Spanish preferred.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mount Rogers Community Services",
+      "title": "Housing Specialist",
+      "location": "United States",
+      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -342,19 +342,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Acacia Health",
-      "title": "Housing Navigator - MSW",
-      "location": "Irvine or Santa Clara County",
-      "url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
-      "direct_url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
-      "date_posted": "2026-07-17T00:08:09.000Z",
-      "description": "Master's in social work or related, 2+ years housing navigation/case management experience, knowledge of CES/VI-SPDAT/HMIS, valid California driver's license and reliable transportation, strong communication and relationship-building skills.",
-      "salary": "$71k–$79k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Chicanos Por La Causa",
       "title": "Housing Navigator ",
       "location": "Phoenix or Arizona",
@@ -363,6 +350,19 @@
       "date_posted": "2026-06-26T00:00:00.000Z",
       "description": "Bachelor's degree preferred; 2 years experience in housing, case management, or social services (or combination of education/experience). Must know landlord-tenant, Fair Housing and HQS; proficient in Microsoft Office and HMIS/Teams; valid driver\\u0002s license, proof of insurance, background/TB screening, and fingerprint clearance required; bilingual preferred.",
       "salary": "$46k–$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Acacia Health",
+      "title": "Housing Navigator - MSW",
+      "location": "Irvine or Santa Clara County",
+      "url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
+      "direct_url": "https://apply.appone.com/job/6a501aeed12a86db70ff21d9",
+      "date_posted": "2026-07-17T00:08:09.000Z",
+      "description": "Master's in social work or related, 2+ years housing navigation/case management experience, knowledge of CES/VI-SPDAT/HMIS, valid California driver's license and reliable transportation, strong communication and relationship-building skills.",
+      "salary": "$71k–$79k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -394,19 +394,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Father Heart Street Ministry",
-      "title": "Medical Housing Navigator",
-      "location": "Clackamas County, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "date_posted": "2026-07-14T19:21:39.000Z",
-      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
-      "salary": "$63k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Path of Life Ministries",
       "title": "Temp Housing Navigator",
       "location": "Riverside, California, United States",
@@ -416,6 +403,19 @@
       "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
       "salary": "$52k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Father Heart Street Ministry",
+      "title": "Medical Housing Navigator",
+      "location": "Clackamas County, Oregon, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "date_posted": "2026-07-14T19:21:39.000Z",
+      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
+      "salary": "$63k–$65k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -446,14 +446,40 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Heritage Health Network",
+      "company": "Illumination Health + Home",
       "title": "Housing Navigator",
-      "location": "Riverside, California, United States",
-      "url": "https://heritagehealthnetwork.zohorecruit.com/jobs/Careers/780824000006671030/Housing-Navigator",
-      "direct_url": "https://heritagehealthnetwork.zohorecruit.com/jobs/Careers/780824000006671030/Housing-Navigator",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Minimum 2 years relevant experience, bilingual English/Spanish, remote after first month with in-person training in Riverside, CA; full-time Monday–Friday.",
-      "salary": "$44k–$50k/yr",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Tualatin, Oregon, United States",
+      "url": "https://caowash.applicantpro.com/jobs/4146929",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
+      "date_posted": "2026-07-14T00:00:00.000Z",
+      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
+      "date_posted": "2026-06-23T23:53:52.000Z",
+      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -480,32 +506,6 @@
       "date_posted": "2026-06-25T00:00:00.000Z",
       "description": "Bachelor's in social work/human services/psychology/counseling or equivalent, 1+ year experience serving people experiencing homelessness, HMIS experience, knowledge of HUD regs and HQS/NSPIRE inspections, valid VA driver's license, ability to travel locally and statewide.",
       "salary": "$50k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5171792007",
-      "date_posted": "2026-06-23T23:53:52.000Z",
-      "description": "High school diploma/GED, 1+ year case management or related experience, valid California driver's license and vehicle insurance, ability to travel for outreach, TB testing/clearance, strong communication, documentation, multitasking, and organizational skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Tualatin, Oregon, United States",
-      "url": "https://caowash.applicantpro.com/jobs/4146929",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4146929",
-      "date_posted": "2026-07-14T00:00:00.000Z",
-      "description": "High school diploma or equivalent, 1+ year social services experience, proficiency in Microsoft Office and databases, strong communication, organizational and case management skills, valid driver license and reliable transportation.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -784,19 +784,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ccf",
-      "title": "Care Coordinator",
-      "location": "Akron, Ohio, United States",
-      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brattleboro Memorial Hospital",
       "title": "CARE COORDINATOR",
       "location": "Brattleboro, Vermont, United States",
@@ -805,6 +792,19 @@
       "date_posted": "2026-07-13T17:39:32.000Z",
       "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
       "salary": "$52k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ccf",
+      "title": "Care Coordinator",
+      "location": "Akron, Ohio, United States",
+      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1202,53 +1202,14 @@
   ],
   "new_jobs": [
     {
-      "company": "The Cocoon Shelter",
-      "title": "Housing Specialist",
-      "location": "Bowling Green, Ohio, United States",
-      "url": "https://jobs.smartrecruiters.com/TheCocoonShelter/744000134523749-housing-specialist",
-      "direct_url": "https://jobs.smartrecruiters.com/TheCocoonShelter/744000134523749-housing-specialist",
-      "date_posted": "2026-06-26T17:01:04.156Z",
-      "description": "Minimum 1 year related experience; bachelor\\u0002s degree preferred; valid driver\\u0002s license and vehicle required; strong oral and written communication; provides housing and case management; on-call and weekend availability as needed.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Road Home",
+      "company": "Illumination Health + Home",
       "title": "Housing Navigator",
-      "location": "Midvale, Utah, United States",
-      "url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
-      "direct_url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "Provide housing navigation, complete eligibility assessments, coordinate with case managers and landlords, process rental payments, enter HMIS data, pass background check and drug screen, HS diploma required, valid driver license and ability to drive, lifting up to 25 lbs.",
-      "salary": "$39k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Gabbi, Inc.",
-      "title": "Care Coordinator",
-      "location": "United States",
-      "url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
-      "direct_url": "https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670",
-      "date_posted": "2026-06-29T20:47:42.929Z",
-      "description": "1+ years in customer-facing, care coordination, or patient service role; tech-savvy; strong verbal/written communication, organization, empathy for sensitive moments, ability to manage multiple systems and own initiatives end-to-end.",
-      "salary": "$44k–$50k/yr",
-      "job_type": "Full Time, Contract",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Monarch",
-      "title": "LPN Care Coordinator Crestview",
-      "location": "Columbia Heights, Minnesota, United States",
-      "url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
-      "direct_url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
-      "date_posted": "2026-07-22T14:30:02.229Z",
-      "description": "Licensed practical nurse providing care coordination at a residential facility; coordinates and documents patient care.",
-      "salary": "$69k–$81k/yr",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
