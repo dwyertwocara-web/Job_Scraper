@@ -1,21 +1,8 @@
 {
-  "scraped_at": "2026-07-22 20:10 UTC",
+  "scraped_at": "2026-07-22 22:02 UTC",
   "total": 92,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
-    {
-      "company": "Westhab",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=951b88bb-341e-49d1-b884-3099e9b49df5&jobId=553056",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=951b88bb-341e-49d1-b884-3099e9b49df5&jobId=553056",
-      "date_posted": "2026-06-22T20:46:00.000Z",
-      "description": "Experience negotiating leases and securing housing for special-needs populations; knowledge of state/city housing and disability laws; valid driver's license; ability to prepare housing packages and maintain housing option databases.",
-      "salary": "$45k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
     {
       "company": "LaSante Health Center",
       "title": "Housing Specialist",
@@ -129,6 +116,19 @@
       "date_posted": "2026-07-08T04:00:00.000Z",
       "description": "Bachelor's in social service field, minimum 2 years in social service or housing agency, knowledge of NYC youth housing options, strong communication, trauma-informed youth engagement, proficiency with Excel, Word, Teams, Outlook, PowerPoint, CONNXs, Care4, Evolv NX.",
       "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "CASES",
+      "title": "Housing Specialist ",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=566efbd3-0446-4f82-a192-39a723b842bb&ccId=19000101_000001&jobId=961547&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=566efbd3-0446-4f82-a192-39a723b842bb&ccId=19000101_000001&jobId=961547&lang=en_US",
+      "date_posted": "2026-07-02T14:23:00.000Z",
+      "description": "Bachelor's degree required; experience with serious mental illness and housing application processes (HRA2010e) preferred; team collaboration, documentation, and computer proficiency required.",
+      "salary": "$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1200,19 +1200,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
