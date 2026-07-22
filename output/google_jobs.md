@@ -1,66 +1,47 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-07-22 07:31 UTC*
+*Last updated: 2026-07-22 17:57 UTC*
 
-**15 new role(s)** since last run · 15 total in last 24h
+**10 new role(s)** since last run · 15 total in last 24h
 
-### [Integrated Care Coordinator](https://jobmesh.io/job/97afc4e5-815c-4e43-adcd-fea8523a59eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — WellSpace Health
-- 📍 **Location:** Parkway, CA
+### [Housing Navigator](https://us.jobrapido.com/jobpreview/7958465872106881024?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Heritage Health Network
+- 📍 **Location:** Riverside, CA (+19 others)
 - 🕒 **Posted:** 2026-07-22
 
-### [Memory Care Coordinator – Senior Living - Now Hiring](https://www.snagajob.com/jobs/1278689141?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sunrise Senior Living Mgmt Inc
-- 📍 **Location:** Rocklin, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Housing Specialist-Gilroy CWSP (87243)](https://www.recruit.net/job/housing-specialist-gilroy-cwsp-jobs/A310D25A2FDC08C5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — HomeFirst
-- 📍 **Location:** Gilroy, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Housing Stability Specialist](https://salutemyjob.com/jobs/housing-stability-specialist-concord-california/2887393939-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — shelter inc
-- 📍 **Location:** Concord, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Housing Specialist I - 5416897-0](https://bandana.com/jobs/f204db98-475a-411c-b15b-199bc738f1e5?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — County of Orange
-- 📍 **Location:** Santa Ana, CA
-- 💰 **Salary:** 55,099.20 a year
-- 🕒 **Posted:** 2026-07-22
-
-### [Outreach Housing Navigator](https://www.ziprecruiter.com/c/Sync-Staffing/Job/Outreach-Housing-Navigator/-in-Compton,CA?jid=e84f5de4689c3784&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sync Staffing, Inc
-- 📍 **Location:** Compton, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Community Health Worker](https://www.linkedin.com/jobs/view/community-health-worker-at-homebridge-inc-4442695184?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Homebridge, Inc.
-- 📍 **Location:** Alameda, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Community Health Worker, Bilingual (Spanish)](https://www.linkedin.com/jobs/view/community-health-worker-bilingual-spanish-at-didi-hirsch-mental-health-services-4442687574?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Didi Hirsch Mental Health Services
-- 📍 **Location:** Inglewood, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-bissell-clinic-4442686933?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Bissell Clinic
-- 📍 **Location:** Montecito, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-arrowhead-orthopaedics-4443319702?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Arrowhead Orthopaedics
-- 📍 **Location:** Redlands, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Customer Care Coordinator](https://salutemyjob.com/jobs/customer-care-coordinator-san-diego-california/2886666027-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Ampcus
+### [Case Manager - Enhanced Care Management ( CalAIM) (JR 5412)](https://sandiego-ca.geebo.com/jobs-online/view/id/97819779-case-manager-enhanced-care-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting The Homeless)
 - 📍 **Location:** San Diego, CA
+- 💰 **Salary:** 20–28 an hour
 - 🕒 **Posted:** 2026-07-22
 
-### [Family Care Coordinator](https://www.ziprecruiter.com/c/Ronald-McDonald-House-Charities-Bay-Area/Job/Family-Care-Coordinator/-in-Palo-Alto,CA?jid=e3e51fb007040e43&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Ronald McDonald House Charities Bay Area
-- 📍 **Location:** Palo Alto, CA
+### [Community Health Worker](https://bebee.com/us/jobs/community-health-worker-providence-service-paramount--lensa-7428_9cd9ead482fa86935c6be18926237e1853aff3e1c50e862915f98a036f59525d?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence Service
+- 📍 **Location:** Paramount, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Patient Care Coordinator-Encino, CA](https://www.linkedin.com/jobs/view/patient-care-coordinator-encino-ca-at-sonova-group-4434779869?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sonova Group
+### [Community Health Worker](https://www.jobilize.com/amp/job/us-ca-hawthorne-community-health-worker-providence-service-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence Service
+- 📍 **Location:** Hawthorne, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Patient Care Coordinator II - Family Medicine](https://careers.stanfordhealthcare.org/us/en/job/R2657733/Patient-Care-Coordinator-II-Family-Medicine?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
+- 📍 **Location:** Stanford, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Care Coordinator - Behavioral Health](https://www.linkedin.com/jobs/view/care-coordinator-behavioral-health-at-via-care-community-health-center-4443751006?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Via Care Community Health Center
 - 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** 24.00–29.13 an hour
 - 🕒 **Posted:** 2026-07-22
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/program-coordinator-at-eating-recovery-center-4443575580?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Eating Recovery Center
-- 📍 **Location:** Irvine, CA
+### [Patient Care Coordinator -  ENT Surgery South Bay - Full Time](https://careers.stanfordhealthcare.org/us/en/job/R2658028/Patient-Care-Coordinator-ENT-Surgery-South-Bay-Full-Time?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
+- 📍 **Location:** San Jose, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Client Care Coordinator (Bilingual Preferred)](https://www.ziprecruiter.com/c/Ceres-Community-Project/Job/Client-Care-Coordinator-(Bilingual-Preferred)/-in-Santa-Rosa,CA?jid=943fc2932b4c1b31&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Ceres Community Project
-- 📍 **Location:** Santa Rosa, CA
-- 💰 **Salary:** 21.05–23.50 an hour
+### [Patient Care Coordinator](https://www.ziprecruiter.com/c/ALLMED-STAFFING/Job/Patient-Care-Coordinator/-in-Mission-Hills,CA?jid=79d1a47bcdbcf9b9&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Allmed Staffing Inc
+- 📍 **Location:** Mission Hills, CA
+- 💰 **Salary:** 19–20 an hour
+- 🕒 **Posted:** 2026-07-22
+
+### [Point of Care Coordinator - Clinical Laboratory](https://bebee.com/us/jobs/point-of-care-coordinator-clinical-laboratory-providence-service-yorba-linda--lensa-7428_f3c945b964b1df407cc6ff04688e5d04ac7145c52c06db523f8b3d828ff4c1e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence Service
+- 📍 **Location:** Yorba Linda, CA
+- 🕒 **Posted:** 2026-07-22
+
+### [Impactful Medical Social Worker & Care Coordinator](https://salutemyjob.com/jobs/impactful-medical-social-worker-care-coordinator-menlo-park-california/2887512639-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Lucile Packard Children's Hospital Stanford
+- 📍 **Location:** Menlo Park, CA
 - 🕒 **Posted:** 2026-07-22
