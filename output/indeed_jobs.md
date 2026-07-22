@@ -1,14 +1,14 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-22 22:41 UTC*
+*Last updated: 2026-07-22 23:44 UTC*
 
-**2 new role(s)** since last run · 57 total in last 24h
+**2 new role(s)** since last run · 51 total in last 24h
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=306bf9c80d75480c) — LAGUNA BEACH COMMUNITY CLINIC
-- 📍 **Location:** Laguna Beach, CA, US
-- 💰 **Salary:** $34–$38/hr
+### [Site Care Coordinator](https://www.indeed.com/viewjob?jk=dd14564c3703fa3a) — Cortica
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $26–$32/hr
 - 🕒 **Posted:** 2026-07-22
 
-### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=f79283003a84cf46) — Ivy Living
-- 📍 **Location:** Studio City, CA, US
-- 💰 **Salary:** $24–$26/hr
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=0d6cafff395899e9) — Adventist Health
+- 📍 **Location:** Tehachapi, CA, US
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-07-22
