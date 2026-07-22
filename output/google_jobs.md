@@ -1,26 +1,20 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-07-22 20:00 UTC*
+*Last updated: 2026-07-22 21:44 UTC*
 
-**5 new role(s)** since last run · 17 total in last 24h
+**4 new role(s)** since last run · 16 total in last 24h
 
-### [CalAIM Community Health Worker](https://www.linkedin.com/jobs/view/calaim-community-health-worker-at-pacific-health-group-4443984060?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pacific Health Group
-- 📍 **Location:** Shasta, CA
-- 💰 **Salary:** 43,680–49,920 a year
+### [Case Manager/Resident Services Coordinator](https://www.linkedin.com/jobs/view/case-manager-resident-services-coordinator-at-cabrillo-economic-development-corporation-4442965619?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Cabrillo Economic Development Corporation
+- 📍 **Location:** Buellton, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Community Health Worker; FTE, Day Shift](https://www.learn4good.com/jobs/ukiah/california/healthcare/5305497709/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
-- 📍 **Location:** Ukiah, CA
-- 💰 **Salary:** 42K–54K a year
+### [Case Manager - 6th Street Place](https://www.linkedin.com/jobs/view/case-manager-6th-street-place-at-the-people-concern-4441032073?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — The People Concern
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Community Health Worker](https://www.jobilize.com/job/us-ca-lynwood-community-health-worker-providence-service-hiring-now?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence Service
-- 📍 **Location:** Lynwood, CA
+### [Point of Care Coordinator - Clinical Laboratory](https://bebee.com/us/jobs/point-of-care-coordinator-clinical-laboratory-providence-service-yorba-linda--lensa-7428_f3c945b964b1df407cc6ff04688e5d04ac7145c52c06db523f8b3d828ff4c1e8?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence Service
+- 📍 **Location:** Yorba Linda, CA
 - 🕒 **Posted:** 2026-07-22
 
-### [Patient Care Coordinator Ophthalmology and Elective Vision Services](https://www.indeed.com/viewjob?jk=09cc7eecbda59c48&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Luxor Eye Institute
+### [Care Coordinator - Licensed Vocational Nurse (LVN) - Home Health](https://salutemyjob.com/jobs/care-coordinator-licensed-vocational-nurse-lvn-home-health-bakersfield-california/2888651960-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — CARE FIRST HOME HEALTH CARE INC
 - 📍 **Location:** Bakersfield, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Travel Transitional Care Coordinator - $3,295 per week](https://jobs.womenforhire.com/job/usa/seaside-ca/travel-transitional-care-coordinator-3-295-per-week-312397/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — SambaTraveler
-- 📍 **Location:** Seaside, CA
 - 🕒 **Posted:** 2026-07-22
