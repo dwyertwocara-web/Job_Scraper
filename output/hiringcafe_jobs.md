@@ -1,26 +1,23 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-22 04:15 UTC*
+*Last updated: 2026-07-22 18:06 UTC*
 
-**5 new role(s)** since last run · 94 total in last 30d
+**4 new role(s)** since last run · 92 total in last 30d
 
-### [Housing Specialist](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Poplar-Bluff-MO/Housing-Specialist_R-25384) — Brightli
-- 📍 **Location:** Poplar Bluff, Missouri, United States
-- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
+### [Housing Specialist](https://jobs.smartrecruiters.com/TheCocoonShelter/744000134523749-housing-specialist) — The Cocoon Shelter
+- 📍 **Location:** Bowling Green, Ohio, United States
+- 🕒 **Posted:** 2026-06-26T17:01:04.156Z
 
-### [Housing Navigator](https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Joseph-Mercy-Health-System-Hospital-Campus---Ann-Arbor-Mi/Housing-Navigator_00669635) — Trinityhealth
-- 📍 **Location:** Ann Arbor, Michigan, United States
-- 🕒 **Posted:** 2026-07-21T00:00:00.000Z
+### [Housing Navigator](http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator) — The Road Home
+- 📍 **Location:** Midvale, Utah, United States
+- 💰 **Salary:** $39k/yr
+- 🕒 **Posted:** 2026-06-30T00:00:00.000Z
 
-### [Care Coordinator](https://careers.empowerme.com/jobs/22818?lang=en-us) — EmpowerMe Wellness
-- 📍 **Location:** Culver City or Culver City
-- 💰 **Salary:** $42k–$56k/yr
-- 🕒 **Posted:** 2026-07-21T02:48:18.000Z
+### [Care Coordinator](https://jobs.gusto.com/postings/gabbi-inc-care-coordinator-271e6470-f13b-4439-89e8-a988839f1670) — Gabbi, Inc.
+- 📍 **Location:** United States
+- 💰 **Salary:** $44k–$50k/yr
+- 🕒 **Posted:** 2026-06-29T20:47:42.929Z
 
-### [Care Coordinator](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215) — Brightli
-- 📍 **Location:** Indianapolis, Indiana, United States
-- 🕒 **Posted:** 2026-07-13T00:00:00.000Z
-
-### [Program Coordinator-Ann Arbor Housing Commission](https://recruiting.ultipro.com/cit1009ca2/JobBoard/f90d5294-f62d-4de2-9878-31193309121c/OpportunityDetail?opportunityId=1f3a6d62-10d5-4bba-8fc5-531fd8105399) — City of Ann Arbor
-- 📍 **Location:** Ann Arbor, Michigan, United States
-- 💰 **Salary:** $44k–$51k/yr
-- 🕒 **Posted:** 2026-07-21T17:26:35.578Z
+### [LPN Care Coordinator Crestview](https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392) — Monarch
+- 📍 **Location:** Columbia Heights, Minnesota, United States
+- 💰 **Salary:** $69k–$81k/yr
+- 🕒 **Posted:** 2026-07-22T14:30:02.229Z
