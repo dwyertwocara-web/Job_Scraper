@@ -1,49 +1,54 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-22 18:58 UTC*
+*Last updated: 2026-07-22 20:57 UTC*
 
-**9 new role(s)** since last run · 50 total in last 24h
+**10 new role(s)** since last run · 57 total in last 24h
 
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=ffdbfba7edf839b8) — St. Vincent preventative Family Care
-- 📍 **Location:** El Segundo, CA, US
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=0c07e4bae44099cf) — Care Plus Nursing Services, Inc.
+- 📍 **Location:** Laguna Hills, CA, US
 - 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-07-22
 
-### [Housing Stability Navigator / Community Health Worker (CHW)](https://www.indeed.com/viewjob?jk=6807c980d01e5a8f) — Carols Kitchen Inc
-- 📍 **Location:** Banning, CA, US
-- 💰 **Salary:** $22–$24/hr
+### [Booth Case Manager (Temporary) - 11-025 SC/ Glendale Corps](https://www.indeed.com/viewjob?jk=2da73b88f6cd006a) — Unknown
+- 📍 **Location:** Glendale, CA, US
+- 💰 **Salary:** $23–$25/hr
 - 🕒 **Posted:** 2026-07-22
 
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=aff70d7f9d0f6c8d) — Encompass Housing
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $26–$28/hr
+### [CalAIM Community Health Worker](https://www.indeed.com/viewjob?jk=1281c11fb044e2da) — Pacific Health Group
+- 📍 **Location:** Redding, CA, US
+- 💰 **Salary:** $44k–$50k/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Oncology Care Manager / Oncology Social Worker (Part-Time)](https://www.indeed.com/viewjob?jk=07f4705d1f5c2aa4) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $55–$85/hr
+### [CalAIM Community Health Worker](https://www.indeed.com/viewjob?jk=900a7628c1acb7da) — Pacific Health Group
+- 📍 **Location:** Shasta, CA, US
+- 💰 **Salary:** $44k–$50k/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Clinical Care Coordinator/ Medication Management Coordinator - CNA/MA/LVN](https://www.indeed.com/viewjob?jk=aaacbda807db7d10) — Esteem Health Services PSC
-- 📍 **Location:** Atascadero, CA, US
-- 💰 **Salary:** $24–$38/hr
+### [CalAIM Community Health Worker](https://www.indeed.com/viewjob?jk=363e2d03669c74af) — Pacific Health Group
+- 📍 **Location:** Butte Meadows, CA, US
+- 💰 **Salary:** $44k–$50k/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Case Manager LVN](https://www.indeed.com/viewjob?jk=9fde21b121df3625) — Waterman Canyon Post Acute
-- 📍 **Location:** San Bernardino, CA, US
-- 💰 **Salary:** $29–$36/hr
+### [Bilingual Spanish Community Health Worker (Orange County)](https://www.indeed.com/viewjob?jk=6c6c84cd7dc59ad6) — SCAN Health Plan
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $21–$31/hr
 - 🕒 **Posted:** 2026-07-22
 
-### [Program Manager (Contract)](https://www.indeed.com/viewjob?jk=b7eadd598dfb2e44) — Cultivating Literacy
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $45–$65/hr
+### [Bilingual Spanish Community Health Worker (Orange County)](https://www.indeed.com/viewjob?jk=a7f4d795b6282376) — SCAN Health Plan
+- 📍 **Location:** Anaheim, CA, US
+- 💰 **Salary:** $21–$31/hr
 - 🕒 **Posted:** 2026-07-22
 
-### [Care Manager- ECM](https://www.indeed.com/viewjob?jk=aa41ec2bd17ef072) — Exodus Recovery Inc.
-- 📍 **Location:** San Diego, CA, US
+### [Client Development Coordinator](https://www.indeed.com/viewjob?jk=e2fb446e1f4ac4f0) — REFORMATION
+- 📍 **Location:** Los Angeles, CA, US
 - 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-07-22
 
-### [Community Health Worker (CHW) / Doula Independent Contractor - Free Training](https://www.indeed.com/viewjob?jk=ad6dc02fbc1aadb9) — Unknown
+### [Grants Coordinator](https://www.indeed.com/viewjob?jk=b3ebf54d52f0fa23) — California Health M R C
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $25–$35/hr
+- 💰 **Salary:** $26–$31/hr
+- 🕒 **Posted:** 2026-07-22
+
+### [International Adoption Program Coordinator](https://www.indeed.com/viewjob?jk=aa911cc277660a0c) — Nightlight Christian Adoptions
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $45k–$55k/yr
 - 🕒 **Posted:** 2026-07-22
