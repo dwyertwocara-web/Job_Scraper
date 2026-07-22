@@ -1,24 +1,33 @@
 {
-  "scraped_at": "2026-07-20 20:47 UTC",
-  "total": 3,
-  "new_count": 0,
+  "scraped_at": "2026-07-22 20:04 UTC",
+  "total": 4,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Veterans Health Administration",
-      "title": "Licensed Professional Mental Health Counselor (Program Coordinator) - Suicide Prevention",
-      "location": "Hot Springs, South Dakota",
-      "url": "https://www.usajobs.gov/job/876967200",
-      "date_posted": "2026-07-17",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Bath, New York",
+      "url": "https://www.usajobs.gov/job/877615600",
+      "date_posted": "2026-07-22",
       "salary": "Starting at $89,508 Per year (GS 12)",
       "ats": "USAJOBS"
     },
     {
-      "company": "Offices, Boards and Divisions",
-      "title": "IT Program Manager (INFOSEC)",
-      "location": "Washington, District of Columbia",
-      "url": "https://www.usajobs.gov/job/877074400",
-      "date_posted": "2026-07-17",
-      "salary": "Starting at $143,913 Per year (GS 14)",
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Willimantic, Connecticut",
+      "url": "https://www.usajobs.gov/job/877316200",
+      "date_posted": "2026-07-21",
+      "salary": "Starting at $101,375 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Space Force Forces",
+      "title": "IT/Cyber COR/QA Program Manager, 13 SW",
+      "location": "Anderson, Alaska",
+      "url": "https://www.usajobs.gov/job/877290400",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $101,206 Per year (NH 3)",
       "ats": "USAJOBS"
     },
     {
@@ -31,5 +40,33 @@
       "ats": "USAJOBS"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Bath, New York",
+      "url": "https://www.usajobs.gov/job/877615600",
+      "date_posted": "2026-07-22",
+      "salary": "Starting at $89,508 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "Veterans Health Administration",
+      "title": "Social Worker (Program Coordinator)",
+      "location": "Willimantic, Connecticut",
+      "url": "https://www.usajobs.gov/job/877316200",
+      "date_posted": "2026-07-21",
+      "salary": "Starting at $101,375 Per year (GS 12)",
+      "ats": "USAJOBS"
+    },
+    {
+      "company": "United States Space Force Forces",
+      "title": "IT/Cyber COR/QA Program Manager, 13 SW",
+      "location": "Anderson, Alaska",
+      "url": "https://www.usajobs.gov/job/877290400",
+      "date_posted": "2026-07-20",
+      "salary": "Starting at $101,206 Per year (NH 3)",
+      "ats": "USAJOBS"
+    }
+  ]
 }
