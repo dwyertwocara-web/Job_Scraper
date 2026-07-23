@@ -1,82 +1,38 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-23 17:13 UTC*
+*Last updated: 2026-07-23 19:06 UTC*
 
-**16 new role(s)** since last run · 52 total in last 24h
+**7 new role(s)** since last run · 44 total in last 24h
 
-### [Bilingual (Spanish) Housing Case Manager](https://www.indeed.com/viewjob?jk=97c4f8132954eb90) — Stand Up Placer
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $24–$27/hr
-- 🕒 **Posted:** 2026-07-23
-
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=58fce6f74374bb63) — Demant
-- 📍 **Location:** Fair Oaks, CA, US
-- 💰 **Salary:** $21–$24/hr
+### [Graduate Program Coordinator (STDT SVC ADVISOR 3 SV)](https://www.indeed.com/viewjob?jk=90d0cce6cb2578f1) — UC Davis
+- 📍 **Location:** Davis, CA, US
+- 💰 **Salary:** $59k–$104k/yr
 - 🕒 **Posted:** 2026-07-22
 
-### [Housing Coordinator](https://www.indeed.com/viewjob?jk=48f96011681625be) — Berkeley Student Cooperative
-- 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $25–$27/hr
-- 🕒 **Posted:** 2026-07-22
-
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=ac44090471bf53b7) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $26–$28/hr
-- 🕒 **Posted:** 2026-07-22
-
-### [Patient Care Coordinator - Treatment, Scheduling & Insurance](https://www.indeed.com/viewjob?jk=649346fab4f5d290) — Tara Hills Dental
-- 📍 **Location:** Pinole, CA, US
-- 💰 **Salary:** $29–$37/hr
+### [Front Office Lead / Patient Care Coordinator — Women's Health & Wellness Practice](https://www.indeed.com/viewjob?jk=a020294186536753) — The OB-Gyn and Incontinence Center
+- 📍 **Location:** Arcadia, CA, US
+- 💰 **Salary:** $70k–$80k/yr
 - 🕒 **Posted:** 2026-07-23
 
-### [Recuperative Care- Case Manager](https://www.indeed.com/viewjob?jk=03f2a1d79dd0b044) — Whole Person Care Clinic
-- 📍 **Location:** Heber, CA, US
+### [Case Manager 1 (766)](https://www.indeed.com/viewjob?jk=ad52949abde2919d) — KINGS VIEW
+- 📍 **Location:** Visalia, CA, US
+- 💰 **Salary:** $23–$24/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=9358495fae9fb012) — Smile Brands Inc.
-- 📍 **Location:** Oceanside, CA, US
-- 💰 **Salary:** $19–$21/hr
-- 🕒 **Posted:** 2026-07-22
-
-### [Annual Wellness Visit Care Coordinator](https://www.indeed.com/viewjob?jk=9a760fbdcaf6a6a8) — Montage Medical Group
-- 📍 **Location:** Monterey, CA, US
-- 💰 **Salary:** $24–$28/hr
-- 🕒 **Posted:** 2026-07-22
-
-### [Free Training - Community Health Worker (CHW) / Doula Independent Contractor](https://www.indeed.com/viewjob?jk=20aca4d0699a0354) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $25–$45/hr
+### [Case Manager, RN](https://www.indeed.com/viewjob?jk=ffca0717c9bfb425) — WelbeHealth
+- 📍 **Location:** Long Beach, CA, US
+- 💰 **Salary:** $55–$68/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker](https://www.indeed.com/viewjob?jk=d88f746811bdf090) — Project FoodBox
-- 📍 **Location:** El Centro, CA, US
-- 💰 **Salary:** $21–$25/hr
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=0510da8293d761e5) — Cottage Health
+- 📍 **Location:** Santa Barbara, CA, US
+- 💰 **Salary:** $24–$36/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker (CHW) / Doula Independent Contractor - Free Training](https://www.indeed.com/viewjob?jk=efd1f742bdaadea2) — Unknown
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $25–$35/hr
+### [Care Coordinator - ECM](https://www.indeed.com/viewjob?jk=290c08ab8d475d36) — SAC Health
+- 📍 **Location:** San Bernardino, CA, US
+- 💰 **Salary:** $24–$29/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker](https://www.indeed.com/viewjob?jk=23d880e0201ee965) — Project FoodBox
-- 📍 **Location:** Riverside, CA, US
-- 💰 **Salary:** $21–$25/hr
-- 🕒 **Posted:** 2026-07-23
-
-### [PSYCHOLOGY PROGRAM MANAGER](https://www.indeed.com/viewjob?jk=bed1d3e9c7219dbc) — US Department of Veterans Affairs
-- 📍 **Location:** Mather, CA, US
-- 💰 **Salary:** $205k–$228k/yr
-- 🕒 **Posted:** 2026-07-23
-
-### [Exhibit Program Coordinator (Administrative Analyst/Specialist Exempt II)](https://www.indeed.com/viewjob?jk=645b03af2f9782af) — California State University
-- 📍 **Location:** Fullerton, CA, US
-- 🕒 **Posted:** 2026-07-23
-
-### [Development Coordinator](https://www.indeed.com/viewjob?jk=8f2cad80cb9e9998) — Occidental College
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $20–$26/hr
-- 🕒 **Posted:** 2026-07-23
-
-### [COMMUNITY SERVICES COORDINATOR](https://www.indeed.com/viewjob?jk=79371ca4da902e85) — City of Montebello
-- 📍 **Location:** Montebello, CA, US
-- 💰 **Salary:** $50k–$63k/yr
+### [LTC Care Coordinator](https://www.indeed.com/viewjob?jk=d19820751f1592ad) — MetLife
+- 📍 **Location:** Remote, US
 - 🕒 **Posted:** 2026-07-23
