@@ -1,8 +1,8 @@
 # 🏛 CalOpps — California Local-Agency Housing & Community Impact Roles
-*Last updated: 2026-07-20 20:56 UTC*
+*Last updated: 2026-07-23 18:01 UTC*
 
-**1 new role(s)** since last run · 6 total in recent CalOpps postings
+**1 new role(s)** since last run · 7 total in recent CalOpps postings
 
-### [Per Diem Preschool Program Specialist](https://www.calopps.org/san-mateo/job-20759927) — San Mateo
+### [IT Program Manager- 5 Year Limited Term](https://www.calopps.org/san-mateo-county-transit-district-samtrans/job-20761578) — San Mateo County Transit District Samtrans
 - 📍 **Location:** San Francisco/Peninsula
-- 💰 **Salary:** $28.26-$33.71 Hourly
+- 💰 **Salary:** $143,142.00-$200,398.00 Annually
