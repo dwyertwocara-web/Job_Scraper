@@ -1,41 +1,38 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-23 20:58 UTC*
+*Last updated: 2026-07-23 21:51 UTC*
 
-**8 new role(s)** since last run · 45 total in last 24h
+**7 new role(s)** since last run · 50 total in last 24h
 
-### [Hearing Ambassador (Patient Care Coordinator)](https://www.indeed.com/viewjob?jk=454cd3621ee54702) — NationsBenefits
+### [Lead Patient Care Coordinator](https://www.indeed.com/viewjob?jk=6109c9b8e306ad53) — LaserAway
 - 📍 **Location:** Sacramento, CA, US
-- 🕒 **Posted:** 2026-07-01
+- 🕒 **Posted:** 2026-06-25
 
-### [Program Manager Interim Housing (109th)](https://www.indeed.com/viewjob?jk=146dd4aec9b33aac) — A Step to Freedom Inc.
+### [Care Coordinator - Davita IKC - Per Diem - L.A.](https://www.indeed.com/viewjob?jk=688e6dd405bcda28) — DaVita
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $60k–$70k/yr
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager - SSVF Housing Retention (JR 5753)](https://www.indeed.com/viewjob?jk=516d53ca83364602) — People Assisting The Homeless (PATH)
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $23–$28/hr
+### [Hospice Nurse Case Manager](https://www.indeed.com/viewjob?jk=0d293c2c48925abf) — By the Bay Health
+- 📍 **Location:** San Rafael, CA, US
+- 💰 **Salary:** $65–$75/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Licensed Vocational Nurse, In-Patient Case Manager](https://www.indeed.com/viewjob?jk=3b313ce866116fbb) — AltaMed Health Services
-- 📍 **Location:** Montebello, CA, US
-- 💰 **Salary:** $32–$40/hr
+### [Hospice Nurse Case Manager](https://www.indeed.com/viewjob?jk=bbe0168c24993f7c) — By the Bay Health
+- 📍 **Location:** Mill Valley, CA, US
+- 💰 **Salary:** $65–$75/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Child Care Coordinator - Family Commons (JR 5757)](https://www.indeed.com/viewjob?jk=e09f4006d5e237da) — People Assisting The Homeless (PATH)
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $23–$28/hr
+### [Hospice Nurse Case Manager](https://www.indeed.com/viewjob?jk=8175a054e36cc523) — By the Bay Health
+- 📍 **Location:** Larkspur, CA, US
+- 💰 **Salary:** $65–$75/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Hearing Ambassador (Patient Care Coordinator)](https://www.indeed.com/viewjob?jk=998aef6ec9bf3466) — NationsBenefits
-- 📍 **Location:** Long Beach, CA, US
-- 🕒 **Posted:** 2026-07-01
+### [Program Coordinator, Wonderful Career Center](https://www.indeed.com/viewjob?jk=fbb4480b457c0190) — The Wonderful Company LLC
+- 📍 **Location:** Shafter, CA, US
+- 💰 **Salary:** $20–$21/hr
+- 🕒 **Posted:** 2026-07-23
 
-### [Hearing Ambassador (Patient Care Coordinator)](https://www.indeed.com/viewjob?jk=7592b0ea4d8601b7) — NationsBenefits
-- 📍 **Location:** Fountain Valley, CA, US
-- 🕒 **Posted:** 2026-07-01
-
-### [Community Health Worker, Bilingual (Spanish)](https://www.indeed.com/viewjob?jk=e497772cd3ccaaa2) — Didi Hirsch Mental Health Services
-- 📍 **Location:** Glendale, CA, US
-- 💰 **Salary:** $19–$22/hr
+### [Program Manager, AI Dividend](https://www.indeed.com/viewjob?jk=77854289241e37fd) — Unknown
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $100k–$140k/yr
 - 🕒 **Posted:** 2026-07-23
