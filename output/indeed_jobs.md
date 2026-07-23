@@ -1,24 +1,38 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-23 22:41 UTC*
+*Last updated: 2026-07-23 23:42 UTC*
 
-**4 new role(s)** since last run · 50 total in last 24h
+**7 new role(s)** since last run · 46 total in last 24h
 
-### [PACE Care Coordinator RN (Central Valley PACE - Stockton)](https://www.indeed.com/viewjob?jk=086869a7286e6114) — Golden Valley Health Centers
-- 📍 **Location:** Stockton, CA, US
-- 💰 **Salary:** $49–$57/hr
+### [Community Engagement Coordinator](https://www.indeed.com/viewjob?jk=5924c736d096041a) — CASA of Placer, Yuba & Sutter
+- 📍 **Location:** Yuba City, CA, US
 - 🕒 **Posted:** 2026-07-23
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=e6ba71e47dc35c6a) — Keplr Vision Group
-- 📍 **Location:** Fairfield, CA, US
-- 💰 **Salary:** $16–$20/hr
+### [Veterinary Receptionist (Care Coordinator) - Canyon Animal Hospital](https://www.indeed.com/viewjob?jk=9ccd5288027a1e53) — PetVet Care Centers
+- 📍 **Location:** Laguna Beach, CA, US
+- 💰 **Salary:** $19–$25/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=8d4cf7492d05c82d) — San Diego Youth Services
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $76k–$80k/yr
+### [Medical Spa Patient Care Coordinator](https://www.indeed.com/viewjob?jk=02aab4027e0e3b68) — Grey Aestheticss
+- 📍 **Location:** Newport Beach, CA, US
+- 💰 **Salary:** $18–$23/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [FMS Program Manager](https://www.indeed.com/viewjob?jk=85c695516208a704) — Libertana Home Health
-- 📍 **Location:** Sherman Oaks, CA, US
-- 💰 **Salary:** $90k–$120k/yr
+### [Lead Care Manager](https://www.indeed.com/viewjob?jk=66085d951e9394ee) — Bakersfield Homeless Center
+- 📍 **Location:** Bakersfield, CA, US
+- 💰 **Salary:** $18–$20/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Bilingual Spanish Community Health Worker (Orange County)](https://www.indeed.com/viewjob?jk=a55c9e7a19446517) — SCAN Health Plan
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $21–$31/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Bilingual Spanish Community Health Worker (Orange County)](https://www.indeed.com/viewjob?jk=173a02fbf0f87cb0) — SCAN Health Plan
+- 📍 **Location:** Anaheim, CA, US
+- 💰 **Salary:** $21–$31/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Community Health Worker (Riverside)](https://www.indeed.com/viewjob?jk=f56bf813127f53ce) — SCAN Health Plan
+- 📍 **Location:** Riverside, CA, US
+- 💰 **Salary:** $21–$31/hr
 - 🕒 **Posted:** 2026-07-23
