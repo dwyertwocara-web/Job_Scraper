@@ -1,38 +1,41 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-23 19:06 UTC*
+*Last updated: 2026-07-23 20:58 UTC*
 
-**7 new role(s)** since last run · 44 total in last 24h
+**8 new role(s)** since last run · 45 total in last 24h
 
-### [Graduate Program Coordinator (STDT SVC ADVISOR 3 SV)](https://www.indeed.com/viewjob?jk=90d0cce6cb2578f1) — UC Davis
-- 📍 **Location:** Davis, CA, US
-- 💰 **Salary:** $59k–$104k/yr
-- 🕒 **Posted:** 2026-07-22
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.indeed.com/viewjob?jk=454cd3621ee54702) — NationsBenefits
+- 📍 **Location:** Sacramento, CA, US
+- 🕒 **Posted:** 2026-07-01
 
-### [Front Office Lead / Patient Care Coordinator — Women's Health & Wellness Practice](https://www.indeed.com/viewjob?jk=a020294186536753) — The OB-Gyn and Incontinence Center
-- 📍 **Location:** Arcadia, CA, US
-- 💰 **Salary:** $70k–$80k/yr
+### [Program Manager Interim Housing (109th)](https://www.indeed.com/viewjob?jk=146dd4aec9b33aac) — A Step to Freedom Inc.
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $60k–$70k/yr
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager 1 (766)](https://www.indeed.com/viewjob?jk=ad52949abde2919d) — KINGS VIEW
-- 📍 **Location:** Visalia, CA, US
-- 💰 **Salary:** $23–$24/hr
+### [Case Manager - SSVF Housing Retention (JR 5753)](https://www.indeed.com/viewjob?jk=516d53ca83364602) — People Assisting The Homeless (PATH)
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23–$28/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Case Manager, RN](https://www.indeed.com/viewjob?jk=ffca0717c9bfb425) — WelbeHealth
+### [Licensed Vocational Nurse, In-Patient Case Manager](https://www.indeed.com/viewjob?jk=3b313ce866116fbb) — AltaMed Health Services
+- 📍 **Location:** Montebello, CA, US
+- 💰 **Salary:** $32–$40/hr
+- 🕒 **Posted:** 2026-07-23
+
+### [Child Care Coordinator - Family Commons (JR 5757)](https://www.indeed.com/viewjob?jk=e09f4006d5e237da) — People Assisting The Homeless (PATH)
 - 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $55–$68/hr
+- 💰 **Salary:** $23–$28/hr
 - 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker](https://www.indeed.com/viewjob?jk=0510da8293d761e5) — Cottage Health
-- 📍 **Location:** Santa Barbara, CA, US
-- 💰 **Salary:** $24–$36/hr
-- 🕒 **Posted:** 2026-07-23
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.indeed.com/viewjob?jk=998aef6ec9bf3466) — NationsBenefits
+- 📍 **Location:** Long Beach, CA, US
+- 🕒 **Posted:** 2026-07-01
 
-### [Care Coordinator - ECM](https://www.indeed.com/viewjob?jk=290c08ab8d475d36) — SAC Health
-- 📍 **Location:** San Bernardino, CA, US
-- 💰 **Salary:** $24–$29/hr
-- 🕒 **Posted:** 2026-07-23
+### [Hearing Ambassador (Patient Care Coordinator)](https://www.indeed.com/viewjob?jk=7592b0ea4d8601b7) — NationsBenefits
+- 📍 **Location:** Fountain Valley, CA, US
+- 🕒 **Posted:** 2026-07-01
 
-### [LTC Care Coordinator](https://www.indeed.com/viewjob?jk=d19820751f1592ad) — MetLife
-- 📍 **Location:** Remote, US
+### [Community Health Worker, Bilingual (Spanish)](https://www.indeed.com/viewjob?jk=e497772cd3ccaaa2) — Didi Hirsch Mental Health Services
+- 📍 **Location:** Glendale, CA, US
+- 💰 **Salary:** $19–$22/hr
 - 🕒 **Posted:** 2026-07-23
