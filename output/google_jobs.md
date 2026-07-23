@@ -1,43 +1,60 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-07-22 23:39 UTC*
+*Last updated: 2026-07-23 18:07 UTC*
 
-**9 new role(s)** since last run · 21 total in last 24h
+**13 new role(s)** since last run · 15 total in last 24h
 
-### [Care Manager II, Utilization Mgmt Acute](https://www.linkedin.com/jobs/view/care-manager-ii-utilization-mgmt-acute-at-sutter-health-4443173521?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sutter Health
-- 📍 **Location:** Sacramento, CA
-- 🕒 **Posted:** 2026-07-22
+### [Care Coordinator - Davita IKC - Sacramento](https://www.ziprecruiter.com/c/DaVita/Job/Care-Coordinator-Davita-IKC-Sacramento/-in-Yolo,CA?jid=0205f19c7e314a1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — DaVita
+- 📍 **Location:** Yolo, CA
+- 💰 **Salary:** 25.00–28.50 an hour
+- 🕒 **Posted:** 2026-07-23
 
-### [CalAIM Community Health Worker](https://www.linkedin.com/jobs/view/calaim-community-health-worker-at-pacific-health-group-4443965974?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pacific Health Group
-- 📍 **Location:** Butte Meadows, CA
-- 💰 **Salary:** 43,680–49,920 a year
-- 🕒 **Posted:** 2026-07-22
+### [Housing Coordinator](https://www.ziprecruiter.com/c/AMI-Housing/Job/Housing-Coordinator/-in-Grass-Valley,CA?jid=6bae8adef3df6fbc&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — AMI Housing, Inc.
+- 📍 **Location:** Grass Valley, CA
+- 💰 **Salary:** 24–27 an hour
+- 🕒 **Posted:** 2026-07-23
 
-### [Case Manager - Enhanced Care Management ( CalAIM) (JR 5412)](https://sandiego-ca.geebo.com/jobs-online/view/id/97819779-case-manager-enhanced-care-/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting The Homeless)
+### [Housing Navigator II- Vernon, CA](https://us.trabajo.org/job-4023-04b09cbbdbc14e520bf0a008ea1e227a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Medzed
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [ICMS Case Manager](https://www.linkedin.com/jobs/view/icms-case-manager-at-upward-bound-house-4443814190?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Upward Bound House
+- 📍 **Location:** El Segundo, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [Housing Navigator](https://www.linkedin.com/jobs/view/housing-navigator-at-athena-consulting-4444424923?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — ATHENA Consulting
+- 📍 **Location:** Escondido, CA
+- 💰 **Salary:** 26 an hour
+- 🕒 **Posted:** 2026-07-23
+
+### [Case Manager](https://www.jobleads.com/us/job/case-manager-housing-navigator--rancho-cucamonga--e2feae5e541cc39f492e857e6ec3c1222?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Simple Solutions Psychotherapy
+- 📍 **Location:** Rancho Cucamonga, CA
+- 💰 **Salary:** 50K–65K a year
+- 🕒 **Posted:** 2026-07-23
+
+### [LCM Lead Care Manager and Housing Navigator](https://www.jobilize.com/job/us-ca-cobb-lcm-lead-care-manager-housing-navigator-star-nursing-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Star Nursing
+- 📍 **Location:** Cobb, CA
+- 🕒 **Posted:** 2026-07-23
+
+### [Street Health ECM Care Coordinator](https://www.linkedin.com/jobs/view/street-health-ecm-care-coordinator-at-father-joe-s-villages-4444234016?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Father Joe's Villages
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** 20–28 an hour
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker](https://bebee.com/us/jobs/community-health-worker-providence-service-south-gate--lensa-7428_334715389dc955f88b7aaef88a9650abad0aec771fa18a07c249f73dcab59aaf?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Providence Service
-- 📍 **Location:** South Gate, CA
-- 🕒 **Posted:** 2026-07-22
+### [Community Health Worker](https://www.linkedin.com/jobs/view/community-health-worker-at-adventist-health-4443433235?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
+- 📍 **Location:** Tehachapi, CA
+- 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker, Patient Engagement](https://jobs.stevenagefc.com/jobs/community-health-worker-patient-engagement-san-diego-california/2887921611-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Imagine Pediatrics
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-07-22
+### [Community Health Worker/ Representative](https://www.indeed.com/viewjob?jk=0148e163ccdaf079&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Washoe Tribe of Nevada and California
+- 📍 **Location:** Gardnerville, NV
+- 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker - Kern County](https://www.ziprecruiter.com/c/COPE-Health-Solutions/Job/Community-Health-Worker-Kern-County/-in-Bakersfield,CA?jid=ce614ff55d850b22&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — COPE Health Solutions
-- 📍 **Location:** Bakersfield, CA
-- 💰 **Salary:** 26–30 an hour
-- 🕒 **Posted:** 2026-07-22
+### [Resident Care Coordinator](https://www.linkedin.com/jobs/view/resident-care-coordinator-at-discovery-senior-living-4444259262?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Discovery Senior Living
+- 📍 **Location:** Carlsbad, CA
+- 🕒 **Posted:** 2026-07-23
 
-### [Community Health Worker, Manager - Santa Rosa/Sonoma County, California](https://us.jobrapido.com/jobpreview/6960253350109511680?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Waymark
-- 📍 **Location:** Sonoma County, CA
-- 🕒 **Posted:** 2026-07-22
+### [Clinician - Care Coordinator](https://www.linkedin.com/jobs/view/clinician-care-coordinator-at-aspiranet-4444258968?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Aspiranet
+- 📍 **Location:** Antioch, CA
+- 🕒 **Posted:** 2026-07-23
 
-### [Care Coordinator - Davita IKC - Sacramento](https://careers.davita.com/job/R0469576/Care-Coordinator-Davita-IKC-Sacramento?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — DAVITA
-- 📍 **Location:** Fairfield, CA
-- 🕒 **Posted:** 2026-07-22
-
-### [Lead Clinical Care Coordinator - Vituity](https://careers.vituity.com/job/CEAMUS26000149EXTERNALENUS/Lead-Clinical-Care-Coordinator-Vituity?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Vituity
+### [Patient Care Coordinator II (Medical Assistant)- Multi-Specialty Clinic- FT Days (8 hours)](https://careers.stanfordhealthcare.org/us/en/job/R2656311/Patient-Care-Coordinator-II-Medical-Assistant-Multi-Specialty-Clinic-FT-Days-8-hours?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
 - 📍 **Location:** Emeryville, CA
-- 🕒 **Posted:** 2026-07-22
+- 🕒 **Posted:** 2026-07-23
