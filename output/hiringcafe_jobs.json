@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-23 05:49 UTC",
+  "scraped_at": "2026-07-23 18:12 UTC",
   "total": 95,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -212,6 +212,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Vista Maria",
+      "title": "Housing Specialist",
+      "location": "Dearborn Heights, Michigan, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "date_posted": "2026-07-01T19:28:22.685Z",
+      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
+      "salary": "$43k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -220,19 +233,6 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Grand Prairie, TX",
-      "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -251,14 +251,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
+      "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -836,19 +836,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ccf",
-      "title": "Care Coordinator",
-      "location": "Akron, Ohio, United States",
-      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Jbfcs",
       "title": "Care Coordinator",
       "location": "Brooklyn, New York, United States",
@@ -953,19 +940,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Phoebehealth",
-      "title": "Care Coordinator",
-      "location": "Albany, Georgia, United States",
-      "url": "https://phoebehealth.wd503.myworkdayjobs.com/phoebehealth/job/Phoebe-North-Campus/Care-Coordinator_34492-1",
-      "direct_url": "https://phoebehealth.wd503.myworkdayjobs.com/phoebehealth/job/Phoebe-North-Campus/Care-Coordinator_34492-1",
-      "date_posted": "2026-07-10T00:00:00.000Z",
-      "description": "Bachelor's degree required, 2+ years clinical experience, current Georgia license in specialty, EMR experience preferred, skills in care coordination, chronic disease management, patient education.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Pcscco",
       "title": "Care Coordinator",
       "location": "Olean, New York, United States",
@@ -974,6 +948,19 @@
       "date_posted": "2026-07-22T04:00:00.000Z",
       "description": "Bachelor's degree with 2 years relevant experience (or RN with 2 years, or Master's with 1 year). Valid driver's license, experience coordinating care, and direct support experience required.",
       "salary": "$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Phoebehealth",
+      "title": "Care Coordinator",
+      "location": "Albany, Georgia, United States",
+      "url": "https://phoebehealth.wd503.myworkdayjobs.com/phoebehealth/job/Phoebe-North-Campus/Care-Coordinator_34492-1",
+      "direct_url": "https://phoebehealth.wd503.myworkdayjobs.com/phoebehealth/job/Phoebe-North-Campus/Care-Coordinator_34492-1",
+      "date_posted": "2026-07-10T00:00:00.000Z",
+      "description": "Bachelor's degree required, 2+ years clinical experience, current Georgia license in specialty, EMR experience preferred, skills in care coordination, chronic disease management, patient education.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1078,6 +1065,19 @@
       "date_posted": "2026-07-16T00:00:00.000Z",
       "description": "Texas RN with BSN (or equivalent), 4+ years pediatric nursing/case management/care coordination experience, BLS required, ACM/CCM/CCTM preferred, knowledge of discharge planning and payor navigation.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "AlohaCare",
+      "title": "Care Coordinator",
+      "location": "Honolulu, Hawaii, United States",
+      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "date_posted": "2026-07-22T03:00:00.000Z",
+      "description": "High school diploma/GED, 1+ year related experience, behavioral health or care coordination experience preferred, Microsoft Office proficiency, strong communication, telephonic etiquette, data entry accuracy.",
+      "salary": "$34k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1239,5 +1239,19 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "AlohaCare",
+      "title": "Care Coordinator",
+      "location": "Honolulu, Hawaii, United States",
+      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "date_posted": "2026-07-22T03:00:00.000Z",
+      "description": "High school diploma/GED, 1+ year related experience, behavioral health or care coordination experience preferred, Microsoft Office proficiency, strong communication, telephonic etiquette, data entry accuracy.",
+      "salary": "$34k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
