@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-24 22:02 UTC",
+  "scraped_at": "2026-07-24 23:08 UTC",
   "total": 99,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -1291,19 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cornerstone Family Healthcare",
-      "title": "Community Health Worker",
-      "location": "Newburgh, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361314",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361314",
-      "date_posted": "2026-07-24T14:55:00.000Z",
-      "description": "H.S. diploma plus 1 year experience in HIV/AIDS, behavioral health, substance use, or chronic illness OR Associate/Bachelor in Human Services with 1 year experience; strong communication and program documentation skills.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
