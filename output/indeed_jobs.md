@@ -1,29 +1,57 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-24 22:56 UTC*
+*Last updated: 2026-07-24 23:51 UTC*
 
-**5 new role(s)** since last run · 46 total in last 24h
+**11 new role(s)** since last run · 51 total in last 24h
 
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=18da1c977c8e460c) — United Way
-- 📍 **Location:** Ventura, CA, US
-- 💰 **Salary:** $21–$24/hr
+### [Enhanced Care Management Lead Care Coordinator](https://www.indeed.com/viewjob?jk=6432271fd48c87e7) — Pacific Health Group
+- 📍 **Location:** Auburn, CA, US
+- 💰 **Salary:** $60k–$67k/yr
 - 🕒 **Posted:** 2026-07-24
 
-### [ECM Bilingual Care Coordinator (Chinese/English)](https://www.indeed.com/viewjob?jk=341618e720ebe403) — AASCSC - Asian American Senior Citizen Service Center
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $24–$28/hr
+### [Enhanced Care Management Lead Care Coordinator](https://www.indeed.com/viewjob?jk=5135d08cb7f6ab8d) — Pacific Health Group
+- 📍 **Location:** Placerville, CA, US
+- 💰 **Salary:** $60k–$67k/yr
 - 🕒 **Posted:** 2026-07-24
 
-### [Lead Care Manager - Enhanced Care Management](https://www.indeed.com/viewjob?jk=cf254363509b3aa7) — Aspiranet
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=02f4cb4b4ec6e3c7) — MDR Specialty Pharmacy
+- 📍 **Location:** Encino, CA, US
+- 🕒 **Posted:** 2026-07-24
+
+### [Bilingual Lead Care Manager](https://www.indeed.com/viewjob?jk=e3265a4226b2786c) — Seneca Family of Agencies
+- 📍 **Location:** Lake Forest, CA, US
+- 💰 **Salary:** $24–$27/hr
+- 🕒 **Posted:** 2026-07-24
+
+### [Patient Care Coordinator - Home Health](https://www.indeed.com/viewjob?jk=35c10a4424f08f13) — Sequoia Home Health
+- 📍 **Location:** Milpitas, CA, US
+- 💰 **Salary:** $30–$35/hr
+- 🕒 **Posted:** 2026-07-24
+
+### [Bilingual Lead Care Manager](https://www.indeed.com/viewjob?jk=550a676de646057b) — Seneca Family of Agencies
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $27–$29/hr
+- 🕒 **Posted:** 2026-07-24
+
+### [Enhanced Care Management Lead Care Coordinator](https://www.indeed.com/viewjob?jk=d9042e771442494a) — Pacific Health Group
 - 📍 **Location:** Visalia, CA, US
-- 💰 **Salary:** $24–$25/hr
+- 💰 **Salary:** $60k–$67k/yr
 - 🕒 **Posted:** 2026-07-24
 
-### [Behavioral Health Coordinator](https://www.indeed.com/viewjob?jk=3de5e1dcd55edecc) — MedPartners Management
-- 📍 **Location:** Santa Fe Springs, CA, US
-- 💰 **Salary:** $60k–$65k/yr
+### [Enhanced Care Management Lead Care Coordinator](https://www.indeed.com/viewjob?jk=cf151f123c73f12b) — Pacific Health Group
+- 📍 **Location:** Quincy, CA, US
+- 💰 **Salary:** $60k–$67k/yr
 - 🕒 **Posted:** 2026-07-24
 
-### [Development Coordinator](https://www.indeed.com/viewjob?jk=a89702780180c4dd) — Gentle Barn Foundation
-- 📍 **Location:** Santa Clarita, CA, US
-- 💰 **Salary:** $23–$26/hr
+### [Enhanced Care Management Lead Care Coordinator](https://www.indeed.com/viewjob?jk=580fba34c0c22f0c) — Pacific Health Group
+- 📍 **Location:** Markleeville, CA, US
+- 💰 **Salary:** $60k–$67k/yr
+- 🕒 **Posted:** 2026-07-24
+
+### [Foster Case Manager](https://www.indeed.com/viewjob?jk=739cf5bc74c6462c) — Olive Crest
+- 📍 **Location:** San Diego, CA, US
+- 🕒 **Posted:** 2026-07-24
+
+### [Family Care Coordinator](https://www.indeed.com/viewjob?jk=a318348af70ba6d3) — Westside Family Medicine
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-07-24
