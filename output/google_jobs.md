@@ -1,22 +1,33 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-07-23 21:45 UTC*
+*Last updated: 2026-07-24 01:08 UTC*
 
-**4 new role(s)** since last run · 17 total in last 24h
+**7 new role(s)** since last run · 16 total in last 24h
 
-### [Community Health Worker; FTE, Dayshift](https://www.learn4good.com/jobs/paradise/california/healthcare/5306845201/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Adventist Health
-- 📍 **Location:** Paradise, CA
-- 💰 **Salary:** 25.00–30.01 an hour
-- 🕒 **Posted:** 2026-07-23
+### [Care Coordinator - Davita IKC - Sacramento](https://www.ziprecruiter.com/c/DaVita/Job/Care-Coordinator-Davita-IKC-Sacramento/-in-Yolo,CA?jid=0205f19c7e314a1c&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — DaVita
+- 📍 **Location:** Yolo, CA
+- 💰 **Salary:** 25.00–28.50 an hour
+- 🕒 **Posted:** 2026-07-24
 
-### [Community Health Worker/ Representative](https://www.indeed.com/viewjob?jk=0148e163ccdaf079&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Washoe Tribe of Nevada and California
+### [Bilingual Housing Navigator](https://www.ziprecruiter.com/c/Titanium-Healthcare/Job/Bilingual-Housing-Navigator/-in-Los-Angeles,CA?jid=307628a9cc86c41b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Titanium Healthcare
+- 📍 **Location:** Los Angeles, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [ICMS Case Manager](https://www.linkedin.com/jobs/view/icms-case-manager-at-upward-bound-house-4443814190?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Upward Bound House
+- 📍 **Location:** El Segundo, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [Community Health Worker, Bilingual (Spanish)](https://www.linkedin.com/jobs/view/community-health-worker-bilingual-spanish-at-didi-hirsch-mental-health-services-4444023244?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Didi Hirsch Mental Health Services
+- 📍 **Location:** Glendale, CA
+- 🕒 **Posted:** 2026-07-24
+
+### [Community Health Worker/ Representative](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4356753?source=Indeed_Feed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Washoe Tribe of Nevada and California
 - 📍 **Location:** Gardnerville, NV
-- 🕒 **Posted:** 2026-07-23
+- 🕒 **Posted:** 2026-07-24
 
-### [Child Care Coordinator - Family Commons (JR 5757)](https://www.glassdoor.com/job-listing/child-care-coordinator-family-commons-jr-5757-people-assisting-the-homeless-JV_IC1146819_KO0,45_KE46,75.htm?jl=1010208390296&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PATH (People Assisting the Homeless)
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** 23.24–28.28 an hour
-- 🕒 **Posted:** 2026-07-23
+### [Social Care Coordinator](https://salutemyjob.com/jobs/social-care-coordinator-bell-california/2890036725-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — UnitedHealth Group
+- 📍 **Location:** Bell, CA
+- 🕒 **Posted:** 2026-07-24
 
-### [Travel Transitional Care Coordinator - $3,295 per week](https://jobs.womenforhire.com/job/usa/castroville-ca/travel-transitional-care-coordinator-3-295-per-week-838737/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — SambaTraveler
-- 📍 **Location:** Castroville, CA
-- 🕒 **Posted:** 2026-07-23
+### [Overnight Client Care Coordinator - LVN, EMT, MA, CNA](https://salutemyjob.com/jobs/overnight-client-care-coordinator-lvn-emt-ma-cna-corona-california/2889932402-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Quadrant Health Group
+- 📍 **Location:** Corona, CA
+- 🕒 **Posted:** 2026-07-24
