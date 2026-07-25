@@ -1,96 +1,159 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-25 05:05 UTC*
+*Last updated: 2026-07-25 16:31 UTC*
 
-**21 new role(s)** since last run · 30 total in last 1h
+**34 new role(s)** since last run · 34 total in last 1h
 
-### [Case Manager for DMH Homeless Recovery and Mental Health Services](https://www.linkedin.com/jobs/view/4441891136/) — Mental Health America of Los Angeles
-- 📍 **Location:** Long Beach, CA
+### [Technical Program Manager, Research](https://www.linkedin.com/jobs/view/4407050544/) — Anthropic
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $365,000—$435,000 USD
 - 🕒 **Posted:** 2026-07-25
 
-### [Community Outreach Coordinator](https://www.linkedin.com/jobs/view/4444657503/) — Here App
-- 📍 **Location:** Los Angeles, CA
+### [RN Case Manager - Inpatient](https://www.linkedin.com/jobs/view/4397299430/) — Torrance Memorial
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $53.00 - $75.00 per hour
 - 🕒 **Posted:** 2026-07-25
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4439523501/) — Southern California Edison (SCE)
-- 📍 **Location:** Irwindale, CA
-- 💰 **Salary:** $114,400.00/yr - $171,600.00/yr
-- 🕒 **Posted:** 2026-07-25
-
-### [Program Coordinator, Academic Outreach - Remote - Nationwide](https://www.linkedin.com/jobs/view/4444647510/) — Vituity
-- 📍 **Location:** United States
-- 💰 **Salary:** $27.00/hr - $34.00/hr
-- 🕒 **Posted:** 2026-07-25
-
-### [Program Coordinator I - Recruiting & Admissions](https://www.linkedin.com/jobs/view/4441877801/) — Research Compliance Office at the Texas A&M University System
-- 📍 **Location:** Bryan, TX
-- 💰 **Salary:** $45,000-$52,000/annually
-- 🕒 **Posted:** 2026-07-25
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444664510/) — MLM Hearing, LLC
-- 📍 **Location:** Salem, OR
-- 💰 **Salary:** $21.00/yr - $21.00/yr
-- 🕒 **Posted:** 2026-07-25
-
-### [Care Manager, LTSS](https://www.linkedin.com/jobs/view/4445298602/) — Molina Healthcare
-- 📍 **Location:** Dodgeville, WI
-- 💰 **Salary:** $24 - $46.81
-- 🕒 **Posted:** 2026-07-25
-
-### [Customer Care Manager](https://www.linkedin.com/jobs/view/4444660516/) — Raymond West
-- 📍 **Location:** Phoenix, AZ
-- 🕒 **Posted:** 2026-07-25
-
-### [Patient Care Manager Assistant/UKHC](https://www.linkedin.com/jobs/view/4444740546/) — UK HealthCare
-- 📍 **Location:** Greater Lexington Area
-- 🕒 **Posted:** 2026-07-25
-
-### [Case Manager I, RN - Patient Case Management](https://www.linkedin.com/jobs/view/4444646493/) — WakeMed
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-07-25
-
-### [Case Manager I, RN - Patient Case Management](https://www.linkedin.com/jobs/view/4444642515/) — WakeMed
-- 📍 **Location:** Raleigh, NC
-- 🕒 **Posted:** 2026-07-25
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444647524/) — MLM Hearing, LLC
-- 📍 **Location:** Arvada, CO
-- 💰 **Salary:** $20.00/yr - $21.00/yr
-- 🕒 **Posted:** 2026-07-25
-
-### [Clinical Program Manager - Heart and Vascular Ultrasound](https://www.linkedin.com/jobs/view/4442657434/) — Penn State Health
-- 📍 **Location:** Hershey, PA
-- 🕒 **Posted:** 2026-07-25
-
-### [Program Manager](https://www.linkedin.com/jobs/view/4445296408/) — Anonymous Test Organization
-- 📍 **Location:** Atlanta Metropolitan Area
-- 🕒 **Posted:** 2026-07-25
-
-### [Program Manager-Care Coordination](https://www.linkedin.com/jobs/view/4444661574/) — Essentia Health
-- 📍 **Location:** Duluth, MN
-- 💰 **Salary:** $30.00/hr - $45.00/hr
-- 🕒 **Posted:** 2026-07-25
-
-### [Waterfront Program Manager Representative](https://www.linkedin.com/jobs/view/4441889107/) — MANTECH
+### [Per Diem RN - Case Manager - Sharp Memorial Hospital - PD - Days](https://www.linkedin.com/jobs/view/4443511168/) — Sharp HealthCare
 - 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Program Manager, Suburban Shield Program - GM Defense](https://www.linkedin.com/jobs/view/4445292492/) — GM Defense
-- 📍 **Location:** Warren, MI
+### [Technical Program Manager](https://www.linkedin.com/jobs/view/4426644674/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-07-25
 
-### [Program Manager 2](https://www.linkedin.com/jobs/view/4445301334/) — Northrop Grumman
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $131,800.00 - $197,800.00
+### [Technical Program Manager](https://www.linkedin.com/jobs/view/4426687531/) — Whatnot
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $190,000.00/yr - $250,000.00/yr
 - 🕒 **Posted:** 2026-07-25
 
-### [Program Manager I - Billing and Credit PMO](https://www.linkedin.com/jobs/view/4444646394/) — EchoStar Corporation
-- 📍 **Location:** Englewood, CO
+### [Program Manager Commercialization Cobra Golf](https://www.linkedin.com/jobs/view/4427613244/) — PUMA Group
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $70,304 - $83,380
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Research Assistant 1](https://www.linkedin.com/jobs/view/4445307102/) — BioSpace
-- 📍 **Location:** Cleveland, OH
+### [Program Manager](https://www.linkedin.com/jobs/view/4427996204/) — Syneos Health Commercial Solutions
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $75,000 to $100,000
 - 🕒 **Posted:** 2026-07-25
 
-### [Research Assistant](https://www.linkedin.com/jobs/view/4443098347/) — Brown University
-- 📍 **Location:** Providence, RI
+### [Program Manager Talent Development](https://www.linkedin.com/jobs/view/4428306419/) — Nikkiso Clean Energy & Industrial Gases
+- 📍 **Location:** Huntington Beach, CA
+- 💰 **Salary:** $77,070 to $138,765
+- 🕒 **Posted:** 2026-07-25
+
+### [Sr. Talent Program Manager](https://www.linkedin.com/jobs/view/4418414943/) — Vuori
+- 📍 **Location:** Carlsbad, CA
+- 💰 **Salary:** $117,700.00/yr - $151,410.00/yr
+- 🕒 **Posted:** 2026-07-25
+
+### [Social Worker/Case Manager: CCS Youth](https://www.linkedin.com/jobs/view/4445332859/) — COUNTY OF BROWN
+- 📍 **Location:** Green Bay, WI
+- 🕒 **Posted:** 2026-07-25
+
+### [Health Homes Care Coordinator](https://www.linkedin.com/jobs/view/4444690624/) — WNY Independent Living Inc.
+- 📍 **Location:** Buffalo, NY
+- 💰 **Salary:** $42,000- $46,000/Year
+- 🕒 **Posted:** 2026-07-25
+
+### [Behavioral Health Case Manager II](https://www.linkedin.com/jobs/view/4444674642/) — State of Delaware
+- 📍 **Location:** Delaware, United States
+- 🕒 **Posted:** 2026-07-25
+
+### [Engineering/Community Development Coordinator](https://www.linkedin.com/jobs/view/4444672722/) — City of Dickinson, ND
+- 📍 **Location:** Dickinson, ND
+- 💰 **Salary:** $21.82 - $24.09 per hour
+- 🕒 **Posted:** 2026-07-25
+
+### [Drug and Alcohol Case Manager](https://www.linkedin.com/jobs/view/4444688652/) — Malibu Wellness Ranch
+- 📍 **Location:** Milford, PA
+- 🕒 **Posted:** 2026-07-25
+
+### [Associate Care Manager](https://www.linkedin.com/jobs/view/4445342468/) — Northwell Health
+- 📍 **Location:** Manhasset, NY
+- 💰 **Salary:** $47,476.00/yr - $75,012.00/yr
+- 🕒 **Posted:** 2026-07-25
+
+### [Center Care Team - Care Coordinator](https://www.linkedin.com/jobs/view/4305747537/) — ArchWell Health
+- 📍 **Location:** Largo, FL
+- 🕒 **Posted:** 2026-07-25
+
+### [Behavioral Health Coordinator](https://www.linkedin.com/jobs/view/4426651257/) — Eventus WholeHealth
+- 📍 **Location:** Asheboro, NC
+- 🕒 **Posted:** 2026-07-25
+
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4441060373/) — Columbia University Irving Medical Center
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300.00 - $70,000.00
+- 🕒 **Posted:** 2026-07-25
+
+### [CMA Transitional Care Coordinator (Waco, TX)](https://www.linkedin.com/jobs/view/4436316013/) — Ennoble Care
+- 📍 **Location:** Waco, TX
+- 💰 **Salary:** $18.00-$19.00 hourly
+- 🕒 **Posted:** 2026-07-25
+
+### [Behavioral Health Coordinator](https://www.linkedin.com/jobs/view/4426642389/) — Eventus WholeHealth
+- 📍 **Location:** Biscoe, NC
+- 🕒 **Posted:** 2026-07-25
+
+### [RCT Regional Care Manager (Mid-State)](https://www.linkedin.com/jobs/view/4444670770/) — Trillium Health Resources
+- 📍 **Location:** Ahoskie, NC
+- 💰 **Salary:** $56,270 - $68,428
+- 🕒 **Posted:** 2026-07-25
+
+### [Family Case Manager, Foster Care](https://www.linkedin.com/jobs/view/4425325660/) — Lutheran Social Services of Illinois
+- 📍 **Location:** Peoria, IL
+- 💰 **Salary:** $60,000-$67,000/Annually
+- 🕒 **Posted:** 2026-07-25
+
+### [TRANSITIONAL CASE MANAGER, WEEKDAY - PRN](https://www.linkedin.com/jobs/view/4443158549/) — Cooper University Health Care
+- 📍 **Location:** Camden, NJ
+- 🕒 **Posted:** 2026-07-25
+
+### [Learning and Development (L&D) Program Manager](https://www.linkedin.com/jobs/view/4445338524/) — Swooped
+- 📍 **Location:** United States
+- 💰 **Salary:** $155,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-07-25
+
+### [Program Manager, Customer Experience](https://www.linkedin.com/jobs/view/4386498159/) — StandardAero
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-07-25
+
+### [Onsite Program Manager](https://www.linkedin.com/jobs/view/4428147001/) — Envita Solutions
+- 📍 **Location:** Decherd, TN
+- 🕒 **Posted:** 2026-07-25
+
+### [Program Manager - Federal Government Agency - Hybrid in D.C.](https://www.linkedin.com/jobs/view/4428147134/) — Motorola Solutions
+- 📍 **Location:** District of Columbia, United States
+- 💰 **Salary:** $140,000 - $160,000 USD
+- 🕒 **Posted:** 2026-07-25
+
+### [Planning and Inventory Program Manager](https://www.linkedin.com/jobs/view/4407641562/) — Checkers & Rally’s Drive-In Restaurants
+- 📍 **Location:** Greater Tampa Bay Area
+- 🕒 **Posted:** 2026-07-25
+
+### [Program Manager Flexible Services](https://www.linkedin.com/jobs/view/4445354001/) — UMass Memorial Medical Center
+- 📍 **Location:** Worcester, MA
+- 🕒 **Posted:** 2026-07-25
+
+### [Program Manager – Energy & Power](https://www.linkedin.com/jobs/view/4386983422/) — Jacobs
+- 📍 **Location:** Colorado Springs, CO
+- 💰 **Salary:** $144,600.00/yr - $189,825.00/yr
+- 🕒 **Posted:** 2026-07-25
+
+### [Grant Coordinator](https://www.linkedin.com/jobs/view/4440485237/) — Columbia University Irving Medical Center
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $66,300 - $68,000
+- 🕒 **Posted:** 2026-07-25
+
+### [Research Assistant](https://www.linkedin.com/jobs/view/4442322181/) — Columbia University Irving Medical Center
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-07-25
+
+### [Clinical Research Assistant - PK/PD lab](https://www.linkedin.com/jobs/view/4444684674/) — Jefferson Health
+- 📍 **Location:** Philadelphia, PA
+- 🕒 **Posted:** 2026-07-25
+
+### [Undergraduate Research Assistant](https://www.linkedin.com/jobs/view/4444684634/) — FIRST JUDICIAL DISTRICT OF PENNSYLVANIAA
+- 📍 **Location:** Dresher, PA
 - 🕒 **Posted:** 2026-07-25
