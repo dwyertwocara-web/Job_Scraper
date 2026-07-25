@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-25 17:58 UTC",
+  "scraped_at": "2026-07-25 18:58 UTC",
   "total": 99,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -1291,19 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Rural Resources Community Action",
-      "title": "Community Health Worker – Community Connect",
-      "location": "Colville, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
-      "date_posted": "2026-07-07T22:22:07.000Z",
-      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
-      "salary": "$45k–$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
