@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-25 05:09 UTC",
-  "total": 100,
+  "scraped_at": "2026-07-25 17:58 UTC",
+  "total": 99,
   "new_count": 1,
   "jobs": [
     {
@@ -199,6 +199,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Vista Maria",
+      "title": "Housing Specialist",
+      "location": "Dearborn Heights, Michigan, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "date_posted": "2026-07-01T19:28:22.685Z",
+      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
+      "salary": "$43k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -207,19 +220,6 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Grand Prairie, TX",
-      "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -238,14 +238,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
+      "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -259,19 +259,6 @@
       "date_posted": "2026-07-10T18:57:08.000Z",
       "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
       "salary": "$43k–$45k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Trinityhealth",
-      "title": "Housing Navigator",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Joseph-Mercy-Health-System-Hospital-Campus---Ann-Arbor-Mi/Housing-Navigator_00669635",
-      "direct_url": "https://trinityhealth.wd1.myworkdayjobs.com/jobs/job/Saint-Joseph-Mercy-Health-System-Hospital-Campus---Ann-Arbor-Mi/Housing-Navigator_00669635",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "3+ years housing/homeless services or degree in social work or related field; experience with landlord outreach, housing navigation, data entry, and strong communication; knowledge of Housing First principles.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -693,19 +680,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Harris Center for Mental Health and IDD",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117973432",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117973432",
-      "date_posted": "2026-07-15T14:33:38.802Z",
-      "description": "DSHS-certified Community Health Worker (or ability to obtain), high school diploma/GED, 1+ year related experience, strong communication, basic Microsoft Word/Excel skills, ability to work in community settings.",
-      "salary": "$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Essentiahealth",
       "title": "Community Health Worker",
       "location": "Grand Rapids, Minnesota, United States",
@@ -862,6 +836,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -992,6 +979,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "The Harris Center",
+      "title": "Care Coordinator",
+      "location": "Pasadena, Texas, United States",
+      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "date_posted": "2026-07-10T17:53:29.731Z",
+      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
+      "salary": "$47k–$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Planstin Administration",
       "title": "Care Coordinator",
       "location": "St George, Utah, United States",
@@ -1000,19 +1000,6 @@
       "date_posted": "2026-06-25T21:31:38.543Z",
       "description": "Coordinate member care and appointments, arrange labs and imaging, assist with benefits navigation, manage referrals and billing codes; requires strong communication, organization, and problem-solving skills.",
       "salary": "$50k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Phoebehealth",
-      "title": "Care Coordinator",
-      "location": "Albany, Georgia, United States",
-      "url": "https://phoebehealth.wd503.myworkdayjobs.com/phoebehealth/job/Phoebe-North-Campus/Care-Coordinator_34492-1",
-      "direct_url": "https://phoebehealth.wd503.myworkdayjobs.com/phoebehealth/job/Phoebe-North-Campus/Care-Coordinator_34492-1",
-      "date_posted": "2026-07-10T00:00:00.000Z",
-      "description": "Bachelor's degree required, 2+ years clinical experience, current Georgia license in specialty, EMR experience preferred, skills in care coordination, chronic disease management, patient education.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1306,14 +1293,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Children's Specialized ABA",
-      "title": "Care Coordinator",
-      "location": "Voorhees, New Jersey, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
-      "date_posted": "2026-07-24T16:12:51.000Z",
-      "description": "High school diploma/GED required; associate or bachelor preferred. 2 years intake/care coordination or ABA or customer service experience. Proficient with Microsoft Office, EHR; strong communication and organization skills.",
-      "salary": "$55k–$63k/yr",
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
