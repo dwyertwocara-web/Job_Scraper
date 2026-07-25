@@ -1,67 +1,46 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-25 22:27 UTC*
+*Last updated: 2026-07-25 23:30 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**9 new role(s)** since last run · 12 total in last 1h
 
-### [Program Specialist - Supporting Innovative Practices (SIP) - S. Bay Area/Central Coast/Central Valley](https://www.linkedin.com/jobs/view/4442314659/) — El Dorado County Office of Education
-- 📍 **Location:** Placerville, CA
-- 💰 **Salary:** $119,303 - $145,012 Annually
-- 🕒 **Posted:** 2026-07-25
-
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444692680/) — University of the Pacific
-- 📍 **Location:** Stockton, CA
-- 🕒 **Posted:** 2026-07-25
-
-### [Program Specialist - Charter SELPA (Los Angeles County Region)](https://www.linkedin.com/jobs/view/4442327197/) — El Dorado County Office of Education
-- 📍 **Location:** Placerville, CA
-- 💰 **Salary:** $119,303 - $145,012 Annually
-- 🕒 **Posted:** 2026-07-25
-
-### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4444800107/) — Fountain Valley School District
-- 📍 **Location:** Fountain Valley, CA
-- 💰 **Salary:** $4,918 - $5,981
-- 🕒 **Posted:** 2026-07-25
-
-### [STEAM Program Coordinator](https://www.linkedin.com/jobs/view/4444694175/) — California State University, Northridge
+### [Program Manager, Digital Patient Experience & Therapy Enablement](https://www.linkedin.com/jobs/view/4445372021/) — MiniMed
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $5274 - $6303 per month
+- 💰 **Salary:** $109,000.00 - $185,000.00
 - 🕒 **Posted:** 2026-07-25
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445363118/) — Optum
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $16.00 to $29.00 per hour
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4442325298/) — Humana
+- 📍 **Location:** Ocala, FL
+- 💰 **Salary:** $53,700.00/yr - $72,600.00/yr
 - 🕒 **Posted:** 2026-07-25
 
-### [Clinic Case Manager](https://www.linkedin.com/jobs/view/4445362103/) — Optum
-- 📍 **Location:** Albuquerque, NM
-- 💰 **Salary:** $60,200 to $107,400 annually
+### [Field Care Coordinator](https://www.linkedin.com/jobs/view/4442313670/) — Humana
+- 📍 **Location:** Gainesville, FL
+- 💰 **Salary:** $53,700.00/yr - $72,600.00/yr
 - 🕒 **Posted:** 2026-07-25
 
-### [RN Field Clinical Care Coordinator - Boston](https://www.linkedin.com/jobs/view/4445344970/) — UnitedHealthcare
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $29 - $52 per hour
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4444806121/) — David W. Kim, MD, Inc.
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-07-25
 
-### [Senior Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445363115/) — Optum
-- 📍 **Location:** Henderson, NV
-- 💰 **Salary:** $20.00 to $36.00 per hour
+### [Program Manager, AV Operational Safety](https://www.linkedin.com/jobs/view/4445349888/) — Uber
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-07-25
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445362108/) — Optum
-- 📍 **Location:** Henderson, NV
-- 💰 **Salary:** $16.00 to $29.00 per hour
+### [Program Manager](https://www.linkedin.com/jobs/view/4444801141/) — Bob Evans Farms, Inc.
+- 📍 **Location:** New Albany, OH
 - 🕒 **Posted:** 2026-07-25
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445350764/) — Optum
-- 📍 **Location:** Henderson, NV
-- 💰 **Salary:** $16.00 to $29.00 per hour
+### [Program Manager, Digital Patient Experience & Therapy Enablement](https://www.linkedin.com/jobs/view/4445359427/) — MiniMed
+- 📍 **Location:** San Antonio, TX
+- 💰 **Salary:** $109,000.00 - $185,000.00
 - 🕒 **Posted:** 2026-07-25
 
-### [Clinical Case Manager - Heart and Vascular Institute Heart Failure Services](https://www.linkedin.com/jobs/view/4442656461/) — Penn State Health
-- 📍 **Location:** Hershey, PA
+### [Oracle Fusion Cloud PLM Program Manager](https://www.linkedin.com/jobs/view/4444815065/) — Tata Consultancy Services
+- 📍 **Location:** Pleasanton, CA
+- 💰 **Salary:** $94,000 - $150,000
 - 🕒 **Posted:** 2026-07-25
 
-### [Program Manager, Operations Enablement](https://www.linkedin.com/jobs/view/4444805084/) — RemoteHunter
-- 📍 **Location:** United States
-- 💰 **Salary:** $130,000 to $150,000 USD
+### [Senior Program Manager 3 - 19130](https://www.linkedin.com/jobs/view/4440851603/) — Northrop Grumman
+- 📍 **Location:** Roy, UT
+- 💰 **Salary:** $0.00 - $0.00
 - 🕒 **Posted:** 2026-07-25
