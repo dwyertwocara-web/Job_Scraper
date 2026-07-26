@@ -1,79 +1,87 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-26 17:46 UTC*
+*Last updated: 2026-07-26 19:55 UTC*
 
-**17 new role(s)** since last run · 18 total in last 1h
+**19 new role(s)** since last run · 19 total in last 1h
 
-### [Post-Acute Care Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4378363406/) — DataAnnotation
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $25-$30
+### [Program Specialist-SCC Case Management](https://www.linkedin.com/jobs/view/4445645305/) — Community Services and Employment Training (CSET)
+- 📍 **Location:** Visalia, CA
+- 💰 **Salary:** $18.64 – $19.29 per hour
 - 🕒 **Posted:** 2026-07-26
 
-### [Housing Navigator](https://www.linkedin.com/jobs/view/4444847281/) — Nonprofit Connect
-- 📍 **Location:** Kansas City, MO
+### [Housing Navigator](https://www.linkedin.com/jobs/view/4445645276/) — SupportWorks Housing
+- 📍 **Location:** Chesapeake, VA
 - 🕒 **Posted:** 2026-07-26
 
-### [Case Manager - Crestview Mobile Response Team](https://www.linkedin.com/jobs/view/4444847327/) — Lakeview Center
-- 📍 **Location:** Crestview, FL
+### [Community Services Program Coordinator (JMP)](https://www.linkedin.com/jobs/view/4445643221/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-26
 
-### [Developmental Disabilities (DD) Waiver Case Manager](https://www.linkedin.com/jobs/view/4439101020/) — Shakir Consulting Services,LLC
-- 📍 **Location:** Greater Minneapolis-St. Paul Area
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4445640320/) — City of Albuquerque
+- 📍 **Location:** Albuquerque, NM
 - 🕒 **Posted:** 2026-07-26
 
-### [Part-Time Data Coordinator](https://www.linkedin.com/jobs/view/4444823890/) — Nonprofit Connect
-- 📍 **Location:** Mission, KS
-- 💰 **Salary:** $19.00 to $24.00 per hour
+### [Case Manager 2 - Aging, Disability, and Veteran Services (ADVSD)](https://www.linkedin.com/jobs/view/4445648292/) — Multnomah County
+- 📍 **Location:** Gresham, OR
+- 💰 **Salary:** $32.88 - $40.45 Hourly
 - 🕒 **Posted:** 2026-07-26
 
-### [N99478 Student Development Coordinator](https://www.linkedin.com/jobs/view/4445641099/) — Northeastern State University
-- 📍 **Location:** Tahlequah, OK
+### [Community Development Program Coordinator, (A269720-1), 207, Housing Rehab](https://www.linkedin.com/jobs/view/4445635321/) — City of Laredo
+- 📍 **Location:** Laredo, TX
 - 🕒 **Posted:** 2026-07-26
 
-### [Public Health LPN / Community Health Aide Practitioner Case Manager](https://www.linkedin.com/jobs/view/4445632067/) — Yukon-Kuskokwim Health Corporation
-- 📍 **Location:** Bethel, AK
+### [Pharmacy Technician-Care Coordinator-Canonsburg, PA (Hybrid)](https://www.linkedin.com/jobs/view/4445627657/) — Preferred Primary Care Physicians
+- 📍 **Location:** Canonsburg, PA
 - 🕒 **Posted:** 2026-07-26
 
-### [Post-Acute Care Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4378364362/) — DataAnnotation
-- 📍 **Location:** New York, United States
-- 💰 **Salary:** $25-$30
+### [Residential Program Manager (QP) IDD](https://www.linkedin.com/jobs/view/4445632259/) — InReach NC
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-07-26
 
-### [Post-Acute Care Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4378373195/) — DataAnnotation
-- 📍 **Location:** Pennsylvania, United States
-- 💰 **Salary:** $25-$30
+### [Care Manager (CNA/CHHA) Part Time 7am - 3pm](https://www.linkedin.com/jobs/view/4442362681/) — Monarch Communities®
+- 📍 **Location:** Livingston, NJ
+- 💰 **Salary:** $20.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-07-26
 
-### [Post-Acute Care Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4378364373/) — DataAnnotation
-- 📍 **Location:** Massachusetts, United States
-- 💰 **Salary:** $25-$30
+### [Program Coordinator and Program Assistant](https://www.linkedin.com/jobs/view/4445619794/) — The Washington Campus
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-07-26
 
-### [Mental Health Targeted Case Manager](https://www.linkedin.com/jobs/view/4444839997/) — Chrysalis Health
-- 📍 **Location:** Fort Lauderdale, FL
-- 💰 **Salary:** $56,000.00/yr - $56,000.00/yr
+### [Program Manager](https://www.linkedin.com/jobs/view/4444822867/) — techolution
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-07-26
 
-### [SRC Dental Case Manager](https://www.linkedin.com/jobs/view/4445634079/) — Yukon-Kuskokwim Health Corporation
-- 📍 **Location:** Aniak, AK
+### [Program Manager](https://www.linkedin.com/jobs/view/4407654082/) — Hill International, Inc.
+- 📍 **Location:** Phoenix, AZ
 - 🕒 **Posted:** 2026-07-26
 
-### [Housing Case Manager](https://www.linkedin.com/jobs/view/4445604971/) — Neighborhood Legal Services Michigan
-- 📍 **Location:** Detroit, MI
+### [Program Manager - IT Consulting and Services](https://www.linkedin.com/jobs/view/4444823837/) — techolution
+- 📍 **Location:** New York City Metropolitan Area
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Manager, AV Operational Safety](https://www.linkedin.com/jobs/view/4445627279/) — Uber
-- 📍 **Location:** New York, NY
+### [TikTok Shop - After- sales Operations Program Manager](https://www.linkedin.com/jobs/view/4444868072/) — TikTok
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $103360 - $209380 annually
 - 🕒 **Posted:** 2026-07-26
 
-### [Creative Program Manager](https://www.linkedin.com/jobs/view/4407967455/) — Razorfish
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** USD $73,150.00 - USD $96,200.00/Annually
+### [Program Manager](https://www.linkedin.com/jobs/view/4418486069/) — Black & Veatch
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $131,974.00 - $224,354.00
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Manager N.F.A.T.C. T.O.P.S. Support Services](https://www.linkedin.com/jobs/view/4445633103/) — Chi-Chack LLC
-- 📍 **Location:** Arlington, VA
+### [Program Manager BHT](https://www.linkedin.com/jobs/view/4445642270/) — Community Bridges
+- 📍 **Location:** Tucson, AZ
 - 🕒 **Posted:** 2026-07-26
 
-### [Hospice Care Coordinator](https://www.linkedin.com/jobs/view/4428162515/) — Trinity Health
-- 📍 **Location:** Columbus, OH
+### [Program Manager](https://www.linkedin.com/jobs/view/4444869023/) — Movement Search & Delivery
+- 📍 **Location:** Lewisburg, TN
+- 💰 **Salary:** $90,000.00/yr - $125,000.00/yr
+- 🕒 **Posted:** 2026-07-26
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4445214929/) — Venteon
+- 📍 **Location:** Cincinnati, OH
+- 💰 **Salary:** $90,000.00/yr - $115,000.00/yr
+- 🕒 **Posted:** 2026-07-26
+
+### [Case Manager (ASO2) - Veterans Treatment Court](https://www.linkedin.com/jobs/view/4445649168/) — Metropolitan Government of Nashville and Davidson County
+- 📍 **Location:** Nashville, TN
 - 🕒 **Posted:** 2026-07-26
