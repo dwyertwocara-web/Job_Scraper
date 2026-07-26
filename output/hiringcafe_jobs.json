@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-07-26 20:52 UTC",
+  "scraped_at": "2026-07-26 21:56 UTC",
   "total": 98,
   "new_count": 0,
   "jobs": [
@@ -199,19 +199,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
-      "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -220,6 +207,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Grand Prairie, TX",
+      "title": "Housing Specialist",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -238,14 +238,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Grand Prairie, TX",
+      "company": "Vista Maria",
       "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
+      "location": "Dearborn Heights, Michigan, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "date_posted": "2026-07-01T19:28:22.685Z",
+      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
+      "salary": "$43k–$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
-      "title": "Care Coordinator",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
-      "salary": "$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Benevolent Hearts Home Care - Bedford, TX",
       "title": "Care Coordinator",
       "location": "Bedford, Texas, United States",
@@ -909,6 +896,19 @@
       "date_posted": "2026-07-09T13:17:10.000Z",
       "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
       "salary": "$42k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Care Coordinator",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "date_posted": "2026-07-02T04:00:00.000Z",
+      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
+      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
