@@ -1,35 +1,35 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-26 21:27 UTC*
+*Last updated: 2026-07-26 22:28 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**7 new role(s)** since last run · 8 total in last 1h
 
-### [Housing Specialist](https://www.linkedin.com/jobs/view/4445229972/) — Merakey
-- 📍 **Location:** Monaca, PA
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4442377665/) — CCIHSS
+- 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-07-26
 
-### [Community Case Manager](https://www.linkedin.com/jobs/view/4445237510/) — Merakey
-- 📍 **Location:** Shreveport, LA
+### [Program Specialist - Supporting Innovative Practices (SIP) - S. Bay Area/Central Coast/Central Valley](https://www.linkedin.com/jobs/view/4442356908/) — El Dorado County Office of Education
+- 📍 **Location:** Placerville, CA
+- 💰 **Salary:** $119,303 - $145,012 Annually
 - 🕒 **Posted:** 2026-07-26
 
-### [Care Coordinator Auth Scheduling Specialist](https://www.linkedin.com/jobs/view/4444856230/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
+### [Research Data Analyst - Hematological Malignancies](https://www.linkedin.com/jobs/view/4445246674/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4444869161/) — NeuLife Neurological Services, LLC
-- 📍 **Location:** Bowling Green Metropolitan Area
+### [Field Care Coordinator - Brentwood, TN](https://www.linkedin.com/jobs/view/4445646651/) — UnitedHealthcare
+- 📍 **Location:** Brentwood, TN
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4444871140/) — Galapagos Federal Systems
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** USD $170,000.00 - USD $180,000.00 /Yr
+### [ICW Foster Care Program Coordinator](https://www.linkedin.com/jobs/view/4445646680/) — White Earth Public Works
+- 📍 **Location:** White Earth, MN
 - 🕒 **Posted:** 2026-07-26
 
-### [Aquatics Program Manager](https://www.linkedin.com/jobs/view/4444853225/) — NRPA Leadership Development Network
-- 📍 **Location:** Shawnee, KS
+### [Juvenile Wellness Case Manager](https://www.linkedin.com/jobs/view/4445631716/) — White Earth Public Works
+- 📍 **Location:** White Earth, MN
 - 🕒 **Posted:** 2026-07-26
 
-### [Program Coordinator II (Hybrid) - Molecular Microbiology](https://www.linkedin.com/jobs/view/4444868125/) — Society for Industrial Microbiology and Biotechnology
-- 📍 **Location:** St Louis, MO
-- 💰 **Salary:** $23.37 - $36.19
+### [Program Specialist - Charter SELPA (Los Angeles County Region)](https://www.linkedin.com/jobs/view/4442369731/) — El Dorado County Office of Education
+- 📍 **Location:** Placerville, CA
+- 💰 **Salary:** $119,303 - $145,012 Annually
 - 🕒 **Posted:** 2026-07-26
