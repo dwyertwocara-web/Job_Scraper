@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26 17:54 UTC",
+  "scraped_at": "2026-07-26 18:46 UTC",
   "total": 5,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "San Bernardino County",
@@ -89,23 +89,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Eunice Gonsalves DDS Inc",
-      "title": "Dental Front office Patient Care Coordinator",
-      "location": "Cupertino, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=b38435452ba748a6",
-      "direct_url": "http://www.indeed.com/job/dental-front-office-patient-care-coordinator-b38435452ba748a6",
-      "company_url": "https://www.indeed.com/cmp/Eunice-Gonsalves-Dds-Inc",
-      "date_posted": "2026-07-26",
-      "description": "**About the Position:**\n\nWe are seeking a full time(4 days/ week) Front office Admin for our General Dentistry office in Cupertino, CA. We are looking for a person who has both excellent interpersonal skills and communication skills. 1 year of Dental office front desk experience is a requirement. Our practice is committed to excellence in both dentistry and patient care, and this person is tasked with ensuring these standards are met on a daily basis.\n\nThe Admin is responsible for the following essential duties:\n\n* Helping to create an atmosphere that ensures the highest quality dental experience for patients\n* Maintaining a friendly and welcoming relationship with all patients\n* Responsible for answering phones and greeting patients with professionalism and care\n* Presenting treatment plans, collecting payments\n* Verifying insurance eligibility and estimating co\\-pays\n* Scheduling patients and collecting all necessary information\n* Being part of the high standards for ethical and professional conduct at all times\n* Participating in the goals of the practice\n* Accurate balancing of all office transactions\n* Thoroughly answering patients’ questions\n* Reviewing aging report and following up with patients to collect the balance\n\nThe ideal candidate will have at least the minimum skills and abilities:\n\n* A high attention to detail and ability to problem solve\n* Able to multi\\-task in a fast\\-paced environment.\n* Strong background in Dentrix and understanding of dental insurances\n* Superior communication skills, both written and verbal\n* Highly organized and energetic\n* Must have experience and in\\-depth knowledge of dental systems\n* High level of professionalism\\- including attire and appearance\n\nThis is a great opportunity for a skilled professional with a dental background.\n\nJob Type: Full\\-time\n\nPay: $20\\.00 \\- $35\\.00 per hour\n\nBenefits:\n\n* 401(k)\n* 401(k) matching\n* Dental insurance\n* Employee discount\n* Paid time off\n\nApplication Question(s):\n\n* What is your expected starting pay per hour?\n* What date are you available to start working?\n* Do you have experience with Dentrix Software?\n* Can you verify dental PPO insurance for patients?\n\nExperience:\n\n* Dental Front Office: 1 year (Required)\n\nWork Location: In person",
-      "salary": "$20–$35/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
