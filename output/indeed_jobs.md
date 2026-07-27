@@ -1,37 +1,29 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-27 21:15 UTC*
+*Last updated: 2026-07-27 22:55 UTC*
 
-**7 new role(s)** since last run · 19 total in last 24h
+**5 new role(s)** since last run · 24 total in last 24h
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=9ebda2f42914bc9c) — Aspiranet
-- 📍 **Location:** Redlands, CA, US
+### [Bilingual Patient Care Coordinator](https://www.indeed.com/viewjob?jk=69d283eca1c7ea57) — Natomas Crossing Dental Care
+- 📍 **Location:** Sacramento, CA, US
 - 💰 **Salary:** $19–$21/hr
 - 🕒 **Posted:** 2026-07-27
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=5131052a0dbbe54b) — STARS Behavioral Health Group
+### [Care Manager II, Acute ( RN )](https://www.indeed.com/viewjob?jk=0a9739373f48cac4) — Sutter Health
+- 📍 **Location:** Novato, CA, US
+- 💰 **Salary:** $90–$126/hr
+- 🕒 **Posted:** 2026-07-27
+
+### [TMS Technician & Care Coordinator](https://www.indeed.com/viewjob?jk=edd926d2b5856481) — Medical Imaging Center of Southern California,Inc
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $20–$30/hr
+- 🕒 **Posted:** 2026-07-27
+
+### [Showroom & Customer Care Coordinator - Min 3+ year experience required](https://www.indeed.com/viewjob?jk=cb028a525a7b9149) — Z Blinds Company, Inc
 - 📍 **Location:** Fresno, CA, US
-- 💰 **Salary:** $22–$28/hr
+- 💰 **Salary:** $24–$28/hr
 - 🕒 **Posted:** 2026-07-27
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=1be62905a2ed7954) — TIEV Medspa
-- 📍 **Location:** Costa Mesa, CA, US
-- 💰 **Salary:** $20–$22/hr
+### [Contingency Management Program Coordinator (Spanish-Language Stimulant Use Program)](https://www.indeed.com/viewjob?jk=231ffb17e949a5e0) — The Gubbio Project
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $30–$35/hr
 - 🕒 **Posted:** 2026-07-27
-
-### [Licensed Vocational Nurse, Home Care Coordinator](https://www.indeed.com/viewjob?jk=e1013cf4d292514b) — AltaMed Health Services
-- 📍 **Location:** Los Angeles, CA, US
-- 🕒 **Posted:** 2026-07-27
-
-### [Hospice RN Care Coordinator](https://www.indeed.com/viewjob?jk=e8c6b676eeda2282) — Redlands Community Hospital
-- 📍 **Location:** Redlands, CA, US
-- 💰 **Salary:** $48–$76/hr
-- 🕒 **Posted:** 2026-07-27
-
-### [Patient Care Coordinator III, Cancer Center - Pleasanton](https://www.indeed.com/viewjob?jk=14a0b3ee909b55e2) — Stanford Health Care
-- 📍 **Location:** Castro Valley, CA, US
-- 💰 **Salary:** $34–$38/hr
-- 🕒 **Posted:** 2026-07-27
-
-### [RN Chronic Care Manager - Per Diem, Variable (Hybrid-Culver City)](https://www.indeed.com/viewjob?jk=14ebcdf46034bb8f) — Unknown
-- 📍 **Location:** Culver City, CA, US
-- 🕒 **Posted:** 2026-07-23
