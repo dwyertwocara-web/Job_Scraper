@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27 02:10 UTC",
-  "total": 99,
-  "new_count": 0,
+  "scraped_at": "2026-07-27 06:22 UTC",
+  "total": 98,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -18,12 +18,12 @@
     },
     {
       "company": "Cincinnati Metropolitan Housing Authority",
-      "title": "Housing Specialist Leasing",
+      "title": "Housing Specialist (Leasing)",
       "location": "Cincinnati, Ohio, United States",
-      "url": "https://secure.entertimeonline.com/ta/6128043.careers?ShowJob=1006931330",
-      "direct_url": "https://secure.entertimeonline.com/ta/6128043.careers?ShowJob=1006931330",
-      "date_posted": "2026-07-17T22:27:23.733Z",
-      "description": "Verify applicant eligibility for public housing, compute rents, maintain client files, perform interviews, and represent agency at hearings. Requires 2+ years related experience, advanced math, HUD knowledge, and housing specialist certification within 12 months.",
+      "url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
+      "date_posted": "2026-07-24T22:27:28.775Z",
+      "description": "Verify applicant eligibility for public housing, maintain compliant client files, compute rents, prepare hearing packets, and maintain waiting lists. Requires HS diploma, 2 years related experience, and housing specialist certification within 1 year.",
       "salary": "$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -888,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
-      "title": "Care Coordinator",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
-      "salary": "$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Benevolent Hearts Home Care - Bedford, TX",
       "title": "Care Coordinator",
       "location": "Bedford, Texas, United States",
@@ -909,6 +896,19 @@
       "date_posted": "2026-07-09T13:17:10.000Z",
       "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
       "salary": "$42k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Care Coordinator",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "date_posted": "2026-07-02T04:00:00.000Z",
+      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
+      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,19 +1044,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Innovista Medical Center Texas LLC",
-      "title": "Care Coordinator",
-      "location": "Richardson, Texas, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
-      "date_posted": "2026-07-08T16:50:52.000Z",
-      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "childrens",
       "title": " Care Coordinator",
       "location": "Dallas, Texas, United States",
@@ -1064,6 +1051,19 @@
       "direct_url": "https://css-childrens-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,32307,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=CANDIDATEEXPERIENCE",
       "date_posted": "2026-07-16T00:00:00.000Z",
       "description": "Texas RN with BSN (or equivalent), 4+ years pediatric nursing/case management/care coordination experience, BLS required, ACM/CCM/CCTM preferred, knowledge of discharge planning and payor navigation.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Richardson, Texas, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4315044",
+      "date_posted": "2026-07-08T16:50:52.000Z",
+      "description": "High school diploma required (bachelor's preferred), 3+ years clinical/community experience, care coordination/case management experience desirable, bilingual English/Spanish, Microsoft Excel and EHR familiarity.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1276,20 +1276,21 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "The Dream Program",
-      "title": "Strategic Development Coordinator ",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://dreamprogram.bamboohr.com/careers/537",
-      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
-      "salary": "",
-      "job_type": "Part Time, Full Time",
+      "company": "Cincinnati Metropolitan Housing Authority",
+      "title": "Housing Specialist (Leasing)",
+      "location": "Cincinnati, Ohio, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
+      "date_posted": "2026-07-24T22:27:28.775Z",
+      "description": "Verify applicant eligibility for public housing, maintain compliant client files, compute rents, prepare hearing packets, and maintain waiting lists. Requires HS diploma, 2 years related experience, and housing specialist certification within 1 year.",
+      "salary": "$57k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
