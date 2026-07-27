@@ -1,32 +1,31 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-27 04:25 UTC*
+*Last updated: 2026-07-27 05:44 UTC*
 
 **6 new role(s)** since last run · 6 total in last 1h
 
-### [Employee Experience Program Manager](https://www.linkedin.com/jobs/view/4445664677/) — Andrew & Brothers, Inc.
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $195,000 - $210,000 per year
+### [Community Health Worker - 2025640](https://www.linkedin.com/jobs/view/4443488521/) — World Relief
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $26.50/hr - $26.50/hr
 - 🕒 **Posted:** 2026-07-27
 
-### [Recruiting Program Manager](https://www.linkedin.com/jobs/view/4445672595/) — Andrew & Brothers, Inc.
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $140,000 - $195,000 per year
+### [Program Manager, Ground Systems](https://www.linkedin.com/jobs/view/4444875162/) — DevHub
+- 📍 **Location:** Costa Mesa, CA
+- 💰 **Salary:** $112,000 - $149,000 USD
 - 🕒 **Posted:** 2026-07-27
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4445657725/) — TerraBella Senior Living
-- 📍 **Location:** Newton, NC
+### [Refugee Cash Assistance (RCA) Program Specialist - 2025777](https://www.linkedin.com/jobs/view/4442803229/) — World Relief
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $23.00/hr - $25.00/hr
 - 🕒 **Posted:** 2026-07-27
 
-### [Telephonic Nurse Case Manager II](https://www.linkedin.com/jobs/view/4437891001/) — Elevance Health
-- 📍 **Location:** Atlanta, GA
-- 💰 **Salary:** $75,680 to $119,196
+### [Emergency Diversion Mobile Respite Case Manager](https://www.linkedin.com/jobs/view/4442379728/) — Riverside Community Care
+- 📍 **Location:** Milford, MA
 - 🕒 **Posted:** 2026-07-27
 
-### [Sustainability Program Manager](https://www.linkedin.com/jobs/view/4445653686/) — Carolina Components Group, Inc
-- 📍 **Location:** Durham, NC
+### [Governance & Development Coordinator](https://www.linkedin.com/jobs/view/4445674745/) — First Peoples’ Cultural Foundation
+- 📍 **Location:** Indiana, United States
 - 🕒 **Posted:** 2026-07-27
 
-### [Intel Program Manager](https://www.linkedin.com/jobs/view/4439270463/) — CACI International Inc
-- 📍 **Location:** Columbia, MD
-- 💰 **Salary:** $98,500-$206,800
+### [Sr. Program Manager](https://www.linkedin.com/jobs/view/4442393271/) — ArmorWorks Enterprises, Inc
+- 📍 **Location:** Chandler, AZ
 - 🕒 **Posted:** 2026-07-27
