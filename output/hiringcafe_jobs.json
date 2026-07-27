@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27 06:22 UTC",
+  "scraped_at": "2026-07-27 18:28 UTC",
   "total": 98,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -1278,19 +1278,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cincinnati Metropolitan Housing Authority",
-      "title": "Housing Specialist (Leasing)",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
-      "date_posted": "2026-07-24T22:27:28.775Z",
-      "description": "Verify applicant eligibility for public housing, maintain compliant client files, compute rents, prepare hearing packets, and maintain waiting lists. Requires HS diploma, 2 years related experience, and housing specialist certification within 1 year.",
-      "salary": "$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
