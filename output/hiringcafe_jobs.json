@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-27 00:00 UTC",
+  "scraped_at": "2026-07-27 02:10 UTC",
   "total": 99,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -888,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Benevolent Hearts Home Care - Bedford, TX",
-      "title": "Care Coordinator",
-      "location": "Bedford, Texas, United States",
-      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "date_posted": "2026-07-09T13:17:10.000Z",
-      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
-      "salary": "$42k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Jbfcs",
       "title": "Care Coordinator",
       "location": "Brooklyn, New York, United States",
@@ -909,6 +896,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
       "salary": "$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Benevolent Hearts Home Care - Bedford, TX",
+      "title": "Care Coordinator",
+      "location": "Bedford, Texas, United States",
+      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "date_posted": "2026-07-09T13:17:10.000Z",
+      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
+      "salary": "$42k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1291,19 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "The Dream Program",
-      "title": "Strategic Development Coordinator ",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://dreamprogram.bamboohr.com/careers/537",
-      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
-      "salary": "",
-      "job_type": "Part Time, Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
