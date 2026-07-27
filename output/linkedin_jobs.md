@@ -1,62 +1,32 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-07-27 01:29 UTC*
+*Last updated: 2026-07-27 04:25 UTC*
 
-**14 new role(s)** since last run · 16 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Case Manager (Assertive Community Treatment)](https://www.linkedin.com/jobs/view/4445672076/) — Chesterfield County
-- 📍 **Location:** Chesterfield, VA
-- 💰 **Salary:** $62,154.00 - $83,906.00 Annually
+### [Employee Experience Program Manager](https://www.linkedin.com/jobs/view/4445664677/) — Andrew & Brothers, Inc.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $195,000 - $210,000 per year
 - 🕒 **Posted:** 2026-07-27
 
-### [Tailored Care Manager](https://www.linkedin.com/jobs/view/4444847864/) — AbilityLinks
-- 📍 **Location:** Wilmington, NC
+### [Recruiting Program Manager](https://www.linkedin.com/jobs/view/4445672595/) — Andrew & Brothers, Inc.
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000 - $195,000 per year
 - 🕒 **Posted:** 2026-07-27
 
-### [Social Worker-Suicide Prevention Case Manager](https://www.linkedin.com/jobs/view/4445657286/) — NACSW – North American Association of Christians in Social Work
-- 📍 **Location:** Spokane, WA
+### [Care Manager](https://www.linkedin.com/jobs/view/4445657725/) — TerraBella Senior Living
+- 📍 **Location:** Newton, NC
 - 🕒 **Posted:** 2026-07-27
 
-### [Care Coordinator Auth Scheduling Specialist](https://www.linkedin.com/jobs/view/4445659083/) — Atrium Health
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $20.80 - $31.20
+### [Telephonic Nurse Case Manager II](https://www.linkedin.com/jobs/view/4437891001/) — Elevance Health
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $75,680 to $119,196
 - 🕒 **Posted:** 2026-07-27
 
-### [Sr. Program Manager, Workplace Health and Safety (WHS) Operational Excellence](https://www.linkedin.com/jobs/view/4445673012/) — Amazon
-- 📍 **Location:** Arlington, VA
+### [Sustainability Program Manager](https://www.linkedin.com/jobs/view/4445653686/) — Carolina Components Group, Inc
+- 📍 **Location:** Durham, NC
 - 🕒 **Posted:** 2026-07-27
 
-### [Sr. Program Manager, Workplace Health and Safety (WHS) Operational Excellence](https://www.linkedin.com/jobs/view/4445673014/) — Amazon
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health and Safety (WHS) Operational Excellence](https://www.linkedin.com/jobs/view/4445654114/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4445655124/) — Amazon
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4445665058/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4445652191/) — Amazon
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4445672024/) — Amazon
-- 📍 **Location:** Arlington, VA
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4445650990/) — Amazon
-- 📍 **Location:** Nashville, TN
-- 🕒 **Posted:** 2026-07-27
-
-### [Sr. Program Manager, Workplace Health & Safety (WHS) Operational Excellence (OpEx)](https://www.linkedin.com/jobs/view/4445656117/) — Amazon
-- 📍 **Location:** Bellevue, WA
-- 🕒 **Posted:** 2026-07-27
-
-### [Alternate Program Manager](https://www.linkedin.com/jobs/view/4445667062/) — Serco
-- 📍 **Location:** Fort Bliss, TX
+### [Intel Program Manager](https://www.linkedin.com/jobs/view/4439270463/) — CACI International Inc
+- 📍 **Location:** Columbia, MD
+- 💰 **Salary:** $98,500-$206,800
 - 🕒 **Posted:** 2026-07-27
