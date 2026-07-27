@@ -1,5 +1,5 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-07-27 20:16 UTC*
+*Last updated: 2026-07-27 21:51 UTC*
 
 **0 new role(s)** since last run · 6 total in last 24h
 
