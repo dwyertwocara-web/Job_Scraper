@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-26 22:58 UTC",
-  "total": 98,
-  "new_count": 0,
+  "scraped_at": "2026-07-27 00:00 UTC",
+  "total": 99,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -407,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Father Heart Street Ministry",
-      "title": "Medical Housing Navigator",
-      "location": "Clackamas County, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "date_posted": "2026-07-14T19:21:39.000Z",
-      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
-      "salary": "$63k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Path of Life Ministries",
       "title": "Temp Housing Navigator",
       "location": "Riverside, California, United States",
@@ -429,6 +416,19 @@
       "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
       "salary": "$52k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Father Heart Street Ministry",
+      "title": "Medical Housing Navigator",
+      "location": "Clackamas County, Oregon, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "date_posted": "2026-07-14T19:21:39.000Z",
+      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
+      "salary": "$63k–$65k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -927,19 +927,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pcscco",
-      "title": "Care Coordinator ",
-      "location": "Newark, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "Coordinate comprehensive, person-centered care plans, complete assessments and documentation, manage caseload and collaborate with providers; NY driver\\u0002s license required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Columbia University",
       "title": "Care Coordinator",
       "location": "New York City, New York, United States",
@@ -948,6 +935,19 @@
       "date_posted": "2026-07-22T15:00:00.000Z",
       "description": "Bachelor's degree or equivalent; strong computer and communication skills; experience coordinating patient care, scheduling, benefits verification and prior authorizations; Spanish a plus.",
       "salary": "$66k–$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pcscco",
+      "title": "Care Coordinator ",
+      "location": "Newark, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "Coordinate comprehensive, person-centered care plans, complete assessments and documentation, manage caseload and collaborate with providers; NY driver\\u0002s license required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1276,7 +1276,34 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "The Dream Program",
+      "title": "Strategic Development Coordinator ",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://dreamprogram.bamboohr.com/careers/537",
+      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "salary": "",
+      "job_type": "Part Time, Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "The Dream Program",
+      "title": "Strategic Development Coordinator ",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://dreamprogram.bamboohr.com/careers/537",
+      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "salary": "",
+      "job_type": "Part Time, Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
