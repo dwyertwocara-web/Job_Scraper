@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 01:51 UTC",
-  "total": 100,
-  "new_count": 6,
+  "scraped_at": "2026-07-28 05:10 UTC",
+  "total": 98,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -43,19 +43,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BRONX FAMILY NETWORK INC",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in social work or related field required; experience in case management, housing advocacy, and knowledge of NY housing systems; strong communication and database skills.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Liberty Healthcare Corporation",
       "title": "Housing Specialist",
       "location": "Fresno or California",
@@ -66,6 +53,19 @@
       "salary": "$73k/yr",
       "job_type": "Part Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BRONX FAMILY NETWORK INC",
+      "title": "Housing Specialist",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "Bachelor's in social work or related field required; experience in case management, housing advocacy, and knowledge of NY housing systems; strong communication and database skills.",
+      "salary": "$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -420,19 +420,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Path of Life Ministries",
-      "title": "Temp Housing Navigator",
-      "location": "Riverside, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "date_posted": "2026-07-13T18:25:52.000Z",
-      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Father Heart Street Ministry",
       "title": "Medical Housing Navigator",
       "location": "Clackamas County, Oregon, United States",
@@ -442,6 +429,19 @@
       "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
       "salary": "$63k–$65k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Path of Life Ministries",
+      "title": "Temp Housing Navigator",
+      "location": "Riverside, California, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
+      "date_posted": "2026-07-13T18:25:52.000Z",
+      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -862,6 +862,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -901,19 +914,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Benevolent Hearts Home Care - Bedford, TX",
-      "title": "Care Coordinator",
-      "location": "Bedford, Texas, United States",
-      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "date_posted": "2026-07-09T13:17:10.000Z",
-      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
-      "salary": "$42k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Jbfcs",
       "title": "Care Coordinator",
       "location": "Brooklyn, New York, United States",
@@ -922,6 +922,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
       "salary": "$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Benevolent Hearts Home Care - Bedford, TX",
+      "title": "Care Coordinator",
+      "location": "Bedford, Texas, United States",
+      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "date_posted": "2026-07-09T13:17:10.000Z",
+      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
+      "salary": "$42k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1013,19 +1026,6 @@
       "date_posted": "2026-07-10T17:53:29.731Z",
       "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
       "salary": "$47k–$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brightli",
-      "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1239,32 +1239,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Refugees International",
-      "title": "Refugee Leadership and Partnerships Program Coordinator",
-      "location": "Washington, District of Columbia, United States",
-      "url": "https://refugeesinternational.bamboohr.com/careers/72",
-      "direct_url": "https://refugeesinternational.bamboohr.com/careers/72",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Bachelor's degree and 3+ years nonprofit experience; experience managing fellowships, events, budgets; strong organization, communication, Google Sheets proficiency; eligible to work in the U.S.",
-      "salary": "$65k–$70k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Ann Arbor",
-      "title": "Program Coordinator-Ann Arbor Housing Commission",
-      "location": "Ann Arbor, Michigan, United States",
-      "url": "https://recruiting.ultipro.com/cit1009ca2/JobBoard/f90d5294-f62d-4de2-9878-31193309121c/OpportunityDetail?opportunityId=1f3a6d62-10d5-4bba-8fc5-531fd8105399",
-      "direct_url": "https://recruiting.ultipro.com/cit1009ca2/JobBoard/f90d5294-f62d-4de2-9878-31193309121c/OpportunityDetail?opportunityId=1f3a6d62-10d5-4bba-8fc5-531fd8105399",
-      "date_posted": "2026-07-21T17:26:35.578Z",
-      "description": "Associate degree required, 2+ years office experience, 1+ year nonprofit/public housing experience, valid driver’s license, obtain Family Self-Sufficiency certification within 6 months.",
-      "salary": "$44k–$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Center for Better Aging",
       "title": "Program Manager",
       "location": "Chicago, Illinois, United States",
@@ -1306,80 +1280,15 @@
   ],
   "new_jobs": [
     {
-      "company": "The Main Place",
-      "title": "Housing Navigator",
-      "location": "Newark, Ohio, United States",
-      "url": "https://themainplace.isolvedhire.com/jobs/1829289",
-      "direct_url": "https://themainplace.isolvedhire.com/jobs/1829289",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Knowledge of housing and behavioral health systems, strong documentation and case management skills, computer/internet competency, and ability to manage community-based work professionally.",
-      "salary": "$52k/yr",
+      "company": "Rural Resources Community Action",
+      "title": "Community Health Worker – Community Connect",
+      "location": "Colville, Washington, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
+      "date_posted": "2026-07-07T22:22:07.000Z",
+      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
+      "salary": "$45k–$49k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Equus",
-      "title": " Housing Navigator ",
-      "location": "Escondido, California, United States",
-      "url": "https://jobs.smartrecruiters.com/Equus/744000140039070--housing-navigator-",
-      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140039070--housing-navigator-",
-      "date_posted": "2026-07-27T15:34:08.236Z",
-      "description": "Assess and interview clients, coordinate shelter and housing placements, develop stabilization plans, document services; requires driver\\u0019s license, intermediate Microsoft Office and data entry skills, strong communication.",
-      "salary": "$56k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University of Maryland Medical System",
-      "title": "Community Health Worker",
-      "location": "La Plata, Maryland, United States",
-      "url": "https://careers.umms.org/us/en/job/UOJUOMUSP106204EXTERNALENUS/community-health-worker",
-      "direct_url": "https://careers.umms.org/us/en/job/UOJUOMUSP106204EXTERNALENUS/community-health-worker",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Knowledge of local population health disparities, outreach and education skills, ability to screen high-risk patients, document progress, communicate effectively, and work independently and in teams.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Seamar",
-      "title": "Community health worker",
-      "location": "Lynnwood or Monroe",
-      "url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
-      "direct_url": "https://seamar.wd12.myworkdayjobs.com/sea_mar/job/LCN---Lynnwood---4111-Alderwood-Mall-Blvd/Community-health-worker_JR102279",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "High school diploma or equivalent and/or 1+ year health/social services experience. Requires WA driver’s license, background check, annual TB test, BLS within 90 days; strong communication and case management skills.",
-      "salary": "$44k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "WonderWay ABA NJ In-Home",
-      "title": "Care Coordinator",
-      "location": "Bronx, New York, United States",
-      "url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "2+ years experience in healthcare/ABA/care coordination, strong communication and organizational skills, proficiency with Microsoft Office and CentralReach; bachelor’s degree preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "PCP Care",
-      "title": "Care Coordinator",
-      "location": "Saint Petersburg, Florida, United States",
-      "url": "https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29",
-      "direct_url": "https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29",
-      "date_posted": "2026-07-06T21:07:01.129Z",
-      "description": "5+ years medical office care coordination experience; managing prior authorizations, referrals, scheduling, results follow-up; EMR proficiency; strong communication, organization, and HIPAA compliance.",
-      "salary": "$33k–$48k/yr",
-      "job_type": "Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
