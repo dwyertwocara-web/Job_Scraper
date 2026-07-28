@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 18:16 UTC",
+  "scraped_at": "2026-07-28 20:23 UTC",
   "total": 102,
-  "new_count": 5,
+  "new_count": 3,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -43,19 +43,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "BRONX FAMILY NETWORK INC",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "Bachelor's in social work or related field required; experience in case management, housing advocacy, and knowledge of NY housing systems; strong communication and database skills.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Liberty Healthcare Corporation",
       "title": "Housing Specialist",
       "location": "Fresno or California",
@@ -66,6 +53,19 @@
       "salary": "$73k/yr",
       "job_type": "Part Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "BRONX FAMILY NETWORK INC",
+      "title": "Housing Specialist",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=395696&clientkey=534A109193FC8B7CE10BC5A00B894511",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "Bachelor's in social work or related field required; experience in case management, housing advocacy, and knowledge of NY housing systems; strong communication and database skills.",
+      "salary": "$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -199,6 +199,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Vista Maria",
+      "title": "Housing Specialist",
+      "location": "Dearborn Heights, Michigan, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "date_posted": "2026-07-01T19:28:22.685Z",
+      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
+      "salary": "$43k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -207,19 +220,6 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Grand Prairie, TX",
-      "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -238,27 +238,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
+      "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Metropolitan Ministries Inc",
-      "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -771,6 +758,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Conehealth",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787",
+      "direct_url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "High school diploma/GED required, 2 years care management experience, valid driver’s license and reliable transportation, eligibility for NC Certified Community Health Worker listing within one year, community connection required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Presbyterian Healthcare Services",
       "title": "Community Health Worker",
       "location": "Santa Fe or Española",
@@ -875,19 +875,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Rural Resources Community Action",
-      "title": "Community Health Worker – Community Connect",
-      "location": "Colville, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
-      "date_posted": "2026-07-07T22:22:07.000Z",
-      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
-      "salary": "$45k–$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -948,6 +935,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
       "salary": "$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Christ Covenant",
+      "title": "Care Coordinator",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://ats.rippling.com/christ-covenant-church/jobs/110473d8-fc64-488f-a633-5d869c8ccc0b",
+      "direct_url": "https://ats.rippling.com/christ-covenant-church/jobs/110473d8-fc64-488f-a633-5d869c8ccc0b",
+      "date_posted": "2026-07-28T15:35:24.326Z",
+      "description": "Bachelor's degree,3-4 years administrative experience,spiritual maturity,experience managing member care systems and coordinating volunteers.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1304,6 +1304,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Albany State University",
+      "title": "Program Manager, Community Engagement",
+      "location": "Albany, Georgia, United States",
+      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=301764&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=301764&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "Bachelor's degree and minimum 3 years professional experience in community engagement, program coordination, or related higher education/nonprofit roles; event planning, assessment, partnership development, and grant reporting experience required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Street Samaritans",
       "title": "Program Manager- CTA SAFE Ride",
       "location": "Chicago, Illinois, United States",
@@ -1315,84 +1328,45 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "The Dream Program",
-      "title": "Strategic Development Coordinator ",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://dreamprogram.bamboohr.com/careers/537",
-      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
-      "salary": "",
-      "job_type": "Part Time, Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Neighborhood Health Center",
+      "company": "Conehealth",
       "title": "Community Health Worker",
-      "location": "Blasdell, New York, United States",
-      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
-      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
-      "date_posted": "2026-07-28T14:50:57.167Z",
-      "description": "High school diploma, experience in community health or patient resource coordination, EHR and Microsoft Office experience, strong communication and organizational skills.",
-      "salary": "$46k/yr",
+      "location": "United States",
+      "url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787",
+      "direct_url": "https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "High school diploma/GED required, 2 years care management experience, valid driver’s license and reliable transportation, eligibility for NC Certified Community Health Worker listing within one year, community connection required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Brightli",
+      "company": "Christ Covenant",
       "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://ats.rippling.com/christ-covenant-church/jobs/110473d8-fc64-488f-a633-5d869c8ccc0b",
+      "direct_url": "https://ats.rippling.com/christ-covenant-church/jobs/110473d8-fc64-488f-a633-5d869c8ccc0b",
+      "date_posted": "2026-07-28T15:35:24.326Z",
+      "description": "Bachelor's degree,3-4 years administrative experience,spiritual maturity,experience managing member care systems and coordinating volunteers.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Monarch",
-      "title": "LPN Care Coordinator Crestview",
-      "location": "Columbia Heights, Minnesota, United States",
-      "url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
-      "direct_url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
-      "date_posted": "2026-07-22T14:30:02.229Z",
-      "description": "Licensed practical nurse providing care coordination at a residential facility; coordinates and documents patient care.",
-      "salary": "$69k–$81k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Elevate Care Regency",
-      "title": "Social Services Coordinator",
-      "location": "Niles, Illinois, United States",
-      "url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "description": "Bachelor's degree in social work/psychology or equivalent experience; experience in social services preferred; strong communication, interpersonal, and organizational skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Dream Program",
-      "title": "Strategic Development Coordinator ",
-      "location": "Boston, Massachusetts, United States",
-      "url": "https://dreamprogram.bamboohr.com/careers/537",
-      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "company": "Albany State University",
+      "title": "Program Manager, Community Engagement",
+      "location": "Albany, Georgia, United States",
+      "url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=301764&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.hprod.onehcm.usg.edu/psc/careers/CAREERS/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=301764&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-07-28T12:00:00.000Z",
+      "description": "Bachelor's degree and minimum 3 years professional experience in community engagement, program coordination, or related higher education/nonprofit roles; event planning, assessment, partnership development, and grant reporting experience required.",
       "salary": "",
-      "job_type": "Part Time, Full Time",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
