@@ -1,29 +1,34 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-28 19:20 UTC*
+*Last updated: 2026-07-28 21:05 UTC*
 
-**5 new role(s)** since last run · 41 total in last 24h
+**6 new role(s)** since last run · 41 total in last 24h
 
-### [Care Coordinator Supervisor](https://www.indeed.com/viewjob?jk=3ca9fb17941b1163) — Divine Agape Health Care Agency
-- 📍 **Location:** Oxnard, CA, US
-- 💰 **Salary:** $30–$45/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator, PDS](https://www.indeed.com/viewjob?jk=4dd9723cae592525) — Family Health Centers of San Diego
+### [Housing Navigator](https://www.indeed.com/viewjob?jk=ee2ec27e7227ac04) — Equus Workforce Solutions
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $22–$27/hr
+- 💰 **Salary:** $27–$28/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [RN Care Coordinator](https://www.indeed.com/viewjob?jk=c7730ca0227ed97e) — CommonSpirit Health
-- 📍 **Location:** Camarillo, CA, US
-- 💰 **Salary:** $56–$80/hr
-- 🕒 **Posted:** 2026-07-27
+### [Bilingual Care Coordinator Specialist II](https://www.indeed.com/viewjob?jk=a9ebf98b3ae3055d) — Meals On Wheels OC
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $23–$28/hr
+- 🕒 **Posted:** 2026-07-28
 
-### [Remote Care Coordinator](https://www.indeed.com/viewjob?jk=c465acc7ce8ce53f) — Visana Health
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $18–$22/hr
-- 🕒 **Posted:** 2026-07-24
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=97e7df1ff2ff5519) — TEEMA Group
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $30–$34/hr
+- 🕒 **Posted:** 2026-07-28
 
-### [Transitions of Care Behavioral Health Social Work Case Manager](https://www.indeed.com/viewjob?jk=655a646ef0ae17ad) — Devoted Health
+### [Community Outreach Coordinator](https://www.indeed.com/viewjob?jk=0730ddf3ce8086a2) — Jewish Big Brothers Big Sisters of Los Angeles & Camp Bob Waldorf on the Max Straus Campus
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-07-28
+
+### [Interdisciplinary, IDT, Data Coordinator](https://www.indeed.com/viewjob?jk=357442cc55d6dbef) — AgeWell PACE
+- 📍 **Location:** Rohnert Park, CA, US
+- 💰 **Salary:** $28–$34/hr
+- 🕒 **Posted:** 2026-07-28
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=fb505ece05550268) — Unknown
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $55k–$79k/yr
+- 💰 **Salary:** $18–$20/hr
 - 🕒 **Posted:** 2026-07-28
