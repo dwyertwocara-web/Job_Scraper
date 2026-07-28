@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 22:03 UTC",
+  "scraped_at": "2026-07-28 23:07 UTC",
   "total": 103,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -1343,32 +1343,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Metropolitan Ministries Inc",
-      "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "State of Connecticut - Office of Policy and Management",
-      "title": "Nonprofit Policy Development Coordinator",
-      "location": "Hartford, Connecticut, United States",
-      "url": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=260724&R2=1581MP&R3=001",
-      "direct_url": "https://www.jobapscloud.com/CT/sup/bulpreview.asp?b=&R1=260724&R2=1581MP&R3=001",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "6+ years policy/program analysis experience in large organizations; strong policy research, legislative analysis, fiscal analysis, and stakeholder coordination skills.",
-      "salary": "$112k–$153k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
