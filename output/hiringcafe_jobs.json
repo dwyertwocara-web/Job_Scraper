@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-28 05:10 UTC",
-  "total": 98,
-  "new_count": 1,
+  "scraped_at": "2026-07-28 18:16 UTC",
+  "total": 102,
+  "new_count": 5,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -43,19 +43,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Liberty Healthcare Corporation",
-      "title": "Housing Specialist",
-      "location": "Fresno or California",
-      "url": "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=732203&cid=6506&locvalue=1396",
-      "direct_url": "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=732203&cid=6506&locvalue=1396",
-      "date_posted": "2026-07-15T00:00:00.000Z",
-      "description": "Experience procuring housing for justice-involved individuals or people with mental illness; California residency required; ability to evaluate housing and work with landlords and case teams.",
-      "salary": "$73k/yr",
-      "job_type": "Part Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "BRONX FAMILY NETWORK INC",
       "title": "Housing Specialist",
       "location": "Brooklyn, New York, United States",
@@ -66,6 +53,19 @@
       "salary": "$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Liberty Healthcare Corporation",
+      "title": "Housing Specialist",
+      "location": "Fresno or California",
+      "url": "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=732203&cid=6506&locvalue=1396",
+      "direct_url": "https://recruit.hirebridge.com/v3/careercenter/v2/details.aspx?jid=732203&cid=6506&locvalue=1396",
+      "date_posted": "2026-07-15T00:00:00.000Z",
+      "description": "Experience procuring housing for justice-involved individuals or people with mental illness; California residency required; ability to evaluate housing and work with landlords and case teams.",
+      "salary": "$73k/yr",
+      "job_type": "Part Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -420,19 +420,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Father Heart Street Ministry",
-      "title": "Medical Housing Navigator",
-      "location": "Clackamas County, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "date_posted": "2026-07-14T19:21:39.000Z",
-      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
-      "salary": "$63k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Path of Life Ministries",
       "title": "Temp Housing Navigator",
       "location": "Riverside, California, United States",
@@ -442,6 +429,19 @@
       "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
       "salary": "$52k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Father Heart Street Ministry",
+      "title": "Medical Housing Navigator",
+      "location": "Clackamas County, Oregon, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "date_posted": "2026-07-14T19:21:39.000Z",
+      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
+      "salary": "$63k–$65k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -485,32 +485,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Porter-Starke Knox",
-      "title": "Housing Navigator",
-      "location": "Knox, Indiana, United States",
-      "url": "https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Bachelor's in social work/psychology/human services required; OBHP completion within 3 weeks; valid Indiana driver and reliable transportation; experience in mental health case management, outreach, crisis intervention, HMIS/EMR documentation.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Heritage Health Network",
       "title": "Housing Navigator",
       "location": "Riverside, California, United States",
@@ -532,6 +506,32 @@
       "date_posted": "2026-07-14T22:06:22.000Z",
       "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
       "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Porter-Starke Knox",
+      "title": "Housing Navigator",
+      "location": "Knox, Indiana, United States",
+      "url": "https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-01T00:00:00.000Z",
+      "description": "Bachelor's in social work/psychology/human services required; OBHP completion within 3 weeks; valid Indiana driver and reliable transportation; experience in mental health case management, outreach, crisis intervention, HMIS/EMR documentation.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -625,6 +625,19 @@
       "salary": "$43k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Neighborhood Health Center",
+      "title": "Community Health Worker",
+      "location": "Blasdell, New York, United States",
+      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
+      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
+      "date_posted": "2026-07-28T14:50:57.167Z",
+      "description": "High school diploma, experience in community health or patient resource coordination, EHR and Microsoft Office experience, strong communication and organizational skills.",
+      "salary": "$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -914,19 +927,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
-      "title": "Care Coordinator",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
-      "date_posted": "2026-07-02T04:00:00.000Z",
-      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
-      "salary": "$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Benevolent Hearts Home Care - Bedford, TX",
       "title": "Care Coordinator",
       "location": "Bedford, Texas, United States",
@@ -935,6 +935,19 @@
       "date_posted": "2026-07-09T13:17:10.000Z",
       "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
       "salary": "$42k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Care Coordinator",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39095",
+      "date_posted": "2026-07-02T04:00:00.000Z",
+      "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
+      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1031,15 +1044,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "PCP Care",
+      "company": "Brightli",
       "title": "Care Coordinator",
-      "location": "Saint Petersburg, Florida, United States",
-      "url": "https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29",
-      "direct_url": "https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29",
-      "date_posted": "2026-07-06T21:07:01.129Z",
-      "description": "5+ years medical office care coordination experience; managing prior authorizations, referrals, scheduling, results follow-up; EMR proficiency; strong communication, organization, and HIPAA compliance.",
-      "salary": "$33k–$48k/yr",
-      "job_type": "Part Time",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
+      "salary": "",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1161,6 +1174,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Monarch",
+      "title": "LPN Care Coordinator Crestview",
+      "location": "Columbia Heights, Minnesota, United States",
+      "url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
+      "direct_url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
+      "date_posted": "2026-07-22T14:30:02.229Z",
+      "description": "Licensed practical nurse providing care coordination at a residential facility; coordinates and documents patient care.",
+      "salary": "$69k–$81k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Activeday",
       "title": "Social Services - Social Services Coordinator",
       "location": "Lowell, Massachusetts, United States",
@@ -1182,6 +1208,19 @@
       "date_posted": "2026-07-23T18:05:14.000Z",
       "description": "Bachelor's in social work or human services, 1+ year supervised healthcare experience (preferably with elderly); applies guidelines to plan and direct social services.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elevate Care Regency",
+      "title": "Social Services Coordinator",
+      "location": "Niles, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-11T00:00:00.000Z",
+      "description": "Bachelor's degree in social work/psychology or equivalent experience; experience in social services preferred; strong communication, interpersonal, and organizational skills.",
+      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1276,19 +1315,84 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "The Dream Program",
+      "title": "Strategic Development Coordinator ",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://dreamprogram.bamboohr.com/careers/537",
+      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "salary": "",
+      "job_type": "Part Time, Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Rural Resources Community Action",
-      "title": "Community Health Worker – Community Connect",
-      "location": "Colville, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4313469",
-      "date_posted": "2026-07-07T22:22:07.000Z",
-      "description": "High school diploma/GED required; CHW and health benefit exchange training (or willingness to complete); valid driver's license, reliable transportation, and auto insurance; background check required; First Aid/CPR preferred.",
-      "salary": "$45k–$49k/yr",
+      "company": "Neighborhood Health Center",
+      "title": "Community Health Worker",
+      "location": "Blasdell, New York, United States",
+      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
+      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
+      "date_posted": "2026-07-28T14:50:57.167Z",
+      "description": "High school diploma, experience in community health or patient resource coordination, EHR and Microsoft Office experience, strong communication and organizational skills.",
+      "salary": "$46k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brightli",
+      "title": "Care Coordinator",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Monarch",
+      "title": "LPN Care Coordinator Crestview",
+      "location": "Columbia Heights, Minnesota, United States",
+      "url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
+      "direct_url": "https://prd01-hcm01.npr.mykronos.com/ta/6173948.careers?ShowJob=2117975392",
+      "date_posted": "2026-07-22T14:30:02.229Z",
+      "description": "Licensed practical nurse providing care coordination at a residential facility; coordinates and documents patient care.",
+      "salary": "$69k–$81k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Elevate Care Regency",
+      "title": "Social Services Coordinator",
+      "location": "Niles, Illinois, United States",
+      "url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-11T00:00:00.000Z",
+      "description": "Bachelor's degree in social work/psychology or equivalent experience; experience in social services preferred; strong communication, interpersonal, and organizational skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Dream Program",
+      "title": "Strategic Development Coordinator ",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://dreamprogram.bamboohr.com/careers/537",
+      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "salary": "",
+      "job_type": "Part Time, Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
