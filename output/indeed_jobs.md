@@ -1,61 +1,68 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-29 18:49 UTC*
+*Last updated: 2026-07-29 21:45 UTC*
 
-**12 new role(s)** since last run · 71 total in last 24h
+**14 new role(s)** since last run · 67 total in last 24h
 
-### [Business Development Coordinator](https://www.indeed.com/viewjob?jk=eb4dca4776ae348a) — Vanir Construction Management, Inc.
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $80k–$90k/yr
+### [Part Time Veterinary Receptionist (Care Coordinator) - Critter Creek Veterinary Hospital](https://www.indeed.com/viewjob?jk=3b74e4c2d4999781) — PetVet Care Centers
+- 📍 **Location:** Lincoln, CA, US
+- 💰 **Salary:** $17–$19/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Children's Program Coordinator](https://www.indeed.com/viewjob?jk=c8dc80368bb36aea) — Acres of Hope
-- 📍 **Location:** Auburn, CA, US
-- 💰 **Salary:** $22–$23/hr
+### [Case Manager](https://www.indeed.com/viewjob?jk=41a00abd1d1917b8) — Citrus Heights Post Acute
+- 📍 **Location:** Citrus Heights, CA, US
+- 💰 **Salary:** $40–$47/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=e76e761c829c13d3) — Community Health Improvement Partners
-- 📍 **Location:** Fresno, CA, US
+### [Dental Front Desk Patient Care Coordinator](https://www.indeed.com/viewjob?jk=5f299f41bcedc38b) — Rajneesh K Dail, DDS
+- 📍 **Location:** Monterey, CA, US
 - 🕒 **Posted:** 2026-07-29
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=70891d918c758dc5) — Southern California Health and Rehabilitation Program (SCHARP)
+### [Dental Front Desk / Patient Care Coordinator](https://www.indeed.com/viewjob?jk=bb21c5f7e77a669e) — Rajneesh K Dail, DDS
+- 📍 **Location:** Monterey, CA, US
+- 🕒 **Posted:** 2026-07-29
+
+### [Service Coordinator | Mental Health Case Manager](https://www.indeed.com/viewjob?jk=b32e6f75caed0e83) — Crestwood Behavioral Health
+- 📍 **Location:** Santa Barbara, CA, US
+- 💰 **Salary:** $24–$25/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Licensed Vocational Nurse, Home Care Coordinator](https://www.indeed.com/viewjob?jk=c5191d1d952ae9e1) — AltaMed Health Services
+- 📍 **Location:** West Covina, CA, US
+- 🕒 **Posted:** 2026-07-29
+
+### [ECMT Care Coordinator](https://www.indeed.com/viewjob?jk=9909421f025cc0bc) — Mariposa Women & Family Center
+- 📍 **Location:** Orange, CA, US
+- 🕒 **Posted:** 2026-07-29
+
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=237e721cf5bb56ca) — AEG Vision
+- 📍 **Location:** Livermore, CA, US
+- 💰 **Salary:** $22–$29/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Care Coordinator - SUD & MH Outpatient Program](https://www.indeed.com/viewjob?jk=472defdb612f4035) — Shoreline Recovery Center
+- 📍 **Location:** Encinitas, CA, US
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Transition of Care Coordinator](https://www.indeed.com/viewjob?jk=921f05d378f1142f) — WelbeHealth
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $22–$29/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Community Health Worker - Skid Row](https://www.indeed.com/viewjob?jk=f11b49ac0600f9cb) — Akido
 - 📍 **Location:** Los Angeles, CA, US
 - 🕒 **Posted:** 2026-07-29
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=ab4220d3fa17bea9) — ActiveMed Integrative Health Center
+### [Program Coordinator- San Diego Independent Living](https://www.indeed.com/viewjob?jk=d211e43edb7cc429) — Community Health Improvement Partners
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $18–$20/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=ad0b6bbc8575fa0a) — Del Rey MD
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $21–$24/hr
-- 🕒 **Posted:** 2026-07-29
-
-### [Patient Care Coordinator/Receptionist Oral Surgery office](https://www.indeed.com/viewjob?jk=0c031ddc16f775a6) — Pacific Coast OMS
-- 📍 **Location:** Arcadia, CA, US
-- 💰 **Salary:** $24–$28/hr
-- 🕒 **Posted:** 2026-07-29
-
-### [Case Manager](https://www.indeed.com/viewjob?jk=f977b83e96d6c67e) — Comprehensive Treatment Centers
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $29–$38/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [CLINICAL CARE COORDINATOR - PER DIEM](https://www.indeed.com/viewjob?jk=57919c2ae35868d7) — Michael's House
-- 📍 **Location:** Palm Springs, CA, US
-- 💰 **Salary:** $21–$25/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Educational Program Coordinator](https://www.indeed.com/viewjob?jk=bbce88d11a16d022) — Pacific Clinics
+### [ASSETs Program Coordinator](https://www.indeed.com/viewjob?jk=e3b08ffce6b9cb71) — Silicon Valley Education Foundation
 - 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $72k–$86k/yr
+- 💰 **Salary:** $30–$32/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=cfc3dc63850f3c70) — Valley Achievement Center
-- 📍 **Location:** Bakersfield, CA, US
-- 🕒 **Posted:** 2026-07-29
-
-### [Volunteer Position - Program Manager (Care Package Logistics)](https://www.indeed.com/viewjob?jk=bde4e114ea10b721) — Missing Pieces Support Group Inc.
+### [Remote Care Manager](https://www.indeed.com/viewjob?jk=7eae5dbad4922f8b) — Family First
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $1–$20/yr
+- 💰 **Salary:** $60k–$100k/yr
 - 🕒 **Posted:** 2026-07-29
