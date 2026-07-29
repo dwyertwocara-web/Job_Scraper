@@ -1,24 +1,15 @@
 {
-  "scraped_at": "2026-07-28 17:50 UTC",
-  "total": 4,
+  "scraped_at": "2026-07-29 17:40 UTC",
+  "total": 3,
   "new_count": 0,
   "jobs": [
     {
-      "company": "Department of Fish and Wildlife",
-      "title": "Northern Lands, Program Coordinator",
-      "location": "Los Angeles County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526357",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "Department of Fish and Wildlife",
-      "title": "Northern Lands, Program Coordinator",
-      "location": "Ventura County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526362",
-      "date_posted": "2026-07-27",
-      "salary": "$4418.00 - $9321.00",
+      "company": "Department of Justice",
+      "title": "Senior Criminalist - Program Coordinator",
+      "location": "Contra Costa County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524906",
+      "date_posted": "2026-07-28",
+      "salary": "$7935.00 - $11151.00",
       "ats": "CalCareers"
     },
     {
