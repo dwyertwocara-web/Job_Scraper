@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 20:22 UTC",
+  "scraped_at": "2026-07-29 21:58 UTC",
   "total": 100,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -1304,45 +1304,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "HOM, INC.",
-      "title": "Housing Specialist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746",
-      "date_posted": "2026-07-24T18:35:56.000Z",
-      "description": "Knowledge of HUD regulations and fair housing, 1+ year customer service experience, ability to manage large caseloads, proficiency with Microsoft Office 365 and housing software, AZ driver's license and automobile insurance required.",
-      "salary": "$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Power Health",
-      "title": "Care Coordinator",
-      "location": "Greenwood Village, Colorado, United States",
-      "url": "http://powerhealth.applytojob.com/apply/Ne7H92T6GJ/Care-Coordinator",
-      "direct_url": "http://powerhealth.applytojob.com/apply/Ne7H92T6GJ/Care-Coordinator",
-      "date_posted": "2026-07-29T00:00:00.000Z",
-      "description": "Bilingual (English/Spanish) care coordinator with 2+ years' medical office, care coordination, or case management experience, EMR proficiency, strong communication, organizational and multitasking skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
