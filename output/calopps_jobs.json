@@ -1,8 +1,17 @@
 {
-  "scraped_at": "2026-07-27 18:12 UTC",
-  "total": 7,
-  "new_count": 0,
+  "scraped_at": "2026-07-29 17:59 UTC",
+  "total": 8,
+  "new_count": 1,
   "jobs": [
+    {
+      "company": "Glenn",
+      "title": "HHSA Program Manager- Social Services",
+      "location": "Northern California Inland",
+      "url": "https://www.calopps.org/glenn/job-20763304",
+      "date_posted": "",
+      "salary": "$44.20-$53.73 Hourly",
+      "ats": "CalOpps"
+    },
     {
       "company": "San Mateo County Transit District Samtrans",
       "title": "IT Program Manager- 5 Year Limited Term",
@@ -67,5 +76,15 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Glenn",
+      "title": "HHSA Program Manager- Social Services",
+      "location": "Northern California Inland",
+      "url": "https://www.calopps.org/glenn/job-20763304",
+      "date_posted": "",
+      "salary": "$44.20-$53.73 Hourly",
+      "ats": "CalOpps"
+    }
+  ]
 }
