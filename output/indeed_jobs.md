@@ -1,89 +1,61 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-29 17:12 UTC*
+*Last updated: 2026-07-29 18:49 UTC*
 
-**17 new role(s)** since last run · 66 total in last 24h
+**12 new role(s)** since last run · 71 total in last 24h
 
-### [Program Coordinator II](https://www.indeed.com/viewjob?jk=37f0ba083d1f8bf6) — Abode Services
-- 📍 **Location:** Napa, CA, US
-- 💰 **Salary:** $75k–$92k/yr
-- 🕒 **Posted:** 2026-07-29
-
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=5a6041ba0e7f2108) — City of Sacramento
+### [Business Development Coordinator](https://www.indeed.com/viewjob?jk=eb4dca4776ae348a) — Vanir Construction Management, Inc.
 - 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $49k–$69k/yr
-- 🕒 **Posted:** 2026-07-28
+- 💰 **Salary:** $80k–$90k/yr
+- 🕒 **Posted:** 2026-07-29
 
-### [SSVF (Supportive Services for Veteran Families) Housing Navigator](https://www.indeed.com/viewjob?jk=afdee8f91ce7f751) — Village for Vets
+### [Children's Program Coordinator](https://www.indeed.com/viewjob?jk=c8dc80368bb36aea) — Acres of Hope
+- 📍 **Location:** Auburn, CA, US
+- 💰 **Salary:** $22–$23/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Housing Navigator](https://www.indeed.com/viewjob?jk=e76e761c829c13d3) — Community Health Improvement Partners
+- 📍 **Location:** Fresno, CA, US
+- 🕒 **Posted:** 2026-07-29
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=70891d918c758dc5) — Southern California Health and Rehabilitation Program (SCHARP)
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $60k–$65k/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [FC Lead Transitional Housing Case Manager| Fullerton & Moreno Valley Regions](https://www.indeed.com/viewjob?jk=fe39d9ba029c6034) — Crittenton Services for Children and Families
-- 📍 **Location:** Fullerton, CA, US
-- 💰 **Salary:** $24–$35/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Care Coordinator - Lake Elsinore](https://www.indeed.com/viewjob?jk=9641b15e455f391d) — ROWI
-- 📍 **Location:** Lake Elsinore, CA, US
-- 💰 **Salary:** $22–$24/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Program Coordinator- San Francisco VA Health Care System](https://www.indeed.com/viewjob?jk=b004944c909b9575) — Valcor
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $62k–$78k/yr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=ab4220d3fa17bea9) — ActiveMed Integrative Health Center
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $18–$20/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=bbb0139cf5b4626a) — TEEMA Group
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $25–$28/hr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=ad0b6bbc8575fa0a) — Del Rey MD
+- 📍 **Location:** Long Beach, CA, US
+- 💰 **Salary:** $21–$24/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Case Manager Specialty RN (Bilingual)](https://www.indeed.com/viewjob?jk=02aa1ce9afbfc8ef) — Kaiser Permanente
-- 📍 **Location:** Palm Desert, CA, US
-- 💰 **Salary:** $64–$79/hr
+### [Patient Care Coordinator/Receptionist Oral Surgery office](https://www.indeed.com/viewjob?jk=0c031ddc16f775a6) — Pacific Coast OMS
+- 📍 **Location:** Arcadia, CA, US
+- 💰 **Salary:** $24–$28/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [RN, Case Manager](https://www.indeed.com/viewjob?jk=590a1139d729a4f9) — ISYS SOLUTIONS, INC.
-- 📍 **Location:** Templeton, CA, US
-- 💰 **Salary:** $120k–$180k/yr
+### [Case Manager](https://www.indeed.com/viewjob?jk=f977b83e96d6c67e) — Comprehensive Treatment Centers
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $29–$38/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [RN, Case Manager](https://www.indeed.com/viewjob?jk=dcee9fdddfb867bc) — ISYS SOLUTIONS, INC.
-- 📍 **Location:** Paso Robles, CA, US
-- 💰 **Salary:** $120k–$180k/yr
+### [CLINICAL CARE COORDINATOR - PER DIEM](https://www.indeed.com/viewjob?jk=57919c2ae35868d7) — Michael's House
+- 📍 **Location:** Palm Springs, CA, US
+- 💰 **Salary:** $21–$25/hr
 - 🕒 **Posted:** 2026-07-28
 
-### [RN, Case Manager](https://www.indeed.com/viewjob?jk=252e2322a9ec6119) — ISYS SOLUTIONS, INC.
-- 📍 **Location:** Monterey, CA, US
-- 💰 **Salary:** $120k–$180k/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [RN, Case Manager](https://www.indeed.com/viewjob?jk=15e22f747c020d04) — ISYS SOLUTIONS, INC.
-- 📍 **Location:** Los Banos, CA, US
-- 💰 **Salary:** $120k–$180k/yr
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator II (Medical Assistant), Neurosurgery TV Clinic – Full Time, Days (08HR)](https://www.indeed.com/viewjob?jk=ad9abf21f4c3a4ad) — Stanford Health Care
-- 📍 **Location:** Pleasanton, CA, US
-- 💰 **Salary:** $33–$37/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Patient Care Coordinator II (Medical Assistant), TV GI Clinic – Full Time, Days (08HR)](https://www.indeed.com/viewjob?jk=52676ea8ab0e0225) — Stanford Health Care
-- 📍 **Location:** Livermore, CA, US
-- 💰 **Salary:** $33–$37/hr
-- 🕒 **Posted:** 2026-07-28
-
-### [Community Engagement Coordinator](https://www.indeed.com/viewjob?jk=adbcb9b2110cf634) — Friendship Shelter
-- 📍 **Location:** Laguna Woods, CA, US
-- 💰 **Salary:** $26–$28/hr
+### [Educational Program Coordinator](https://www.indeed.com/viewjob?jk=bbce88d11a16d022) — Pacific Clinics
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $72k–$86k/yr
 - 🕒 **Posted:** 2026-07-29
 
-### [Dietitian ( Facility Program Coordinator)](https://www.indeed.com/viewjob?jk=93bcf586864ea0be) — US Department of Veterans Affairs
-- 📍 **Location:** Martinez, CA, US
-- 💰 **Salary:** $112k–$145k/yr
+### [Program Manager](https://www.indeed.com/viewjob?jk=cfc3dc63850f3c70) — Valley Achievement Center
+- 📍 **Location:** Bakersfield, CA, US
 - 🕒 **Posted:** 2026-07-29
 
-### [MENTAL HEALTH PROGRAM MANAGER IV/ EMERGENCY APPOINTMENTS HOMELESSNESS](https://www.indeed.com/viewjob?jk=0bc2ca4fc6f8dfed) — County of Los Angeles
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $164k–$255k/yr
-- 🕒 **Posted:** 2026-07-28
+### [Volunteer Position - Program Manager (Care Package Logistics)](https://www.indeed.com/viewjob?jk=bde4e114ea10b721) — Missing Pieces Support Group Inc.
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $1–$20/yr
+- 🕒 **Posted:** 2026-07-29
