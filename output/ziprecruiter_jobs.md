@@ -1,5 +1,5 @@
 # 🟧 ZipRecruiter — Housing & Community Impact Roles
-*Last updated: 2026-07-30 01:01 UTC*
+*Last updated: 2026-07-30 04:37 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
