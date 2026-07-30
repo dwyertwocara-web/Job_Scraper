@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 17:59 UTC",
+  "scraped_at": "2026-07-30 18:13 UTC",
   "total": 8,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Glenn",
@@ -76,15 +76,5 @@
       "ats": "CalOpps"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Glenn",
-      "title": "HHSA Program Manager- Social Services",
-      "location": "Northern California Inland",
-      "url": "https://www.calopps.org/glenn/job-20763304",
-      "date_posted": "",
-      "salary": "$44.20-$53.73 Hourly",
-      "ats": "CalOpps"
-    }
-  ]
+  "new_jobs": []
 }
