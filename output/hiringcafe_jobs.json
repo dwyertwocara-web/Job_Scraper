@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-29 22:59 UTC",
-  "total": 104,
-  "new_count": 6,
+  "scraped_at": "2026-07-30 00:09 UTC",
+  "total": 100,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -186,19 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mid Michigan Community Action Agency",
-      "title": "Housing Specialist",
-      "location": "Gladwin, Michigan, United States",
-      "url": "https://mmcaa.bamboohr.com/careers/368",
-      "direct_url": "https://mmcaa.bamboohr.com/careers/368",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "Provide housing case management for households experiencing or at-risk of homelessness; complete HMIS and empowOR data entry; obtain HMIS and HQS credentials; reliable transportation and valid driver’s license required.",
-      "salary": "$38k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brightli",
       "title": "Housing Specialist",
       "location": "Poplar Bluff, Missouri, United States",
@@ -350,19 +337,6 @@
       "date_posted": "2026-07-02T00:00:00.000Z",
       "description": "Minimum 3 years housing navigation/case management experience, proficiency with DAHLIA, Airtable, SF ONE (HMIS), Google Workspace and Microsoft Excel, valid driver’s license and insurance, CPR/First Aid and TB clearance; Bachelor’s degree or HS + 3 years experience.",
       "salary": "$75k–$80k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Road Home",
-      "title": "Housing Navigator",
-      "location": "Midvale, Utah, United States",
-      "url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
-      "direct_url": "http://theroadhome.applytojob.com/apply/3PplLL4Osy/Housing-Navigator",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "Provide housing navigation, complete eligibility assessments, coordinate with case managers and landlords, process rental payments, enter HMIS data, pass background check and drug screen, HS diploma required, valid driver license and ability to drive, lifting up to 25 lbs.",
-      "salary": "$39k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -732,19 +706,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Wilmington Community Clinic",
-      "title": "Community Health Worker",
-      "location": "Wilmington or Los Angeles",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4293116",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4293116",
-      "date_posted": "2026-06-29T23:04:09.000Z",
-      "description": "Bilingual English/Spanish required; HS diploma/GED required; CHW certification preferred; experience in community health, patient navigation, or care coordination preferred; proficiency with EPIC and Microsoft Office; Strong communication and outreach skills.",
-      "salary": "$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Compass Health Network",
       "title": "Community Health Worker",
       "location": "Wentzville, Missouri, United States",
@@ -766,19 +727,6 @@
       "date_posted": "2026-07-28T00:00:00.000Z",
       "description": "High school diploma/GED required, 2 years care management experience, valid driver’s license and reliable transportation, eligibility for NC Certified Community Health Worker listing within one year, community connection required.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Presbyterian Healthcare Services",
-      "title": "Community Health Worker",
-      "location": "Santa Fe or Española",
-      "url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "direct_url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "High school/GED required; CHW certification (Level II/III preferred) and 3 years community health experience preferred; ability to speak population language; comfortable with EPIC and Microsoft Office; experience with care navigation and community resource connection.",
-      "salary": "$38k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1356,84 +1304,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Cherokee Federal",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/42971",
-      "direct_url": "https://ibtcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/requisitions/job/42971",
-      "date_posted": "2026-07-08T15:59:44.000Z",
-      "description": "High school diploma, fluent Spanish, valid driver's license and reliable transportation, minimum 2 years housing placement experience, knowledge of NYC voucher programs and landlord-tenant law, proficiency with CARES, ACCESS HRA, Housing Connect and Microsoft Office, pass pre-employment checks.",
-      "salary": "$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Presbyterian Healthcare Services",
-      "title": "Community Health Worker",
-      "location": "Santa Fe or Española",
-      "url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "direct_url": "https://phsorg.wd1.myworkdayjobs.com/careers/job/Presbyterian-Santa-Fe-Medical-Center/Community-Health-Worker-SF_R-5929",
-      "date_posted": "2026-06-30T00:00:00.000Z",
-      "description": "High school/GED required; CHW certification (Level II/III preferred) and 3 years community health experience preferred; ability to speak population language; comfortable with EPIC and Microsoft Office; experience with care navigation and community resource connection.",
-      "salary": "$38k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "enmasseMEDIA, LLC",
-      "title": "Care Coordinator",
-      "location": "Marrero, Louisiana, United States",
-      "url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
-      "direct_url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
-      "date_posted": "2026-07-03T00:00:00.000Z",
-      "description": "Graduate of an accredited school of nursing preferred, current LPN in state of practice, current BLS, care management/ambulatory care experience preferred, strong communication and documentation skills, ability to coordinate referrals and follow-up.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "uchealth",
-      "title": "Care Coordinator",
-      "location": "Aurora, Colorado, United States",
-      "url": "https://css-uchealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,408651,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-uchealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(1000,408651,1).JobPostingDisplayNav?csk.HROrganization=1000&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-07-29T00:00:00.000Z",
-      "description": "Coordinates transitions of care, conducts socio-economic screening, liaises with agencies, arranges placement and discharge planning. High school diploma/GED required.",
-      "salary": "$45k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Independence Village of Midland",
-      "title": "Care Coordinator",
-      "location": "Midland, Michigan, United States",
-      "url": "https://corsocare.hrmdirect.com/employment/job-opening.php?req=3756821&req_loc=1384303",
-      "direct_url": "https://corsocare.hrmdirect.com/employment/job-opening.php?req=3756821&req_loc=1384303",
-      "date_posted": "2026-07-07T03:00:00.000Z",
-      "description": "Day-shift care coordination in a senior living community; schedule includes four 6AM–2PM days and one 8AM–4:30PM day; pay up to $19/hour depending on experience.",
-      "salary": "$40k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Southern California Health & Rehabilitation Program",
-      "title": "Care Coordinator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7",
-      "direct_url": "https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7",
-      "date_posted": "2026-07-29T16:51:26.009Z",
-      "description": "Bachelor's degree in social work/related field, experience in behavioral health/CCBHC/FQHC settings, proficiency with EHR/EMR, valid driver’s license, strong communication and data-informed care coordination skills.",
-      "salary": "$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
