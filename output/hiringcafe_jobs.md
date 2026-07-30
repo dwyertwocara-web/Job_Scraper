@@ -1,28 +1,31 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-30 05:15 UTC*
+*Last updated: 2026-07-30 18:21 UTC*
 
-**5 new role(s)** since last run · 101 total in last 30d
+**6 new role(s)** since last run · 100 total in last 30d
 
-### [Housing Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746) — HOM, INC.
-- 📍 **Location:** Phoenix, Arizona, United States
+### [Housing Specialist](https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21201) — Cxb
+- 📍 **Location:** New York, New York, United States
 - 💰 **Salary:** $54k/yr
-- 🕒 **Posted:** 2026-07-24T18:35:56.000Z
+- 🕒 **Posted:** 2026-07-15T04:00:00.000Z
 
-### [Housing Navigator](https://careers.pacificclinics.org/jobs/1738?lang=en-us) — Pacific Clinics
-- 📍 **Location:** Sacramento, California, United States
-- 💰 **Salary:** $48k–$59k/yr
-- 🕒 **Posted:** 2026-07-30T01:21:40.000Z
+### [Housing Specialist](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675) — Metropolitan Ministries Inc
+- 📍 **Location:** St. Petersburg, Florida, United States
+- 💰 **Salary:** $43k–$45k/yr
+- 🕒 **Posted:** 2026-07-10T18:57:08.000Z
 
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Anaheim, California, United States
+### [Housing Navigator](https://fotf.bamboohr.com/careers/90) — Friends of the Family
+- 📍 **Location:** Waterloo, Iowa, United States
+- 🕒 **Posted:** 2026-07-30T00:00:00.000Z
+
+### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
+- 📍 **Location:** Santa Ana, California, United States
 - 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
 
-### [Care Coordinator](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215) — Brightli
-- 📍 **Location:** Indianapolis, Indiana, United States
-- 🕒 **Posted:** 2026-07-13T00:00:00.000Z
+### [Community Health Worker](https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406) — AIDS Healthcare Foundation
+- 📍 **Location:** Houston, Texas, United States
+- 🕒 **Posted:** 2026-07-24T15:18:16.000Z
 
-### [Center of Excellence Program Coordinator (120 day assignment)](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4375040) — Janus of Santa Cruz
-- 📍 **Location:** Santa Cruz, California, United States
-- 💰 **Salary:** $62k–$69k/yr
-- 🕒 **Posted:** 2026-07-29T19:58:59.000Z
+### [Care Coordinator](https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588) — Anderson Health Services
+- 📍 **Location:** Charlotte, North Carolina, United States
+- 🕒 **Posted:** 2026-07-11T03:00:00.000Z
