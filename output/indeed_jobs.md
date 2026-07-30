@@ -1,29 +1,33 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-29 22:45 UTC*
+*Last updated: 2026-07-30 00:00 UTC*
 
-**5 new role(s)** since last run · 68 total in last 24h
+**6 new role(s)** since last run · 68 total in last 24h
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=7a6d76a65827824d) — ValleyWide Hearing Aid Center
-- 📍 **Location:** Hemet, CA, US
-- 💰 **Salary:** $20–$21/hr
+### [Client Care Coordinator / Front dest Coordinator](https://www.indeed.com/viewjob?jk=ec38e777f9b9cbd3) — ProSkin
+- 📍 **Location:** Fair Oaks, CA, US
 - 🕒 **Posted:** 2026-07-29
 
-### [ICMS Case Manager](https://www.indeed.com/viewjob?jk=1f4ddbc28cf7ccd7) — Coalition for Responsible Community Development
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=39eb31d59cac7761) — Medical Insights Dianostic Centers
+- 📍 **Location:** Fremont, CA, US
+- 💰 **Salary:** $22–$24/hr
+- 🕒 **Posted:** 2026-07-29
+
+### [Care Manager- Broadway](https://www.indeed.com/viewjob?jk=eb7f1243dbbeec1d) — Exodus Recovery Inc.
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $50k–$55k/yr
+- 💰 **Salary:** $24–$26/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [ICMS Case Manager](https://www.indeed.com/viewjob?jk=3fdfc63fe4445891) — Coalition for Responsible Community Development
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $50k–$55k/yr
+### [Care Manager MSW - Specialty Clinic](https://www.indeed.com/viewjob?jk=8c6dfa2409e1932b) — Providence
+- 📍 **Location:** Hesperia, CA, US
+- 💰 **Salary:** $38–$59/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [ICMS Case Manager](https://www.indeed.com/viewjob?jk=0878d5819d387bb7) — Coalition for Responsible Community Development
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $50k–$55k/yr
+### [Social Services Program Coordinator](https://www.indeed.com/viewjob?jk=6d5cb1b16a0c5150) — Humboldt County
+- 📍 **Location:** Eureka, CA, US
+- 💰 **Salary:** $28–$36/hr
 - 🕒 **Posted:** 2026-07-29
 
-### [Lead Care Manager - Enhanced Care Management](https://www.indeed.com/viewjob?jk=0cd63ca272037cde) — Sycamores
-- 📍 **Location:** Altadena, CA, US
-- 💰 **Salary:** $25–$28/hr
+### [MSSP Social Work Care Manager](https://www.indeed.com/viewjob?jk=a99fc70d7102e069) — Health Projects Center
+- 📍 **Location:** Santa Cruz, CA, US
+- 💰 **Salary:** $28–$31/hr
 - 🕒 **Posted:** 2026-07-29
