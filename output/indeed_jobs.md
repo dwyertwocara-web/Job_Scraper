@@ -1,33 +1,18 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-31 21:09 UTC*
+*Last updated: 2026-07-31 22:05 UTC*
 
-**6 new role(s)** since last run · 51 total in last 24h
+**3 new role(s)** since last run · 52 total in last 24h
 
-### [Patient Care Coordinator-Upland, CA](https://www.indeed.com/viewjob?jk=9299d46fcf1d27bc) — Sonova
-- 📍 **Location:** Upland, CA, US
-- 💰 **Salary:** $20–$22/hr
+### [Outpatient Care Coordinator Lead : HHC ISC Op Adminstration](https://www.indeed.com/viewjob?jk=04f7c1b39fac5ead) — Hoag Health System
+- 📍 **Location:** Newport Beach, CA, US
 - 🕒 **Posted:** 2026-07-31
 
-### [Service Coordinator | Mental Health Case Manager](https://www.indeed.com/viewjob?jk=f255ba40a4e712c2) — Crestwood Behavioral Health
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $24–$26/hr
+### [Patient Care Coordinator (Temporary)](https://www.indeed.com/viewjob?jk=b20aa6e9dc528538) — Health Bridge
+- 📍 **Location:** Glendale, CA, US
+- 💰 **Salary:** $18–$20/hr
 - 🕒 **Posted:** 2026-07-31
 
-### [RN Case Manager - Utilization Review 51](https://www.indeed.com/viewjob?jk=b8008442b393c4b0) — St. Rose Hospital
-- 📍 **Location:** Hayward, CA, US
-- 💰 **Salary:** $73–$90/hr
-- 🕒 **Posted:** 2026-07-31
-
-### [Bi-lingual Hospice Nurse Case Manager](https://www.indeed.com/viewjob?jk=ebcbf8ce8bb8c7f6) — By the Bay Health
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $65–$75/hr
-- 🕒 **Posted:** 2026-07-31
-
-### [Community Health Worker - Salinas](https://www.indeed.com/viewjob?jk=3bdf3b2890e3b240) — COPE Health Solutions
-- 📍 **Location:** Salinas, CA, US
-- 💰 **Salary:** $26–$30/hr
-- 🕒 **Posted:** 2026-07-31
-
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=926562c278d64191) — PLUME
-- 📍 **Location:** Remote, US
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=67c80b431f564843) — AltaMed Health Services
+- 📍 **Location:** Anaheim, CA, US
+- 💰 **Salary:** $26–$33/hr
 - 🕒 **Posted:** 2026-07-31
