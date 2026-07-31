@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-31 20:34 UTC",
-  "total": 94,
+  "scraped_at": "2026-07-31 22:15 UTC",
+  "total": 92,
   "new_count": 1,
   "jobs": [
     {
@@ -459,19 +459,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Heritage Health Network",
       "title": "Housing Navigator",
       "location": "Riverside, California, United States",
@@ -493,6 +480,19 @@
       "date_posted": "2026-07-14T22:06:22.000Z",
       "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
       "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -940,19 +940,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Brightli",
-      "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Nevada Behavioral Health / NovumHealth",
       "title": "Embedded Care Coordinator",
       "location": "Las Vegas, Nevada, United States",
@@ -1018,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Children's Specialized ABA",
-      "title": "Care Coordinator",
-      "location": "Voorhees, New Jersey, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
-      "date_posted": "2026-07-24T16:12:51.000Z",
-      "description": "High school diploma/GED required; associate or bachelor preferred. 2 years intake/care coordination or ABA or customer service experience. Proficient with Microsoft Office, EHR; strong communication and organization skills.",
-      "salary": "$55k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Southern California Health & Rehabilitation Program",
       "title": "Care Coordinator",
       "location": "Los Angeles, California, United States",
@@ -1039,6 +1013,19 @@
       "date_posted": "2026-07-29T16:51:26.009Z",
       "description": "Bachelor's degree in social work/related field, experience in behavioral health/CCBHC/FQHC settings, proficiency with EHR/EMR, valid driver’s license, strong communication and data-informed care coordination skills.",
       "salary": "$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Children's Specialized ABA",
+      "title": "Care Coordinator",
+      "location": "Voorhees, New Jersey, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
+      "date_posted": "2026-07-24T16:12:51.000Z",
+      "description": "High school diploma/GED required; associate or bachelor preferred. 2 years intake/care coordination or ABA or customer service experience. Proficient with Microsoft Office, EHR; strong communication and organization skills.",
+      "salary": "$55k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1211,31 +1198,18 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
-    {
-      "company": "Arkansas.gov",
-      "title": "WORKFORCE DEVELOPMENT COORDINATOR (55769)",
-      "location": "Arkansas, United States",
-      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=stateofark&career_job_req_id=55769",
-      "direct_url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=stateofark&career_job_req_id=55769",
-      "date_posted": "2026-07-30T13:33:44.000Z",
-      "description": "Bachelor's degree in a related field, minimum 4 years relevant experience, program coordination/project management experience, familiarity with workforce development and government/nonprofit settings.",
-      "salary": "$71k–$105k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Child & Family",
-      "title": "Housing Specialist",
-      "location": "Newport, Rhode Island, United States",
-      "url": "http://childandfamily.applytojob.com/apply/lgUYhJa2iG/Housing-Specialist",
-      "direct_url": "http://childandfamily.applytojob.com/apply/lgUYhJa2iG/Housing-Specialist",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "Provide case management and housing navigation to help families secure and maintain housing; requires RI housing system experience, HS diploma/GED, driver's license and valid auto insurance, bilingual Spanish preferred.",
-      "salary": "",
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
