@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-07-31 18:26 UTC",
-  "total": 96,
-  "new_count": 3,
+  "scraped_at": "2026-07-31 20:34 UTC",
+  "total": 94,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -25,6 +25,19 @@
       "date_posted": "2026-07-24T22:27:28.775Z",
       "description": "Verify applicant eligibility for public housing, maintain compliant client files, compute rents, prepare hearing packets, and maintain waiting lists. Requires HS diploma, 2 years related experience, and housing specialist certification within 1 year.",
       "salary": "$57k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Child & Family",
+      "title": "Housing Specialist",
+      "location": "Newport, Rhode Island, United States",
+      "url": "http://childandfamily.applytojob.com/apply/lgUYhJa2iG/Housing-Specialist",
+      "direct_url": "http://childandfamily.applytojob.com/apply/lgUYhJa2iG/Housing-Specialist",
+      "date_posted": "2026-07-31T00:00:00.000Z",
+      "description": "Provide case management and housing navigation to help families secure and maintain housing; requires RI housing system experience, HS diploma/GED, driver's license and valid auto insurance, bilingual Spanish preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -212,19 +225,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
-      "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -233,19 +233,6 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Aurora Housing Authority",
-      "title": "Housing Specialist",
-      "location": "Aurora, Colorado, United States",
-      "url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
-      "direct_url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
-      "date_posted": "2026-07-07T22:23:01.649Z",
-      "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
-      "salary": "$55k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -264,15 +251,15 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Housing Commission",
+      "company": "Aurora Housing Authority",
       "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
+      "location": "Aurora, Colorado, United States",
+      "url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
+      "direct_url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
+      "date_posted": "2026-07-07T22:23:01.649Z",
+      "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
+      "salary": "$55k–$58k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -706,19 +693,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -729,6 +703,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1226,19 +1213,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Street Samaritans",
-      "title": "Program Manager- CTA SAFE Ride",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://streetsamaritans.betterteam.com/program-manager-cta-safe-ride",
-      "direct_url": "https://streetsamaritans.betterteam.com/program-manager-cta-safe-ride",
-      "date_posted": "2026-07-01T19:14:20.408Z",
-      "description": "Bachelor's degree required, 3+ years program management experience in nonprofit/social services, grant administration experience, strong project management and partner coordination skills, proficiency with Google Workspace and Microsoft Office.",
-      "salary": "$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Arkansas.gov",
       "title": "WORKFORCE DEVELOPMENT COORDINATOR (55769)",
       "location": "Arkansas, United States",
@@ -1254,40 +1228,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Berkshire Health Systems",
-      "title": "Community Health Worker I",
-      "location": "Pittsfield, Massachusetts, United States",
-      "url": "https://pm.healthcaresource.com/CS/berkshire/#/job/22220",
-      "direct_url": "https://pm.healthcaresource.com/CS/berkshire/#/job/22220",
+      "company": "Child & Family",
+      "title": "Housing Specialist",
+      "location": "Newport, Rhode Island, United States",
+      "url": "http://childandfamily.applytojob.com/apply/lgUYhJa2iG/Housing-Specialist",
+      "direct_url": "http://childandfamily.applytojob.com/apply/lgUYhJa2iG/Housing-Specialist",
       "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "Associates degree in public health/health sciences/social services required (HS considered with >2 years experience). 1 year community/public health experience, CHW certificate preferred, bilingual preferred, Microsoft Office and EMR familiarity.",
-      "salary": "$46k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Arkansas.gov",
-      "title": "WORKFORCE DEVELOPMENT COORDINATOR (55769)",
-      "location": "Arkansas, United States",
-      "url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=stateofark&career_job_req_id=55769",
-      "direct_url": "https://hcm41.sapsf.com/career?career_ns=job_listing&company=stateofark&career_job_req_id=55769",
-      "date_posted": "2026-07-30T13:33:44.000Z",
-      "description": "Bachelor's degree in a related field, minimum 4 years relevant experience, program coordination/project management experience, familiarity with workforce development and government/nonprofit settings.",
-      "salary": "$71k–$105k/yr",
+      "description": "Provide case management and housing navigation to help families secure and maintain housing; requires RI housing system experience, HS diploma/GED, driver's license and valid auto insurance, bilingual Spanish preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
