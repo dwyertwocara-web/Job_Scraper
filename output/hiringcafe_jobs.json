@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-07-30 22:17 UTC",
-  "total": 100,
+  "scraped_at": "2026-07-31 00:11 UTC",
+  "total": 98,
   "new_count": 2,
   "jobs": [
     {
@@ -212,19 +212,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Vista Maria",
-      "title": "Housing Specialist",
-      "location": "Dearborn Heights, Michigan, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
-      "date_posted": "2026-07-01T19:28:22.685Z",
-      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
-      "salary": "$43k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Min",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -233,6 +220,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "High school diploma/GED, 2 years human services experience, trauma knowledge, strong interpersonal and computer skills (Microsoft); bilingual English/Spanish preferred; conducts client interviews and housing placements.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Grand Prairie, TX",
+      "title": "Housing Specialist",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -251,14 +251,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Grand Prairie, TX",
+      "company": "Vista Maria",
       "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
+      "location": "Dearborn Heights, Michigan, United States",
+      "url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "direct_url": "https://secure3.entertimeonline.com/ta/6128662.careers?ShowJob=822319108",
+      "date_posted": "2026-07-01T19:28:22.685Z",
+      "description": "Bachelor's in human services, 2+ years working with homeless/transitional living or residential care, 1 year housing navigation, valid Michigan driver's license, computer literacy, effective communication and time management.",
+      "salary": "$43k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Metropolitan Ministries Inc",
+      "title": "Housing Specialist",
+      "location": "St. Petersburg, Florida, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "date_posted": "2026-07-10T18:57:08.000Z",
+      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
+      "salary": "$43k–$45k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -459,19 +472,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Housing Authority of Billings",
-      "title": "Community Housing Navigator",
-      "location": "Billings, Montana, United States",
-      "url": "https://homefrontpartners.isolvedhire.com/jobs/1811478",
-      "direct_url": "https://homefrontpartners.isolvedhire.com/jobs/1811478",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Provide housing navigation for people experiencing homelessness, assist with applications and documentation, coordinate with landlords and service providers, maintain accurate records; basic computer skills and strong communication required; training provided.",
-      "salary": "$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Heritage Health Network",
       "title": "Housing Navigator",
       "location": "Riverside, California, United States",
@@ -493,19 +493,6 @@
       "date_posted": "2026-07-14T22:06:22.000Z",
       "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
       "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Porter-Starke Knox",
-      "title": "Housing Navigator",
-      "location": "Knox, Indiana, United States",
-      "url": "https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1426163?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=942d8c5b24014036acd941de05b89a1d&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1426163&ajs_prop_doc_type=job&ajs_prop_job_location_lat=41.2877612&ajs_prop_job_location_lon=-86.6135075&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-01T00:00:00.000Z",
-      "description": "Bachelor's in social work/psychology/human services required; OBHP completion within 3 weeks; valid Indiana driver and reliable transportation; experience in mental health case management, outreach, crisis intervention, HMIS/EMR documentation.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -810,19 +797,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AIDS Healthcare Foundation",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "direct_url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "date_posted": "2026-07-24T15:18:16.000Z",
-      "description": "High school diploma required; associate/bachelor's in public health or related preferred; ~3 years related experience or equivalent; outreach, patient engagement, and care navigation experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Power Health",
       "title": "Care Coordinator",
       "location": "Greenwood Village, Colorado, United States",
@@ -875,19 +849,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Benevolent Hearts Home Care - Bedford, TX",
-      "title": "Care Coordinator",
-      "location": "Bedford, Texas, United States",
-      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
-      "date_posted": "2026-07-09T13:17:10.000Z",
-      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
-      "salary": "$42k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Jbfcs",
       "title": "Care Coordinator",
       "location": "Brooklyn, New York, United States",
@@ -896,6 +857,19 @@
       "date_posted": "2026-07-02T04:00:00.000Z",
       "description": "Provides community-based care coordination for adults and children with chronic medical and behavioral health needs; requires experience in care management, documentation, EHR use, and ability to travel within NYC.",
       "salary": "$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Benevolent Hearts Home Care - Bedford, TX",
+      "title": "Care Coordinator",
+      "location": "Bedford, Texas, United States",
+      "url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "direct_url": "https://benevolent-hearts-home-care-bedford-tx.careerplug.com/jobs/3489859",
+      "date_posted": "2026-07-09T13:17:10.000Z",
+      "description": "2+ years care coordination or case management experience in home‑care/healthcare; proficiency with EMR/CRM and Microsoft Office; valid driver’s license; strong assessment, documentation, and communication skills.",
+      "salary": "$42k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,19 +992,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "PCP Care",
-      "title": "Care Coordinator",
-      "location": "Saint Petersburg, Florida, United States",
-      "url": "https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29",
-      "direct_url": "https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29",
-      "date_posted": "2026-07-06T21:07:01.129Z",
-      "description": "5+ years medical office care coordination experience; managing prior authorizations, referrals, scheduling, results follow-up; EMR proficiency; strong communication, organization, and HIPAA compliance.",
-      "salary": "$33k–$48k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brightli",
       "title": "Care Coordinator",
       "location": "Indianapolis, Indiana, United States",
@@ -1143,6 +1104,19 @@
       "date_posted": "2026-07-29T16:51:26.009Z",
       "description": "Bachelor's degree in social work/related field, experience in behavioral health/CCBHC/FQHC settings, proficiency with EHR/EMR, valid driver’s license, strong communication and data-informed care coordination skills.",
       "salary": "$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Anderson Health Services",
+      "title": "Care Coordinator",
+      "location": "Charlotte, North Carolina, United States",
+      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "date_posted": "2026-07-11T03:00:00.000Z",
+      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1306,26 +1280,26 @@
   ],
   "new_jobs": [
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
+      "company": "Metropolitan Ministries Inc",
+      "title": "Housing Specialist",
+      "location": "St. Petersburg, Florida, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "date_posted": "2026-07-10T18:57:08.000Z",
+      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
+      "salary": "$43k–$45k/yr",
       "job_type": "Full Time",
-      "is_remote": true,
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Brightli",
+      "company": "Anderson Health Services",
       "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
+      "location": "Charlotte, North Carolina, United States",
+      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "date_posted": "2026-07-11T03:00:00.000Z",
+      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
