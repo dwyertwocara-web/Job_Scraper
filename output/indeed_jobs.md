@@ -1,23 +1,33 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-07-31 19:19 UTC*
+*Last updated: 2026-07-31 21:09 UTC*
 
-**4 new role(s)** since last run · 52 total in last 24h
+**6 new role(s)** since last run · 51 total in last 24h
 
-### [Patient Care Coordinator (Front Office) - Dermatology](https://www.indeed.com/viewjob?jk=fff5f9d5ab2aa01d) — Skin And Cancer Institute
-- 📍 **Location:** Bakersfield, CA, US
-- 💰 **Salary:** $20–$25/hr
-- 🕒 **Posted:** 2026-07-31
-
-### [Certified Community Health Worker (CHW)](https://www.indeed.com/viewjob?jk=7454159b233d364b) — BLEHEALTH, LLC
-- 📍 **Location:** Pomona, CA, US
+### [Patient Care Coordinator-Upland, CA](https://www.indeed.com/viewjob?jk=9299d46fcf1d27bc) — Sonova
+- 📍 **Location:** Upland, CA, US
 - 💰 **Salary:** $20–$22/hr
 - 🕒 **Posted:** 2026-07-31
 
-### [Senior Case Manager](https://www.indeed.com/viewjob?jk=23de003a090a7659) — Volunteers of America
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $26–$28/hr
-- 🕒 **Posted:** 2026-07-28
+### [Service Coordinator | Mental Health Case Manager](https://www.indeed.com/viewjob?jk=f255ba40a4e712c2) — Crestwood Behavioral Health
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $24–$26/hr
+- 🕒 **Posted:** 2026-07-31
 
-### [Care Manager, LPN - Pennsylvania Licensed](https://www.indeed.com/viewjob?jk=9da0373fe2ce78d0) — Curana Health
+### [RN Case Manager - Utilization Review 51](https://www.indeed.com/viewjob?jk=b8008442b393c4b0) — St. Rose Hospital
+- 📍 **Location:** Hayward, CA, US
+- 💰 **Salary:** $73–$90/hr
+- 🕒 **Posted:** 2026-07-31
+
+### [Bi-lingual Hospice Nurse Case Manager](https://www.indeed.com/viewjob?jk=ebcbf8ce8bb8c7f6) — By the Bay Health
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $65–$75/hr
+- 🕒 **Posted:** 2026-07-31
+
+### [Community Health Worker - Salinas](https://www.indeed.com/viewjob?jk=3bdf3b2890e3b240) — COPE Health Solutions
+- 📍 **Location:** Salinas, CA, US
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-07-31
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=926562c278d64191) — PLUME
 - 📍 **Location:** Remote, US
 - 🕒 **Posted:** 2026-07-31
