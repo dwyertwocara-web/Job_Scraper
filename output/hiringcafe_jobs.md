@@ -1,21 +1,19 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-07-31 06:04 UTC*
+*Last updated: 2026-07-31 18:26 UTC*
 
-**4 new role(s)** since last run · 97 total in last 30d
+**3 new role(s)** since last run · 96 total in last 30d
 
-### [Housing Specialist](https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039) — San Diego Housing Commission
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $78k–$95k/yr
-- 🕒 **Posted:** 2026-07-30T18:02:04.000Z
+### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
+- 📍 **Location:** Santa Ana, California, United States
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
 
-### [Community Health Worker](https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406) — AIDS Healthcare Foundation
-- 📍 **Location:** Houston, Texas, United States
-- 🕒 **Posted:** 2026-07-24T15:18:16.000Z
+### [Community Health Worker I](https://pm.healthcaresource.com/CS/berkshire/#/job/22220) — Berkshire Health Systems
+- 📍 **Location:** Pittsfield, Massachusetts, United States
+- 💰 **Salary:** $46k–$68k/yr
+- 🕒 **Posted:** 2026-07-31T00:00:00.000Z
 
-### [Care Coordinator](https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39604) — Jbfcs
-- 📍 **Location:** Brooklyn, New York, United States
-- 🕒 **Posted:** 2026-07-30T04:00:00.000Z
-
-### [Care Coordinator](https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215) — Brightli
-- 📍 **Location:** Indianapolis, Indiana, United States
-- 🕒 **Posted:** 2026-07-13T00:00:00.000Z
+### [WORKFORCE DEVELOPMENT COORDINATOR (55769)](https://hcm41.sapsf.com/career?career_ns=job_listing&company=stateofark&career_job_req_id=55769) — Arkansas.gov
+- 📍 **Location:** Arkansas, United States
+- 💰 **Salary:** $71k–$105k/yr
+- 🕒 **Posted:** 2026-07-30T13:33:44.000Z
