@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-01 21:56 UTC",
-  "total": 98,
-  "new_count": 2,
+  "scraped_at": "2026-08-01 22:57 UTC",
+  "total": 97,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -693,19 +693,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -719,6 +706,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Nevada Behavioral Health / NovumHealth",
       "title": "Community Health Worker",
       "location": "Las Vegas, Nevada, United States",
@@ -727,19 +727,6 @@
       "date_posted": "2026-07-24T17:07:13.000Z",
       "description": "1+ year community or behavioral-health experience, CHW certification, CPR/First Aid (or willingness), high school diploma, valid transportation, EHR proficiency, ability to coordinate care and perform outreach.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Central Oregon Pediatric Associates",
-      "title": "Community Health Worker",
-      "location": "Bend, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4304011",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4304011",
-      "date_posted": "2026-07-02T21:59:24.000Z",
-      "description": "High school diploma/GED required; OHA CHW certification required within first year (preferred upon hire); OHA Certified Assister preferred. Experience in community health, EMR (Epic) and Microsoft Office proficiency; strong communication and navigation skills.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1278,32 +1265,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
