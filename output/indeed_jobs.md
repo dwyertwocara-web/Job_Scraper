@@ -1,8 +1,6 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-01 17:57 UTC*
+*Last updated: 2026-08-01 19:00 UTC*
 
-**1 new role(s)** since last run · 44 total in last 24h
+**0 new role(s)** since last run · 43 total in last 24h
 
-### [Recuperative Care - Case Manager](https://www.indeed.com/viewjob?jk=83fd23dfde2d3e65) — Whole Person Care Clinic
-- 📍 **Location:** Sacramento, CA, US
-- 🕒 **Posted:** 2026-08-01
+No new roles since the last run.
