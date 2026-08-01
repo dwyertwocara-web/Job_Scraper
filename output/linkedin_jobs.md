@@ -1,21 +1,16 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-01 22:32 UTC*
+*Last updated: 2026-08-01 23:33 UTC*
 
-**4 new role(s)** since last run · 8 total in last 1h
+**3 new role(s)** since last run · 4 total in last 1h
 
-### [Housing Program Coordinator](https://www.linkedin.com/jobs/view/4447618152/) — Willits Shelter Action Group
-- 📍 **Location:** Willits, CA
+### [PROGRAM COORDINATOR](https://www.linkedin.com/jobs/view/4445824172/) — Greater Fort Walton Beach Chamber of Commerce
+- 📍 **Location:** Santa Rosa Beach, FL
 - 🕒 **Posted:** 2026-08-01
 
-### [PT Community Health Worker](https://www.linkedin.com/jobs/view/4447838973/) — Cradle of Hope
-- 📍 **Location:** Bartons Location, IN
+### [Program Manager](https://www.linkedin.com/jobs/view/4447843054/) — Kestra Financial
+- 📍 **Location:** Tempe, AZ
 - 🕒 **Posted:** 2026-08-01
 
-### [Student Advocacy Case Manager - NLC - req13989](https://www.linkedin.com/jobs/view/4445829120/) — Alamo Colleges District
-- 📍 **Location:** Universal City, TX
-- 🕒 **Posted:** 2026-08-01
-
-### [Care Manager](https://www.linkedin.com/jobs/view/4445812877/) — Pride Health
-- 📍 **Location:** Manhattan, NY
-- 💰 **Salary:** $60.00/hr - $61.00/hr
+### [Travel Nurse RN - Care Manager - $3,300 per week](https://www.linkedin.com/jobs/view/4447866001/) — Global Technical Talent, an Inc. 5000 Company
+- 📍 **Location:** Anchorage, AK
 - 🕒 **Posted:** 2026-08-01
