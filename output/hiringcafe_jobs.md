@@ -1,14 +1,19 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-01 02:39 UTC*
+*Last updated: 2026-08-01 05:56 UTC*
 
-**2 new role(s)** since last run · 100 total in last 30d
+**3 new role(s)** since last run · 99 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** Brooklyn, New York, United States
-- 💰 **Salary:** $56k/yr
-- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
+### [Housing Specialist](https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21201) — Cxb
+- 📍 **Location:** New York, New York, United States
+- 💰 **Salary:** $54k/yr
+- 🕒 **Posted:** 2026-07-15T04:00:00.000Z
 
-### [Care Coordinator](https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/Port-Charlotte-FL/Care-Coordinator_M104401-1) — Verawholehealth
-- 📍 **Location:** Port Charlotte, Florida, United States
-- 💰 **Salary:** $37k–$56k/yr
-- 🕒 **Posted:** 2026-07-31T00:00:00.000Z
+### [Housing Specialist](https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081) — Home/Life Services
+- 📍 **Location:** Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn
+- 💰 **Salary:** $55k/yr
+- 🕒 **Posted:** 2026-07-28T20:36:40.744Z
+
+### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator) — Illumination Health + Home
+- 📍 **Location:** Anaheim, California, United States
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-07-08T00:00:00.000Z
