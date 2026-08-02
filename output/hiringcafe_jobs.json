@@ -1,5 +1,5 @@
 {
-  "scraped_at": "2026-08-02 18:07 UTC",
+  "scraped_at": "2026-08-02 19:15 UTC",
   "total": 93,
   "new_count": 0,
   "jobs": [
@@ -108,19 +108,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Mount Rogers Community Services",
-      "title": "Housing Specialist",
-      "location": "United States",
-      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The New York Foundling",
       "title": "Housing Specialist",
       "location": "Brooklyn, New York, United States",
@@ -142,6 +129,19 @@
       "date_posted": "2026-07-08T15:59:44.000Z",
       "description": "High school diploma, fluent Spanish, valid driver's license and reliable transportation, minimum 2 years housing placement experience, knowledge of NYC voucher programs and landlord-tenant law, proficiency with CARES, ACCESS HRA, Housing Connect and Microsoft Office, pass pre-employment checks.",
       "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mount Rogers Community Services",
+      "title": "Housing Specialist",
+      "location": "United States",
+      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=mountrogerscommunityservicesktmdreqext",
+      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=mountrogerscommunityservicesktmdreqext",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Provide assessments, coordinate community supports, respond to housing crises, teach independent living skills; bachelor's preferred, QMHP preferred, valid driver’s license required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -407,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Father Heart Street Ministry",
-      "title": "Medical Housing Navigator",
-      "location": "Clackamas County, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "date_posted": "2026-07-14T19:21:39.000Z",
-      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
-      "salary": "$63k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Path of Life Ministries",
       "title": "Temp Housing Navigator",
       "location": "Riverside, California, United States",
@@ -429,6 +416,19 @@
       "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
       "salary": "$52k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Father Heart Street Ministry",
+      "title": "Medical Housing Navigator",
+      "location": "Clackamas County, Oregon, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "date_posted": "2026-07-14T19:21:39.000Z",
+      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
+      "salary": "$63k–$65k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -654,19 +654,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -677,6 +664,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -836,19 +836,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pcscco",
-      "title": "Care Coordinator ",
-      "location": "Newark, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "Coordinate comprehensive, person-centered care plans, complete assessments and documentation, manage caseload and collaborate with providers; NY driver\\u0002s license required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Columbia University",
       "title": "Care Coordinator",
       "location": "New York City, New York, United States",
@@ -857,6 +844,19 @@
       "date_posted": "2026-07-22T15:00:00.000Z",
       "description": "Bachelor's degree or equivalent; strong computer and communication skills; experience coordinating patient care, scheduling, benefits verification and prior authorizations; Spanish a plus.",
       "salary": "$66k–$70k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pcscco",
+      "title": "Care Coordinator ",
+      "location": "Newark, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "Coordinate comprehensive, person-centered care plans, complete assessments and documentation, manage caseload and collaborate with providers; NY driver\\u0002s license required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
