@@ -1,67 +1,90 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-02 04:19 UTC*
+*Last updated: 2026-08-02 16:37 UTC*
 
-**13 new role(s)** since last run · 13 total in last 1h
+**18 new role(s)** since last run · 18 total in last 1h
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4447872443/) — Optum
-- 📍 **Location:** New Paltz, NY
-- 💰 **Salary:** $16 to $29 per hour
+### [Workforce Program Manager, Global Affairs](https://www.linkedin.com/jobs/view/4447893919/) — PMs for Hire
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $252K – $280K
 - 🕒 **Posted:** 2026-08-02
 
-### [Field Care Coordinator - Chesterfield, Richmond, Midlothian, VA](https://www.linkedin.com/jobs/view/4447862720/) — UnitedHealthcare
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $24.00 to $43.00 per hour
+### [Behavioral Health Complex Care Manager](https://www.linkedin.com/jobs/view/4447548181/) — Boston Medical Center (BMC)
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $66,000.00- $96,000.00
 - 🕒 **Posted:** 2026-08-02
 
-### [Senior Care Manager (may underfill as Care Manager) - Prevention, Assessment, Connections, Empowerment](https://www.linkedin.com/jobs/view/4447852895/) — Waukesha County Health & Human Services
-- 📍 **Location:** Waukesha, WI
-- 💰 **Salary:** $27.49 - $42.11
+### [TJJD - Program Specialist IV - Family Liaison (GID](https://www.linkedin.com/jobs/view/4448106244/) — Texas Juvenile Justice Department
+- 📍 **Location:** Giddings, TX
 - 🕒 **Posted:** 2026-08-02
 
-### [Field Case Manager - Bilingual Spanish Required - Miami, FL](https://www.linkedin.com/jobs/view/4447873035/) — UnitedHealthcare
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $24 - $43 per hour
+### [Gender Responsive Case Manager](https://www.linkedin.com/jobs/view/4445846658/) — Community Partners in Action
+- 📍 **Location:** Waterbury, CT
 - 🕒 **Posted:** 2026-08-02
 
-### [Community Health Worker| FT| Day](https://www.linkedin.com/jobs/view/4447648019/) — Atrium Health
-- 📍 **Location:** Macon, GA
-- 💰 **Salary:** $21.85 - $32.80
+### [Assisted Living (AL) Program Manager](https://www.linkedin.com/jobs/view/4370597806/) — National Lutheran Communities & Services
+- 📍 **Location:** Rockville, MD
+- 💰 **Salary:** $90,000 – $110,000 annually
 - 🕒 **Posted:** 2026-08-02
 
-### [Program Specialist](https://www.linkedin.com/jobs/view/4447856843/) — Girls Inc. of Bay County
-- 📍 **Location:** Panama City Beach, FL
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309689846/) — DataAnnotation
+- 📍 **Location:** Florida, United States
+- 💰 **Salary:** $50-$100
 - 🕒 **Posted:** 2026-08-02
 
-### [Clinical Program Manager, Utilization Management - Remote](https://www.linkedin.com/jobs/view/4447863705/) — Optum
-- 📍 **Location:** Houston, TX
-- 💰 **Salary:** $91,700 - $163,700 annually
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309692767/) — DataAnnotation
+- 📍 **Location:** Ohio, United States
+- 💰 **Salary:** $50-$100
 - 🕒 **Posted:** 2026-08-02
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4447870611/) — Optum
-- 📍 **Location:** Everett, WA
-- 💰 **Salary:** $18.00 to $32.00 per hour
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309689839/) — DataAnnotation
+- 📍 **Location:** Kentucky, United States
+- 💰 **Salary:** $50-$100
 - 🕒 **Posted:** 2026-08-02
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4447863703/) — Optum
-- 📍 **Location:** Las Vegas, NV
-- 💰 **Salary:** $18.00 to $32.00 per hour
+### [Healthcare Coordinator - AI Trainer](https://www.linkedin.com/jobs/view/4309694704/) — DataAnnotation
+- 📍 **Location:** Connecticut, United States
+- 💰 **Salary:** $50-$100
 - 🕒 **Posted:** 2026-08-02
 
-### [Patient Care Manager - RN](https://www.linkedin.com/jobs/view/4447852908/) — Optum
-- 📍 **Location:** Charlotte, NC
-- 💰 **Salary:** $89,680 to $134,520 annually
+### [Workforce Program Manager, Global Affairs](https://www.linkedin.com/jobs/view/4448104135/) — PMs for Hire
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $252K – $280K
 - 🕒 **Posted:** 2026-08-02
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4447871607/) — Grand Strand Medical Center – HCA
-- 📍 **Location:** Myrtle Beach, SC
+### [Workforce Program Manager, Global Affairs](https://www.linkedin.com/jobs/view/4447895906/) — PMs for Hire
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $252K – $280K
 - 🕒 **Posted:** 2026-08-02
 
-### [RN Case Manager (FT) Conemaugh Regional Hospice-Johnstown](https://www.linkedin.com/jobs/view/4447865695/) — Optum
-- 📍 **Location:** Johnstown, PA
-- 💰 **Salary:** $71,640 to $107,460 annually
+### [Program Manager](https://www.linkedin.com/jobs/view/4447659190/) — Blue Ridge National Heritage Area
+- 📍 **Location:** Asheville, NC
 - 🕒 **Posted:** 2026-08-02
 
-### [Licensed Field Care Coordinator - Remote in TN](https://www.linkedin.com/jobs/view/4447855879/) — UnitedHealthcare
-- 📍 **Location:** Brentwood, TN
-- 💰 **Salary:** $29 - $52 per hour
+### [Nurse Case Manager - PACT](https://www.linkedin.com/jobs/view/4417671360/) — Eliot Community Human Services
+- 📍 **Location:** Greater Boston
+- 💰 **Salary:** $58,073.60 USD - $77,680 USD
+- 🕒 **Posted:** 2026-08-02
+
+### [Associate Business Data Analyst](https://www.linkedin.com/jobs/view/4428297453/) — UL Solutions
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $60,000 to $75,000 USD
+- 🕒 **Posted:** 2026-08-02
+
+### [Blended Enhanced Targeted Case Manager](https://www.linkedin.com/jobs/view/4411883020/) — WES HEALTH SYSTEM
+- 📍 **Location:** Philadelphia, PA
+- 💰 **Salary:** $36,000.00/yr - $38,000.00/yr
+- 🕒 **Posted:** 2026-08-02
+
+### [TAHC - Temporary Program Specialist - Ectoparasite](https://www.linkedin.com/jobs/view/4448109178/) — Texas Animal Health Commission (TAHC)
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $4,263.16 - $6,250
+- 🕒 **Posted:** 2026-08-02
+
+### [Security Assistance Data Analyst](https://www.linkedin.com/jobs/view/4447899306/) — Guidehouse
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** $113,000.00-$188,000.00
+- 🕒 **Posted:** 2026-08-02
+
+### [Clinical Data Coordinator (Clinical Research Technician)](https://www.linkedin.com/jobs/view/4448102251/) — Indiana University
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-02
