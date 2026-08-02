@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-02 00:10 UTC",
-  "total": 96,
-  "new_count": 1,
+  "scraped_at": "2026-08-02 02:05 UTC",
+  "total": 94,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -238,19 +238,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Aurora Housing Authority",
-      "title": "Housing Specialist",
-      "location": "Aurora, Colorado, United States",
-      "url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
-      "direct_url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
-      "date_posted": "2026-07-07T22:23:01.649Z",
-      "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
-      "salary": "$55k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
       "location": "Grand Prairie, Texas, United States",
@@ -264,14 +251,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Metropolitan Ministries Inc",
+      "company": "Aurora Housing Authority",
       "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
+      "location": "Aurora, Colorado, United States",
+      "url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
+      "direct_url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
+      "date_posted": "2026-07-07T22:23:01.649Z",
+      "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
+      "salary": "$55k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -286,6 +273,19 @@
       "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
       "salary": "$78k–$95k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Metropolitan Ministries Inc",
+      "title": "Housing Specialist",
+      "location": "St. Petersburg, Florida, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "date_posted": "2026-07-10T18:57:08.000Z",
+      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
+      "salary": "$43k–$45k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -480,19 +480,6 @@
       "date_posted": "2026-07-23T22:56:13.000Z",
       "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
       "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -849,19 +836,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "enmasseMEDIA, LLC",
-      "title": "Care Coordinator",
-      "location": "Marrero, Louisiana, United States",
-      "url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
-      "direct_url": "http://recruite.applytojob.com/apply/B67LCdOr50/Care-Coordinator",
-      "date_posted": "2026-07-03T00:00:00.000Z",
-      "description": "Graduate of an accredited school of nursing preferred, current LPN in state of practice, current BLS, care management/ambulatory care experience preferred, strong communication and documentation skills, ability to coordinate referrals and follow-up.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "WonderWay ABA NJ In-Home",
       "title": "Care Coordinator",
       "location": "Bronx, New York, United States",
@@ -1031,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Children's Specialized ABA",
-      "title": "Care Coordinator",
-      "location": "Voorhees, New Jersey, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
-      "date_posted": "2026-07-24T16:12:51.000Z",
-      "description": "High school diploma/GED required; associate or bachelor preferred. 2 years intake/care coordination or ABA or customer service experience. Proficient with Microsoft Office, EHR; strong communication and organization skills.",
-      "salary": "$55k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Southern California Health & Rehabilitation Program",
       "title": "Care Coordinator",
       "location": "Los Angeles, California, United States",
@@ -1052,6 +1013,19 @@
       "date_posted": "2026-07-29T16:51:26.009Z",
       "description": "Bachelor's degree in social work/related field, experience in behavioral health/CCBHC/FQHC settings, proficiency with EHR/EMR, valid driver’s license, strong communication and data-informed care coordination skills.",
       "salary": "$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Children's Specialized ABA",
+      "title": "Care Coordinator",
+      "location": "Voorhees, New Jersey, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4361801",
+      "date_posted": "2026-07-24T16:12:51.000Z",
+      "description": "High school diploma/GED required; associate or bachelor preferred. 2 years intake/care coordination or ABA or customer service experience. Proficient with Microsoft Office, EHR; strong communication and organization skills.",
+      "salary": "$55k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1252,19 +1226,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
