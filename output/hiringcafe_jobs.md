@@ -1,6 +1,9 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-01 22:57 UTC*
+*Last updated: 2026-08-02 00:10 UTC*
 
-**0 new role(s)** since last run · 97 total in last 30d
+**1 new role(s)** since last run · 96 total in last 30d
 
-No new roles since the last run.
+### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
+- 📍 **Location:** New York, New York, United States
+- 💰 **Salary:** $53k/yr
+- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
