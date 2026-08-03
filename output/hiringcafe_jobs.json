@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 02:07 UTC",
-  "total": 90,
-  "new_count": 0,
+  "scraped_at": "2026-08-03 05:53 UTC",
+  "total": 94,
+  "new_count": 5,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -84,12 +84,12 @@
     {
       "company": "Overview",
       "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -103,6 +103,19 @@
       "date_posted": "2026-07-24T18:35:56.000Z",
       "description": "Knowledge of HUD regulations and fair housing, 1+ year customer service experience, ability to manage large caseloads, proficiency with Microsoft Office 365 and housing software, AZ driver's license and automobile insurance required.",
       "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Mount Rogers Community Services",
+      "title": "Housing Specialist",
+      "location": "United States",
+      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=MountRogersCommunityServicesKTMDReqExt",
+      "date_posted": "2026-07-09T00:00:00.000Z",
+      "description": "Provide assessments, coordinate community support services, respond to housing-related crises, facilitate landlord-tenant communication, and develop supportive housing plans. Bachelor’s preferred; valid driver’s license required; QMHP credential preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -129,19 +142,6 @@
       "date_posted": "2026-07-08T15:59:44.000Z",
       "description": "High school diploma, fluent Spanish, valid driver's license and reliable transportation, minimum 2 years housing placement experience, knowledge of NYC voucher programs and landlord-tenant law, proficiency with CARES, ACCESS HRA, Housing Connect and Microsoft Office, pass pre-employment checks.",
       "salary": "$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Mount Rogers Community Services",
-      "title": "Housing Specialist",
-      "location": "United States",
-      "url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=mountrogerscommunityservicesktmdreqext",
-      "direct_url": "https://cta.cadienttalent.com/index.jsp?POSTING_ID=107288731587&locale=en_US&SEQ=jobDetails&applicationName=mountrogerscommunityservicesktmdreqext",
-      "date_posted": "2026-07-09T00:00:00.000Z",
-      "description": "Provide assessments, coordinate community supports, respond to housing crises, teach independent living skills; bachelor's preferred, QMHP preferred, valid driver’s license required.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -186,6 +186,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Cxb",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21201",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21201",
+      "date_posted": "2026-07-15T04:00:00.000Z",
+      "description": "Bachelor's degree or equivalent, 2 years experience preferred, experience with homelessness/supportive housing, strong communication, Microsoft Office, HRA 2010e/AWARDS/Foothold/CARES familiarity preferred.",
+      "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Home/Life Services",
+      "title": "Housing Specialist",
+      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
+      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "date_posted": "2026-07-28T20:36:40.744Z",
+      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
+      "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "King County Housing Authority",
       "title": "Housing Specialist",
       "location": "Tukwila, Washington, United States",
@@ -212,19 +238,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Grand Prairie, TX",
-      "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Aurora Housing Authority",
       "title": "Housing Specialist",
       "location": "Aurora, Colorado, United States",
@@ -233,6 +246,19 @@
       "date_posted": "2026-07-07T22:23:01.649Z",
       "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
       "salary": "$55k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Grand Prairie, TX",
+      "title": "Housing Specialist",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -381,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Father Heart Street Ministry",
-      "title": "Medical Housing Navigator",
-      "location": "Clackamas County, Oregon, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
-      "date_posted": "2026-07-14T19:21:39.000Z",
-      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
-      "salary": "$63k–$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Path of Life Ministries",
       "title": "Temp Housing Navigator",
       "location": "Riverside, California, United States",
@@ -403,6 +416,19 @@
       "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
       "salary": "$52k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Father Heart Street Ministry",
+      "title": "Medical Housing Navigator",
+      "location": "Clackamas County, Oregon, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4331921",
+      "date_posted": "2026-07-14T19:21:39.000Z",
+      "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
+      "salary": "$63k–$65k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -428,6 +454,32 @@
       "date_posted": "2026-07-20T00:00:00.000Z",
       "description": "Bachelor's preferred; 2 years housing/case management experience (or combination of education/experience); knowledge of housing practices, Microsoft Office proficiency; valid driver's license, TB test, Level One fingerprint clearance; bilingual preferred.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -615,19 +667,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Parklandhospital",
-      "title": "Community Health Worker",
-      "location": "Dallas, Texas, United States",
-      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Evergreen Nephrology",
       "title": "Community Health Worker",
       "location": "United States",
@@ -638,6 +677,19 @@
       "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Parklandhospital",
+      "title": "Community Health Worker",
+      "location": "Dallas, Texas, United States",
+      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1174,5 +1226,71 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Cxb",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21201",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cxb/candidateportal/jobs/21201",
+      "date_posted": "2026-07-15T04:00:00.000Z",
+      "description": "Bachelor's degree or equivalent, 2 years experience preferred, experience with homelessness/supportive housing, strong communication, Microsoft Office, HRA 2010e/AWARDS/Foothold/CARES familiarity preferred.",
+      "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Home/Life Services",
+      "title": "Housing Specialist",
+      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
+      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "date_posted": "2026-07-28T20:36:40.744Z",
+      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
+      "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
+      "date_posted": "2026-07-08T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
