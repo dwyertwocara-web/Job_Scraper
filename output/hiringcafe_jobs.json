@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 19:07 UTC",
-  "total": 94,
-  "new_count": 0,
+  "scraped_at": "2026-08-03 20:40 UTC",
+  "total": 93,
+  "new_count": 2,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -43,6 +43,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "GODDARD RIVERSIDE COMMUNITY CENTER",
+      "title": "Housing Specialist (Restgate)",
+      "location": "Long Island City, New York, United States",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=560327&clientkey=2AF870DC98A05BDC667109DE9463BC04",
+      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=560327&clientkey=2AF870DC98A05BDC667109DE9463BC04",
+      "date_posted": "2026-08-03T00:00:00.000Z",
+      "description": "Associate degree required (BA preferred), experience as a housing specialist preferred, bilingual preferred, strong communication and organizational skills, Microsoft Office proficiency, ability to lift 30 lbs.",
+      "salary": "$43k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Liberty Healthcare Corporation",
       "title": "Housing Specialist",
       "location": "Fresno or California",
@@ -53,19 +66,6 @@
       "salary": "$73k/yr",
       "job_type": "Part Time",
       "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Tacoma Housing Authority",
-      "title": "Housing Specialist",
-      "location": "Tacoma, Washington, United States",
-      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=321e558b-1b8a-42c2-99f6-7bfd4a831ece&ccId=19000101_000002&jobId=921516&lang=en_US",
-      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=321e558b-1b8a-42c2-99f6-7bfd4a831ece&ccId=19000101_000002&jobId=921516&lang=en_US",
-      "date_posted": "2026-07-24T19:19:00.000Z",
-      "description": "Associate's degree or equivalent experience,2+ years related experience,knowledge of housing choice vouchers/HUD rules,fair housing experience,strong communication,problem-solving,and confidentiality skills.",
-      "salary": "$73k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -147,6 +147,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Urban Pathways",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e4c3858c-3733-4717-a68b-805b3e942424&ccId=19000101_000001&jobId=963120&lang=en_US",
+      "direct_url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=e4c3858c-3733-4717-a68b-805b3e942424&ccId=19000101_000001&jobId=963120&lang=en_US",
+      "date_posted": "2026-07-31T19:54:00.000Z",
+      "description": "Bachelor's degree required; 2 years clinical counseling experience preferred; experience with NYC housing subsidies required; strong Microsoft Office skills and communication.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Olmsted County, MN",
       "title": "Housing Specialist",
       "location": "Rochester, Minnesota, United States",
@@ -160,19 +173,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "U.S.VETS",
-      "title": "Housing Specialist",
-      "location": "Kapolei, Hawaii, United States",
-      "url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=155669&clientkey=AC964D99781EE6B7BAD7D79276AA0397",
-      "direct_url": "https://www.paycomonline.net/v4/ats/web.php/jobs/ViewJobDetails?job=155669&clientkey=AC964D99781EE6B7BAD7D79276AA0397",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "Provide housing services for homeless and at-risk veterans: assessments, documentation, rent testing, liaising with landlords/VA, data entry into HMIS; valid driver's license required.",
-      "salary": "$47k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Grant County, WA",
       "title": "Housing Specialist",
       "location": "Moses Lake, Washington, United States",
@@ -181,6 +181,19 @@
       "date_posted": "2026-07-22T19:53:59.000Z",
       "description": "Provide pre-tenancy and tenancy-sustaining services for people experiencing homelessness; conduct needs assessments, develop housing plans, connect to services, assist with benefits and landlord communication.",
       "salary": "$57k–$67k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Lri",
+      "title": "Housing Specialist",
+      "location": "Syracuse, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/lri/92665/jobs/109521",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/lri/92665/jobs/109521",
+      "date_posted": "2026-08-03T12:30:00.000Z",
+      "description": "HS diploma required; valid driver’s license and reliable transportation required. Bachelors/Associates or related experience preferred. Experience providing housing assistance and completing program documentation.",
+      "salary": "$43k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -277,19 +290,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Housing Commission",
-      "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HOME START INCORPORATED",
       "title": "Housing Navigator",
       "location": "San Diego, California, United States",
@@ -324,19 +324,6 @@
       "date_posted": "2026-07-23T20:08:10.359Z",
       "description": "Provide housing navigation, connect consumers to community resources, document services, collaborate with partners; bachelor's in health/human services preferred or CCHW; valid driver's license required.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "SIMPLE SOLUTIONS PSYCHOTHERAPY",
-      "title": "Housing Navigator",
-      "location": "Rancho Cucamonga, California, United States",
-      "url": "https://simple-solutions-psychotherapy.careerplug.com/jobs/3499982",
-      "direct_url": "https://simple-solutions-psychotherapy.careerplug.com/jobs/3499982",
-      "date_posted": "2026-07-16T01:50:54.000Z",
-      "description": "2+ years housing navigation or social services experience; valid California driver's license and reliable transportation; bachelor's degree preferred; experience with vulnerable populations and documentation in EHR required.",
-      "salary": "$58k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -667,19 +654,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -690,6 +664,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -836,19 +823,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WonderWay ABA NJ In-Home",
-      "title": "Care Coordinator",
-      "location": "Bronx, New York, United States",
-      "url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "2+ years experience in healthcare/ABA/care coordination, strong communication and organizational skills, proficiency with Microsoft Office and CentralReach; bachelor’s degree preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Columbia University",
       "title": "Care Coordinator",
       "location": "New York City, New York, United States",
@@ -869,6 +843,19 @@
       "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3402",
       "date_posted": "2026-07-24T04:00:00.000Z",
       "description": "Coordinate comprehensive, person-centered care plans, complete assessments and documentation, manage caseload and collaborate with providers; NY driver\\u0002s license required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "WonderWay ABA NJ In-Home",
+      "title": "Care Coordinator",
+      "location": "Bronx, New York, United States",
+      "url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "2+ years experience in healthcare/ABA/care coordination, strong communication and organizational skills, proficiency with Microsoft Office and CentralReach; bachelor’s degree preferred.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1135,14 +1122,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Brookdale Senior Living Inc.",
+      "company": "City of Dothan, AL",
       "title": "Social Services Coordinator",
-      "location": "Homewood, Alabama, United States",
-      "url": "https://ibmwjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/25027027",
-      "direct_url": "https://ibmwjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/25027027",
-      "date_posted": "2026-07-27T22:04:47.000Z",
-      "description": "Bachelor’s in Social Work or Human Services required; minimum 1 year supervised healthcare experience working with individuals, preferably elderly.",
-      "salary": "",
+      "location": "Dothan, Alabama, United States",
+      "url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "direct_url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "date_posted": "2026-08-03T14:27:08.000Z",
+      "description": "Bachelor's in social work/behavioral science/psychology/criminal justice, 2 years social services experience, valid driver license, subject to background/drug screening, LCSW preferred, ability to work awkward shifts and be bondable/notary.",
+      "salary": "$55k–$88k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1226,5 +1213,32 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Lri",
+      "title": "Housing Specialist",
+      "location": "Syracuse, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/lri/92665/jobs/109521",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/lri/92665/jobs/109521",
+      "date_posted": "2026-08-03T12:30:00.000Z",
+      "description": "HS diploma required; valid driver’s license and reliable transportation required. Bachelors/Associates or related experience preferred. Experience providing housing assistance and completing program documentation.",
+      "salary": "$43k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Dothan, AL",
+      "title": "Social Services Coordinator",
+      "location": "Dothan, Alabama, United States",
+      "url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "direct_url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "date_posted": "2026-08-03T14:27:08.000Z",
+      "description": "Bachelor's in social work/behavioral science/psychology/criminal justice, 2 years social services experience, valid driver license, subject to background/drug screening, LCSW preferred, ability to work awkward shifts and be bondable/notary.",
+      "salary": "$55k–$88k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
