@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03 20:40 UTC",
-  "total": 93,
+  "scraped_at": "2026-08-03 22:18 UTC",
+  "total": 94,
   "new_count": 2,
   "jobs": [
     {
@@ -251,19 +251,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Aurora Housing Authority",
-      "title": "Housing Specialist",
-      "location": "Aurora, Colorado, United States",
-      "url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
-      "direct_url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
-      "date_posted": "2026-07-07T22:23:01.649Z",
-      "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
-      "salary": "$55k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
       "location": "Grand Prairie, Texas, United States",
@@ -272,6 +259,19 @@
       "date_posted": "2026-07-09T14:09:32.398Z",
       "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
       "salary": "$37k–$57k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Aurora Housing Authority",
+      "title": "Housing Specialist",
+      "location": "Aurora, Colorado, United States",
+      "url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
+      "direct_url": "https://jobs.smartrecruiters.com/AuroraHousingAuthority/744000136339649-housing-specialist",
+      "date_posted": "2026-07-07T22:23:01.649Z",
+      "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
+      "salary": "$55k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -286,6 +286,19 @@
       "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
       "salary": "$43k–$45k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "San Diego Housing Commission",
+      "title": "Housing Specialist",
+      "location": "San Diego, California, United States",
+      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "date_posted": "2026-07-30T18:02:04.000Z",
+      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
+      "salary": "$78k–$95k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -472,6 +485,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Sarahs Inn",
+      "title": "Housing Navigator",
+      "location": "Forest Park, Illinois, United States",
+      "url": "https://sarahsinn.bamboohr.com/careers/29",
+      "direct_url": "https://sarahsinn.bamboohr.com/careers/29",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "BA or equivalent experience required; 1+ year advocacy/HMIS/CE experience preferred; valid driver\\u0002s license and vehicle insurance; ability to work evenings/weekends; Spanish fluency preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Clinical & Support Options",
       "title": "Housing Navigator, Shelter, Springfield",
       "location": "Springfield, Massachusetts, United States",
@@ -506,19 +532,6 @@
       "date_posted": "2026-07-20T00:00:00.000Z",
       "description": "Associate degree in health/social services or 2 years equivalent experience; ability to work with low-income and unhoused populations; knowledge of local housing resources; clear Idaho criminal background check; strong communication and teamwork.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Village for Vets",
-      "title": "SSVF (Supportive Services for Veteran Families) Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372031",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4372031",
-      "date_posted": "2026-07-28T23:22:54.000Z",
-      "description": "Bachelor's degree in social services, 2+ years housing/navigation or related experience, proficiency with Microsoft Office and HMIS, valid driver's license and reliable transportation, experience with veterans preferred.",
-      "salary": "$60k–$65k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -654,19 +667,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Parklandhospital",
-      "title": "Community Health Worker",
-      "location": "Dallas, Texas, United States",
-      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Evergreen Nephrology",
       "title": "Community Health Worker",
       "location": "United States",
@@ -677,6 +677,19 @@
       "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Parklandhospital",
+      "title": "Community Health Worker",
+      "location": "Dallas, Texas, United States",
+      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1215,27 +1228,27 @@
   ],
   "new_jobs": [
     {
-      "company": "Lri",
+      "company": "San Diego Housing Commission",
       "title": "Housing Specialist",
-      "location": "Syracuse, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/lri/92665/jobs/109521",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/lri/92665/jobs/109521",
-      "date_posted": "2026-08-03T12:30:00.000Z",
-      "description": "HS diploma required; valid driver’s license and reliable transportation required. Bachelors/Associates or related experience preferred. Experience providing housing assistance and completing program documentation.",
-      "salary": "$43k/yr",
-      "job_type": "Full Time",
+      "location": "San Diego, California, United States",
+      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "date_posted": "2026-07-30T18:02:04.000Z",
+      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
+      "salary": "$78k–$95k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Dothan, AL",
-      "title": "Social Services Coordinator",
-      "location": "Dothan, Alabama, United States",
-      "url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
-      "direct_url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
-      "date_posted": "2026-08-03T14:27:08.000Z",
-      "description": "Bachelor's in social work/behavioral science/psychology/criminal justice, 2 years social services experience, valid driver license, subject to background/drug screening, LCSW preferred, ability to work awkward shifts and be bondable/notary.",
-      "salary": "$55k–$88k/yr",
+      "company": "Sarahs Inn",
+      "title": "Housing Navigator",
+      "location": "Forest Park, Illinois, United States",
+      "url": "https://sarahsinn.bamboohr.com/careers/29",
+      "direct_url": "https://sarahsinn.bamboohr.com/careers/29",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "BA or equivalent experience required; 1+ year advocacy/HMIS/CE experience preferred; valid driver\\u0002s license and vehicle insurance; ability to work evenings/weekends; Spanish fluency preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
