@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-04 18:44 UTC",
-  "total": 99,
-  "new_count": 7,
+  "scraped_at": "2026-08-04 20:35 UTC",
+  "total": 95,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -186,19 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Grant County, WA",
-      "title": "Housing Specialist",
-      "location": "Moses Lake, Washington, United States",
-      "url": "https://www.governmentjobs.com/careers/grantwa/jobs/5420063",
-      "direct_url": "https://www.governmentjobs.com/careers/grantwa/jobs/5420063",
-      "date_posted": "2026-07-22T19:53:59.000Z",
-      "description": "Provide pre-tenancy and tenancy-sustaining services for people experiencing homelessness; conduct needs assessments, develop housing plans, connect to services, assist with benefits and landlord communication.",
-      "salary": "$57k–$67k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lri",
       "title": "Housing Specialist",
       "location": "Syracuse, New York, United States",
@@ -207,6 +194,19 @@
       "date_posted": "2026-08-03T12:30:00.000Z",
       "description": "HS diploma required; valid driver’s license and reliable transportation required. Bachelors/Associates or related experience preferred. Experience providing housing assistance and completing program documentation.",
       "salary": "$43k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Grant County, WA",
+      "title": "Housing Specialist",
+      "location": "Moses Lake, Washington, United States",
+      "url": "https://www.governmentjobs.com/careers/grantwa/jobs/5420063",
+      "direct_url": "https://www.governmentjobs.com/careers/grantwa/jobs/5420063",
+      "date_posted": "2026-07-22T19:53:59.000Z",
+      "description": "Provide pre-tenancy and tenancy-sustaining services for people experiencing homelessness; conduct needs assessments, develop housing plans, connect to services, assist with benefits and landlord communication.",
+      "salary": "$57k–$67k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -285,19 +285,6 @@
       "date_posted": "2026-07-07T22:23:01.649Z",
       "description": "Perform eligibility determinations, compute housing assistance payments, manage high-volume caseloads, conduct recertifications, and maintain participant records per HUD rules; strong customer service and communication skills required.",
       "salary": "$55k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "City of Grand Prairie, TX",
-      "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -480,32 +467,6 @@
       "date_posted": "2026-07-30T01:21:40.000Z",
       "description": "High school diploma/GED plus 4+ years relevant experience (or equivalent), knowledge of homelessness/housing systems, Motivational Interviewing/trauma-informed/harm-reduction training, CA driver's license or public transit ability, strong communication and documentation skills.",
       "salary": "$48k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Chicanos Por La Causa",
-      "title": "Supportive Housing Navigator ",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://pm.healthcaresource.com/CS/cplc/#/job/3393",
-      "direct_url": "https://pm.healthcaresource.com/CS/cplc/#/job/3393",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Bachelor's preferred; 2 years housing/case management experience (or combination of education/experience); knowledge of housing practices, Microsoft Office proficiency; valid driver's license, TB test, Level One fingerprint clearance; bilingual preferred.",
-      "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "date_posted": "2026-07-14T22:06:22.000Z",
-      "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
-      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -823,19 +784,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Qualicare, SF Bay",
-      "title": "Care Coordinator",
-      "location": "San Ramon, California, United States",
-      "url": "https://qualicare-careers.careerplug.com/jobs/3490541",
-      "direct_url": "https://qualicare-careers.careerplug.com/jobs/3490541",
-      "date_posted": "2026-07-09T17:18:49.000Z",
-      "description": "High school diploma, 2+ years home care or care coordination experience, proficiency with WellSky, Microsoft Office/Google Workspace, strong communication and organizational skills.",
-      "salary": "$50k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Peerstar LLC",
       "title": "Care Coordinator",
       "location": "Clifton, New Jersey, United States",
@@ -844,6 +792,19 @@
       "date_posted": "2026-08-03T00:00:00.000Z",
       "description": "1-3 years care coordination or related experience; experience with home care, Medicaid programs, scheduling, staffing, and electronic documentation; strong communication and organizational skills.",
       "salary": "$55k–$65k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Qualicare, SF Bay",
+      "title": "Care Coordinator",
+      "location": "San Ramon, California, United States",
+      "url": "https://qualicare-careers.careerplug.com/jobs/3490541",
+      "direct_url": "https://qualicare-careers.careerplug.com/jobs/3490541",
+      "date_posted": "2026-07-09T17:18:49.000Z",
+      "description": "High school diploma, 2+ years home care or care coordination experience, proficiency with WellSky, Microsoft Office/Google Workspace, strong communication and organizational skills.",
+      "salary": "$50k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,6 +849,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "WonderWay ABA NJ In-Home",
+      "title": "Care Coordinator",
+      "location": "Bronx, New York, United States",
+      "url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-07-27T00:00:00.000Z",
+      "description": "2+ years experience in healthcare/ABA/care coordination, strong communication and organizational skills, proficiency with Microsoft Office and CentralReach; bachelor’s degree preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Columbia University",
       "title": "Care Coordinator",
       "location": "New York City, New York, United States",
@@ -914,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WonderWay ABA NJ In-Home",
-      "title": "Care Coordinator",
-      "location": "Bronx, New York, United States",
-      "url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1907851?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=42eabed008e3422f8d10af16bca1ba5c&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=2&ajs_prop_job_id=1907851&ajs_prop_doc_type=job&ajs_prop_job_location_lat=40.8447819&ajs_prop_job_location_lon=-73.8648268&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-27T00:00:00.000Z",
-      "description": "2+ years experience in healthcare/ABA/care coordination, strong communication and organizational skills, proficiency with Microsoft Office and CentralReach; bachelor’s degree preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "High Plains Mental Health Center",
       "title": "Care Coordinator",
       "location": "Hays, Kansas, United States",
@@ -935,19 +896,6 @@
       "date_posted": "2026-07-23T18:16:16.000Z",
       "description": "Active Kansas RN license required; BSN preferred. Experience in psychiatric/mental health, care coordination preferred. Strong communication, collaboration, and technology proficiency required.",
       "salary": "$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Near North Health",
-      "title": "Care Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
-      "direct_url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
-      "date_posted": "2026-08-03T23:25:26.200Z",
-      "description": "Supports patients with multiple chronic conditions through care coordination, linking referrals, reducing barriers, and patient education. Requires 1–2 years experience and an associates degree.",
-      "salary": "$38k–$50k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,6 +927,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Near North Health",
+      "title": "Care Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
+      "direct_url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
+      "date_posted": "2026-08-03T23:25:26.200Z",
+      "description": "Supports patients with multiple chronic conditions through care coordination, linking referrals, reducing barriers, and patient education. Requires 1–2 years experience and an associates degree.",
+      "salary": "$38k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Brightli",
       "title": "Care Coordinator",
       "location": "Indianapolis, Indiana, United States",
@@ -1000,19 +961,6 @@
       "date_posted": "2026-07-15T21:52:53.000Z",
       "description": "2+ years healthcare or care coordination experience, bachelor\\u0002s degree in nursing/social work/public health required, knowledge of discharge planning, care coordination, documentation, and healthcare policies.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Verawholehealth",
-      "title": "Care Coordinator",
-      "location": "Port Charlotte, Florida, United States",
-      "url": "https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/Port-Charlotte-FL/Care-Coordinator_M104401-1",
-      "direct_url": "https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/Port-Charlotte-FL/Care-Coordinator_M104401-1",
-      "date_posted": "2026-07-31T00:00:00.000Z",
-      "description": "LPN or certified Medical Assistant required; current Florida LPN or MA certification, BLS preferred, experience in care coordination/population health, EHR proficiency, strong communication and organizational skills.",
-      "salary": "$37k–$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1122,6 +1070,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Valley of the Sun Home Care",
+      "title": "Care Coordinator",
+      "location": "Scottsdale, Arizona, United States",
+      "url": "https://careers.hireology.com/valleyofthesunhomecare/2829755/description",
+      "direct_url": "https://careers.hireology.com/valleyofthesunhomecare/2829755/description",
+      "date_posted": "2026-07-29T19:20:02.593Z",
+      "description": "2+ years care coordination or related healthcare experience preferred; high school diploma/GED required; CPR and First Aid; valid driver\\u0002s license, reliable vehicle and insurance; TB test; background check and MVR.",
+      "salary": "$55k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Activeday",
       "title": "Social Services - Social Services Coordinator",
       "location": "Lowell, Massachusetts, United States",
@@ -1130,19 +1091,6 @@
       "date_posted": "2026-07-24T04:00:00.000Z",
       "description": "NJ social work licensure required, 1+ year social work experience in healthcare preferred, strong communication, organizational and computer skills, knowledge of state/federal regulations and case management.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Elevate Care Regency",
-      "title": "Social Services Coordinator",
-      "location": "Niles, Illinois, United States",
-      "url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1898330?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=a474bd6400ec44ca9a566da196f19d8a&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=1&ajs_prop_job_id=1898330&ajs_prop_doc_type=job&ajs_prop_job_location_lat=42.0020347&ajs_prop_job_location_lon=-87.7915619&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-07-11T00:00:00.000Z",
-      "description": "Bachelor's degree in social work/psychology or equivalent experience; experience in social services preferred; strong communication, interpersonal, and organizational skills.",
-      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1293,92 +1241,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "San Diego Housing Commission",
-      "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "date_posted": "2026-07-14T22:06:22.000Z",
-      "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Near North Health",
+      "company": "Valley of the Sun Home Care",
       "title": "Care Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
-      "direct_url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
-      "date_posted": "2026-08-03T23:25:26.200Z",
-      "description": "Supports patients with multiple chronic conditions through care coordination, linking referrals, reducing barriers, and patient education. Requires 1–2 years experience and an associates degree.",
-      "salary": "$38k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "GMV YMCA",
-      "title": "Program Coordinator- BTW Community Center",
-      "location": "Hamilton, Ohio, United States",
-      "url": "https://secure7.saashr.com/ta/6092833.careers?ShowJob=621226077",
-      "direct_url": "https://secure7.saashr.com/ta/6092833.careers?ShowJob=621226077",
-      "date_posted": "2026-08-03T23:24:30.065Z",
-      "description": "Bachelor's preferred, 2+ years program experience (nonprofit/YMCA preferred), program development, budget tracking, strong communication, ability to lift 50 lbs, flexible hours including evenings/weekends.",
-      "salary": "$31k/yr",
-      "job_type": "Part Time, Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Houston-Galveston Area Council",
-      "title": "Senior Program Coordinator – Child Care Scholarships",
-      "location": "Houston, Texas, United States",
-      "url": "http://houstongalvestonareacouncil.applytojob.com/apply/ZR14ZmLZvs/Senior-Program-Coordinator-Child-Care-Scholarships",
-      "direct_url": "http://houstongalvestonareacouncil.applytojob.com/apply/ZR14ZmLZvs/Senior-Program-Coordinator-Child-Care-Scholarships",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "Bachelor's degree required, 5 years related experience with government/nonprofit/schools, strong communication, reporting, compliance, and coordination skills.",
-      "salary": "",
+      "location": "Scottsdale, Arizona, United States",
+      "url": "https://careers.hireology.com/valleyofthesunhomecare/2829755/description",
+      "direct_url": "https://careers.hireology.com/valleyofthesunhomecare/2829755/description",
+      "date_posted": "2026-07-29T19:20:02.593Z",
+      "description": "2+ years care coordination or related healthcare experience preferred; high school diploma/GED required; CPR and First Aid; valid driver\\u0002s license, reliable vehicle and insurance; TB test; background check and MVR.",
+      "salary": "$55k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
