@@ -1,235 +1,275 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-04 01:29 UTC*
+*Last updated: 2026-08-04 04:06 UTC*
 
-**51 new role(s)** since last run · 51 total in last 1h
+**59 new role(s)** since last run · 59 total in last 1h
 
-### [Data Analyst Senior](https://www.linkedin.com/jobs/view/4448253743/) — CLA (CliftonLarsonAllen)
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $104,000 - $150,000
+### [Care Manager](https://www.linkedin.com/jobs/view/4440904056/) — Arosa
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Associate Program Manager](https://www.linkedin.com/jobs/view/4446272226/) — Teledyne Technologies Incorporated
-- 📍 **Location:** Rancho Cordova, CA
-- 💰 **Salary:** $77,900.00-$103,800.00
+### [Nursing Admin. Care Coordinator PT Variable 7am-3:30pm](https://www.linkedin.com/jobs/view/4448276240/) — AHMC HealthCare
+- 📍 **Location:** Monterey Park, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4446839564/) — Vanir
-- 📍 **Location:** Greater Sacramento
-- 💰 **Salary:** USD $80,000.00 - USD $90,000.00 /Yr
+### [Nursing Admin. Care Coordinator FT Variable 7am-3:30pm](https://www.linkedin.com/jobs/view/4448265740/) — AHMC HealthCare
+- 📍 **Location:** Monterey Park, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Specialty Healthcare Coordinator](https://www.linkedin.com/jobs/view/4448644565/) — PDS Health
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [ADVOCATE/RECOVERY CARE COORDINATOR](https://www.linkedin.com/jobs/view/4448679188/) — MANCON, LLC
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Community Health Worker - Salinas](https://www.linkedin.com/jobs/view/4447190022/) — COPE Health Solutions
-- 📍 **Location:** Salinas, CA
-- 💰 **Salary:** $26.00 - $30.00 per hour
-- 🕒 **Posted:** 2026-08-04
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4448638809/) — PDS Health
-- 📍 **Location:** Union City, CA
-- 💰 **Salary:** $21.50/hr - $30.25/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Care Manager MSW Part- time Day](https://www.linkedin.com/jobs/view/4448269316/) — Providence
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $38.56/hr - $59.88/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Tree Care Manager](https://www.linkedin.com/jobs/view/4448676020/) — Sperber Landscape Companies
-- 📍 **Location:** Martinez, CA
-- 🕒 **Posted:** 2026-08-04
-
-### [Care Manager LCSW Full-time Day](https://www.linkedin.com/jobs/view/4448264433/) — Providence
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $43.39/hr - $67.37/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Case Manager Assistant – Entry Level (Legal Field)](https://www.linkedin.com/jobs/view/4448658859/) — Omega Law Group Accident & Injury Attorneys
-- 📍 **Location:** West Hollywood, CA
-- 💰 **Salary:** $20.00/hr - $25.00/hr
-- 🕒 **Posted:** 2026-08-04
-
-### [Case Manager / Legal Operations Production Manager (Humanitarian/Asylum Immigration Services)](https://www.linkedin.com/jobs/view/4437482040/) — Bueno Law Corp
+### [Data Analyst - Health, Principal](https://www.linkedin.com/jobs/view/4448689709/) — Blue Shield of California
 - 📍 **Location:** California, United States
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+- 💰 **Salary:** $137720.00 to $206690.00
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Manager RN - MSO CM Heritage Per Diem](https://www.linkedin.com/jobs/view/4448255769/) — Providence
+### [Emergency and Specialty Client Care Coordinator - Veterinary](https://www.linkedin.com/jobs/view/4448800548/) — United Veterinary Care
+- 📍 **Location:** Berkeley, CA
+- 🕒 **Posted:** 2026-08-04
+
+### [Global Learning Program Manager](https://www.linkedin.com/jobs/view/4446281828/) — Santa Clara University
+- 📍 **Location:** Santa Clara, CA
+- 💰 **Salary:** $70,600 - $84,700
+- 🕒 **Posted:** 2026-08-04
+
+### [LVN, Care Manager (Full-time, Day Shift)](https://www.linkedin.com/jobs/view/4446281971/) — Adventist Health
+- 📍 **Location:** Hanford, CA
+- 💰 **Salary:** $31.84 to $43.67
+- 🕒 **Posted:** 2026-08-04
+
+### [ABA Clinical Supervisor (Sr. Program Manager) - BCBA Hours Available](https://www.linkedin.com/jobs/view/4446278646/) — Autism Learning Partners
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $31.00 - $37.50 per hour
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager Specialist](https://www.linkedin.com/jobs/view/4448679782/) — Volunteers of America Los Angeles
+- 📍 **Location:** Fullerton, CA
+- 💰 **Salary:** $23.98 - $25.24 Per Hour
+- 🕒 **Posted:** 2026-08-04
+
+### [Community Disaster Program Manager](https://www.linkedin.com/jobs/view/4448610846/) — American Red Cross
+- 📍 **Location:** Commerce, CA
+- 💰 **Salary:** $81,000-$86,000/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Clinical Case Manager - Spanish Speaking - $3k bonus](https://www.linkedin.com/jobs/view/4446275799/) — Easterseals Southern California
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $84 - $94k/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Clinical Case Manager - Spanish Speaking - $3k bonus](https://www.linkedin.com/jobs/view/4446264900/) — Easterseals Southern California
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $57.28 - $88.92
+- 💰 **Salary:** $84 - $94k/yr
 - 🕒 **Posted:** 2026-08-04
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4448267375/) — Alliance of Professionals & Consultants, Inc. (APC)
-- 📍 **Location:** Greensboro, NC
-- 💰 **Salary:** $50.00 - $55.00 per hour
+### [Marketing & Business Development Coordinator](https://www.linkedin.com/jobs/view/4448695678/) — Lewis Brisbois
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Anticipated Case Manager](https://www.linkedin.com/jobs/view/4448253767/) — Chicago Public Schools
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $64,469.94 to $82,839.39
+### [L&D Program Manager - Early Career Onboarding and Professional Development](https://www.linkedin.com/jobs/view/4446295136/) — Marvell Technology
+- 📍 **Location:** Santa Clara, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Housing Specialist - Hudson Bay](https://www.linkedin.com/jobs/view/4448263611/) — LANTERN COMMUNITY SERVICES, INC
-- 📍 **Location:** Bronx, NY
+### [L&D Program Manager - Early Career Onboarding and Professional Development](https://www.linkedin.com/jobs/view/4446287282/) — Marvell Technology
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4448257661/) — LANTERN COMMUNITY SERVICES, INC
-- 📍 **Location:** Bronx, NY
+### [SSVF Case Manager](https://www.linkedin.com/jobs/view/4434274120/) — YWCA Seattle | King | Snohomish
+- 📍 **Location:** Renton, WA
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4448261613/) — Soccer Shots Los Angeles
-- 📍 **Location:** Lemont, IL
+### [Field Care Coordinator - Danville and Pittsylvania County, VA](https://www.linkedin.com/jobs/view/4448698787/) — UnitedHealthcare
+- 📍 **Location:** Danville, VA
+- 💰 **Salary:** $24.00 to $43.00 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Aging Care Manager 3 (Local Government)](https://www.linkedin.com/jobs/view/4448143718/) — Commonwealth of Pennsylvania
-- 📍 **Location:** Northumberland County, PA
+### [Field Care Coordinator (HIDE SNP) - Kalamazoo County, MI and Surrounding](https://www.linkedin.com/jobs/view/4448692805/) — UnitedHealthcare
+- 📍 **Location:** Kalamazoo, MI
+- 💰 **Salary:** $29 - $52 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Coordinator - Dementia Services](https://www.linkedin.com/jobs/view/4448253930/) — MissionHires
-- 📍 **Location:** Columbus, Ohio Metropolitan Area
+### [Kinship Care Coordinator](https://www.linkedin.com/jobs/view/4447194636/) — National Youth Advocate Program (NYAP)
+- 📍 **Location:** Columbus, OH
+- 💰 **Salary:** $45,000.00 to $48,000.00
 - 🕒 **Posted:** 2026-08-04
 
-### [Patient Care Coordinator - Primary Care](https://www.linkedin.com/jobs/view/4448254591/) — Providence Swedish
-- 📍 **Location:** Issaquah, WA
-- 💰 **Salary:** $24.26/hr - $37.11/hr
+### [Senior Care Manager (may underfill as Care Manager) - Placement Care Resource Specialist](https://www.linkedin.com/jobs/view/4448696733/) — Waukesha County Health & Human Services
+- 📍 **Location:** Waukesha, WI
+- 💰 **Salary:** $27.49 - $42.11
 - 🕒 **Posted:** 2026-08-04
 
-### [Case Manager MSW](https://www.linkedin.com/jobs/view/4446282007/) — Novant Health
-- 📍 **Location:** Charlotte, NC
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4446281427/) — WellSky
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-08-04
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4445155534/) — AmeriHealth Caritas
-- 📍 **Location:** Dublin, OH
+### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448808426/) — Optum
+- 📍 **Location:** San Marcos, TX
+- 💰 **Salary:** $16.00 to $29.00 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4448265488/) — BrightSpring Health Services
-- 📍 **Location:** Fulton County, GA
-- 💰 **Salary:** USD $43,500.00 - $43,888.00
+### [Field Care Coordinator in TN](https://www.linkedin.com/jobs/view/4448691903/) — UnitedHealthcare
+- 📍 **Location:** Brentwood, TN
+- 💰 **Salary:** $29.00 to $52.00 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [RN Case Manager / RNCM (Home Health)](https://www.linkedin.com/jobs/view/4447227738/) — Mission Healthcare
-- 📍 **Location:** Oregon City, OR
-- 💰 **Salary:** $55-$60/hour
+### [Care Coordinator/Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448699651/) — Traditional Home Health Care
+- 📍 **Location:** Dunmore, PA
 - 🕒 **Posted:** 2026-08-04
 
-### [Telephonic RN Case Manager](https://www.linkedin.com/jobs/view/4448680265/) — Paradigm
-- 📍 **Location:** Arizona, United States
+### [Case Manager](https://www.linkedin.com/jobs/view/4448801329/) — Encompass Health
+- 📍 **Location:** Winston-Salem, NC
 - 🕒 **Posted:** 2026-08-04
 
-### [Travel Case Manager RN - $2,569 per week](https://www.linkedin.com/jobs/view/4448658678/) — MedPro Healthcare Staffing
-- 📍 **Location:** Burbank, CA
+### [Case Manager](https://www.linkedin.com/jobs/view/4448692391/) — Encompass Health
+- 📍 **Location:** Cleveland, TN
+- 💰 **Salary:** $33.00/hr - $41.00/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Specialist](https://www.linkedin.com/jobs/view/4448259568/) — Community Options, Inc.
-- 📍 **Location:** Feasterville-Trevose, PA
+### [Care Coordinator, Departments (Marlton, NJ)](https://www.linkedin.com/jobs/view/4446279905/) — Ennoble Care
+- 📍 **Location:** Marlton, NJ
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Specialist - Parent Education](https://www.linkedin.com/jobs/view/4448648723/) — State of Missouri
-- 📍 **Location:** Jefferson City, MO
+### [Community Outreach Coordinator](https://www.linkedin.com/jobs/view/4446273750/) — Butterfly Home Care Northwest DFW
+- 📍 **Location:** Southlake, TX
+- 💰 **Salary:** $20.00/hr - $26.00/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Foster Care Case Manager Supervisor](https://www.linkedin.com/jobs/view/4448271377/) — BrightSpring Health Services
-- 📍 **Location:** Fulton County, GA
-- 💰 **Salary:** USD $51,900.00 - $52,000.00
+### [Home Care Manager](https://www.linkedin.com/jobs/view/4448604914/) — Volunteers of America National Services (VOANS)
+- 📍 **Location:** Montrose, CO
+- 💰 **Salary:** $63k - $92k annually
 - 🕒 **Posted:** 2026-08-04
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448677330/) — Bethesda Physical Therapy
-- 📍 **Location:** Staunton, VA
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448808323/) — UnitedHealth Group
+- 📍 **Location:** Eugene, OR
+- 💰 **Salary:** $18.00 to $32.00 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Local Contract Case Manager - $50-54 per hour](https://www.linkedin.com/jobs/view/4448658617/) — Host Healthcare, Inc.
-- 📍 **Location:** Chesapeake, VA
+### [Case Manager - Crestview Mobile Response Team](https://www.linkedin.com/jobs/view/4446285078/) — Lakeview Center
+- 📍 **Location:** Crestview, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Partner Program Manager](https://www.linkedin.com/jobs/view/4448254741/) — Medbridge
-- 📍 **Location:** Washington, United States
-- 💰 **Salary:** $85K - $95K
+### [Program Manager](https://www.linkedin.com/jobs/view/4448687969/) — CARE Wellness Center & Services
+- 📍 **Location:** Olympia, WA
 - 🕒 **Posted:** 2026-08-04
 
-### [Alternate Program Manager](https://www.linkedin.com/jobs/view/4448650998/) — Serco
-- 📍 **Location:** Fort McKavett, TX
+### [STC-HT Program Specialist](https://www.linkedin.com/jobs/view/4448685897/) — Grandview School District #200
+- 📍 **Location:** Grandview, WA
+- 💰 **Salary:** $23.77 - $28.03 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Manager - Growth Operations, Contract](https://www.linkedin.com/jobs/view/4448654489/) — Scale AI
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $60 to $85/hr
+### [Wound Program Coordinator](https://www.linkedin.com/jobs/view/4448690521/) — Encompass Health
+- 📍 **Location:** Cleveland, TN
+- 💰 **Salary:** $34.00/hr - $42.00/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Manager - Growth Operations, Contract](https://www.linkedin.com/jobs/view/4448660228/) — Scale AI
-- 📍 **Location:** San Francisco Bay Area
-- 💰 **Salary:** $60 to $85/hr
+### [Project/Program Manager](https://www.linkedin.com/jobs/view/4434576680/) — Horizontal Talent
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $59 - $95 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Learning & Development Program Manager I, Global Transportation Services](https://www.linkedin.com/jobs/view/4448638933/) — Amazon
-- 📍 **Location:** Bellevue, WA
+### [Program Manager](https://www.linkedin.com/jobs/view/4448808239/) — Lennar
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4448268469/) — SCD.USA Infrared
-- 📍 **Location:** Colorado Springs, CO
+### [Program Manager](https://www.linkedin.com/jobs/view/4448693652/) — Lennar
+- 📍 **Location:** Miami, FL
 - 🕒 **Posted:** 2026-08-04
 
-### [PROGRAM MANAGER II](https://www.linkedin.com/jobs/view/4448651980/) — University of Alabama at Birmingham
-- 📍 **Location:** Greater Birmingham, Alabama Area
-- 💰 **Salary:** $51,270 – $83,330
+### [Program Manager - Occ Med, Augusta](https://www.linkedin.com/jobs/view/4446291065/) — Piedmont
+- 📍 **Location:** Augusta, GA
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4448363987/) — KBR Careers
-- 📍 **Location:** Patterson, OH
+### [Clinical Operations Program Manager](https://www.linkedin.com/jobs/view/4446269743/) — University of Colorado
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $85,058 – $108,207
 - 🕒 **Posted:** 2026-08-04
 
-### [Senior Program Manager-System Planning](https://www.linkedin.com/jobs/view/4446280099/) — Sound Transit
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $81k to $186k
+### [Nursing Workforce Program Manager](https://www.linkedin.com/jobs/view/4436622703/) — Dana-Farber Cancer Institute
+- 📍 **Location:** Brookline, MA
+- 💰 **Salary:** $124,300.00 - $137,300.00
 - 🕒 **Posted:** 2026-08-04
 
-### [MONITORING AND EVALUATION RESEARCH ASSISTANT](https://www.linkedin.com/jobs/view/4448274129/) — Sasha Bruce Youthwork
-- 📍 **Location:** Washington, DC
-- 💰 **Salary:** $26.44/hr - $26.44/hr
+### [Program Manager-Standard Products & Services](https://www.linkedin.com/jobs/view/4446272882/) — AMETEK
+- 📍 **Location:** Torrance, CA
 - 🕒 **Posted:** 2026-08-04
 
-### [NETWORK DIABETES PROGRAM MANAGER](https://www.linkedin.com/jobs/view/4446268319/) — Cook County Health
-- 📍 **Location:** Cook County, IL
+### [Dialysis Program Manager](https://www.linkedin.com/jobs/view/4448689579/) — Encompass Health
+- 📍 **Location:** Cleveland, TN
+- 💰 **Salary:** $41.00/hr - $53.00/hr
 - 🕒 **Posted:** 2026-08-04
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4448656506/) — PDS Health
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Procurement Program Manager](https://www.linkedin.com/jobs/view/4448687896/) — Trane Technologies
+- 📍 **Location:** Hastings, NE
+- 💰 **Salary:** $81,800.00 - $146,720.00
 - 🕒 **Posted:** 2026-08-04
 
-### [New Business Initiatives Program Coordinator](https://www.linkedin.com/jobs/view/4448267512/) — MyEyeDr.
-- 📍 **Location:** Raleigh, NC
+### [On-site Registered Dietitian/Care Coordinator Optum - Minnetonka, MN](https://www.linkedin.com/jobs/view/4448688985/) — Optum
+- 📍 **Location:** Minnetonka, MN
+- 💰 **Salary:** $60,200 - $107,400 annually
 - 🕒 **Posted:** 2026-08-04
 
-### [Research Development Coordinator, Science & Technology](https://www.linkedin.com/jobs/view/4448652920/) — Florida State University
-- 📍 **Location:** Tallahassee Metropolitan Area
+### [Field Care Coordinator - Winchester, Frederick County, and Clarke County, VA](https://www.linkedin.com/jobs/view/4448806537/) — UnitedHealthcare
+- 📍 **Location:** Winchester, VA
+- 💰 **Salary:** $24 - $43 per hour
 - 🕒 **Posted:** 2026-08-04
 
-### [Program Manager, DOS LEAP Global](https://www.linkedin.com/jobs/view/4448672045/) — Dexis
-- 📍 **Location:** Virginia, United States
-- 💰 **Salary:** $80,000—$90,000 USD
+### [Treatment Foster Care Coordinator](https://www.linkedin.com/jobs/view/4448229938/) — National Youth Advocate Program (NYAP)
+- 📍 **Location:** Newark, OH
 - 🕒 **Posted:** 2026-08-04
 
-### [Group Fitness - Program Manager](https://www.linkedin.com/jobs/view/4445811753/) — HealthFitness
-- 📍 **Location:** Bentonville, AR
-- 💰 **Salary:** $50,000 - $57,000 annually
+### [Neonatal Program Coordinator](https://www.linkedin.com/jobs/view/4448803667/) — Medical City Healthcare
+- 📍 **Location:** Lewisville, TX
 - 🕒 **Posted:** 2026-08-04
 
-### [Clinical Research Assistant (Part-Time)](https://www.linkedin.com/jobs/view/4446279085/) — Weill Cornell Medicine
+### [Field Care Coordinator - North Chesterfield, Richmond, VA](https://www.linkedin.com/jobs/view/4448688982/) — UnitedHealthcare
+- 📍 **Location:** Chesterfield, VA
+- 💰 **Salary:** $24.00 to $43.00 per hour
+- 🕒 **Posted:** 2026-08-04
+
+### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4448802714/) — Optum
+- 📍 **Location:** Chandler, AZ
+- 💰 **Salary:** $16.00 to $29.00 per hour
+- 🕒 **Posted:** 2026-08-04
+
+### [Marketing & Business Development Coordinator](https://www.linkedin.com/jobs/view/4448804440/) — Lewis Brisbois
+- 📍 **Location:** Minneapolis, MN
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Program Coordinator, Center for Politics, Sanford School of Public Policy](https://www.linkedin.com/jobs/view/4446278621/) — Duke University
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** USD $49,939.00 to USD $79,487.00
+- 🕒 **Posted:** 2026-08-04
+
+### [Business Management Program Manager](https://www.linkedin.com/jobs/view/4446289216/) — TD
 - 📍 **Location:** New York, NY
-- 💰 **Salary:** $22.11 - $25.99
+- 💰 **Salary:** $91,000 - $145,600 USD
 - 🕒 **Posted:** 2026-08-04
 
-### [Research Assistant 1](https://www.linkedin.com/jobs/view/4446274213/) — Case Western Reserve University
-- 📍 **Location:** Cleveland, OH
+### [Program Manager - Airport Screening Operations](https://www.linkedin.com/jobs/view/4446281875/) — Leidos
+- 📍 **Location:** Charleston, SC
+- 💰 **Salary:** $131,300.00 - $237,350.00
 - 🕒 **Posted:** 2026-08-04
 
-### [Research Assistant 3](https://www.linkedin.com/jobs/view/4446264366/) — Case Western Reserve University
-- 📍 **Location:** Cleveland, OH
+### [Program Manager - Airport Screening Operations](https://www.linkedin.com/jobs/view/4446295086/) — Leidos
+- 📍 **Location:** Des Moines, IA
+- 💰 **Salary:** $131,300.00 - $237,350.00
+- 🕒 **Posted:** 2026-08-04
+
+### [BI Program Manager - Scrum Master](https://www.linkedin.com/jobs/view/4446294007/) — Crocs, Inc.
+- 📍 **Location:** Broomfield, CO
+- 💰 **Salary:** $110,000 - $120,000
+- 🕒 **Posted:** 2026-08-04
+
+### [Research Assistant](https://www.linkedin.com/jobs/view/4448676662/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 🕒 **Posted:** 2026-08-04
+
+### [Clinical Research Assistant - Cardiovascular](https://www.linkedin.com/jobs/view/4446268986/) — Piedmont
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-04
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4448803636/) — TalentAlly
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-04
+
+### [Data Analyst I Healthcare Analytics](https://www.linkedin.com/jobs/view/4448803647/) — Centene Corporation
+- 📍 **Location:** Michigan, United States
+- 💰 **Salary:** $56,200.00 - $101,000.00 per year
 - 🕒 **Posted:** 2026-08-04
