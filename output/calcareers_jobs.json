@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-03 18:14 UTC",
-  "total": 3,
+  "scraped_at": "2026-08-04 18:14 UTC",
+  "total": 4,
   "new_count": 0,
   "jobs": [
     {
@@ -10,6 +10,15 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=524906",
       "date_posted": "2026-07-28",
       "salary": "$7935.00 - $11151.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Fish and Wildlife",
+      "title": "Northern Lands, Program Coordinator",
+      "location": "Los Angeles County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=526357",
+      "date_posted": "2026-07-27",
+      "salary": "$4418.00 - $9321.00",
       "ats": "CalCareers"
     },
     {
