@@ -1,83 +1,108 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-04 05:27 UTC*
+*Last updated: 2026-08-04 17:46 UTC*
 
-**17 new role(s)** since last run · 63 total in last 24h
+**22 new role(s)** since last run · 51 total in last 24h
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=72ce78e226ef42ef) — River Oak Center for Children
-- 📍 **Location:** Elk Grove, CA, US
-- 💰 **Salary:** $71k–$73k/yr
+### [Lead Integrated Community Supports Housing Navigator](https://www.indeed.com/viewjob?jk=d8adc5bdfe5d235b) — City Net
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $29–$31/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Patient Care Coordinator (SCAN Temp)](https://www.indeed.com/viewjob?jk=8b2f3827e65fe548) — SCAN Health Plan
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $20–$29/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=18bcec5f94af2049) — Archway Recovery Services
+- 📍 **Location:** Napa, CA, US
+- 💰 **Salary:** $26–$32/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=8ffe79bfd4d05ade) — Life Skills Training and Educational Programs - LifeSTEPS
-- 📍 **Location:** Morgan Hill, CA, US
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=c3195a8e04fee693) — Life Skills Training and Educational Programs - LifeSTEPS
-- 📍 **Location:** Gilroy, CA, US
-- 🕒 **Posted:** 2026-08-03
-
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=31e551c5fc467dc3) — Life Skills Training and Educational Programs - LifeSTEPS
+### [Housing Services Case Manager- San Jose](https://www.indeed.com/viewjob?jk=a4736338ec86f2fd) — Housing Choices
 - 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $55k–$58k/yr
+- 🕒 **Posted:** 2026-08-04
+
+### [Senior Housing Specialist](https://www.indeed.com/viewjob?jk=ac38442bad893a81) — Hope Solutions
+- 📍 **Location:** Pleasant Hill, CA, US
+- 💰 **Salary:** $30–$35/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Case Manager - Permanent Supportive Housing](https://www.indeed.com/viewjob?jk=6784a322f021e6ed) — Penny Lane Centers
-- 📍 **Location:** Lancaster, CA, US
-- 💰 **Salary:** $23–$33/hr
+### [Senior Housing Specialist](https://www.indeed.com/viewjob?jk=bbbe20c9a41da272) — Hope Solutions
+- 📍 **Location:** Pleasant Hill, CA, US
+- 💰 **Salary:** $30–$35/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Intensive Case Manager for Homeless Housing and Mental Health Services](https://www.indeed.com/viewjob?jk=ba21a7bebdea0b92) — Mental Health America of Los Angeles
-- 📍 **Location:** Long Beach, CA, US
-- 🕒 **Posted:** 2026-08-03
+### [Clinical Care Coordinator](https://www.indeed.com/viewjob?jk=9c36d95f65d20ffb) — Amae Health
+- 📍 **Location:** Pasadena, CA, US
+- 🕒 **Posted:** 2026-08-04
 
-### [Residential Re-Entry Housing Coordinator & CBT Facilitator](https://www.indeed.com/viewjob?jk=c7520f64bd529914) — Community Solutions Inc
-- 📍 **Location:** Santa Maria, CA, US
-- 🕒 **Posted:** 2026-08-03
-
-### [Community Health Worker](https://www.indeed.com/viewjob?jk=2001568f4164bf29) — CareConnectMD
-- 📍 **Location:** Corona, CA, US
-- 💰 **Salary:** $25–$30/hr
-- 🕒 **Posted:** 2026-08-03
-
-### [Housing Navigator CES in RRH](https://www.indeed.com/viewjob?jk=90b5fea57ba71ded) — East Oakland Community Project
-- 📍 **Location:** Oakland, CA, US
-- 🕒 **Posted:** 2025-05-14
-
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=28d5c20185209dea) — Ivy Fertility
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=29f0e2ef0d01aabc) — Serene health
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $27–$30/hr
+- 💰 **Salary:** $25–$28/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Hospice RN Case Manager / Admission Nurse](https://www.indeed.com/viewjob?jk=583dadce7f717591) — Community Care Hospice OC
+- 📍 **Location:** Riverside, CA, US
+- 💰 **Salary:** $50–$200/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Veterinary Care Coordinator - Hybrid Remote Position](https://www.indeed.com/viewjob?jk=a24366237c3bf6e3) — SurgiPet Veterinary Surgery & Anesthesia Center
+- 📍 **Location:** Carlsbad, CA, US
+- 💰 **Salary:** $23–$30/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Dental Office Patient Care Coordinator](https://www.indeed.com/viewjob?jk=42f3fa399f6500e9) — Studio Village Dental Care
+- 📍 **Location:** Valley Village, CA, US
+- 💰 **Salary:** $26–$33/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Care Coordinator/Admin Assistant for LGBTQIA+ Affirming Group Practice](https://www.indeed.com/viewjob?jk=761ef80bbaff2af6) — Take Root Therapy
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $28–$30/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Nursing Admin. Care Coordinator FT Variable 7am-3:30pm](https://www.indeed.com/viewjob?jk=5bb1293c4e2d56ca) — AHMC Healthcare
+- 📍 **Location:** Monterey Park, CA, US
 - 🕒 **Posted:** 2026-08-03
 
-### [Clinical Care Coordinator - Oncology](https://www.indeed.com/viewjob?jk=ee5dccab1a0b6b7e) — UC San Diego Health
+### [Nursing Admin. Care Coordinator PT Variable 7am-3:30pm](https://www.indeed.com/viewjob?jk=c0987c8e24bda4f1) — AHMC Healthcare
+- 📍 **Location:** Monterey Park, CA, US
+- 🕒 **Posted:** 2026-08-03
+
+### [ADVOCATE/RECOVERY CARE COORDINATOR](https://www.indeed.com/viewjob?jk=61d51bca51f7c3a2) — Mancon Inc.
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $29–$42/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Community Health Worker (CHW) - Associate Instructor](https://www.indeed.com/viewjob?jk=e57c88beefde186d) — Cabrillo College
-- 📍 **Location:** Aptos, CA, US
-- 💰 **Salary:** $1665–$2556/mo
-- 🕒 **Posted:** 2026-08-03
-
-### [Lead Community Health Worker Behavioral](https://www.indeed.com/viewjob?jk=ef7b9b209f79dc9d) — LifeLong Medical Care
+### [Emergency and Specialty Client Care Coordinator - Veterinary](https://www.indeed.com/viewjob?jk=a609f592c960208f) — PETS Referral Center
 - 📍 **Location:** Berkeley, CA, US
-- 💰 **Salary:** $25/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Senior Community Health Worker & RA](https://www.indeed.com/viewjob?jk=24be90942b425c90) — Lundquist Institute For Biomedical Innovation At Harbor-ucla
-- 📍 **Location:** Torrance, CA, US
-- 💰 **Salary:** $25–$30/hr
-- 🕒 **Posted:** 2026-07-20
-
-### [Program Manager - Bishop](https://www.indeed.com/viewjob?jk=8f86c3a1e03c8283) — Kern Regional Center
-- 📍 **Location:** Bishop, CA, US
-- 💰 **Salary:** $72k–$101k/yr
+### [CADC Case manager- Part-time](https://www.indeed.com/viewjob?jk=bf58d49b14583d40) — Unknown
+- 📍 **Location:** Northridge, CA, US
 - 🕒 **Posted:** 2026-08-03
 
-### [Service Coordinator/Case Manager](https://www.indeed.com/viewjob?jk=735aac0b77eab14c) — Kern Regional Center
+### [Case Manager | Clinical Services](https://www.indeed.com/viewjob?jk=e9f34b05ce85793a) — Bakersfield Behavioral Healthcare Hospital
 - 📍 **Location:** Bakersfield, CA, US
-- 💰 **Salary:** $23–$31/hr
+- 💰 **Salary:** $23–$29/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Community Health Worker, Full Time, Day Shift](https://www.indeed.com/viewjob?jk=6bb88107bfe5b452) — Adventist Health
+- 📍 **Location:** Willits, CA, US
+- 💰 **Salary:** $25–$30/hr
+- 🕒 **Posted:** 2026-08-04
+
+### [Case Manager (RN) - Utilization Management](https://www.indeed.com/viewjob?jk=e495d98caab7fc21) — Prime Healthcare Services
+- 📍 **Location:** San Dimas, CA, US
+- 💰 **Salary:** $41–$55/hr
 - 🕒 **Posted:** 2026-08-03
 
-### [Case Manager I](https://www.indeed.com/viewjob?jk=93279170c75cd877) — Tarzana Treatment Centers
-- 📍 **Location:** Woodland Hills, CA, US
-- 💰 **Salary:** $27–$31/hr
+### [Care Manager, Telephonic Nurse](https://www.indeed.com/viewjob?jk=1b2160a54558970c) — CenterWell
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $71k–$98k/yr
 - 🕒 **Posted:** 2026-08-03
+
+### [STD Case Manager](https://www.indeed.com/viewjob?jk=bb076b3c8615985f) — Aflac
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $45k–$65k/yr
+- 🕒 **Posted:** 2026-01-27
