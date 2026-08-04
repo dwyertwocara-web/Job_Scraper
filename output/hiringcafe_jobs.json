@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-03 22:18 UTC",
-  "total": 94,
-  "new_count": 2,
+  "scraped_at": "2026-08-04 00:19 UTC",
+  "total": 92,
+  "new_count": 1,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -82,19 +82,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HOM, INC.",
       "title": "Housing Specialist",
       "location": "Phoenix, Arizona, United States",
@@ -103,6 +90,19 @@
       "date_posted": "2026-07-24T18:35:56.000Z",
       "description": "Knowledge of HUD regulations and fair housing, 1+ year customer service experience, ability to manage large caseloads, proficiency with Microsoft Office 365 and housing software, AZ driver's license and automobile insurance required.",
       "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
+      "salary": "$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -251,19 +251,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "City of Grand Prairie, TX",
-      "title": "Housing Specialist",
-      "location": "Grand Prairie, Texas, United States",
-      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
-      "date_posted": "2026-07-09T14:09:32.398Z",
-      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
-      "salary": "$37k–$57k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Aurora Housing Authority",
       "title": "Housing Specialist",
       "location": "Aurora, Colorado, United States",
@@ -277,14 +264,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Metropolitan Ministries Inc",
+      "company": "City of Grand Prairie, TX",
       "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
+      "location": "Grand Prairie, Texas, United States",
+      "url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "direct_url": "https://www.governmentjobs.com/careers/grandprairietx/jobs/5256447",
+      "date_posted": "2026-07-09T14:09:32.398Z",
+      "description": "Associate's degree or equivalent experience, 1–2 years housing or related experience, valid Texas Class C driver's license, ability with income/rent calculations, reading/writing skills, and customer interaction.",
+      "salary": "$37k–$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -299,6 +286,19 @@
       "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
       "salary": "$78k–$95k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Metropolitan Ministries Inc",
+      "title": "Housing Specialist",
+      "location": "St. Petersburg, Florida, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "date_posted": "2026-07-10T18:57:08.000Z",
+      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
+      "salary": "$43k–$45k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -454,32 +454,6 @@
       "date_posted": "2026-07-20T00:00:00.000Z",
       "description": "Bachelor's preferred; 2 years housing/case management experience (or combination of education/experience); knowledge of housing practices, Microsoft Office proficiency; valid driver's license, TB test, Level One fingerprint clearance; bilingual preferred.",
       "salary": "$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "date_posted": "2026-07-23T22:56:13.000Z",
-      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1228,27 +1202,14 @@
   ],
   "new_jobs": [
     {
-      "company": "San Diego Housing Commission",
+      "company": "Overview",
       "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Sarahs Inn",
-      "title": "Housing Navigator",
-      "location": "Forest Park, Illinois, United States",
-      "url": "https://sarahsinn.bamboohr.com/careers/29",
-      "direct_url": "https://sarahsinn.bamboohr.com/careers/29",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "BA or equivalent experience required; 1+ year advocacy/HMIS/CE experience preferred; valid driver\\u0002s license and vehicle insurance; ability to work evenings/weekends; Spanish fluency preferred.",
-      "salary": "",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
+      "salary": "$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
