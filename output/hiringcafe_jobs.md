@@ -1,38 +1,32 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-05 05:52 UTC*
+*Last updated: 2026-08-05 18:34 UTC*
 
-**7 new role(s)** since last run · 99 total in last 30d
+**6 new role(s)** since last run · 102 total in last 30d
 
-### [Housing Specialist](https://jobs.dayforcehcm.com/en-US/cchrpmc/candidateportal/jobs/11687) — Cchrpmc
-- 📍 **Location:** Denver, Colorado, United States
-- 🕒 **Posted:** 2026-08-04T06:00:00.000Z
+### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1) — Overview
+- 📍 **Location:** Brooklyn, New York, United States
+- 💰 **Salary:** $56k/yr
+- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
+### [Housing Specialist](https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657) — Jbfcs
 - 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
+- 💰 **Salary:** $66k/yr
+- 🕒 **Posted:** 2026-08-05T04:00:00.000Z
 
-### [Housing Navigator](https://careers.pacificclinics.org/jobs/1738?lang=en-us) — Pacific Clinics
-- 📍 **Location:** Sacramento, California, United States
-- 💰 **Salary:** $48k–$59k/yr
-- 🕒 **Posted:** 2026-07-30T01:21:40.000Z
+### [Housing Navigator](https://pm.healthcaresource.com/CS/kcmh/#/job/1492) — Integrated Services of Kalamazoo
+- 📍 **Location:** Kalamazoo, Michigan, United States
+- 💰 **Salary:** $39k–$43k/yr
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
 
-### [Care Coordinator](https://careers.empowerme.com/jobs/22966?lang=en-us) — EmpowerMe Wellness
-- 📍 **Location:** Evanston, Illinois, United States
-- 💰 **Salary:** $35k–$46k/yr
-- 🕒 **Posted:** 2026-08-04T18:37:46.000Z
+### [Care Coordinator](https://jobs.gusto.com/postings/pcp-care-care-coordinator-920a17ba-1eba-4a1e-8362-f1e1f0854b29) — PCP Care
+- 📍 **Location:** Saint Petersburg, Florida, United States
+- 💰 **Salary:** $33k–$48k/yr
+- 🕒 **Posted:** 2026-07-06T21:07:01.129Z
 
-### [Care Coordinator](http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator) — Illumination Health + Home
-- 📍 **Location:** Anaheim, California, United States
-- 💰 **Salary:** $48k–$54k/yr
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+### [Care Coordinator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990) — Innovista Medical Center Texas LLC
+- 📍 **Location:** Willowbrook or Spring or Houston or Dallas
+- 🕒 **Posted:** 2026-08-05T14:02:41.000Z
 
-### [Care Coordinator](https://verawholehealth.wd1.myworkdayjobs.com/mpg/job/Jacksonville-FL/Care-Coordinator_M104462) — Verawholehealth
-- 📍 **Location:** Jacksonville, Florida, United States
-- 💰 **Salary:** $40k–$59k/yr
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
-
-### [Care Coordinator](https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Remote-Illinois/Care-Coordinator_R-424902) — Humana
-- 📍 **Location:** Cook County, Illinois, United States
-- 💰 **Salary:** $59k–$80k/yr
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+### [Social Services Coordinator](https://ibmwjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/25027027) — Brookdale Senior Living Inc.
+- 📍 **Location:** Homewood, Alabama, United States
+- 🕒 **Posted:** 2026-07-27T22:04:47.000Z
