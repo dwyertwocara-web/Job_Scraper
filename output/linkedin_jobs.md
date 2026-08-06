@@ -1,104 +1,63 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-06 04:08 UTC*
+*Last updated: 2026-08-06 05:15 UTC*
 
-**22 new role(s)** since last run · 22 total in last 1h
+**13 new role(s)** since last run · 13 total in last 1h
 
-### [Community Health Worker (Emergency Department)](https://www.linkedin.com/jobs/view/4444726763/) — Cottage Health
-- 📍 **Location:** Santa Barbara, CA
-- 💰 **Salary:** $24.00/hr - $36.00/hr
+### [PHNIX Health Program Manager](https://www.linkedin.com/jobs/view/4449976944/) — UC Davis Health
+- 📍 **Location:** Davis, CA
+- 💰 **Salary:** $10,466.67 - $22,333.33
 - 🕒 **Posted:** 2026-08-06
 
-### [Program Manager, Senior](https://www.linkedin.com/jobs/view/4449316008/) — Blue Shield of California
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $90860.00 to $136290.00
+### [Clinical Case Manager](https://www.linkedin.com/jobs/view/4448085299/) — Vynca
+- 📍 **Location:** Poway, CA
 - 🕒 **Posted:** 2026-08-06
 
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449975701/) — Optum
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $16.00 to $29.00 per hour
+### [Translational Medicine Senior Program Manager](https://www.linkedin.com/jobs/view/4449356771/) — BioSpace
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $150,000 - $180,000 per year
 - 🕒 **Posted:** 2026-08-06
 
-### [Program Manager, HR Technology](https://www.linkedin.com/jobs/view/4449986504/) — Essex Property Trust
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $107,000.00 - $135,000.00 per year
+### [Employment Program Specialist #2025739](https://www.linkedin.com/jobs/view/4448081819/) — World Relief
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $23.00/hr - $25.00/hr
 - 🕒 **Posted:** 2026-08-06
 
-### [Technical Program Manager, Health & Wellness](https://www.linkedin.com/jobs/view/4449975570/) — Meta
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $199,000.00/yr - $272,000.00/yr
+### [Behavioral Health Care Manager](https://www.linkedin.com/jobs/view/4445732882/) — AmeriHealth Caritas
+- 📍 **Location:** Trenton, NJ
 - 🕒 **Posted:** 2026-08-06
 
-### [Clinical Case Manager](https://www.linkedin.com/jobs/view/4448071899/) — DESC (Downtown Emergency Service Center)
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $39.08 - $43.15 per hour
+### [Care Manager - Multiple Openings in FL (BH, LPN, LVN)](https://www.linkedin.com/jobs/view/4382348452/) — Molina Healthcare
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $24 - $46.81
 - 🕒 **Posted:** 2026-08-06
 
-### [Crisis Outreach Care Manager](https://www.linkedin.com/jobs/view/4449984395/) — Horizon Health and Wellness
-- 📍 **Location:** Apache Junction, AZ
+### [Case Manager for Portsmouth](https://www.linkedin.com/jobs/view/4449377021/) — Mahajan Therapeutics
+- 📍 **Location:** Portsmouth, OH
 - 🕒 **Posted:** 2026-08-06
 
-### [Care Coordinator/Social Worker](https://www.linkedin.com/jobs/view/4449970747/) — Optum
-- 📍 **Location:** Waukesha, WI
-- 💰 **Salary:** $49,700 - $88,800 annually
+### [Assistant Residential Program Manager](https://www.linkedin.com/jobs/view/4449357531/) — Ability Beyond
+- 📍 **Location:** Danbury, CT
 - 🕒 **Posted:** 2026-08-06
 
-### [Community Health Worker I](https://www.linkedin.com/jobs/view/4449971432/) — Baylor Scott & White Health
-- 📍 **Location:** Fort Worth, TX
+### [Field Care Manager, LTSS (LVN, LBSW, LMSW only) - Local Travel Required](https://www.linkedin.com/jobs/view/4449358459/) — Molina Healthcare
+- 📍 **Location:** Lancaster, TX
+- 💰 **Salary:** $24 - $46.81
 - 🕒 **Posted:** 2026-08-06
 
-### [Case Manager - Desert Cove](https://www.linkedin.com/jobs/view/4449987330/) — Terros Health
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $17.87/hr - $19.98/hr
+### [Field Care Manager Nurse 2 - BSN](https://www.linkedin.com/jobs/view/4449350935/) — Humana
+- 📍 **Location:** South Carolina, United States
+- 💰 **Salary:** $71,100.00/yr - $97,800.00/yr
 - 🕒 **Posted:** 2026-08-06
 
-### [Case Manager - South Mountain](https://www.linkedin.com/jobs/view/4449982546/) — Terros Health
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $17.87/hr - $19.98/hr
+### [Program Specialist I](https://www.linkedin.com/jobs/view/4449365400/) — Research Compliance Office at the Texas A&M University System
+- 📍 **Location:** Canyon, TX
 - 🕒 **Posted:** 2026-08-06
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4449352804/) — Bedford Stuyvesant Family Health Center
-- 📍 **Location:** Brooklyn, NY
+### [Resident Care Coordinator](https://www.linkedin.com/jobs/view/4449978717/) — Avista Senior Living
+- 📍 **Location:** Peoria, AZ
 - 🕒 **Posted:** 2026-08-06
 
-### [PS Care Coordinator](https://www.linkedin.com/jobs/view/4449971622/) — University of Utah
-- 📍 **Location:** Salt Lake City, UT
-- 🕒 **Posted:** 2026-08-06
-
-### [Nurse Case Manager Lead](https://www.linkedin.com/jobs/view/4427505218/) — Elevance Health
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-08-06
-
-### [Care Coordinator Authorization Scheduling Specialist](https://www.linkedin.com/jobs/view/4449972521/) — Atrium Health
-- 📍 **Location:** Winston-Salem, NC
-- 💰 **Salary:** $20.80 - $31.20
-- 🕒 **Posted:** 2026-08-06
-
-### [Bilingual Case Manager_JOR](https://www.linkedin.com/jobs/view/4449360203/) — National Youth Advocate Program (NYAP)
-- 📍 **Location:** Lawrenceville, GA
-- 🕒 **Posted:** 2026-08-06
-
-### [Care Manager](https://www.linkedin.com/jobs/view/4449984522/) — Lifespan of Greater Rochester
-- 📍 **Location:** Rochester, NY
-- 🕒 **Posted:** 2026-08-06
-
-### [PROGRAM MANAGER, STUDENT ORGANIZATION CONDUCT AND ACCOUNTABILITY](https://www.linkedin.com/jobs/view/4449352762/) — TalentAlly
-- 📍 **Location:** Ann Arbor, MI
-- 🕒 **Posted:** 2026-08-06
-
-### [Rare Cardiac Access Care Manager - Alabama/FL Panhandle](https://www.linkedin.com/jobs/view/4449334883/) — Pfizer
-- 📍 **Location:** Birmingham, AL
-- 💰 **Salary:** $139,100.00 to $231,900.00
-- 🕒 **Posted:** 2026-08-06
-
-### [Rare Cardiac Access Care Manager - Alabama/FL Panhandle](https://www.linkedin.com/jobs/view/4449351486/) — Pfizer
-- 📍 **Location:** Jacksonville, FL
-- 💰 **Salary:** $139,100.00 to $231,900.00
-- 🕒 **Posted:** 2026-08-06
-
-### [Data Analyst, Specialist](https://www.linkedin.com/jobs/view/4449969384/) — Vanguard
-- 📍 **Location:** Malvern, PA
-- 🕒 **Posted:** 2026-08-06
-
-### [Hourly Research Assistant](https://www.linkedin.com/jobs/view/4449978549/) — University of Utah
-- 📍 **Location:** Salt Lake City, UT
+### [Associate Program Manager, Sterility Assurance- Structural Heart](https://www.linkedin.com/jobs/view/4449981811/) — Abbott
+- 📍 **Location:** New Brighton, MN
+- 💰 **Salary:** $78,000.00 – $156,000.00
 - 🕒 **Posted:** 2026-08-06
