@@ -1,19 +1,19 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-08-05 06:29 UTC*
+*Last updated: 2026-08-06 06:32 UTC*
 
 **3 new role(s)** since last run · 3 total in last 24h
 
-### [Clinical Case Manager (CASE MGR NEX)](https://www.linkedin.com/jobs/view/4448847846/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $75.58 - $110.71
-- 🕒 **Posted:** 2026-08-04
+### [PHNIX Health Program Manager](https://www.linkedin.com/jobs/view/4449976944/) — UC Davis Health
+- 📍 **Location:** Davis, CA
+- 💰 **Salary:** $10,466.67 - $22,333.33
+- 🕒 **Posted:** 2026-08-06
 
-### [Program Manager V, Product Research & Analysis](https://www.linkedin.com/jobs/view/4448525076/) — Kaiser Permanente
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $161,800.00/yr - $209,330.00/yr
-- 🕒 **Posted:** 2026-08-04
+### [Care Manager - Multiple Openings in FL (BH, LPN, LVN)](https://www.linkedin.com/jobs/view/4382348452/) — Molina Healthcare
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-08-06
 
-### [Respiratory Care Coordinator II Cystic Fibrosis & Regulatory](https://www.linkedin.com/jobs/view/4448525079/) — Kaiser Permanente
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $48.84/hr - $63.19/hr
-- 🕒 **Posted:** 2026-08-04
+### [Program Manager IV-Community Health](https://www.linkedin.com/jobs/view/4449102732/) — Kaiser Permanente
+- 📍 **Location:** Roseville, CA
+- 💰 **Salary:** $133,100.00/yr - $172,150.00/yr
+- 🕒 **Posted:** 2026-08-05
