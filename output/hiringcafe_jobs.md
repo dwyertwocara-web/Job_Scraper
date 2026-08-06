@@ -1,23 +1,27 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-05 22:23 UTC*
+*Last updated: 2026-08-06 00:12 UTC*
 
-**4 new role(s)** since last run · 100 total in last 30d
+**5 new role(s)** since last run · 101 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
+### [Community Health Worker](https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005) — Evergreen Nephrology
+- 📍 **Location:** United States
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-07-28T15:47:05.000Z
 
-### [Care Coordinator](https://www.evolvedmd.com/careers?gh_jid=4721380005) — evolvedMD
-- 📍 **Location:** Houston, Texas, United States
-- 💰 **Salary:** $50k–$56k/yr
-- 🕒 **Posted:** 2026-08-05T20:46:36.000Z
+### [Care Coordinator](https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076) — Ccf
+- 📍 **Location:** Akron, Ohio, United States
+- 🕒 **Posted:** 2026-07-20T00:00:00.000Z
 
-### [Program Coordinator, OSD](https://cpsk12il.taleo.net/careersection/3/jobdetail.ftl?job=2600021D&lang=en) — Chicago Public Schools
-- 📍 **Location:** Chicago, Illinois, United States
-- 💰 **Salary:** $54k–$78k/yr
-- 🕒 **Posted:** 2026-08-05T10:45:32.000Z
+### [Care Coordinator](https://careers.empowerme.com/jobs/22966?lang=en-us) — EmpowerMe Wellness
+- 📍 **Location:** Evanston, Illinois, United States
+- 💰 **Salary:** $35k–$46k/yr
+- 🕒 **Posted:** 2026-08-04T18:37:46.000Z
 
-### [Program Coordinator, OSD](https://cpsk12il.referrals.selectminds.com/jobs/program-coordinator-osd-58312) — CPS
-- 📍 **Location:** Chicago, Illinois, United States
-- 🕒 **Posted:** 2026-08-05T16:12:47.787Z
+### [Care Coordinator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990) — Innovista Medical Center Texas LLC
+- 📍 **Location:** Willowbrook or Spring or Houston or Dallas
+- 🕒 **Posted:** 2026-08-05T14:02:41.000Z
+
+### [Clinical Program Coordinator](http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator) — Maple Counseling
+- 📍 **Location:** Los Angeles, California, United States
+- 💰 **Salary:** $50k–$58k/yr
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-05 22:23 UTC",
-  "total": 100,
-  "new_count": 4,
+  "scraped_at": "2026-08-06 00:12 UTC",
+  "total": 101,
+  "new_count": 5,
   "jobs": [
     {
       "company": "LaSante Health Center",
@@ -173,19 +173,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Husadayforce",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/14074",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/14074",
-      "date_posted": "2026-08-04T04:00:00.000Z",
-      "description": "High school diploma or equivalent, strong communication and organizational skills, experience in housing placement preferred, computer literacy with Microsoft applications, commitment to mission-driven work.",
-      "salary": "$49k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Olmsted County, MN",
       "title": "Housing Specialist",
       "location": "Rochester, Minnesota, United States",
@@ -194,6 +181,19 @@
       "date_posted": "2026-07-22T22:20:53.000Z",
       "description": "Manage caseloads, determine eligibility, conduct HQS inspections, prepare housing assistance contracts, maintain client records; valid driver’s license required for vehicle use.",
       "salary": "$56k–$94k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Husadayforce",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/14074",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/husadayforce/candidateportal/jobs/14074",
+      "date_posted": "2026-08-04T04:00:00.000Z",
+      "description": "High school diploma or equivalent, strong communication and organizational skills, experience in housing placement preferred, computer literacy with Microsoft applications, commitment to mission-driven work.",
+      "salary": "$49k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -290,19 +290,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Housing Commission",
-      "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Metropolitan Ministries Inc",
       "title": "Housing Specialist",
       "location": "St. Petersburg, Florida, United States",
@@ -312,6 +299,19 @@
       "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
       "salary": "$43k–$45k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "San Diego Housing Commission",
+      "title": "Housing Specialist",
+      "location": "San Diego, California, United States",
+      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "date_posted": "2026-07-30T18:02:04.000Z",
+      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
+      "salary": "$78k–$95k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -446,19 +446,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Path of Life Ministries",
-      "title": "Temp Housing Navigator",
-      "location": "Riverside, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
-      "date_posted": "2026-07-13T18:25:52.000Z",
-      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Father Heart Street Ministry",
       "title": "Medical Housing Navigator",
       "location": "Clackamas County, Oregon, United States",
@@ -468,6 +455,19 @@
       "description": "Coordinates medical and housing assessments, assists with Medicaid-funded housing applications and placements, supports clients at appointments, and documents case notes; experience with medical housing navigation and trauma-informed care preferred.",
       "salary": "$63k–$65k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Path of Life Ministries",
+      "title": "Temp Housing Navigator",
+      "location": "Riverside, California, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4327742",
+      "date_posted": "2026-07-13T18:25:52.000Z",
+      "description": "Provide intensive case management and navigation to secure permanent housing; requires Associate/Bachelor degree in social field, 2+ years case management, valid CA driver's license, DMV-verified driving record, background check, HMIS and MS Office skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -493,32 +493,6 @@
       "date_posted": "2026-07-30T01:21:40.000Z",
       "description": "High school diploma/GED plus 4+ years relevant experience (or equivalent), knowledge of homelessness/housing systems, Motivational Interviewing/trauma-informed/harm-reduction training, CA driver's license or public transit ability, strong communication and documentation skills.",
       "salary": "$48k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "date_posted": "2026-07-23T22:56:13.000Z",
-      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/FSJoMz3YNK/Housing-Navigator",
-      "date_posted": "2026-07-08T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle, high school diploma or equivalent, HMIS and EHR familiarity, Microsoft Office/Teams proficiency, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -719,6 +693,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -766,19 +753,6 @@
       "date_posted": "2026-07-31T00:00:00.000Z",
       "description": "Associates degree in public health/health sciences/social services required (HS considered with >2 years experience). 1 year community/public health experience, CHW certificate preferred, bilingual preferred, Microsoft Office and EMR familiarity.",
       "salary": "$46k–$68k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AIDS Healthcare Foundation",
-      "title": "Community Health Worker",
-      "location": "Houston, Texas, United States",
-      "url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "direct_url": "https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001210196406",
-      "date_posted": "2026-07-24T15:18:16.000Z",
-      "description": "High school diploma required; associate/bachelor's in public health or related preferred; ~3 years related experience or equivalent; outreach, patient engagement, and care navigation experience.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -849,6 +823,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Ccf",
+      "title": "Care Coordinator",
+      "location": "Akron, Ohio, United States",
+      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Brattleboro Memorial Hospital",
       "title": "CARE COORDINATOR",
       "location": "Brattleboro, Vermont, United States",
@@ -914,19 +901,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Lubbock or Lubbock",
-      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "date_posted": "2026-08-05T16:59:46.000Z",
-      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
-      "salary": "$35k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "High Plains Mental Health Center",
       "title": "Care Coordinator",
       "location": "Hays, Kansas, United States",
@@ -940,14 +914,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Harris Center",
+      "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
-      "location": "Pasadena, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "date_posted": "2026-07-10T17:53:29.731Z",
-      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
-      "salary": "$47k–$51k/yr",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "salary": "$35k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -966,27 +940,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
+      "company": "The Harris Center",
       "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brightli",
-      "title": "Care Coordinator",
-      "location": "Indianapolis, Indiana, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
-      "date_posted": "2026-07-13T00:00:00.000Z",
-      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
-      "salary": "",
+      "location": "Pasadena, Texas, United States",
+      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "date_posted": "2026-07-10T17:53:29.731Z",
+      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
+      "salary": "$47k–$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1005,6 +966,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Brightli",
+      "title": "Care Coordinator",
+      "location": "Indianapolis, Indiana, United States",
+      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Indianapolis-IN/Care-Coordinator_R-25215",
+      "date_posted": "2026-07-13T00:00:00.000Z",
+      "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Nevada Behavioral Health / NovumHealth",
       "title": "Embedded Care Coordinator",
       "location": "Las Vegas, Nevada, United States",
@@ -1013,6 +1000,19 @@
       "date_posted": "2026-07-15T21:52:53.000Z",
       "description": "2+ years healthcare or care coordination experience, bachelor\\u0002s degree in nursing/social work/public health required, knowledge of discharge planning, care coordination, documentation, and healthcare policies.",
       "salary": "$48k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Willowbrook or Spring or Houston or Dallas",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
+      "date_posted": "2026-08-05T14:02:41.000Z",
+      "description": "High school diploma required (bachelor's preferred). 3+ years clinical or community resource experience. Bilingual English/Spanish, Excel and EHR experience, care coordination/case management skills.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1302,57 +1302,83 @@
       "job_type": "Contract, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "Maple Counseling",
+      "title": "Clinical Program Coordinator",
+      "location": "Los Angeles, California, United States",
+      "url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
+      "direct_url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 2+ years in administrative or coordinator work, preferably clinical or nonprofit. Requires EHR, Microsoft Office Suite, Google Workspace, HIPAA knowledge, and strong organization and communication.",
+      "salary": "$50k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "evolvedMD",
-      "title": "Care Coordinator",
-      "location": "Houston, Texas, United States",
-      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "date_posted": "2026-08-05T20:46:36.000Z",
-      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
-      "salary": "$50k–$56k/yr",
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": true,
       "ats": "HiringCafe"
     },
     {
-      "company": "Chicago Public Schools",
-      "title": "Program Coordinator, OSD",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://cpsk12il.taleo.net/careersection/3/jobdetail.ftl?job=2600021D&lang=en",
-      "direct_url": "https://cpsk12il.taleo.net/careersection/3/jobdetail.ftl?job=2600021D&lang=en",
-      "date_posted": "2026-08-05T10:45:32.000Z",
-      "description": "Bachelor's degree and 3+ years of relevant program or project management experience in education or nonprofits; project planning, risk management, communication, and multiple-project management skills required.",
-      "salary": "$54k–$78k/yr",
+      "company": "Ccf",
+      "title": "Care Coordinator",
+      "location": "Akron, Ohio, United States",
+      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "CPS",
-      "title": "Program Coordinator, OSD",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://cpsk12il.referrals.selectminds.com/jobs/program-coordinator-osd-58312",
-      "direct_url": "https://cpsk12il.referrals.selectminds.com/jobs/program-coordinator-osd-58312",
-      "date_posted": "2026-08-05T16:12:47.787Z",
-      "description": "Bachelor’s degree and 3+ years of relevant program or project management experience in education or nonprofits. Requires project planning, risk management, metrics analysis, collaboration, communication, and knowledge of IDEA and ADA.",
+      "company": "EmpowerMe Wellness",
+      "title": "Care Coordinator",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "salary": "$35k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Willowbrook or Spring or Houston or Dallas",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
+      "date_posted": "2026-08-05T14:02:41.000Z",
+      "description": "High school diploma required (bachelor's preferred). 3+ years clinical or community resource experience. Bilingual English/Spanish, Excel and EHR experience, care coordination/case management skills.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Maple Counseling",
+      "title": "Clinical Program Coordinator",
+      "location": "Los Angeles, California, United States",
+      "url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
+      "direct_url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 2+ years in administrative or coordinator work, preferably clinical or nonprofit. Requires EHR, Microsoft Office Suite, Google Workspace, HIPAA knowledge, and strong organization and communication.",
+      "salary": "$50k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
