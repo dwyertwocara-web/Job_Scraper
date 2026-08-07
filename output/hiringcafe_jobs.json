@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-07 19:03 UTC",
-  "total": 95,
-  "new_count": 3,
+  "scraped_at": "2026-08-07 20:04 UTC",
+  "total": 96,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -225,19 +225,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Metropolitan Ministries Inc",
-      "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "San Diego Housing Commission",
       "title": "Housing Specialist",
       "location": "San Diego, California, United States",
@@ -247,6 +234,19 @@
       "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
       "salary": "$78k–$95k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Metropolitan Ministries Inc",
+      "title": "Housing Specialist",
+      "location": "St. Petersburg, Florida, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "date_posted": "2026-07-10T18:57:08.000Z",
+      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
+      "salary": "$43k–$45k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -407,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pacific Clinics",
-      "title": "Housing Navigator",
-      "location": "Sacramento, California, United States",
-      "url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
-      "direct_url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
-      "date_posted": "2026-07-30T01:21:40.000Z",
-      "description": "High school diploma/GED plus 4+ years relevant experience (or equivalent), knowledge of homelessness/housing systems, Motivational Interviewing/trauma-informed/harm-reduction training, CA driver's license or public transit ability, strong communication and documentation skills.",
-      "salary": "$48k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Equus",
       "title": "Housing Navigator ",
       "location": "San Diego, California, United States",
@@ -428,19 +415,6 @@
       "date_posted": "2026-07-28T20:00:49.750Z",
       "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
       "salary": "$56k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -602,6 +576,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "NYC Health + Hospitals",
+      "title": "Community Health Worker - Behavioral Health",
+      "location": "Queens, New York, United States",
+      "url": "https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=138078&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=138078&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-08-07T12:00:00.000Z",
+      "description": "Requires 3 years of community, counseling, or community health experience, or equivalent education and experience with at least 1 year required; outreach, communication, documentation, and computer skills.",
+      "salary": "",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Conehealth",
       "title": "Community Health Worker",
       "location": "United States",
@@ -625,6 +612,19 @@
       "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Parklandhospital",
+      "title": "Community Health Worker",
+      "location": "Dallas, Texas, United States",
+      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -680,6 +680,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Connecticut Children's",
+      "title": "Community Health Worker",
+      "location": "Hartford or Connecticut",
+      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "date_posted": "2026-08-07T13:14:17.000Z",
+      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CareVitality Inc",
       "title": "Care Coordinator",
       "location": "Houston, Texas, United States",
@@ -706,19 +719,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ADVENT",
-      "title": "Care Coordinator",
-      "location": "Canton or Chagrin Falls",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
-      "date_posted": "2026-08-06T21:12:37.000Z",
-      "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
-      "salary": "$36k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -727,6 +727,19 @@
       "date_posted": "2026-07-16T14:46:05.000Z",
       "description": "Coordinate care for health home members, arrange appointments, conduct assessments, develop care plans, educate members, document and communicate with providers and families.",
       "salary": "$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ADVENT",
+      "title": "Care Coordinator",
+      "location": "Canton or Chagrin Falls",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
+      "date_posted": "2026-08-06T21:12:37.000Z",
+      "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
+      "salary": "$36k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -758,19 +771,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ccf",
-      "title": "Care Coordinator",
-      "location": "Akron, Ohio, United States",
-      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brattleboro Memorial Hospital",
       "title": "CARE COORDINATOR",
       "location": "Brattleboro, Vermont, United States",
@@ -779,6 +779,19 @@
       "date_posted": "2026-07-13T17:39:32.000Z",
       "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
       "salary": "$52k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ccf",
+      "title": "Care Coordinator",
+      "location": "Akron, Ohio, United States",
+      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -836,14 +849,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "EmpowerMe Wellness",
+      "company": "Fortis Care",
       "title": "Care Coordinator",
-      "location": "Lubbock or Lubbock",
-      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "date_posted": "2026-08-05T16:59:46.000Z",
-      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
-      "salary": "$35k–$46k/yr",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://fortis-care.breezy.hr/p/ec258f508b3f-care-coordinator",
+      "direct_url": "https://fortis-care.breezy.hr/p/ec258f508b3f-care-coordinator",
+      "date_posted": "2026-08-07T13:41:57.664Z",
+      "description": "LPN or MA required; 1–2 years in care coordination or clinical settings; chronic disease knowledge, patient education, documentation, and EHR experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -862,6 +875,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "EmpowerMe Wellness",
+      "title": "Care Coordinator",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "salary": "$35k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Good Shepherd Services",
       "title": "Care Coordinator-Foster Care",
       "location": "Bronx, New York, United States",
@@ -870,19 +896,6 @@
       "date_posted": "2026-08-07T03:00:00.000Z",
       "description": "Bachelor's degree with two years' experience, case or care coordination in social services, and experience serving children and families; child welfare, foster care, or healthcare experience helpful.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "The Harris Center",
-      "title": "Care Coordinator",
-      "location": "Pasadena, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "date_posted": "2026-07-10T17:53:29.731Z",
-      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
-      "salary": "$47k–$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -901,6 +914,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "The Harris Center",
+      "title": "Care Coordinator",
+      "location": "Pasadena, Texas, United States",
+      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
+      "date_posted": "2026-07-10T17:53:29.731Z",
+      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
+      "salary": "$47k–$51k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
       "location": "Farmington or Southfield",
@@ -909,19 +935,6 @@
       "date_posted": "2026-08-06T03:00:00.000Z",
       "description": "High school diploma or GED, relevant care coordination or social services experience, Microsoft Office proficiency, a valid driver's license, reliable transportation, and background check eligibility.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -948,6 +961,19 @@
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1031,16 +1057,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "evolvedMD",
+      "company": "Lri",
       "title": "Care Coordinator",
-      "location": "Houston, Texas, United States",
-      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "date_posted": "2026-08-05T20:46:36.000Z",
-      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
-      "salary": "$50k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
+      "location": "Amarillo, Texas, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/lri/candidateportal/jobs/109738",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/lri/candidateportal/jobs/109738",
+      "date_posted": "2026-08-04T04:00:00.000Z",
+      "description": "Bachelor's degree plus 2 years working with multi-need youth and families (or master's with 1 year post-grad); valid Texas driver’s license and reliable transportation; EHR documentation and care coordination experience.",
+      "salary": "$50k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1057,29 +1083,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Lri",
+      "company": "evolvedMD",
       "title": "Care Coordinator",
-      "location": "Amarillo, Texas, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/lri/candidateportal/jobs/109738",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/lri/candidateportal/jobs/109738",
-      "date_posted": "2026-08-04T04:00:00.000Z",
-      "description": "Bachelor's degree plus 2 years working with multi-need youth and families (or master's with 1 year post-grad); valid Texas driver’s license and reliable transportation; EHR documentation and care coordination experience.",
-      "salary": "$50k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "GRMC",
-      "title": "Care Management - Care Coordinator",
-      "location": "Dededo, Guam, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/grmc/candidateportal/jobs/6545",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/grmc/candidateportal/jobs/6545",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Healthcare professional with a health science or equivalent degree and 3–5 years of care coordination or clinical experience; nursing or social work degree preferred.",
-      "salary": "",
+      "location": "Houston, Texas, United States",
+      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "date_posted": "2026-08-05T20:46:36.000Z",
+      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
+      "salary": "$50k–$56k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1241,14 +1254,53 @@
   ],
   "new_jobs": [
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
+      "company": "NYC Health + Hospitals",
+      "title": "Community Health Worker - Behavioral Health",
+      "location": "Queens, New York, United States",
+      "url": "https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=138078&PostingSeq=1&SiteId=1",
+      "direct_url": "https://careers.nychhc.org/psc/hrtam/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&FOCUS=Applicant&JobOpeningId=138078&PostingSeq=1&SiteId=1",
+      "date_posted": "2026-08-07T12:00:00.000Z",
+      "description": "Requires 3 years of community, counseling, or community health experience, or equivalent education and experience with at least 1 year required; outreach, communication, documentation, and computer skills.",
+      "salary": "",
+      "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Parklandhospital",
+      "title": "Community Health Worker",
+      "location": "Dallas, Texas, United States",
+      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Connecticut Children's",
+      "title": "Community Health Worker",
+      "location": "Hartford or Connecticut",
+      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "date_posted": "2026-08-07T13:14:17.000Z",
+      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fortis Care",
+      "title": "Care Coordinator",
+      "location": "Atlanta, Georgia, United States",
+      "url": "https://fortis-care.breezy.hr/p/ec258f508b3f-care-coordinator",
+      "direct_url": "https://fortis-care.breezy.hr/p/ec258f508b3f-care-coordinator",
+      "date_posted": "2026-08-07T13:41:57.664Z",
+      "description": "LPN or MA required; 1–2 years in care coordination or clinical settings; chronic disease knowledge, patient education, documentation, and EHR experience preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1256,25 +1308,12 @@
     {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
-      "location": "Lubbock or Lubbock",
-      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "date_posted": "2026-08-05T16:59:46.000Z",
-      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
       "salary": "$35k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Good Shepherd Services",
-      "title": "Care Coordinator-Foster Care",
-      "location": "Bronx, New York, United States",
-      "url": "https://goodshepherds.hrmdirect.com/employment/job-opening.php?req=3781713&req_loc=1422188",
-      "direct_url": "https://goodshepherds.hrmdirect.com/employment/job-opening.php?req=3781713&req_loc=1422188",
-      "date_posted": "2026-08-07T03:00:00.000Z",
-      "description": "Bachelor's degree with two years' experience, case or care coordination in social services, and experience serving children and families; child welfare, foster care, or healthcare experience helpful.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
