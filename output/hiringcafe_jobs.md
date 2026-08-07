@@ -1,17 +1,18 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-07 18:04 UTC*
+*Last updated: 2026-08-07 19:03 UTC*
 
-**3 new role(s)** since last run · 94 total in last 30d
+**3 new role(s)** since last run · 95 total in last 30d
 
-### [Housing Specialist](https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1) — S:US
-- 📍 **Location:** Amityville, New York, United States
-- 💰 **Salary:** $45k–$55k/yr
-- 🕒 **Posted:** 2026-08-06T04:00:00.000Z
-
-### [Community Health Worker](https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710) — Parklandhospital
-- 📍 **Location:** Dallas, Texas, United States
-- 🕒 **Posted:** 2026-07-17T00:00:00.000Z
-
-### [Care Management - Care Coordinator](https://jobs.dayforcehcm.com/en-US/grmc/candidateportal/jobs/6545) — GRMC
-- 📍 **Location:** Dededo, Guam, United States
+### [Housing Navigator](https://caowash.applicantpro.com/jobs/4169536) — Community Action Organization
+- 📍 **Location:** Hillsboro or Beaverton or Washington County
+- 💰 **Salary:** $48k–$52k/yr
 - 🕒 **Posted:** 2026-08-05T00:00:00.000Z
+
+### [Care Coordinator](https://careers.empowerme.com/jobs/22981?lang=en-us) — EmpowerMe Wellness
+- 📍 **Location:** Lubbock or Lubbock
+- 💰 **Salary:** $35k–$46k/yr
+- 🕒 **Posted:** 2026-08-05T16:59:46.000Z
+
+### [Care Coordinator-Foster Care](https://goodshepherds.hrmdirect.com/employment/job-opening.php?req=3781713&req_loc=1422188) — Good Shepherd Services
+- 📍 **Location:** Bronx, New York, United States
+- 🕒 **Posted:** 2026-08-07T03:00:00.000Z
