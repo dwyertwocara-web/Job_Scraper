@@ -1,117 +1,95 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-08 18:21 UTC*
+*Last updated: 2026-08-08 19:28 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Pediatric Community Health Worker](https://www.linkedin.com/jobs/view/4441371206/) — Health Plan of San Mateo (HPSM)
-- 📍 **Location:** South San Francisco, CA
-- 🕒 **Posted:** 2026-08-08
-
-### [Home Care Coordinator Supervisor](https://www.linkedin.com/jobs/view/4450914530/) — WelbeHealth
-- 📍 **Location:** Carson, CA
-- 💰 **Salary:** $74,612.76—$98,488.84 USD
-- 🕒 **Posted:** 2026-08-08
-
-### [Program Manager, Broker Management](https://www.linkedin.com/jobs/view/4442179488/) — CalOptima
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $77,863 - $124,581
-- 🕒 **Posted:** 2026-08-08
-
-### [Deputy Clerk of the Board (Program Manager)](https://www.linkedin.com/jobs/view/4442185191/) — CalOptima
-- 📍 **Location:** Orange, CA
-- 💰 **Salary:** $77,863 - $124,581
-- 🕒 **Posted:** 2026-08-08
-
-### [RN Case Manager - Value Based Service Organization - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4451095162/) — University of Southern California
+### [Quality Patient Safety Program Manager Licensed](https://www.linkedin.com/jobs/view/4439291886/) — Dignity Health
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $22.00 – $34.18
+- 💰 **Salary:** $62.97 - $93.67 /hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Manager - Education](https://www.linkedin.com/jobs/view/4411197525/) — STV
+### [TikTok Local Services - Merchant & Listings Governance Program Manager](https://www.linkedin.com/jobs/view/4450910643/) — TikTok
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $143,435.23 - $163,925.98
+- 💰 **Salary:** $70304 - $121600 annually
 - 🕒 **Posted:** 2026-08-08
 
-### [Day Program Specialist](https://www.linkedin.com/jobs/view/4449261456/) — Goodwill Greater Milwaukee & Chicago
-- 📍 **Location:** Wauwatosa, WI
+### [GSOC Response & Policy Program Specialist](https://www.linkedin.com/jobs/view/4451090489/) — Bessemer Venture Partners India
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $180,000 - $230,000 USD
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager II-CSBG](https://www.linkedin.com/jobs/view/4451097193/) — Sunbelt Human Advancement Resources (SHARE)
-- 📍 **Location:** Greenville, SC
+### [Program Coordinator, Center for Leadership & Civic Engagement](https://www.linkedin.com/jobs/view/4451079848/) — Grow in Greenville, NC
+- 📍 **Location:** Greenville, NC
+- 💰 **Salary:** $45,000 - $50,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Community Based Care Coordinator I - R10259-16](https://www.linkedin.com/jobs/view/4396760713/) — CareSource
-- 📍 **Location:** Hot Springs, AR
-- 💰 **Salary:** $37,080.00 - $59,400.00
+### [Care Manager](https://www.linkedin.com/jobs/view/4450929138/) — Western Connecticut Area Agency on Aging
+- 📍 **Location:** Waterbury, CT
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Care Coordinator - Hybrid](https://www.linkedin.com/jobs/view/4451084638/) — Epicured
-- 📍 **Location:** Glen Cove, NY
-- 💰 **Salary:** $21.00/hr - $23.00/hr
+### [Care Manager (RN) - Discharge Planning](https://www.linkedin.com/jobs/view/4450922347/) — MaineHealth
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $85,969.73 to $127,746.53 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Social Services Case Manager - Outpatient Behavioral Health - FT - Days - MRH](https://www.linkedin.com/jobs/view/4414490851/) — Memorial Healthcare System
-- 📍 **Location:** Hollywood, FL
+### [Case Manager Social Worker - LMSW](https://www.linkedin.com/jobs/view/4451080861/) — LifeBridge Health
+- 📍 **Location:** Westminster, MD
+- 💰 **Salary:** $29.00-$47.91
 - 🕒 **Posted:** 2026-08-08
 
-### [Community Based Care Coordinator I - R10259-14](https://www.linkedin.com/jobs/view/4396774055/) — CareSource
-- 📍 **Location:** Paragould, AR
-- 💰 **Salary:** $37,080.00 - $59,400.00
+### [Case Manager – Concord Counseling Services: Westerville, OH](https://www.linkedin.com/jobs/view/4451080945/) — The Ohio Council of Behavioral Health & Family Services Providers
+- 📍 **Location:** Westerville, OH
 - 🕒 **Posted:** 2026-08-08
 
-### [Health Equity Program Manager](https://www.linkedin.com/jobs/view/4434059672/) — Beth Israel Lahey Health
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $79,997.00 USD - $119,995.00 USD
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4449268469/) — UnitedHealth Group
+- 📍 **Location:** Moses Lake, WA
+- 💰 **Salary:** $79,600 to $119,400 annually
 - 🕒 **Posted:** 2026-08-08
 
-### [Adult Case Manager](https://www.linkedin.com/jobs/view/4311309303/) — PATH (People Acting to Help), Inc.
-- 📍 **Location:** Philadelphia, PA
+### [Case Manager RN Cottonwood,](https://www.linkedin.com/jobs/view/4449261550/) — UnitedHealth Group
+- 📍 **Location:** Cottonwood, AZ
+- 💰 **Salary:** $85,196 to $127,794 annually
 - 🕒 **Posted:** 2026-08-08
 
-### [Care Coordinator- Grand Central](https://www.linkedin.com/jobs/view/4127598934/) — Spear Physical Therapy
-- 📍 **Location:** New York City Metropolitan Area
-- 💰 **Salary:** $16.00/hr - $22.00/hr
+### [Care Manager, LTSS (BH Licensed) - LSW](https://www.linkedin.com/jobs/view/4441922605/) — Molina Healthcare
+- 📍 **Location:** Ohio, United States
+- 💰 **Salary:** $26.41 - $51.49
 - 🕒 **Posted:** 2026-08-08
 
-### [Hybrid RN Care Manager -$5k SIGN ON BONUS - R13183-5](https://www.linkedin.com/jobs/view/4439298425/) — Commonwealth Care Alliance
-- 📍 **Location:** Attleboro, MA
-- 💰 **Salary:** $80,000 - $120,000
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4420729886/) — NVA General Practice
+- 📍 **Location:** Wichita, KS
 - 🕒 **Posted:** 2026-08-08
 
-### [Hybrid RN Care Manager - Western, MA - $5K SIGN ON BONUS! - R13254-3](https://www.linkedin.com/jobs/view/4439601383/) — Commonwealth Care Alliance
-- 📍 **Location:** Springfield, MA
-- 💰 **Salary:** $80,000 - $120,000
+### [Social Worker, Housing Specialist – Concord Counseling Services: Westerville, OH](https://www.linkedin.com/jobs/view/4451091546/) — The Ohio Council of Behavioral Health & Family Services Providers
+- 📍 **Location:** Westerville, OH
 - 🕒 **Posted:** 2026-08-08
 
-### [Care Coordinator- Williamsburg (Grand St)](https://www.linkedin.com/jobs/view/4442421370/) — Spear Physical Therapy
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $18.00/hr - $18.00/hr
+### [Clinical Program Coordinator II - Anesthesiology](https://www.linkedin.com/jobs/view/4434017638/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-08-08
 
-### [Vital Records Program Manager](https://www.linkedin.com/jobs/view/4449267367/) — Navajo County
-- 📍 **Location:** Holbrook, AZ
+### [Education Program Coordinator II - Hematology Oncology](https://www.linkedin.com/jobs/view/4423545794/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-08-08
 
-### [Hybrid RN Care Manager - Greater Boston - $5K SIGN ON BONUS! - R13242-7](https://www.linkedin.com/jobs/view/4439604183/) — Commonwealth Care Alliance
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $80,000 - $120,000
+### [Program Manager](https://www.linkedin.com/jobs/view/4441377504/) — Lenovo
+- 📍 **Location:** Whitsett, NC
 - 🕒 **Posted:** 2026-08-08
 
-### [Hybrid RN Care Manager - Greater Boston - $5K SIGN ON BONUS! - R13242-8](https://www.linkedin.com/jobs/view/4439602273/) — Commonwealth Care Alliance
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $80,000 - $120,000
+### [Care Manager Assistant](https://www.linkedin.com/jobs/view/4450908934/) — Western Connecticut Area Agency on Aging
+- 📍 **Location:** Waterbury, CT
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4414224856/) — Real Chemistry
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $55,000-$60,000
+### [Program & Data Analyst - Navy Yard, Washington, D.C.](https://www.linkedin.com/jobs/view/4451079847/) — Serco
+- 📍 **Location:** Virginia, United States
 - 🕒 **Posted:** 2026-08-08
 
-### [Research Assistant - Neurology - Hu & Li Lab](https://www.linkedin.com/jobs/view/4364757515/) — Houston Methodist
-- 📍 **Location:** Houston, TX
+### [Program Manager](https://www.linkedin.com/jobs/view/4441348447/) — Tanium
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $144,000 to $216,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Research Assistant I - Fagiolini Lab](https://www.linkedin.com/jobs/view/4442188313/) — Boston Children's Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $44,657.60/yr - $69,773.60/yr
+### [Process Improvement Program Manager - Staff](https://www.linkedin.com/jobs/view/4439271736/) — MultiCare Health System
+- 📍 **Location:** Tacoma, WA
+- 💰 **Salary:** $101,545.60 - $146,140.80 USD
 - 🕒 **Posted:** 2026-08-08
