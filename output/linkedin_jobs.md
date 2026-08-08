@@ -1,132 +1,117 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-08 16:17 UTC*
+*Last updated: 2026-08-08 18:21 UTC*
 
-**29 new role(s)** since last run · 29 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [Program Manager, Acquisition Operations](https://www.linkedin.com/jobs/view/4439263353/) — Superhuman
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $106,000.00/yr - $163,000.00/yr
+### [Pediatric Community Health Worker](https://www.linkedin.com/jobs/view/4441371206/) — Health Plan of San Mateo (HPSM)
+- 📍 **Location:** South San Francisco, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Senior Technical Program Manager - Confluent (Remote)](https://www.linkedin.com/jobs/view/4420149244/) — IBM
-- 📍 **Location:** Research Park, CA
-- 💰 **Salary:** $96,000.00/yr - $179,000.00/yr
+### [Home Care Coordinator Supervisor](https://www.linkedin.com/jobs/view/4450914530/) — WelbeHealth
+- 📍 **Location:** Carson, CA
+- 💰 **Salary:** $74,612.76—$98,488.84 USD
 - 🕒 **Posted:** 2026-08-08
 
-### [Device Technical Program Manager](https://www.linkedin.com/jobs/view/4449259385/) — Meta
-- 📍 **Location:** Burlingame, CA
-- 💰 **Salary:** $199,000.00/yr - $272,000.00/yr
+### [Program Manager, Broker Management](https://www.linkedin.com/jobs/view/4442179488/) — CalOptima
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $77,863 - $124,581
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Manager, MSL Events](https://www.linkedin.com/jobs/view/4449267186/) — Meta
-- 📍 **Location:** Menlo Park, CA
-- 💰 **Salary:** $145,000.00/yr - $205,000.00/yr
+### [Deputy Clerk of the Board (Program Manager)](https://www.linkedin.com/jobs/view/4442185191/) — CalOptima
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $77,863 - $124,581
 - 🕒 **Posted:** 2026-08-08
 
-### [Senior Program Manager](https://www.linkedin.com/jobs/view/4442173962/) — MasTec Power Delivery
-- 📍 **Location:** Oakland, CA
-- 💰 **Salary:** $77.33- $97.39
+### [RN Case Manager - Value Based Service Organization - Full Time 8 Hour Days (Non-Exempt) (Non-Union)](https://www.linkedin.com/jobs/view/4451095162/) — University of Southern California
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $22.00 – $34.18
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager LTFC](https://www.linkedin.com/jobs/view/4442415912/) — Holy Family Institute
-- 📍 **Location:** Moon, PA
+### [Program Manager - Education](https://www.linkedin.com/jobs/view/4411197525/) — STV
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $143,435.23 - $163,925.98
 - 🕒 **Posted:** 2026-08-08
 
-### [GRANTS COORDINATOR](https://www.linkedin.com/jobs/view/4449761017/) — Cooper University Health Care
-- 📍 **Location:** Camden, NJ
+### [Day Program Specialist](https://www.linkedin.com/jobs/view/4449261456/) — Goodwill Greater Milwaukee & Chicago
+- 📍 **Location:** Wauwatosa, WI
 - 🕒 **Posted:** 2026-08-08
 
-### [Litigation Case Manager](https://www.linkedin.com/jobs/view/4414650154/) — Newrez
+### [Case Manager II-CSBG](https://www.linkedin.com/jobs/view/4451097193/) — Sunbelt Human Advancement Resources (SHARE)
 - 📍 **Location:** Greenville, SC
 - 🕒 **Posted:** 2026-08-08
 
-### [In-house Family Care Coordinator](https://www.linkedin.com/jobs/view/4444373234/) — DCI Donor Services, Inc.
-- 📍 **Location:** Albuquerque, NM
+### [Community Based Care Coordinator I - R10259-16](https://www.linkedin.com/jobs/view/4396760713/) — CareSource
+- 📍 **Location:** Hot Springs, AR
+- 💰 **Salary:** $37,080.00 - $59,400.00
 - 🕒 **Posted:** 2026-08-08
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4428862725/) — Jewish Board of Family and Children's Services
-- 📍 **Location:** Bronx, NY
+### [Social Care Coordinator - Hybrid](https://www.linkedin.com/jobs/view/4451084638/) — Epicured
+- 📍 **Location:** Glen Cove, NY
+- 💰 **Salary:** $21.00/hr - $23.00/hr
 - 🕒 **Posted:** 2026-08-08
 
-### [Community Health Worker - DSNP (Honolulu)](https://www.linkedin.com/jobs/view/4442464073/) — HMSA
-- 📍 **Location:** Honolulu, HI
-- 💰 **Salary:** $47,500 - $88,000
+### [Social Services Case Manager - Outpatient Behavioral Health - FT - Days - MRH](https://www.linkedin.com/jobs/view/4414490851/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
 - 🕒 **Posted:** 2026-08-08
 
-### [COMMUNITY OUTREACH COORDINATOR](https://www.linkedin.com/jobs/view/4450906523/) — Cooper University Health Care
-- 📍 **Location:** Camden, NJ
+### [Community Based Care Coordinator I - R10259-14](https://www.linkedin.com/jobs/view/4396774055/) — CareSource
+- 📍 **Location:** Paragould, AR
+- 💰 **Salary:** $37,080.00 - $59,400.00
 - 🕒 **Posted:** 2026-08-08
 
-### [CHILD AND YOUTH CARE MANAGER](https://www.linkedin.com/jobs/view/4451096007/) — RISE Housing and Support Services
-- 📍 **Location:** Indiana, United States
+### [Health Equity Program Manager](https://www.linkedin.com/jobs/view/4434059672/) — Beth Israel Lahey Health
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $79,997.00 USD - $119,995.00 USD
 - 🕒 **Posted:** 2026-08-08
 
-### [ADULT CARE MANAGER](https://www.linkedin.com/jobs/view/4451077760/) — RISE Housing and Support Services
-- 📍 **Location:** Indiana, United States
+### [Adult Case Manager](https://www.linkedin.com/jobs/view/4311309303/) — PATH (People Acting to Help), Inc.
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-08-08
 
-### [Senior Vocational Case Manager](https://www.linkedin.com/jobs/view/4450911258/) — NADAP
-- 📍 **Location:** Hempstead, NY
+### [Care Coordinator- Grand Central](https://www.linkedin.com/jobs/view/4127598934/) — Spear Physical Therapy
+- 📍 **Location:** New York City Metropolitan Area
+- 💰 **Salary:** $16.00/hr - $22.00/hr
 - 🕒 **Posted:** 2026-08-08
 
-### [Community Outreach Coordinator](https://www.linkedin.com/jobs/view/4429431194/) — Ascension
-- 📍 **Location:** Austin, TX
-- 💰 **Salary:** $24.87-$33.64 per hour
+### [Hybrid RN Care Manager -$5k SIGN ON BONUS - R13183-5](https://www.linkedin.com/jobs/view/4439298425/) — Commonwealth Care Alliance
+- 📍 **Location:** Attleboro, MA
+- 💰 **Salary:** $80,000 - $120,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Mental Health Case Manager](https://www.linkedin.com/jobs/view/4345827609/) — Greater Cincinnati Behavioral Health Services
-- 📍 **Location:** Amelia, OH
+### [Hybrid RN Care Manager - Western, MA - $5K SIGN ON BONUS! - R13254-3](https://www.linkedin.com/jobs/view/4439601383/) — Commonwealth Care Alliance
+- 📍 **Location:** Springfield, MA
+- 💰 **Salary:** $80,000 - $120,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Sr Medical Case Manager](https://www.linkedin.com/jobs/view/4423061289/) — Crawford & Company
-- 📍 **Location:** Lubbock, TX
+### [Care Coordinator- Williamsburg (Grand St)](https://www.linkedin.com/jobs/view/4442421370/) — Spear Physical Therapy
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $18.00/hr - $18.00/hr
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager Occupational Therapy (Full Time, Days, Southside Home Health, Farmville, VA)](https://www.linkedin.com/jobs/view/4378851412/) — Centra Health
-- 📍 **Location:** Farmville, VA
-- 💰 **Salary:** $74,393.00 - $111,590.00
+### [Vital Records Program Manager](https://www.linkedin.com/jobs/view/4449267367/) — Navajo County
+- 📍 **Location:** Holbrook, AZ
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager (RN)](https://www.linkedin.com/jobs/view/4451079579/) — Luminis Health
-- 📍 **Location:** Annapolis, MD
-- 💰 **Salary:** $35—$50 USD
+### [Hybrid RN Care Manager - Greater Boston - $5K SIGN ON BONUS! - R13242-7](https://www.linkedin.com/jobs/view/4439604183/) — Commonwealth Care Alliance
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $80,000 - $120,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Judicial Case Manager I This position is EXEMPT from the State of Delaware Merit System](https://www.linkedin.com/jobs/view/4450921007/) — State of Delaware
-- 📍 **Location:** Delaware, United States
+### [Hybrid RN Care Manager - Greater Boston - $5K SIGN ON BONUS! - R13242-8](https://www.linkedin.com/jobs/view/4439602273/) — Commonwealth Care Alliance
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $80,000 - $120,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator II, STEP UP  Monroe Community College](https://www.linkedin.com/jobs/view/4450919126/) — Monroe Community College
-- 📍 **Location:** Rochester, NY
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4414224856/) — Real Chemistry
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $55,000-$60,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Education Program Specialist](https://www.linkedin.com/jobs/view/4450918142/) — The Buffalo Zoo
-- 📍 **Location:** Buffalo, NY
+### [Research Assistant - Neurology - Hu & Li Lab](https://www.linkedin.com/jobs/view/4364757515/) — Houston Methodist
+- 📍 **Location:** Houston, TX
 - 🕒 **Posted:** 2026-08-08
 
-### [Associate Case Manager](https://www.linkedin.com/jobs/view/4362326269/) — Greater Cincinnati Behavioral Health Services
-- 📍 **Location:** Cincinnati, OH
-- 💰 **Salary:** $17.11/hr - $17.11/hr
-- 🕒 **Posted:** 2026-08-08
-
-### [Youth Program Specialist-YRTC-Kearney](https://www.linkedin.com/jobs/view/4414963964/) — Nebraska Department of Health and Human Services
-- 📍 **Location:** Kearney, NE
-- 🕒 **Posted:** 2026-08-08
-
-### [RN Case Manager (Full-Time) - Case Management](https://www.linkedin.com/jobs/view/4441315499/) — McLeod Health
-- 📍 **Location:** South Carolina, United States
-- 🕒 **Posted:** 2026-08-08
-
-### [Treatment Care Coordinator](https://www.linkedin.com/jobs/view/4423541245/) — Smile Brands Inc.
-- 📍 **Location:** Stafford, VA
-- 🕒 **Posted:** 2026-08-08
-
-### [Maintenance Program Specialist](https://www.linkedin.com/jobs/view/4441322455/) — Constellation
-- 📍 **Location:** Delta, PA
-- 💰 **Salary:** $95,400 to $106,000,
-- 🕒 **Posted:** 2026-08-08
-
-### [Sr Development Coordinator, Foundation - Administration. FT, 09A-5:30P](https://www.linkedin.com/jobs/view/4451088160/) — Baptist Health
-- 📍 **Location:** Coral Gables, FL
-- 💰 **Salary:** $23.21 - $29.48
+### [Research Assistant I - Fagiolini Lab](https://www.linkedin.com/jobs/view/4442188313/) — Boston Children's Hospital
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $44,657.60/yr - $69,773.60/yr
 - 🕒 **Posted:** 2026-08-08
