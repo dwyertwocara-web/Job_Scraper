@@ -1,163 +1,123 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-08 02:54 UTC*
+*Last updated: 2026-08-08 05:27 UTC*
 
-**36 new role(s)** since last run · 36 total in last 1h
+**26 new role(s)** since last run · 26 total in last 1h
 
-### [Early Psychosis SEES and Case Manager Training Lead](https://www.linkedin.com/jobs/view/4450516687/) — University of California, Davis
+### [Early Psychosis SEES and Case Manager Training Lead](https://www.linkedin.com/jobs/view/4451035679/) — UC Davis Health
 - 📍 **Location:** Sacramento, CA
 - 💰 **Salary:** $2,800.00-$4,996.55
 - 🕒 **Posted:** 2026-08-08
 
-### [Shelter Case Manager (Full-Time)](https://www.linkedin.com/jobs/view/4451023312/) — Covenant House California
-- 📍 **Location:** Oakland, CA
+### [RN, Case Manager, Home Health - Yolo County](https://www.linkedin.com/jobs/view/4450579288/) — Sutter Health
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $71.18 to $99.65
 - 🕒 **Posted:** 2026-08-08
 
-### [Customer Care Manager](https://www.linkedin.com/jobs/view/4450521822/) — Thomas James Homes
-- 📍 **Location:** Redwood City, CA
-- 💰 **Salary:** $105,000.00/yr - $132,000.00/yr
+### [Care Manager/Care Navigator](https://www.linkedin.com/jobs/view/4451053086/) — Master•Care, Inc.
+- 📍 **Location:** Bakersfield, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Clinical Case Manager Therapist for DMH Homeless Mental Health Services ASW AMFT APCC](https://www.linkedin.com/jobs/view/4450532311/) — Mental Health America of Los Angeles
-- 📍 **Location:** Lancaster, CA
-- 💰 **Salary:** $34.00 - $34.50 per hour
+### [Care Manager/Care Navigator](https://www.linkedin.com/jobs/view/4451037661/) — Master•Care, Inc.
+- 📍 **Location:** Fresno County, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Medication Care Manager](https://www.linkedin.com/jobs/view/4451025553/) — Aegis Living
-- 📍 **Location:** Los Angeles Metropolitan Area
+### [Assistant Program Manager for Veteran Mental Health Services](https://www.linkedin.com/jobs/view/4450563761/) — Mental Health America of Los Angeles
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $35.00 - $36.00 per hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Data Coordinator](https://www.linkedin.com/jobs/view/4450522666/) — CHIRLA
-- 📍 **Location:** Compton, CA
-- 🕒 **Posted:** 2026-08-08
-
-### [Grant Writing & Development Coordinator](https://www.linkedin.com/jobs/view/4450526593/) — HDM
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 🕒 **Posted:** 2026-08-08
-
-### [Autism Program Specialist II ALD (1 year term with full benefits)](https://www.linkedin.com/jobs/view/4441007248/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-08
-
-### [GSOC Response & Policy Program Specialist](https://www.linkedin.com/jobs/view/4450530234/) — Anthropic
+### [Care Manager - ECM, SF](https://www.linkedin.com/jobs/view/4450582059/) — HealthRIGHT 360
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $180,000—$230,000 USD
 - 🕒 **Posted:** 2026-08-08
 
-### [ReStart Family Stabilization Program - Case Manager](https://www.linkedin.com/jobs/view/4451014765/) — Volunteers of America Northern California and Northern Nevada
-- 📍 **Location:** Reno, NV
-- 💰 **Salary:** USD $25.75 - USD $25.75 /Hr
+### [Care Manager/Care Navigator](https://www.linkedin.com/jobs/view/4451031833/) — Master•Care, Inc.
+- 📍 **Location:** Los Angeles County, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Housing Stabilization Case Manager - LaGrange](https://www.linkedin.com/jobs/view/4450520720/) — St. Francis House
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $24.23 - $26.66 per hour
+### [SCI - Program Manager (Hybrid)](https://www.linkedin.com/jobs/view/4450784407/) — Stanford University
+- 📍 **Location:** Stanford, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Peer Program Specialist, Queens Treatment Apartment (QTA)](https://www.linkedin.com/jobs/view/4450516890/) — ACMH, INC.
-- 📍 **Location:** Queens, NY
+### [Support Program Manager, Partnerships](https://www.linkedin.com/jobs/view/4451048344/) — OpenAI
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $216,000.00/yr - $240,000.00/yr
 - 🕒 **Posted:** 2026-08-08
 
-### [Criminal Justice Case Manager](https://www.linkedin.com/jobs/view/4450525647/) — Zepf Center
-- 📍 **Location:** Toledo, OH
+### [Program Manager, Senior](https://www.linkedin.com/jobs/view/4449316008/) — Blue Shield of California
+- 📍 **Location:** California, United States
+- 💰 **Salary:** $90860.00 to $136290.00
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager ase Management| Day- Varies| Full Time](https://www.linkedin.com/jobs/view/4451008952/) — UF Health
-- 📍 **Location:** Lady Lake, FL
+### [Senior Compensation Program Manager, Pay Strategy & Compliance](https://www.linkedin.com/jobs/view/4451043450/) — Adobe
+- 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $147,900 - $214,200
 - 🕒 **Posted:** 2026-08-08
 
-### [Hospice Patient Care Coordinator](https://www.linkedin.com/jobs/view/4451025495/) — Agrace
-- 📍 **Location:** Madison, WI
+### [Case Manager (Briarwood Family Residence)](https://www.linkedin.com/jobs/view/4451043395/) — The Salvation Army
+- 📍 **Location:** Jamaica, NY
 - 🕒 **Posted:** 2026-08-08
 
-### [Behavioral Health Case Manager II - Inpatient](https://www.linkedin.com/jobs/view/4450531178/) — Oklahoma Department of Mental Health and Substance Abuse Services
-- 📍 **Location:** Lawton, OK
+### [Program Coordinator - Hope Station](https://www.linkedin.com/jobs/view/4451049204/) — Carlisle Area Chamber of Commerce
+- 📍 **Location:** Carlisle, PA
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4449787559/) — Community Bridges
-- 📍 **Location:** Mesa, AZ
+### [Medical Field Case Manager](https://www.linkedin.com/jobs/view/4451049360/) — Enlyte
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $70,600 - $80,000 annually
 - 🕒 **Posted:** 2026-08-08
 
-### [Case Manager - full- time - 2nd shift - Sun - Thurs](https://www.linkedin.com/jobs/view/4439339670/) — Community Mental Health Affiliates, Inc. (CMHA)
-- 📍 **Location:** New Britain, CT
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4451046300/) — Sevita
+- 📍 **Location:** San Angelo, TX
 - 🕒 **Posted:** 2026-08-08
 
-### [Front Desk Patient Care Coordinator FTE](https://www.linkedin.com/jobs/view/4450527578/) — Reborn Pelvic Health & Wellness
-- 📍 **Location:** Lehi, UT
+### [Patient Care Coordinator III](https://www.linkedin.com/jobs/view/4451034727/) — Inova Health
+- 📍 **Location:** Falls Church, VA
 - 🕒 **Posted:** 2026-08-08
 
-### [Patient Care Manager, RN / Home Health](https://www.linkedin.com/jobs/view/4450525651/) — AccentCare
-- 📍 **Location:** Athens, TN
-- 💰 **Salary:** $80,000 - $90,000
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4450581248/) — Keplr Vision
+- 📍 **Location:** Munster, IN
+- 💰 **Salary:** $14-$20/hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Nurse Care Manager](https://www.linkedin.com/jobs/view/4450528450/) — AlphaZeta Interactive
-- 📍 **Location:** Springfield, MO
+### [Memory Care Manager](https://www.linkedin.com/jobs/view/4451049203/) — Astral at Auburn
+- 📍 **Location:** Auburn, IN
 - 🕒 **Posted:** 2026-08-08
 
-### [Sr Case Manager/Case Manager, Manhattan Treatment Apartment (MTA)](https://www.linkedin.com/jobs/view/4450516896/) — ACMH, INC.
-- 📍 **Location:** New York, NY
+### [Case Manager RN, Full-Time, Days, Case Management - Clinical Support, New Jersey](https://www.linkedin.com/jobs/view/4450549690/) — Jefferson Health
+- 📍 **Location:** Turnersville, NJ
+- 💰 **Salary:** $82,243.29 to $117,197.17
 - 🕒 **Posted:** 2026-08-08
 
-### [Inpatient Case Manager](https://www.linkedin.com/jobs/view/4451006916/) — Fuller Hospital
-- 📍 **Location:** Attleboro, MA
+### [Case Manager RN, Full-Time, Days, Case Management - Clinical Support, New Jersey](https://www.linkedin.com/jobs/view/4450542911/) — Jefferson Health
+- 📍 **Location:** Camden County, NJ
+- 💰 **Salary:** $82,243.29 to $117,197.17
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator, Social Science Research Institute Duke University](https://www.linkedin.com/jobs/view/4451028309/) — Duke University
-- 📍 **Location:** Durham, NC
-- 💰 **Salary:** USD $45,661.00 to USD $73,140.00
+### [Case Manager](https://www.linkedin.com/jobs/view/4450583236/) — The Medical Center of Southeast Texas Beaumont Campus
+- 📍 **Location:** Port Arthur, TX
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator Nicholas School](https://www.linkedin.com/jobs/view/4451016679/) — Duke University
-- 📍 **Location:** Durham, NC
-- 💰 **Salary:** USD $45,661.00 to USD $73,140.00
+### [Training Delivery Program Manager](https://www.linkedin.com/jobs/view/4451040517/) — Oracle
+- 📍 **Location:** Abilene, TX
+- 💰 **Salary:** $74,100 - $148,300 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4451008749/) — Marshall University School of Pharmacy
-- 📍 **Location:** Huntington, WV
-- 💰 **Salary:** $38,722 - $44,531
+### [Program Manager, Content & Campaigns](https://www.linkedin.com/jobs/view/4451048289/) — Oracle
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $90,100 - $209,500 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [PROGRAM MANAGER, STUDENT ORGANIZATION CONDUCT AND ACCOUNTABILITY](https://www.linkedin.com/jobs/view/4449694627/) — University of Michigan
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $54,100.00/yr - $62,200.00/yr
+### [Training Delivery Program Manager](https://www.linkedin.com/jobs/view/4451044454/) — Oracle
+- 📍 **Location:** Anthony, NM
+- 💰 **Salary:** $74,100 - $148,300 per year
 - 🕒 **Posted:** 2026-08-08
 
-### [Development Coordinator](https://www.linkedin.com/jobs/view/4451029303/) — SIFF
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $26.00/hr - $27.00/hr
+### [Innovation Program Manager](https://www.linkedin.com/jobs/view/4451041579/) — Sazerac Company
+- 📍 **Location:** Louisville, KY
+- 💰 **Salary:** $126,000 - $190,000
 - 🕒 **Posted:** 2026-08-08
 
-### [Community Engagement Coordinator](https://www.linkedin.com/jobs/view/4450508949/) — Domi Station
-- 📍 **Location:** Tallahassee, FL
-- 🕒 **Posted:** 2026-08-08
-
-### [Program Coordinator, Biomedical Engineering and Chemical Engineering](https://www.linkedin.com/jobs/view/4450509752/) — The University of Texas at San Antonio
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-08-08
-
-### [Clinical Program Manager](https://www.linkedin.com/jobs/view/4450526508/) — Chicanos Por La Causa, Inc. (CPLC)
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-08-08
-
-### [Program Manager (Residential)](https://www.linkedin.com/jobs/view/4450518697/) — MRA Recruiting Services
-- 📍 **Location:** St Paul, MN
-- 💰 **Salary:** $78,185 - $94,770 annually
-- 🕒 **Posted:** 2026-08-08
-
-### [Inpatient Case Manager](https://www.linkedin.com/jobs/view/4451006913/) — Pembroke Hospital
-- 📍 **Location:** Pembroke, MA
-- 🕒 **Posted:** 2026-08-08
-
-### [Program Manager - Targeted Case Management (TCM)](https://www.linkedin.com/jobs/view/4450523594/) — MRA Recruiting Services
-- 📍 **Location:** St Paul, MN
-- 💰 **Salary:** $80,000 to $100,000 annually
-- 🕒 **Posted:** 2026-08-08
-
-### [Program Manager (Be Well Institute)](https://www.linkedin.com/jobs/view/4451005889/) — UT Health San Antonio
-- 📍 **Location:** San Antonio, TX
-- 🕒 **Posted:** 2026-08-08
-
-### [Research Services Program Manager](https://www.linkedin.com/jobs/view/4449233233/) — University of Colorado
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $70,446 - $94,398
+### [Program Manager](https://www.linkedin.com/jobs/view/4451030855/) — Credera
+- 📍 **Location:** Addison, TX
+- 💰 **Salary:** $160,000 - $205,000
 - 🕒 **Posted:** 2026-08-08
