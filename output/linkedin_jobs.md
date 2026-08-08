@@ -1,61 +1,56 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-08 20:15 UTC*
+*Last updated: 2026-08-08 21:14 UTC*
 
-**13 new role(s)** since last run · 32 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Home Care Coordinator - Full time](https://www.linkedin.com/jobs/view/4451302164/) — Gary and Mary West PACE
-- 📍 **Location:** San Marcos, CA
-- 🕒 **Posted:** 2026-08-08
-
-### [Quality Control Program Coordinator (Supervisor)](https://www.linkedin.com/jobs/view/4451081995/) — Crystal Stairs, Inc.
-- 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-08-08
-
-### [Karibu Case Manager](https://www.linkedin.com/jobs/view/4451088843/) — The San Diego LGBT Community Center
+### [Program Coordinator-PHS-Workforce Development/Chronic Disease](https://www.linkedin.com/jobs/view/4451098639/) — County Health Executives Association of California (CHEAC)
 - 📍 **Location:** San Diego, CA
 - 🕒 **Posted:** 2026-08-08
 
-### [Healing to Advocacy Program Manager](https://www.linkedin.com/jobs/view/4451093636/) — Essie Justice Group
-- 📍 **Location:** South Pasadena, CA
-- 💰 **Salary:** $90,000 - $95,000
-- 🕒 **Posted:** 2026-08-08
-
-### [Health Program Coordinator](https://www.linkedin.com/jobs/view/4451302099/) — County Health Executives Association of California (CHEAC)
-- 📍 **Location:** Monterey, CA
-- 💰 **Salary:** $7,784 – $10,633 per Month
-- 🕒 **Posted:** 2026-08-08
-
-### [Transgender & Nonbinary Services Case Manager & Peer Support Advocate](https://www.linkedin.com/jobs/view/4451096420/) — The San Diego LGBT Community Center
+### [Senior Technical Program Manager](https://www.linkedin.com/jobs/view/4450924423/) — Cubit Capital
 - 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $23.00 - $24.25 per hour
+- 💰 **Salary:** $150,000 - $165,000 USD
 - 🕒 **Posted:** 2026-08-08
 
-### [Health Planning and Program Specialist](https://www.linkedin.com/jobs/view/4451305083/) — County Health Executives Association of California (CHEAC)
-- 📍 **Location:** San Diego, CA
+### [Community Care Coordinator (Ogden, Utah) Full-Time](https://www.linkedin.com/jobs/view/4449262617/) — NovumHealth
+- 📍 **Location:** Murray, UT
 - 🕒 **Posted:** 2026-08-08
 
-### [Public Health Program Manager](https://www.linkedin.com/jobs/view/4451085777/) — County Health Executives Association of California (CHEAC)
-- 📍 **Location:** Shasta, CA
-- 💰 **Salary:** $7,017– $8,956
+### [Case Manager - MEB (OHARNG)](https://www.linkedin.com/jobs/view/4450369576/) — KSA Integration
+- 📍 **Location:** Columbus, OH
 - 🕒 **Posted:** 2026-08-08
 
-### [Housing Specialist II](https://www.linkedin.com/jobs/view/4451090647/) — Volunteers of America Los Angeles
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $24.86 - $26.17 Per Hour
+### [Care Manager II - Cancer Center](https://www.linkedin.com/jobs/view/4450914685/) — Association for Home & Hospice Care of North Carolina
+- 📍 **Location:** Santa Fe, NM
 - 🕒 **Posted:** 2026-08-08
 
-### [Housing Stability Specialist](https://www.linkedin.com/jobs/view/4451086756/) — Eden Housing Limited
-- 📍 **Location:** Cleveland, OH
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4451301520/) — JPRO of the Greater Palm Beaches
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-08
 
-### [CBCM Case Manager](https://www.linkedin.com/jobs/view/4451301227/) — Kalihi-Palama Health Center
-- 📍 **Location:** Honolulu, HI
+### [BCBA Candidate | Program Manager](https://www.linkedin.com/jobs/view/4450911661/) — Autism Learning Partners
+- 📍 **Location:** Silver Spring, MD
+- 💰 **Salary:** $24.00 - $28.85 per hour
 - 🕒 **Posted:** 2026-08-08
 
-### [Lead Street Outreach Case Manager](https://www.linkedin.com/jobs/view/4451099528/) — Youth In Need
-- 📍 **Location:** St Louis, MO
+### [CLINICAL CARE COORDINATOR: Ambulatory Care Services (Rogel Cancer Center Research Nurse)](https://www.linkedin.com/jobs/view/4450707622/) — Michigan Medicine
+- 📍 **Location:** Ann Arbor, MI
+- 💰 **Salary:** $89,648.00/yr - $142,126.00/yr
 - 🕒 **Posted:** 2026-08-08
 
-### [Housing Specialist Applications Processor](https://www.linkedin.com/jobs/view/4451082899/) — Eden Housing Limited
-- 📍 **Location:** Cleveland, OH
+### [Lead Case Manager (OHARNG)](https://www.linkedin.com/jobs/view/4450376492/) — KSA Integration
+- 📍 **Location:** Columbus, OH
+- 🕒 **Posted:** 2026-08-08
+
+### [Care Manager PRN - Case Management](https://www.linkedin.com/jobs/view/4450916648/) — Association for Home & Hospice Care of North Carolina
+- 📍 **Location:** Tyler, TX
+- 🕒 **Posted:** 2026-08-08
+
+### [BCBA Candidate | Program Manager](https://www.linkedin.com/jobs/view/4450923425/) — Autism Learning Partners
+- 📍 **Location:** Bronx, NY
+- 💰 **Salary:** $24.00 - $28.85 per hour
+- 🕒 **Posted:** 2026-08-08
+
+### [Audit Data Analyst - Senior Auditor (I)](https://www.linkedin.com/jobs/view/4449276095/) — USAA
+- 📍 **Location:** Charlotte, NC
 - 🕒 **Posted:** 2026-08-08
