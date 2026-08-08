@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08 21:51 UTC",
-  "total": 93,
-  "new_count": 0,
+  "scraped_at": "2026-08-08 22:46 UTC",
+  "total": 95,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -199,19 +199,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Housing Commission",
-      "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Metropolitan Ministries Inc",
       "title": "Housing Specialist",
       "location": "St. Petersburg, Florida, United States",
@@ -221,6 +208,19 @@
       "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
       "salary": "$43k–$45k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "San Diego Housing Commission",
+      "title": "Housing Specialist",
+      "location": "San Diego, California, United States",
+      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "date_posted": "2026-07-30T18:02:04.000Z",
+      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
+      "salary": "$78k–$95k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -407,6 +407,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Sarahs Inn",
       "title": "Housing Navigator",
       "location": "Forest Park, Illinois, United States",
@@ -415,6 +428,19 @@
       "date_posted": "2026-07-16T00:00:00.000Z",
       "description": "BA or equivalent experience required; 1+ year advocacy/HMIS/CE experience preferred; valid driver\\u0002s license and vehicle insurance; ability to work evenings/weekends; Spanish fluency preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,16 +1044,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Anderson Health Services",
+      "company": "evolvedMD",
       "title": "Care Coordinator",
-      "location": "Charlotte, North Carolina, United States",
-      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
-      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
-      "date_posted": "2026-07-11T03:00:00.000Z",
-      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
-      "salary": "",
+      "location": "Houston, Texas, United States",
+      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "date_posted": "2026-08-05T20:46:36.000Z",
+      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
+      "salary": "$50k–$56k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1044,16 +1070,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "evolvedMD",
+      "company": "Anderson Health Services",
       "title": "Care Coordinator",
-      "location": "Houston, Texas, United States",
-      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "date_posted": "2026-08-05T20:46:36.000Z",
-      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
-      "salary": "$50k–$56k/yr",
+      "location": "Charlotte, North Carolina, United States",
+      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "date_posted": "2026-07-11T03:00:00.000Z",
+      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1213,5 +1239,32 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
