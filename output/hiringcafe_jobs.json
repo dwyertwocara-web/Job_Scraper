@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08 18:55 UTC",
-  "total": 97,
-  "new_count": 0,
+  "scraped_at": "2026-08-08 19:44 UTC",
+  "total": 98,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -84,12 +84,12 @@
     {
       "company": "Overview",
       "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
+      "salary": "$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -121,6 +121,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Independent Living Inc",
+      "title": "Housing Specialist",
+      "location": "Middletown, New York, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "date_posted": "2026-07-30T17:29:57.000Z",
+      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Cxb",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -142,19 +155,6 @@
       "date_posted": "2026-07-28T20:36:40.744Z",
       "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
       "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Independent Living Inc",
-      "title": "Housing Specialist",
-      "location": "Middletown, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "date_posted": "2026-07-30T17:29:57.000Z",
-      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
-      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -199,19 +199,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Metropolitan Ministries Inc",
-      "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "San Diego Housing Commission",
       "title": "Housing Specialist",
       "location": "San Diego, California, United States",
@@ -221,6 +208,19 @@
       "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
       "salary": "$78k–$95k/yr",
       "job_type": "Full Time, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Metropolitan Ministries Inc",
+      "title": "Housing Specialist",
+      "location": "St. Petersburg, Florida, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
+      "date_posted": "2026-07-10T18:57:08.000Z",
+      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
+      "salary": "$43k–$45k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -433,14 +433,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Equus",
-      "title": "Housing Navigator ",
+      "company": "Serene Health",
+      "title": "Housing Navigator",
       "location": "San Diego, California, United States",
-      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
-      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
-      "date_posted": "2026-07-28T20:00:49.750Z",
-      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
-      "salary": "$56k–$58k/yr",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -706,6 +706,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Connecticut Children's",
+      "title": "Community Health Worker",
+      "location": "Hartford or Connecticut",
+      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "date_posted": "2026-08-07T13:14:17.000Z",
+      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "CareVitality Inc",
       "title": "Care Coordinator",
       "location": "Houston, Texas, United States",
@@ -732,19 +745,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "St. Vincent's Hospital Westchester",
-      "title": "Care Coordinator",
-      "location": "Staten Island, New York, United States",
-      "url": "https://myjobs.adp.com/stvincentsjobs/cx/job-details?reqId=5001212389806",
-      "direct_url": "https://myjobs.adp.com/stvincentsjobs/cx/job-details?reqId=5001212389806",
-      "date_posted": "2026-07-16T14:46:05.000Z",
-      "description": "Coordinate care for health home members, arrange appointments, conduct assessments, develop care plans, educate members, document and communicate with providers and families.",
-      "salary": "$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ADVENT",
       "title": "Care Coordinator",
       "location": "Canton or Chagrin Falls",
@@ -753,6 +753,19 @@
       "date_posted": "2026-08-06T21:12:37.000Z",
       "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
       "salary": "$36k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "St. Vincent's Hospital Westchester",
+      "title": "Care Coordinator",
+      "location": "Staten Island, New York, United States",
+      "url": "https://myjobs.adp.com/stvincentsjobs/cx/job-details?reqId=5001212389806",
+      "direct_url": "https://myjobs.adp.com/stvincentsjobs/cx/job-details?reqId=5001212389806",
+      "date_posted": "2026-07-16T14:46:05.000Z",
+      "description": "Coordinate care for health home members, arrange appointments, conduct assessments, develop care plans, educate members, document and communicate with providers and families.",
+      "salary": "$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -771,19 +784,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Brattleboro Memorial Hospital",
-      "title": "CARE COORDINATOR",
-      "location": "Brattleboro, Vermont, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
-      "date_posted": "2026-07-13T17:39:32.000Z",
-      "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
-      "salary": "$52k–$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ccf",
       "title": "Care Coordinator",
       "location": "Akron, Ohio, United States",
@@ -792,6 +792,19 @@
       "date_posted": "2026-07-20T00:00:00.000Z",
       "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brattleboro Memorial Hospital",
+      "title": "CARE COORDINATOR",
+      "location": "Brattleboro, Vermont, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
+      "date_posted": "2026-07-13T17:39:32.000Z",
+      "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
+      "salary": "$52k–$69k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1057,16 +1070,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "evolvedMD",
+      "company": "Anderson Health Services",
       "title": "Care Coordinator",
-      "location": "Houston, Texas, United States",
-      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "date_posted": "2026-08-05T20:46:36.000Z",
-      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
-      "salary": "$50k–$56k/yr",
+      "location": "Charlotte, North Carolina, United States",
+      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "date_posted": "2026-07-11T03:00:00.000Z",
+      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1083,16 +1096,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Anderson Health Services",
+      "company": "evolvedMD",
       "title": "Care Coordinator",
-      "location": "Charlotte, North Carolina, United States",
-      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
-      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
-      "date_posted": "2026-07-11T03:00:00.000Z",
-      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
-      "salary": "",
+      "location": "Houston, Texas, United States",
+      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "date_posted": "2026-08-05T20:46:36.000Z",
+      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
+      "salary": "$50k–$56k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1265,5 +1278,45 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
+      "salary": "$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Connecticut Children's",
+      "title": "Community Health Worker",
+      "location": "Hartford or Connecticut",
+      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "date_posted": "2026-08-07T13:14:17.000Z",
+      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
