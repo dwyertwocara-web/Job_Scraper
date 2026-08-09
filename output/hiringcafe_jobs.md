@@ -1,6 +1,8 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-09 05:24 UTC*
+*Last updated: 2026-08-09 17:52 UTC*
 
-**0 new role(s)** since last run · 96 total in last 30d
+**1 new role(s)** since last run · 94 total in last 30d
 
-No new roles since the last run.
+### [Housing navigator - Housing Navigation Program - Norcoss, GA](https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622) — View Point Health
+- 📍 **Location:** Norcross, Georgia, United States
+- 🕒 **Posted:** 2026-07-13T20:46:39.696Z
