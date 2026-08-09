@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 21:35 UTC",
+  "scraped_at": "2026-08-09 22:34 UTC",
   "total": 4,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Verity MD",
@@ -72,23 +72,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Medical Cannabis Caregivers (MCCDirectory.org)",
-      "title": "MEDICAL CANNABIS PRACTITIONER PROGRAM COORDINATOR",
-      "location": "Pasadena, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=aa7e96e1ef01043b",
-      "direct_url": "http://www.indeed.com/job/medical-cannabis-practitioner-program-coordinator-aa7e96e1ef01043b",
-      "company_url": "https://www.indeed.com/cmp/Medical-Cannabis-Caregivers-(mccdirectory.org)",
-      "date_posted": "2026-08-09",
-      "description": "ABOUT THE POSITION\n\nMedical Cannabis Caregivers (MCC) is seeking a highly organized Program Coordinator to help administer its Medical Cannabis Practitioner Certificate Course and MCC Practitioner Pathways Program. The Practitioner Certificate Course can be seen on the MCCDirectory.org website. https://mccdirectory.org/practitioner\\-program/\n\nThe Course provides 15 hours of live, one\\-on\\-one online instruction through five training Modules. The Program Coordinator will support participants from registration through Course completion, certificate issuance, clinical training, and entry into the Practitioner Pathways Program.\n\nThe ideal candidate has experience in healthcare administration, adult education, professional training, or program coordination and is comfortable conducting demonstrations, managing confidential records, and resolving technical problems.\n\nPRIMARY RESPONSIBILITIES\n\n* Coordinate participant registration, scheduling, and completion of all five Course Modules.\n* Lead MCC\\-approved demonstrations for each Module\n* Ensure participants receive all required Module documents, forms, worksheets, and Practitioner Toolkit materials.\n* Set up online sessions.\n* Maintain participant records.\n* Prepare and issue the MCC Medical Cannabis Practitioner Certificate\n* Track referrals and opportunities involving patients, physicians, and California\\-licensed health care facilities.\n\nREQUIRED QUALIFICATIONS\n\n* At least two years of experience in healthcare administration, adult education, professional training, medical\\-office administration, or program coordination.\n* Excellent organization, communication, recordkeeping, and follow\\-up skills.\n* Strong attention to detail and the ability to manage multiple participants, schedules, documents, and deadlines.\n\nPREFERRED QUALIFICATIONS\n\n* Education or certification in healthcare administration, health education, public health, medical assisting, adult education, instructional technology, or a related field.\n* Experience with medical cannabis education, cannabinoid therapeutics, patient education, or another regulated healthcare or wellness field.\n* Experience maintaining participant records, referral systems, certificate programs, or clinical\\-training schedules.\n\nPOSITION DETAILS\n\n* Compensation: $30\\.00 per hour / Independent Contractor\n* Schedule: Part\\-time, 20 hours per week\n* Some scheduling flexibility may be required for participant sessions.\n\nTO APPLY\n\nPlease submit a resume and brief email explaining your interest in this position.\n\nPay: $30\\.00 \\- $35\\.00 per hour\n\nWork Location: Hybrid remote in Pasadena, CA 91106",
-      "salary": "$30–$35/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime, contract",
-      "is_remote": true,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
