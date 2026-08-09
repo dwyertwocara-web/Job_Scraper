@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 17:52 UTC",
-  "total": 94,
-  "new_count": 1,
+  "scraped_at": "2026-08-09 18:54 UTC",
+  "total": 93,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -875,19 +875,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "The Harris Center",
-      "title": "Care Coordinator",
-      "location": "Pasadena, Texas, United States",
-      "url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "direct_url": "https://prd01-hcm01.prd.mykronos.com/ta/6140328.careers?ShowJob=2117974151",
-      "date_posted": "2026-07-10T17:53:29.731Z",
-      "description": "Bachelor's degree in a social/behavioral/human services field, valid Texas driver’s license and insurable, clinical assessment and care coordination skills, documentation and crisis intervention abilities.",
-      "salary": "$47k–$51k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Near North Health",
       "title": "Care Coordinator",
       "location": "Chicago, Illinois, United States",
@@ -1226,19 +1213,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "View Point Health",
-      "title": "Housing navigator - Housing Navigation Program - Norcoss, GA",
-      "location": "Norcross, Georgia, United States",
-      "url": "https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622",
-      "direct_url": "https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622",
-      "date_posted": "2026-07-13T20:46:39.696Z",
-      "description": "High school diploma/GED and 3 years social-services experience (or 1 year SST011), valid Georgia driver’s license, ability to lift 20 lbs, pass background and drug screens.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
