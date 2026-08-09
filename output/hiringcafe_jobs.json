@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 18:54 UTC",
-  "total": 93,
-  "new_count": 0,
+  "scraped_at": "2026-08-09 19:48 UTC",
+  "total": 92,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -121,6 +121,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Independent Living Inc",
+      "title": "Housing Specialist",
+      "location": "Middletown, New York, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "date_posted": "2026-07-30T17:29:57.000Z",
+      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Cxb",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -142,19 +155,6 @@
       "date_posted": "2026-07-28T20:36:40.744Z",
       "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
       "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Independent Living Inc",
-      "title": "Housing Specialist",
-      "location": "Middletown, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "date_posted": "2026-07-30T17:29:57.000Z",
-      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
-      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -208,19 +208,6 @@
       "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
       "salary": "$78k–$95k/yr",
       "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Metropolitan Ministries Inc",
-      "title": "Housing Specialist",
-      "location": "St. Petersburg, Florida, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4307675",
-      "date_posted": "2026-07-10T18:57:08.000Z",
-      "description": "Bachelor's in human services and 3+ years housing/property management or realtor experience; valid driver’s license and car; strong interpersonal, de-escalation, and Microsoft Word/Excel skills; ability to lift 20+ lbs.",
-      "salary": "$43k–$45k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -745,19 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Brattleboro Memorial Hospital",
-      "title": "CARE COORDINATOR",
-      "location": "Brattleboro, Vermont, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
-      "date_posted": "2026-07-13T17:39:32.000Z",
-      "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
-      "salary": "$52k–$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Ccf",
       "title": "Care Coordinator",
       "location": "Akron, Ohio, United States",
@@ -766,6 +740,19 @@
       "date_posted": "2026-07-20T00:00:00.000Z",
       "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Brattleboro Memorial Hospital",
+      "title": "CARE COORDINATOR",
+      "location": "Brattleboro, Vermont, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/3931928",
+      "date_posted": "2026-07-13T17:39:32.000Z",
+      "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
+      "salary": "$52k–$69k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -836,19 +823,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Lubbock or Lubbock",
-      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "date_posted": "2026-08-05T16:59:46.000Z",
-      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
-      "salary": "$35k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Verawholehealth",
       "title": "Care Coordinator",
       "location": "North Fort Myers, Florida, United States",
@@ -857,6 +831,19 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Licensed Practical Nurse or experienced Medical Assistant with strong clinical knowledge and care coordination experience; telephonic outreach, chart review, documentation, and interdisciplinary collaboration required.",
       "salary": "$40k–$59k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "EmpowerMe Wellness",
+      "title": "Care Coordinator",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "salary": "$35k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -901,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "DaVita",
       "title": "Care Coordinator",
       "location": "Lancaster, Pennsylvania, United States",
@@ -935,6 +909,19 @@
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1213,5 +1200,19 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "EmpowerMe Wellness",
+      "title": "Care Coordinator",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "salary": "$35k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
