@@ -1,12 +1,19 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-09 21:19 UTC*
+*Last updated: 2026-08-09 22:15 UTC*
 
-**2 new role(s)** since last run · 2 total in last 1h
+**3 new role(s)** since last run · 5 total in last 1h
 
-### [Autism Program Specialist II ALD (1 year term with full benefits)](https://www.linkedin.com/jobs/view/4441007248/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Extended School Program Coordinator](https://www.linkedin.com/jobs/view/4450991603/) — Fountain Valley School District
+- 📍 **Location:** Fountain Valley, CA
+- 💰 **Salary:** $4,918 - $5,981
 - 🕒 **Posted:** 2026-08-09
 
-### [Program Manager of Community Nutrition and Food as Medicine Initiatives](https://www.linkedin.com/jobs/view/4448042344/) — 4Saints Episcopal Food Pantry
-- 📍 **Location:** Fort Worth, TX
+### [Program Manager, Mental Health Outpatient](https://www.linkedin.com/jobs/view/4450987604/) — Heritage Behavioral Health Center- HBHC
+- 📍 **Location:** Decatur, IL
+- 💰 **Salary:** $75,000.00/yr - $75,000.00/yr
+- 🕒 **Posted:** 2026-08-09
+
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4451357819/) — Eating Recovery Center
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $18.25 - $29 USD
 - 🕒 **Posted:** 2026-08-09
