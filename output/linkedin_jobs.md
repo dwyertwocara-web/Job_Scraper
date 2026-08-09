@@ -1,17 +1,12 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-09 20:09 UTC*
+*Last updated: 2026-08-09 21:19 UTC*
 
-**3 new role(s)** since last run · 20 total in last 1h
+**2 new role(s)** since last run · 2 total in last 1h
 
-### [ILSP Housing Coordinator](https://www.linkedin.com/jobs/view/4451364503/) — First Place for Youth
-- 📍 **Location:** San Francisco, CA
+### [Autism Program Specialist II ALD (1 year term with full benefits)](https://www.linkedin.com/jobs/view/4441007248/) — L.A. Care Health Plan
+- 📍 **Location:** Los Angeles, CA
 - 🕒 **Posted:** 2026-08-09
 
-### [Case Manager – Homeless Guest Services](https://www.linkedin.com/jobs/view/4451364494/) — Santa Barbara Rescue Mission
-- 📍 **Location:** Santa Barbara, CA
-- 💰 **Salary:** $24.00-$26.00
-- 🕒 **Posted:** 2026-08-09
-
-### [Houston Program Coordinator (Full-Time)](https://www.linkedin.com/jobs/view/4451354719/) — Girlstart
-- 📍 **Location:** Houston, TX
+### [Program Manager of Community Nutrition and Food as Medicine Initiatives](https://www.linkedin.com/jobs/view/4448042344/) — 4Saints Episcopal Food Pantry
+- 📍 **Location:** Fort Worth, TX
 - 🕒 **Posted:** 2026-08-09
