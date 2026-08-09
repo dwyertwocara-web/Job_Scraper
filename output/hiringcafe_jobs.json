@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 22:52 UTC",
+  "scraped_at": "2026-08-09 23:51 UTC",
   "total": 91,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -1187,45 +1187,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "date_posted": "2026-07-23T22:56:13.000Z",
-      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Lubbock or Lubbock",
-      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
-      "date_posted": "2026-08-05T16:59:46.000Z",
-      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
-      "salary": "$35k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
