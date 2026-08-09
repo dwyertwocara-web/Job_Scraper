@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-09 20:40 UTC",
+  "scraped_at": "2026-08-09 21:51 UTC",
   "total": 92,
-  "new_count": 0,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -355,6 +355,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Pacific Clinics",
+      "title": "Housing Navigator",
+      "location": "Sacramento, California, United States",
+      "url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
+      "direct_url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
+      "date_posted": "2026-07-30T01:21:40.000Z",
+      "description": "High school diploma/GED plus 4+ years relevant experience (or equivalent), knowledge of homelessness/housing systems, Motivational Interviewing/trauma-informed/harm-reduction training, CA driver's license or public transit ability, strong communication and documentation skills.",
+      "salary": "$48k–$59k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Serene Health",
       "title": "Housing Navigator",
       "location": "Los Angeles, California, United States",
@@ -389,6 +402,19 @@
       "date_posted": "2026-08-05T00:00:00.000Z",
       "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
       "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Equus",
+      "title": "Housing Navigator ",
+      "location": "San Diego, California, United States",
+      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "date_posted": "2026-07-28T20:00:49.750Z",
+      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
+      "salary": "$56k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -441,19 +467,6 @@
       "date_posted": "2026-07-15T20:24:10.000Z",
       "description": "Bilingual English/Spanish required; 2+ years housing navigation or case management; knowledge of local housing programs and tenant rights; strong advocacy and interpersonal skills; experience with vulnerable populations.",
       "salary": "$62k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "View Point Health",
-      "title": "Housing navigator - Housing Navigation Program - Norcoss, GA",
-      "location": "Norcross, Georgia, United States",
-      "url": "https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622",
-      "direct_url": "https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622",
-      "date_posted": "2026-07-13T20:46:39.696Z",
-      "description": "High school diploma/GED and 3 years social-services experience (or 1 year SST011), valid Georgia driver’s license, ability to lift 20 lbs, pass background and drug screens.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -544,19 +557,6 @@
       "direct_url": "https://css-pennstatehealth-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(PSH,99421,3).JobPostingDisplayNav?csk.HROrganization=PSH&csk.JobBoard=NAYLORTA",
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "High school diploma or equivalent, 1+ year community outreach experience, valid PA driver's license; CHW certification within 1 year preferred; bilingual English/Spanish preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Suvida Healthcare LLC",
-      "title": "Community Health Worker",
-      "location": "Katy, Texas, United States",
-      "url": "https://ats.rippling.com/suvida-careers/jobs/7a041445-1a73-400c-b7db-8708b6ce972f",
-      "direct_url": "https://ats.rippling.com/suvida-careers/jobs/7a041445-1a73-400c-b7db-8708b6ce972f",
-      "date_posted": "2026-07-10T20:57:25.160Z",
-      "description": "4-5 years healthcare experience preferred; Community Health Worker certification required; bilingual English/Spanish preferred; proficiency with EMRs and referral systems; strong communication and care coordination skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1200,5 +1200,32 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Pacific Clinics",
+      "title": "Housing Navigator",
+      "location": "Sacramento, California, United States",
+      "url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
+      "direct_url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
+      "date_posted": "2026-07-30T01:21:40.000Z",
+      "description": "High school diploma/GED plus 4+ years relevant experience (or equivalent), knowledge of homelessness/housing systems, Motivational Interviewing/trauma-informed/harm-reduction training, CA driver's license or public transit ability, strong communication and documentation skills.",
+      "salary": "$48k–$59k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Equus",
+      "title": "Housing Navigator ",
+      "location": "San Diego, California, United States",
+      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "date_posted": "2026-07-28T20:00:49.750Z",
+      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
+      "salary": "$56k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
