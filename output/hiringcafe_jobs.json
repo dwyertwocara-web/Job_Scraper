@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-08 23:43 UTC",
-  "total": 93,
-  "new_count": 1,
+  "scraped_at": "2026-08-09 01:15 UTC",
+  "total": 96,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -394,14 +394,53 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Equus",
-      "title": "Housing Navigator ",
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "Los Angeles, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5187136007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5187136007",
+      "date_posted": "2026-07-14T22:06:22.000Z",
+      "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
       "location": "San Diego, California, United States",
-      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
-      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
-      "date_posted": "2026-07-28T20:00:49.750Z",
-      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
-      "salary": "$56k–$58k/yr",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -693,19 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ADVENT",
-      "title": "Care Coordinator",
-      "location": "Canton or Chagrin Falls",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
-      "date_posted": "2026-08-06T21:12:37.000Z",
-      "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
-      "salary": "$36k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -714,6 +740,19 @@
       "date_posted": "2026-07-16T14:46:05.000Z",
       "description": "Coordinate care for health home members, arrange appointments, conduct assessments, develop care plans, educate members, document and communicate with providers and families.",
       "salary": "$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ADVENT",
+      "title": "Care Coordinator",
+      "location": "Canton or Chagrin Falls",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
+      "date_posted": "2026-08-06T21:12:37.000Z",
+      "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
+      "salary": "$36k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -732,19 +771,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Ccf",
-      "title": "Care Coordinator",
-      "location": "Akron, Ohio, United States",
-      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
-      "date_posted": "2026-07-20T00:00:00.000Z",
-      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Brattleboro Memorial Hospital",
       "title": "CARE COORDINATOR",
       "location": "Brattleboro, Vermont, United States",
@@ -753,6 +779,19 @@
       "date_posted": "2026-07-13T17:39:32.000Z",
       "description": "Bachelor's degree, healthcare CPR, 3-5 years care coordination or case management experience preferred, hospital experience preferred, EHR documentation and care planning skills.",
       "salary": "$52k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Ccf",
+      "title": "Care Coordinator",
+      "location": "Akron, Ohio, United States",
+      "url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "direct_url": "https://ccf.wd1.myworkdayjobs.com/clevelandcliniccareers/job/Akron-General-Medical-Center/Care-Coordinator_345076",
+      "date_posted": "2026-07-20T00:00:00.000Z",
+      "description": "Active RN licensure, BLS, 3+ years nursing experience, care coordination and oncology knowledge, clinical assessment, patient education, and use of patient registries and care lists.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -823,6 +862,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "EmpowerMe Wellness",
+      "title": "Care Coordinator",
+      "location": "Lubbock or Lubbock",
+      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
+      "date_posted": "2026-08-05T16:59:46.000Z",
+      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
+      "salary": "$35k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Verawholehealth",
       "title": "Care Coordinator",
       "location": "North Fort Myers, Florida, United States",
@@ -831,19 +883,6 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "Licensed Practical Nurse or experienced Medical Assistant with strong clinical knowledge and care coordination experience; telephonic outreach, chart review, documentation, and interdisciplinary collaboration required.",
       "salary": "$40k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Evanston, Illinois, United States",
-      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "date_posted": "2026-08-04T18:37:46.000Z",
-      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
-      "salary": "$35k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -862,19 +901,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Near North Health",
-      "title": "Care Coordinator",
-      "location": "Chicago, Illinois, United States",
-      "url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
-      "direct_url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
-      "date_posted": "2026-08-03T23:25:26.200Z",
-      "description": "Supports patients with multiple chronic conditions through care coordination, linking referrals, reducing barriers, and patient education. Requires 1–2 years experience and an associates degree.",
-      "salary": "$38k–$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "The Harris Center",
       "title": "Care Coordinator",
       "location": "Pasadena, Texas, United States",
@@ -888,6 +914,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Near North Health",
+      "title": "Care Coordinator",
+      "location": "Chicago, Illinois, United States",
+      "url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
+      "direct_url": "https://secure7.saashr.com/ta/6210891.careers?ShowJob=587711246",
+      "date_posted": "2026-08-03T23:25:26.200Z",
+      "description": "Supports patients with multiple chronic conditions through care coordination, linking referrals, reducing barriers, and patient education. Requires 1–2 years experience and an associates degree.",
+      "salary": "$38k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
       "location": "Farmington or Southfield",
@@ -896,6 +935,19 @@
       "date_posted": "2026-08-06T03:00:00.000Z",
       "description": "High school diploma or GED, relevant care coordination or social services experience, Microsoft Office proficiency, a valid driver's license, reliable transportation, and background check eligibility.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -922,19 +974,6 @@
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,16 +1057,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Anderson Health Services",
+      "company": "evolvedMD",
       "title": "Care Coordinator",
-      "location": "Charlotte, North Carolina, United States",
-      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
-      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
-      "date_posted": "2026-07-11T03:00:00.000Z",
-      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
-      "salary": "",
+      "location": "Houston, Texas, United States",
+      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
+      "date_posted": "2026-08-05T20:46:36.000Z",
+      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
+      "salary": "$50k–$56k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1044,16 +1083,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "evolvedMD",
+      "company": "Anderson Health Services",
       "title": "Care Coordinator",
-      "location": "Houston, Texas, United States",
-      "url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "direct_url": "https://www.evolvedmd.com/careers?gh_jid=4721380005",
-      "date_posted": "2026-08-05T20:46:36.000Z",
-      "description": "Bachelor's degree in a clinical behavioral health field preferred and 2+ years of case management, care coordination, or behavioral health experience. Requires patient advocacy, collaboration, time management, and electronic health system proficiency.",
-      "salary": "$50k–$56k/yr",
+      "location": "Charlotte, North Carolina, United States",
+      "url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "direct_url": "https://andersonhealthservices.hrmdirect.com/employment/job-opening.php?req=3162851&req_loc=323588",
+      "date_posted": "2026-07-11T03:00:00.000Z",
+      "description": "2+ years mental health or youth services experience; bachelor's in human services/social work/psychology (master's preferred); care coordination, treatment planning, documentation, HIPAA compliance; valid NC driver's license.",
+      "salary": "",
       "job_type": "Full Time",
-      "is_remote": true,
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1215,13 +1254,65 @@
   ],
   "new_jobs": [
     {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "Los Angeles, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5187136007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5187136007",
+      "date_posted": "2026-07-14T22:06:22.000Z",
+      "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
-      "location": "Evanston, Illinois, United States",
-      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "date_posted": "2026-08-04T18:37:46.000Z",
-      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "location": "Lubbock or Lubbock",
+      "url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22981?lang=en-us",
+      "date_posted": "2026-08-05T16:59:46.000Z",
+      "description": "Provide administrative oversight in senior living communities, optimize therapists' schedules, perform intakes, conduct care touchpoints, coordinate wellness activities, and support clinic operations.",
       "salary": "$35k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
