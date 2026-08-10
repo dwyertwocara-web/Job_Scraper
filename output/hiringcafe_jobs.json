@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-10 21:48 UTC",
-  "total": 90,
-  "new_count": 1,
+  "scraped_at": "2026-08-10 22:50 UTC",
+  "total": 91,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -84,12 +84,12 @@
     {
       "company": "Overview",
       "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -654,6 +654,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Connecticut Children's",
+      "title": "Community Health Worker",
+      "location": "Hartford or Connecticut",
+      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "date_posted": "2026-08-07T13:14:17.000Z",
+      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Power Health",
       "title": "Care Coordinator",
       "location": "Greenwood Village, Colorado, United States",
@@ -1176,14 +1189,27 @@
   ],
   "new_jobs": [
     {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Evanston, Illinois, United States",
-      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "date_posted": "2026-08-04T18:37:46.000Z",
-      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
-      "salary": "$35k–$46k/yr",
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Connecticut Children's",
+      "title": "Community Health Worker",
+      "location": "Hartford or Connecticut",
+      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
+      "date_posted": "2026-08-07T13:14:17.000Z",
+      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
