@@ -1,14 +1,22 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-10 00:20 UTC*
+*Last updated: 2026-08-10 03:03 UTC*
 
-**2 new role(s)** since last run · 13 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Case Manager (Part C Service Coordinator) - Infant Program](https://www.linkedin.com/jobs/view/4451358966/) — Chesterfield County
-- 📍 **Location:** Chesterfield, VA
-- 💰 **Salary:** $62,154.00 - $83,906.00 Annually
-- 🕒 **Posted:** 2026-08-09
+### [National Sudan Program Coordinator](https://www.linkedin.com/jobs/view/4450998057/) — UMR UMN
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-08-10
 
-### [Real Estate Development & Housing Coordinator](https://www.linkedin.com/jobs/view/4451377136/) — Chesterfield County
-- 📍 **Location:** Chesterfield, VA
-- 💰 **Salary:** $72,466.00 - $85,146.00 Annually
-- 🕒 **Posted:** 2026-08-09
+### [Systems and Data Analyst](https://www.linkedin.com/jobs/view/4451380411/) — Vancouver Housing Authority
+- 📍 **Location:** Vancouver, WA
+- 💰 **Salary:** $85,020 to $127,530
+- 🕒 **Posted:** 2026-08-10
+
+### [Care Coordinator - LTC](https://www.linkedin.com/jobs/view/4449906254/) — MetLife
+- 📍 **Location:** United States
+- 💰 **Salary:** $50,000 - $57,500
+- 🕒 **Posted:** 2026-08-10
+
+### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4450982982/) — Thompson Ventures
+- 📍 **Location:** Detroit Metropolitan Area
+- 🕒 **Posted:** 2026-08-10
