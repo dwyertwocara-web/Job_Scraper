@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-11 03:45 UTC",
-  "total": 89,
-  "new_count": 2,
+  "scraped_at": "2026-08-11 05:30 UTC",
+  "total": 91,
+  "new_count": 6,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -84,12 +84,12 @@
     {
       "company": "Overview",
       "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -121,6 +121,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Independent Living Inc",
+      "title": "Housing Specialist",
+      "location": "Middletown, New York, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "date_posted": "2026-07-30T17:29:57.000Z",
+      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Cxb",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -142,19 +155,6 @@
       "date_posted": "2026-07-28T20:36:40.744Z",
       "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
       "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Independent Living Inc",
-      "title": "Housing Specialist",
-      "location": "Middletown, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "date_posted": "2026-07-30T17:29:57.000Z",
-      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
-      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -342,40 +342,27 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Equus",
+      "title": "Housing Navigator ",
+      "location": "San Diego, California, United States",
+      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "date_posted": "2026-07-28T20:00:49.750Z",
+      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
+      "salary": "$56k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Serene Health",
       "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "date_posted": "2026-07-14T22:06:22.000Z",
-      "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
       "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -402,6 +389,19 @@
       "date_posted": "2026-08-10T00:00:00.000Z",
       "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
       "salary": "$52k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -732,19 +732,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
-      "title": "Care Coordinator",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39604",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39604",
-      "date_posted": "2026-07-30T04:00:00.000Z",
-      "description": "Provide field-based care management for adults/children with chronic behavioral health or medical conditions; assess needs, develop care plans, coordinate services, document in EHR, and travel within NYC.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Christ Covenant",
       "title": "Care Coordinator",
       "location": "Atlanta, Georgia, United States",
@@ -752,6 +739,19 @@
       "direct_url": "https://ats.rippling.com/christ-covenant-church/jobs/110473d8-fc64-488f-a633-5d869c8ccc0b",
       "date_posted": "2026-07-28T15:35:24.326Z",
       "description": "Bachelor's degree,3-4 years administrative experience,spiritual maturity,experience managing member care systems and coordinating volunteers.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Care Coordinator",
+      "location": "Staten Island, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39610",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39610",
+      "date_posted": "2026-07-30T04:00:00.000Z",
+      "description": "Perform field-based care coordination for adults and children with chronic medical/behavioral conditions; assess needs, develop care plans, arrange and track services, document in EHR; travel within NYC required.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -862,19 +862,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "DaVita",
       "title": "Care Coordinator",
       "location": "Lancaster, Pennsylvania, United States",
@@ -896,6 +883,19 @@
       "date_posted": "2026-07-13T00:00:00.000Z",
       "description": "Coordinate integrated behavioral and primary care, manage referrals, document in EMRs, understand Medicaid/insurance, BSW required, MA/LPN preferred, driver\\u0002s license and background checks.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1057,6 +1057,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "City of Dothan, AL",
+      "title": "Social Services Coordinator",
+      "location": "Dothan, Alabama, United States",
+      "url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "direct_url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "date_posted": "2026-08-03T14:27:08.000Z",
+      "description": "Bachelor's in social work/behavioral science/psychology/criminal justice, 2 years social services experience, valid driver license, subject to background/drug screening, LCSW preferred, ability to work awkward shifts and be bondable/notary.",
+      "salary": "$55k–$88k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Goodwill Industries of Southwest Florida",
       "title": "Program Coordinator - MicroEnterprise",
       "location": "Fort Myers, Florida, United States",
@@ -1122,19 +1135,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Janus of Santa Cruz",
-      "title": "Center of Excellence Program Coordinator (120 day assignment)",
-      "location": "Santa Cruz, California, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4375040",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4375040",
-      "date_posted": "2026-07-29T19:58:59.000Z",
-      "description": "Project coordination and administrative support experience, strong written communication, proficiency with Microsoft Office (Outlook, Teams, Excel, PowerPoint), Associates degree required, 3+ years nonprofit or healthcare administrative experience preferred.",
-      "salary": "$62k–$69k/yr",
-      "job_type": "Contract, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Maple Counseling",
       "title": "Clinical Program Coordinator",
       "location": "Los Angeles, California, United States",
@@ -1144,6 +1144,19 @@
       "description": "Bachelor's degree or equivalent experience; 2+ years in administrative or coordinator work, preferably clinical or nonprofit. Requires EHR, Microsoft Office Suite, Google Workspace, HIPAA knowledge, and strong organization and communication.",
       "salary": "$50k–$58k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Janus of Santa Cruz",
+      "title": "Center of Excellence Program Coordinator (120 day assignment)",
+      "location": "Santa Cruz, California, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4375040",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4375040",
+      "date_posted": "2026-07-29T19:58:59.000Z",
+      "description": "Project coordination and administrative support experience, strong written communication, proficiency with Microsoft Office (Outlook, Teams, Excel, PowerPoint), Associates degree required, 3+ years nonprofit or healthcare administrative experience preferred.",
+      "salary": "$62k–$69k/yr",
+      "job_type": "Contract, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1159,32 +1172,97 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "The Dream Program",
+      "title": "Strategic Development Coordinator ",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://dreamprogram.bamboohr.com/careers/537",
+      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "salary": "",
+      "job_type": "Part Time, Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
   "new_jobs": [
     {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Evanston, Illinois, United States",
-      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "date_posted": "2026-08-04T18:37:46.000Z",
-      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
-      "salary": "$35k–$46k/yr",
+      "company": "Equus",
+      "title": "Housing Navigator ",
+      "location": "San Diego, California, United States",
+      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "date_posted": "2026-07-28T20:00:49.750Z",
+      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
+      "salary": "$56k–$58k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Care Coordinator",
+      "location": "Staten Island, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39610",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39610",
+      "date_posted": "2026-07-30T04:00:00.000Z",
+      "description": "Perform field-based care coordination for adults and children with chronic medical/behavioral conditions; assess needs, develop care plans, arrange and track services, document in EHR; travel within NYC required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "City of Dothan, AL",
+      "title": "Social Services Coordinator",
+      "location": "Dothan, Alabama, United States",
+      "url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "direct_url": "https://www.governmentjobs.com/careers/dothan/jobs/5427311",
+      "date_posted": "2026-08-03T14:27:08.000Z",
+      "description": "Bachelor's in social work/behavioral science/psychology/criminal justice, 2 years social services experience, valid driver license, subject to background/drug screening, LCSW preferred, ability to work awkward shifts and be bondable/notary.",
+      "salary": "$55k–$88k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "The Dream Program",
+      "title": "Strategic Development Coordinator ",
+      "location": "Boston, Massachusetts, United States",
+      "url": "https://dreamprogram.bamboohr.com/careers/537",
+      "direct_url": "https://dreamprogram.bamboohr.com/careers/537",
+      "date_posted": "2026-07-24T00:00:00.000Z",
+      "description": "Interest in nonprofit finance and operations, strong organizational and communication skills, experience with youth, commitment to DEI, reliable telework resources, ability to travel and meet in person; must meet AmeriCorps eligibility and background checks.",
+      "salary": "",
+      "job_type": "Part Time, Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
