@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-11 18:18 UTC",
+  "scraped_at": "2026-08-11 19:16 UTC",
   "total": 91,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -1187,58 +1187,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5187136007",
-      "date_posted": "2026-07-14T22:06:22.000Z",
-      "description": "High school/GED and 1+ year relevant experience; valid California driver license and vehicle insurance; TB testing/clearance; strong communication, documentation, and case management skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "View Point Health",
-      "title": "Housing navigator - Housing Navigation Program - Norcoss, GA",
-      "location": "Norcross, Georgia, United States",
-      "url": "https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622",
-      "direct_url": "https://secure5.entertimeonline.com/ta/VPHealth.careers?ShowJob=520425622",
-      "date_posted": "2026-07-13T20:46:39.696Z",
-      "description": "High school diploma/GED and 3 years social-services experience (or 1 year SST011), valid Georgia driver’s license, ability to lift 20 lbs, pass background and drug screens.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "AdventHealth",
-      "title": "Community Health Worker",
-      "location": "Manchester, Kentucky, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "High school diploma or equivalent, community health worker training or certification, driver's license, and experience in clinical or community health settings and working with diverse populations.",
-      "salary": "$38k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
