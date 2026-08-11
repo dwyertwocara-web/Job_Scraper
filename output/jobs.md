@@ -1,6 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-08-10 05:22 UTC*
+*Last updated: 2026-08-11 05:11 UTC*
 
-**0 new role(s)** since last run · 0 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new priority-employer roles since the last run.
+### [Ambulatory Case Manager RN (CASE MGR NEX)](https://www.linkedin.com/jobs/view/4452196406/) — UC Davis Health
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $75.58 - $110.71
+- 🕒 **Posted:** 2026-08-11
