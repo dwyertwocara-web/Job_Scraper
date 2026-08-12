@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12 04:14 UTC",
+  "scraped_at": "2026-08-12 05:57 UTC",
   "total": 94,
-  "new_count": 2,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -121,6 +121,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Independent Living Inc",
+      "title": "Housing Specialist",
+      "location": "Middletown, New York, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "date_posted": "2026-07-30T17:29:57.000Z",
+      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
+      "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Home/Life Services",
       "title": "Housing Specialist",
       "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
@@ -142,19 +155,6 @@
       "date_posted": "2026-07-15T04:00:00.000Z",
       "description": "Bachelor's degree or equivalent, 2 years experience preferred, experience with homelessness/supportive housing, strong communication, Microsoft Office, HRA 2010e/AWARDS/Foothold/CARES familiarity preferred.",
       "salary": "$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Independent Living Inc",
-      "title": "Housing Specialist",
-      "location": "Middletown, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "date_posted": "2026-07-30T17:29:57.000Z",
-      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
-      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -602,19 +602,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Evergreen Nephrology",
-      "title": "Community Health Worker",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
-      "date_posted": "2026-07-28T15:47:05.000Z",
-      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -625,6 +612,19 @@
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Evergreen Nephrology",
+      "title": "Community Health Worker",
+      "location": "United States",
+      "url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "direct_url": "https://job-boards.greenhouse.io/evergreennephrology/jobs/4719117005",
+      "date_posted": "2026-07-28T15:47:05.000Z",
+      "description": "Active CHW certification, 3+ years care coordination/community health experience, team-based care experience, strong communication, MS Office (Outlook, Teams) skills, ability to work remotely with reliable internet; bilingual Spanish/English preferred.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -784,19 +784,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Jbfcs",
-      "title": "Care Coordinator",
-      "location": "Staten Island, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39610",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39610",
-      "date_posted": "2026-07-30T04:00:00.000Z",
-      "description": "Perform field-based care coordination for adults and children with chronic medical/behavioral conditions; assess needs, develop care plans, arrange and track services, document in EHR; travel within NYC required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Columbia University",
       "title": "Care Coordinator",
       "location": "New York City, New York, United States",
@@ -844,6 +831,19 @@
       "date_posted": "2026-08-07T13:41:57.664Z",
       "description": "LPN or MA required; 1–2 years in care coordination or clinical settings; chronic disease knowledge, patient education, documentation, and EHR experience preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "JBFCS",
+      "title": "Care Coordinator",
+      "location": "Staten Island, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39754",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39754",
+      "date_posted": "2026-08-11T04:00:00.000Z",
+      "description": "Requires qualifying degree and experience, or alternate education with five years of applicable population experience; care coordination, interdisciplinary teamwork, EHR, communication, and organizational skills required.",
+      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1174,19 +1174,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Maple Counseling",
-      "title": "Clinical Program Coordinator",
-      "location": "Los Angeles, California, United States",
-      "url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
-      "direct_url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience; 2+ years in administrative or coordinator work, preferably clinical or nonprofit. Requires EHR, Microsoft Office Suite, Google Workspace, HIPAA knowledge, and strong organization and communication.",
-      "salary": "$50k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Janus of Santa Cruz",
       "title": "Center of Excellence Program Coordinator (120 day assignment)",
       "location": "Santa Cruz, California, United States",
@@ -1196,6 +1183,19 @@
       "description": "Project coordination and administrative support experience, strong written communication, proficiency with Microsoft Office (Outlook, Teams, Excel, PowerPoint), Associates degree required, 3+ years nonprofit or healthcare administrative experience preferred.",
       "salary": "$62k–$69k/yr",
       "job_type": "Contract, Temporary",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Maple Counseling",
+      "title": "Clinical Program Coordinator",
+      "location": "Los Angeles, California, United States",
+      "url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
+      "direct_url": "http://maplecounselingcenter.applytojob.com/apply/V0uYZlif2d/Clinical-Program-Coordinator",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience; 2+ years in administrative or coordinator work, preferably clinical or nonprofit. Requires EHR, Microsoft Office Suite, Google Workspace, HIPAA knowledge, and strong organization and communication.",
+      "salary": "$50k–$58k/yr",
+      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1228,27 +1228,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "Brooklyn, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-14T04:00:00.000Z",
-      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
-      "salary": "$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
+      "company": "JBFCS",
       "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "location": "Staten Island, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39754",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39754",
+      "date_posted": "2026-08-11T04:00:00.000Z",
+      "description": "Requires qualifying degree and experience, or alternate education with five years of applicable population experience; care coordination, interdisciplinary teamwork, EHR, communication, and organizational skills required.",
+      "salary": "$51k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
