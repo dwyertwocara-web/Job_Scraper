@@ -1,9 +1,14 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-08-11 05:11 UTC*
+*Last updated: 2026-08-12 05:30 UTC*
 
-**1 new role(s)** since last run · 1 total in last 24h
+**2 new role(s)** since last run · 2 total in last 24h
 
-### [Ambulatory Case Manager RN (CASE MGR NEX)](https://www.linkedin.com/jobs/view/4452196406/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $75.58 - $110.71
+### [Care Manager, LTSS - Field travel in Rock County, WI](https://www.linkedin.com/jobs/view/4441419828/) — Molina Healthcare
+- 📍 **Location:** Janesville, WI
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-08-11
+
+### [Care Coordinator I, Behavioral Health (Utilization Management)](https://www.linkedin.com/jobs/view/4451664972/) — Kaiser Permanente Northwest
+- 📍 **Location:** Portland, OR
+- 💰 **Salary:** $78,200.00/yr - $101,200.00/yr
 - 🕒 **Posted:** 2026-08-11
