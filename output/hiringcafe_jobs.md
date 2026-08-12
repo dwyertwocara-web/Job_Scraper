@@ -1,14 +1,9 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-12 21:55 UTC*
+*Last updated: 2026-08-12 22:52 UTC*
 
-**2 new role(s)** since last run · 93 total in last 30d
+**1 new role(s)** since last run · 91 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
-
-### [Housing Navigator](https://serenehealth.com/careers/?gh_jid=5195260007) — Serene Health
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $52k–$58k/yr
-- 🕒 **Posted:** 2026-07-23T22:56:13.000Z
+### [Housing Navigator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789) — Friendship Place
+- 📍 **Location:** Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County
+- 💰 **Salary:** $58k–$64k/yr
+- 🕒 **Posted:** 2026-08-12T18:58:39.000Z
