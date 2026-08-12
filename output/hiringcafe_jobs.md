@@ -1,9 +1,28 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-12 22:52 UTC*
+*Last updated: 2026-08-12 23:55 UTC*
 
-**1 new role(s)** since last run · 91 total in last 30d
+**5 new role(s)** since last run · 93 total in last 30d
 
-### [Housing Navigator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789) — Friendship Place
-- 📍 **Location:** Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County
-- 💰 **Salary:** $58k–$64k/yr
-- 🕒 **Posted:** 2026-08-12T18:58:39.000Z
+### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1) — Overview
+- 📍 **Location:** Brooklyn, New York, United States
+- 💰 **Salary:** $56k/yr
+- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
+
+### [Housing Navigator](https://careers.pacificclinics.org/jobs/1738?lang=en-us) — Pacific Clinics
+- 📍 **Location:** Sacramento, California, United States
+- 💰 **Salary:** $48k–$59k/yr
+- 🕒 **Posted:** 2026-07-30T01:21:40.000Z
+
+### [Housing Navigator ](https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-) — Equus
+- 📍 **Location:** San Diego, California, United States
+- 💰 **Salary:** $56k–$58k/yr
+- 🕒 **Posted:** 2026-07-28T20:00:49.750Z
+
+### [Community Health Worker](http://goodneighborcommunityhealthcenter.applytojob.com/apply/wuaNKhZ0gO/Community-Health-Worker) — East Central District Health Department/Good Neighbor Community Health Center
+- 📍 **Location:** Columbus, Nebraska, United States
+- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
+
+### [Care Coordinator](https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1) — DaVita
+- 📍 **Location:** Lancaster, Pennsylvania, United States
+- 💰 **Salary:** $37k–$47k/yr
+- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
