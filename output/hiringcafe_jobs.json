@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-12 01:18 UTC",
+  "scraped_at": "2026-08-12 04:14 UTC",
   "total": 94,
-  "new_count": 6,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -84,12 +84,12 @@
     {
       "company": "Overview",
       "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
+      "salary": "$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -381,19 +381,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pacific Clinics",
-      "title": "Housing Navigator",
-      "location": "Sacramento, California, United States",
-      "url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
-      "direct_url": "https://careers.pacificclinics.org/jobs/1738?lang=en-us",
-      "date_posted": "2026-07-30T01:21:40.000Z",
-      "description": "High school diploma/GED plus 4+ years relevant experience (or equivalent), knowledge of homelessness/housing systems, Motivational Interviewing/trauma-informed/harm-reduction training, CA driver's license or public transit ability, strong communication and documentation skills.",
-      "salary": "$48k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -459,6 +446,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "WEINGART CENTER ASSOCIATION",
+      "title": "Housing Navigator",
+      "location": "Los Angeles, California, United States",
+      "url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
+      "direct_url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
+      "date_posted": "2026-08-11T19:43:17.000Z",
+      "description": "Bachelor’s degree in social services preferred or 2 years relevant experience; social services experience with homeless or low-income individuals; California driver license, auto insurance, and reliable transportation required.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Project 180",
       "title": "Housing Navigator",
       "location": "Los Angeles, California, United States",
@@ -480,19 +480,6 @@
       "date_posted": "2026-08-05T00:00:00.000Z",
       "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
       "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "WEINGART CENTER ASSOCIATION",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
-      "direct_url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
-      "date_posted": "2026-08-11T19:43:17.000Z",
-      "description": "Bachelor’s degree in social services preferred or 2 years relevant experience; social services experience with homeless or low-income individuals; California driver license, auto insurance, and reliable transportation required.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -615,19 +602,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Parklandhospital",
-      "title": "Community Health Worker",
-      "location": "Dallas, Texas, United States",
-      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
-      "date_posted": "2026-07-17T00:00:00.000Z",
-      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Evergreen Nephrology",
       "title": "Community Health Worker",
       "location": "United States",
@@ -638,6 +612,19 @@
       "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Parklandhospital",
+      "title": "Community Health Worker",
+      "location": "Dallas, Texas, United States",
+      "url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "direct_url": "https://parklandhospital.wd12.myworkdayjobs.com/parkland_careers/job/Moody-Outpatient-Center/Community-Health-Worker_988710",
+      "date_posted": "2026-07-17T00:00:00.000Z",
+      "description": "High school diploma or GED required, 1 year community experience, Texas CHW certification within 12 months, Heart Saver CPR within 90 days, Spanish preferred, ability to perform basic health screenings and community outreach.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -953,6 +940,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Titanium Healthcare",
       "title": "Care Coordinator ",
       "location": "Seattle or King County",
@@ -1228,80 +1228,28 @@
   ],
   "new_jobs": [
     {
-      "company": "S:US",
+      "company": "Overview",
       "title": "Housing Specialist",
-      "location": "Amityville, New York, United States",
-      "url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-08-06T04:00:00.000Z",
-      "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
-      "salary": "$45k–$55k/yr",
+      "location": "Brooklyn, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-14T04:00:00.000Z",
+      "description": "High school diploma, 6+ months NYC DHS housing/real estate experience, case management experience, knowledge of housing subsidies, strong computer and communication skills, willingness to complete CPR/First Aid.",
+      "salary": "$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "WEINGART CENTER ASSOCIATION",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
-      "direct_url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
-      "date_posted": "2026-08-11T19:43:17.000Z",
-      "description": "Bachelor’s degree in social services preferred or 2 years relevant experience; social services experience with homeless or low-income individuals; California driver license, auto insurance, and reliable transportation required.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Grand Peaks",
+      "company": "Illumination Health + Home",
       "title": "Care Coordinator",
-      "location": "Idaho Falls, Idaho, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4410742",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4410742",
-      "date_posted": "2026-08-11T18:15:39.000Z",
-      "description": "Preferred: 2+ years serving chronic-condition or high-need patients, care coordination or care management experience, medical terminology and EHR knowledge, and bilingual English-Spanish ability.",
-      "salary": "",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "ComForCare Home Health Care - Clarksville",
-      "title": "Care Coordinator",
-      "location": "Hendersonville, Tennessee, United States",
-      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "date_posted": "2026-08-11T18:50:51.000Z",
-      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
-      "salary": "$37k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Titanium Healthcare",
-      "title": "Care Coordinator ",
-      "location": "Seattle or King County",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/707",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/707",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field, 1+ year healthcare, social work, or care coordination experience, valid driver's license, reliable transportation, BLS, and secure home workspace required.",
-      "salary": "$52k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "JGO",
-      "title": "Program Coordinator, NY (Part Time)",
-      "location": "New York City, New York, United States",
-      "url": "https://gojgo.bamboohr.com/careers/28",
-      "direct_url": "https://gojgo.bamboohr.com/careers/28",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Warm, reliable, organized, proactive communicator who enjoys relationship-building, event logistics, community engagement, and nonprofit work; prior experience is a plus but not required.",
-      "salary": "$42k/yr",
-      "job_type": "Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
