@@ -1,18 +1,32 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-12 00:00 UTC*
+*Last updated: 2026-08-12 01:18 UTC*
 
-**3 new role(s)** since last run · 95 total in last 30d
+**6 new role(s)** since last run · 94 total in last 30d
 
-### [Housing Specialist](https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629) — Community Research Foundation
-- 📍 **Location:** San Diego or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County
-- 💰 **Salary:** $60k–$61k/yr
-- 🕒 **Posted:** 2026-08-11T20:16:56.071Z
+### [Housing Specialist](https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1) — S:US
+- 📍 **Location:** Amityville, New York, United States
+- 💰 **Salary:** $45k–$55k/yr
+- 🕒 **Posted:** 2026-08-06T04:00:00.000Z
 
-### [Housing Navigator ](https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-) — Equus
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $56k–$58k/yr
-- 🕒 **Posted:** 2026-07-28T20:00:49.750Z
+### [Housing Navigator](https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b) — WEINGART CENTER ASSOCIATION
+- 📍 **Location:** Los Angeles, California, United States
+- 🕒 **Posted:** 2026-08-11T19:43:17.000Z
 
-### [Community Health Worker](https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411) — Connecticut Children's
-- 📍 **Location:** Hartford or Connecticut
-- 🕒 **Posted:** 2026-08-07T13:14:17.000Z
+### [Care Coordinator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4410742) — Grand Peaks
+- 📍 **Location:** Idaho Falls, Idaho, United States
+- 🕒 **Posted:** 2026-08-11T18:15:39.000Z
+
+### [Care Coordinator](https://cfc-clarksville.careerplug.com/jobs/3541336) — ComForCare Home Health Care - Clarksville
+- 📍 **Location:** Hendersonville, Tennessee, United States
+- 💰 **Salary:** $37k/yr
+- 🕒 **Posted:** 2026-08-11T18:50:51.000Z
+
+### [Care Coordinator ](https://titaniumhealthcare.bamboohr.com/careers/707) — Titanium Healthcare
+- 📍 **Location:** Seattle or King County
+- 💰 **Salary:** $52k–$62k/yr
+- 🕒 **Posted:** 2026-08-11T00:00:00.000Z
+
+### [Program Coordinator, NY (Part Time)](https://gojgo.bamboohr.com/careers/28) — JGO
+- 📍 **Location:** New York City, New York, United States
+- 💰 **Salary:** $42k/yr
+- 🕒 **Posted:** 2026-08-11T00:00:00.000Z
