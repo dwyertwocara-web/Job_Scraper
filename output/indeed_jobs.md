@@ -1,161 +1,85 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-13 00:54 UTC*
+*Last updated: 2026-08-13 03:48 UTC*
 
-**32 new role(s)** since last run · 59 total in last 24h
+**17 new role(s)** since last run · 60 total in last 24h
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=4cc1b1feb385fb86) — SummitView Child and Family Services, Inc.
-- 📍 **Location:** El Dorado Hills, CA, US
-- 💰 **Salary:** $26–$28/hr
+### [RN, Care Manager (Home Health)-Sonora-CA-18741-Pay Negotiable](https://www.indeed.com/viewjob?jk=abeb9acbe335579f) — Talented Medical Solutions
+- 📍 **Location:** Sonoma, CA, US
+- 💰 **Salary:** $76–$79/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Social Work Case Manager](https://www.indeed.com/viewjob?jk=761256ae6968558a) — Home & Health Care Management
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $26–$33/hr
+### [Program Manager, Interim Housing - Samoshel](https://www.indeed.com/viewjob?jk=ae96b6625e988dca) — The People Concern
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $70k–$78k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [LOA Program Specialist](https://www.indeed.com/viewjob?jk=5df9b588d73739c9) — Recology
-- 📍 **Location:** Marysville, CA, US
-- 💰 **Salary:** $34–$42/hr
+### [Program Manager, Interim Housing - Samoshel](https://www.indeed.com/viewjob?jk=221362c4a84c7b90) — The People Concern
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $70k–$78k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Housing Case Manager](https://www.indeed.com/viewjob?jk=44051324c319f00f) — Jenesse Center, Inc.
-- 📍 **Location:** Culver City, CA, US
-- 💰 **Salary:** $55k–$60k/yr
+### [Program Manager, Interim Housing - Samoshel](https://www.indeed.com/viewjob?jk=92b10dc57816d68b) — The People Concern
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $70k–$78k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Specialized Case Manager - San Diego County](https://www.indeed.com/viewjob?jk=ec40f1e7a2e46dee) — Adjoin
+### [Case Manager - Housing Stabilizer (Scattered)](https://www.indeed.com/viewjob?jk=10e6356856e9c240) — LA Family Housing
+- 📍 **Location:** North Hollywood, CA, US
+- 🕒 **Posted:** 2026-08-12
+
+### [Care Coordinator - ECM Program](https://www.indeed.com/viewjob?jk=85e73d023476fc9b) — Unknown
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $24–$29/hr
+- 🕒 **Posted:** 2026-08-12
+
+### [RN Care Manager - Home Health and Private Pay](https://www.indeed.com/viewjob?jk=9ff24d01e66bf840) — Cheer Home Care
+- 📍 **Location:** La Jolla, CA, US
+- 🕒 **Posted:** 2026-08-13
+
+### [RN Care Manager - Home Health and Private Pay](https://www.indeed.com/viewjob?jk=1b8a67d792628474) — Cheer Home Care
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $28–$30/hr
-- 🕒 **Posted:** 2026-08-12
+- 🕒 **Posted:** 2026-08-13
 
-### [Specialized Case Manager - Imperial Valley](https://www.indeed.com/viewjob?jk=72936fcb0f52ba45) — Adjoin
-- 📍 **Location:** El Centro, CA, US
-- 💰 **Salary:** $28–$30/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Specialized Case Manager - Orange County](https://www.indeed.com/viewjob?jk=a2166dbd02b41ba2) — Adjoin
-- 📍 **Location:** Orange, CA, US
-- 💰 **Salary:** $28–$30/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Manager, Project Based Housing - 127th Street Apartments](https://www.indeed.com/viewjob?jk=b3c6e56704d1135e) — The People Concern
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $70k–$78k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Manager, Project Based Housing - 127th Street Apartments](https://www.indeed.com/viewjob?jk=7f5e0c6c47f8557a) — The People Concern
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $70k–$78k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager - The Layover](https://www.indeed.com/viewjob?jk=1d1748c6f3983a81) — The People Concern
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $23–$26/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager - The Layover](https://www.indeed.com/viewjob?jk=6fcc0ec1389d4481) — The People Concern
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $23–$26/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=f8d74f730cec9af7) — United Way
-- 📍 **Location:** Ventura, CA, US
-- 💰 **Salary:** $19–$24/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager - 11-037 - SC/ Bell Shelter](https://www.indeed.com/viewjob?jk=e9471851e8b3f764) — The Salvation Army
-- 📍 **Location:** Bell, CA, US
-- 💰 **Salary:** $26–$31/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=49b3f8f3bf64ca7c) — MDR Specialty Pharmacy
-- 📍 **Location:** Encino, CA, US
-- 🕒 **Posted:** 2026-08-12
-
-### [Bilingual Care Coordinator, Outpatient Case Management (Remote, Mon-Fri, 8am-5pm Pacific Required)](https://www.indeed.com/viewjob?jk=544b137e49bc67da) — Alignment Health
-- 📍 **Location:** Orange, CA, US
-- 💰 **Salary:** $41k–$62k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Care Coordinator - Pediatrics (Temporary)](https://www.indeed.com/viewjob?jk=0d53a5ce01bbe445) — Central California Alliance for Health
-- 📍 **Location:** Monterey, CA, US
-- 💰 **Salary:** $25–$34/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Care Coordinator - Pediatrics (Temporary)](https://www.indeed.com/viewjob?jk=98f261e2ae96a2a3) — Central California Alliance for Health
-- 📍 **Location:** Santa Cruz, CA, US
-- 💰 **Salary:** $25–$34/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Care Coordinator - Pediatrics (Temporary)](https://www.indeed.com/viewjob?jk=f5810643dbb76a5f) — Central California Alliance for Health
-- 📍 **Location:** Merced, CA, US
-- 💰 **Salary:** $25–$34/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Social Work Case Manager](https://www.indeed.com/viewjob?jk=ed5776ea39b09b0c) — Home & Health Care Management
-- 📍 **Location:** Chico, CA, US
-- 💰 **Salary:** $26–$33/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Social Work Case Manager](https://www.indeed.com/viewjob?jk=857f349c82a82431) — Home & Health Care Management
+### [MAT/ECM Case Manager](https://www.indeed.com/viewjob?jk=48bb9a35dd34b4ab) — Hill Country Health & Wellness Center
 - 📍 **Location:** Redding, CA, US
-- 💰 **Salary:** $26–$33/hr
+- 💰 **Salary:** $22–$25/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Office Manager/Patient Care Coordinator](https://www.indeed.com/viewjob?jk=055c073661c200ba) — Aluma Medical Aesthetics
-- 📍 **Location:** Woodland Hills, CA, US
-- 💰 **Salary:** $25–$27/hr
+### [Behavior -Care Coordinator SAPTA (Full-Time)](https://www.indeed.com/viewjob?jk=d87eacf60bd3d13c) — SAN DIEGO AMERICAN INDIAN HEALTH CENTER
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $29–$35/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Revenue & Patient Care Coordinator](https://www.indeed.com/viewjob?jk=3e46c843129a0da7) — Jay Medical Partnership
-- 📍 **Location:** Santa Clara, CA, US
-- 💰 **Salary:** $26–$31/hr
+### [Case Manager - NCSH Residential](https://www.indeed.com/viewjob?jk=a01134b62acc51b3) — HealthRIGHT 360
+- 📍 **Location:** Escondido, CA, US
+- 💰 **Salary:** $24–$28/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [PRN Veterinary Receptionist (Care Coordinator) - Veterinary Medical Associates](https://www.indeed.com/viewjob?jk=cdacc7c858ec4ca1) — PetVet Care Centers
-- 📍 **Location:** Modesto, CA, US
-- 💰 **Salary:** $17–$21/hr
+### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=685c74baab3b92b2) — Oakmont Senior Living
+- 📍 **Location:** Escondido, CA, US
 - 🕒 **Posted:** 2026-08-12
 
-### [Veterinary Receptionist (Care Coordinator) - Banning Veterinary Hospital](https://www.indeed.com/viewjob?jk=358745f786d9108d) — PetVet Care Centers
-- 📍 **Location:** Banning, CA, US
-- 💰 **Salary:** $17–$19/hr
+### [Part Time Veterinary Receptionist (Care Coordinator) - Paws and Claws Veterinary Hospital](https://www.indeed.com/viewjob?jk=f8c1e79d84841efc) — PetVet Care Centers
+- 📍 **Location:** Tracy, CA, US
+- 💰 **Salary:** $18–$19/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Veterinary Receptionist (Care Coordinator) - Rancho Park Veterinary Clinic](https://www.indeed.com/viewjob?jk=78df0bc1c880a847) — PetVet Care Centers
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $18–$22/hr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=a27e5b1ab208c450) — Unknown
+- 📍 **Location:** Fresno, CA, US
+- 💰 **Salary:** $17–$23/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=12094417aa8e0b8a) — WestCoast Children's Clinic
-- 📍 **Location:** Oakland, CA, US
+### [Bilingual Lead Care Manager](https://www.indeed.com/viewjob?jk=16131bbf2ec73d53) — Seneca Family of Agencies
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $27–$29/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=2381b605eae14de3) — Family Choice ACO, LLC
-- 📍 **Location:** Westminster, CA, US
-- 💰 **Salary:** $20–$23/hr
+### [Case Manager - Care Center - PRN](https://www.indeed.com/viewjob?jk=4f5fedc38bc2c248) — Hill Country Health & Wellness Center
+- 📍 **Location:** Redding, CA, US
+- 💰 **Salary:** $22–$25/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Bilingual Care Coordinator Specialist II](https://www.indeed.com/viewjob?jk=349a5ca713da469a) — Meals On Wheels OC
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $23–$28/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Licensed Vocational Nurse, In-Patient Case Manager](https://www.indeed.com/viewjob?jk=1c1ff2dc9f221131) — AltaMed Health Services
-- 📍 **Location:** Montebello, CA, US
-- 💰 **Salary:** $32–$40/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Talent Development Program Coordinator (8912 - HR)**Hybrid remote position**](https://www.indeed.com/viewjob?jk=2cd21c3dcf968ea1) — EAH HOUSING
-- 📍 **Location:** San Rafael, CA, US
-- 🕒 **Posted:** 2026-08-12
-
-### [Prevention Education Program Coordinator](https://www.indeed.com/viewjob?jk=a695a6cc64332d8c) — Horizons Unlimited of San Francisco Inc.
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $28–$29/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager I HSH](https://www.indeed.com/viewjob?jk=9853a06ccf1197c8) — Step Up
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $25–$26/hr
-- 🕒 **Posted:** 2026-08-11
+### [Youth Program Coordinator](https://www.indeed.com/viewjob?jk=c7e354db7a11e7e2) — Mission Edge
+- 📍 **Location:** National City, CA, US
+- 💰 **Salary:** $22–$25/hr
+- 🕒 **Posted:** 2026-08-13
