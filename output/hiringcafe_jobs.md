@@ -1,9 +1,9 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-13 21:01 UTC*
+*Last updated: 2026-08-13 21:56 UTC*
 
-**1 new role(s)** since last run · 93 total in last 30d
+**1 new role(s)** since last run · 92 total in last 30d
 
-### [Care Coordinator ](https://titaniumhealthcare.bamboohr.com/careers/707) — Titanium Healthcare
-- 📍 **Location:** Seattle or King County
-- 💰 **Salary:** $52k–$62k/yr
-- 🕒 **Posted:** 2026-08-11T00:00:00.000Z
+### [Care Coordinator](http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator) — Illumination Health + Home
+- 📍 **Location:** Anaheim, California, United States
+- 💰 **Salary:** $48k–$54k/yr
+- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
