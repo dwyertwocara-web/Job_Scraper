@@ -1,28 +1,9 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-12 23:55 UTC*
+*Last updated: 2026-08-13 01:33 UTC*
 
-**5 new role(s)** since last run · 93 total in last 30d
+**1 new role(s)** since last run · 93 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6190/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** Brooklyn, New York, United States
-- 💰 **Salary:** $56k/yr
-- 🕒 **Posted:** 2026-07-14T04:00:00.000Z
-
-### [Housing Navigator](https://careers.pacificclinics.org/jobs/1738?lang=en-us) — Pacific Clinics
-- 📍 **Location:** Sacramento, California, United States
-- 💰 **Salary:** $48k–$59k/yr
-- 🕒 **Posted:** 2026-07-30T01:21:40.000Z
-
-### [Housing Navigator ](https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-) — Equus
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $56k–$58k/yr
-- 🕒 **Posted:** 2026-07-28T20:00:49.750Z
-
-### [Community Health Worker](http://goodneighborcommunityhealthcenter.applytojob.com/apply/wuaNKhZ0gO/Community-Health-Worker) — East Central District Health Department/Good Neighbor Community Health Center
-- 📍 **Location:** Columbus, Nebraska, United States
-- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
-
-### [Care Coordinator](https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1) — DaVita
-- 📍 **Location:** Lancaster, Pennsylvania, United States
-- 💰 **Salary:** $37k–$47k/yr
-- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
+### [Housing Navigator - Sierra Sunrise](https://rh-community-builders.rippling-ats.com/job/1041921/housing-navigator-sierra-sunrise) — RH Community Builders
+- 📍 **Location:** Fresno, California, United States
+- 💰 **Salary:** $54k–$56k/yr
+- 🕒 **Posted:** 2026-07-17T17:30:17.000Z
