@@ -1,29 +1,18 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-13 04:20 UTC*
+*Last updated: 2026-08-13 19:24 UTC*
 
-**5 new role(s)** since last run · 96 total in last 30d
+**3 new role(s)** since last run · 93 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
+### [Housing Navigator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789) — Friendship Place
+- 📍 **Location:** Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County
+- 💰 **Salary:** $58k–$64k/yr
+- 🕒 **Posted:** 2026-08-12T18:58:39.000Z
 
-### [Housing Specialist](https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1) — S:US
-- 📍 **Location:** Amityville, New York, United States
-- 💰 **Salary:** $45k–$55k/yr
-- 🕒 **Posted:** 2026-08-06T04:00:00.000Z
+### [Population Health Community Health Worker](https://wvumedicine.wd1.myworkdayjobs.com/wvuh/job/Camden-Clark-Grand-Central/Population-Health-Community-Health-Worker_JR26-42817) — WVU Medicine
+- 📍 **Location:** Wood County or Mineral Wells
+- 🕒 **Posted:** 2026-08-12T00:00:00.000Z
 
-### [Housing Navigator](https://serenehealth.com/careers/?gh_jid=5187136007) — Serene Health
-- 📍 **Location:** Los Angeles, California, United States
-- 💰 **Salary:** $52k–$58k/yr
-- 🕒 **Posted:** 2026-07-14T22:06:22.000Z
-
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, California, United States
-- 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
-
-### [Housing Navigator](https://serenehealth.com/careers/?gh_jid=5195260007) — Serene Health
-- 📍 **Location:** San Diego, California, United States
-- 💰 **Salary:** $52k–$58k/yr
-- 🕒 **Posted:** 2026-07-23T22:56:13.000Z
+### [Social Services Coordinator](https://www.governmentjobs.com/careers/dothan/jobs/5427311) — City of Dothan, AL
+- 📍 **Location:** Dothan, Alabama, United States
+- 💰 **Salary:** $55k–$88k/yr
+- 🕒 **Posted:** 2026-08-03T14:27:08.000Z
