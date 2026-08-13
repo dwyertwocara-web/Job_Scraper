@@ -1,85 +1,49 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-13 03:48 UTC*
+*Last updated: 2026-08-13 05:50 UTC*
 
-**17 new role(s)** since last run · 60 total in last 24h
+**10 new role(s)** since last run · 64 total in last 24h
 
-### [RN, Care Manager (Home Health)-Sonora-CA-18741-Pay Negotiable](https://www.indeed.com/viewjob?jk=abeb9acbe335579f) — Talented Medical Solutions
-- 📍 **Location:** Sonoma, CA, US
-- 💰 **Salary:** $76–$79/hr
+### [Clinical Program Manager, Placer Mental Health](https://www.indeed.com/viewjob?jk=2bfbaa93de6799d8) — Wayfinder Family Services
+- 📍 **Location:** Roseville, CA, US
+- 💰 **Salary:** $85k–$95k/yr
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Manager, Interim Housing - Samoshel](https://www.indeed.com/viewjob?jk=ae96b6625e988dca) — The People Concern
-- 📍 **Location:** Santa Monica, CA, US
-- 💰 **Salary:** $70k–$78k/yr
+### [Housing Focused Case Manager](https://www.indeed.com/viewjob?jk=bdec32a98445f60e) — Hope the Mission
+- 📍 **Location:** Canoga Park, CA, US
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Manager, Interim Housing - Samoshel](https://www.indeed.com/viewjob?jk=221362c4a84c7b90) — The People Concern
-- 📍 **Location:** Santa Monica, CA, US
-- 💰 **Salary:** $70k–$78k/yr
+### [Case Manager (Housing)](https://www.indeed.com/viewjob?jk=14d9fa498472ab13) — Ruby's Place
+- 📍 **Location:** Oakland, CA, US
 - 🕒 **Posted:** 2026-08-12
 
-### [Program Manager, Interim Housing - Samoshel](https://www.indeed.com/viewjob?jk=92b10dc57816d68b) — The People Concern
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $70k–$78k/yr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager - Housing Stabilizer (Scattered)](https://www.indeed.com/viewjob?jk=10e6356856e9c240) — LA Family Housing
-- 📍 **Location:** North Hollywood, CA, US
-- 🕒 **Posted:** 2026-08-12
-
-### [Care Coordinator - ECM Program](https://www.indeed.com/viewjob?jk=85e73d023476fc9b) — Unknown
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $24–$29/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [RN Care Manager - Home Health and Private Pay](https://www.indeed.com/viewjob?jk=9ff24d01e66bf840) — Cheer Home Care
-- 📍 **Location:** La Jolla, CA, US
-- 🕒 **Posted:** 2026-08-13
-
-### [RN Care Manager - Home Health and Private Pay](https://www.indeed.com/viewjob?jk=1b8a67d792628474) — Cheer Home Care
-- 📍 **Location:** San Diego, CA, US
-- 🕒 **Posted:** 2026-08-13
-
-### [MAT/ECM Case Manager](https://www.indeed.com/viewjob?jk=48bb9a35dd34b4ab) — Hill Country Health & Wellness Center
-- 📍 **Location:** Redding, CA, US
-- 💰 **Salary:** $22–$25/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Behavior -Care Coordinator SAPTA (Full-Time)](https://www.indeed.com/viewjob?jk=d87eacf60bd3d13c) — SAN DIEGO AMERICAN INDIAN HEALTH CENTER
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $29–$35/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager - NCSH Residential](https://www.indeed.com/viewjob?jk=a01134b62acc51b3) — HealthRIGHT 360
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $24–$28/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=685c74baab3b92b2) — Oakmont Senior Living
-- 📍 **Location:** Escondido, CA, US
-- 🕒 **Posted:** 2026-08-12
-
-### [Part Time Veterinary Receptionist (Care Coordinator) - Paws and Claws Veterinary Hospital](https://www.indeed.com/viewjob?jk=f8c1e79d84841efc) — PetVet Care Centers
+### [Case Manager (Tracy EHP)](https://www.indeed.com/viewjob?jk=97630770dbd6d53c) — Ruby's Place
 - 📍 **Location:** Tracy, CA, US
-- 💰 **Salary:** $18–$19/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=a27e5b1ab208c450) — Unknown
-- 📍 **Location:** Fresno, CA, US
-- 💰 **Salary:** $17–$23/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Bilingual Lead Care Manager](https://www.indeed.com/viewjob?jk=16131bbf2ec73d53) — Seneca Family of Agencies
-- 📍 **Location:** Santa Rosa, CA, US
-- 💰 **Salary:** $27–$29/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Case Manager - Care Center - PRN](https://www.indeed.com/viewjob?jk=4f5fedc38bc2c248) — Hill Country Health & Wellness Center
-- 📍 **Location:** Redding, CA, US
-- 💰 **Salary:** $22–$25/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Youth Program Coordinator](https://www.indeed.com/viewjob?jk=c7e354db7a11e7e2) — Mission Edge
-- 📍 **Location:** National City, CA, US
-- 💰 **Salary:** $22–$25/hr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=718d40e48773ceb0) — Unknown
+- 📍 **Location:** Beverly Hills, CA, US
 - 🕒 **Posted:** 2026-08-13
+
+### [Social Work Case Manager](https://www.indeed.com/viewjob?jk=3a247ed7e95d779d) — Santa Cruz Community Health
+- 📍 **Location:** Santa Cruz, CA, US
+- 💰 **Salary:** $66k–$88k/yr
+- 🕒 **Posted:** 2026-08-13
+
+### [RN Case Manager (PHM)- Bakersfield 1.2](https://www.indeed.com/viewjob?jk=4512faf56d85b2ee) — Universal Healthcare MSO
+- 📍 **Location:** Bakersfield, CA, US
+- 💰 **Salary:** $46–$57/hr
+- 🕒 **Posted:** 2026-08-12
+
+### [Better Together Project: Community Engagement & Program Coordinator](https://www.indeed.com/viewjob?jk=eaeefe27ab81f6ce) — THE EDUCATIONAL EDGE
+- 📍 **Location:** Poway, CA, US
+- 🕒 **Posted:** 2026-08-13
+
+### [Bilingual Program Coordinator, Participant Enrollment and Customer Service](https://www.indeed.com/viewjob?jk=f4fb6ebcad24fb72) — San Francisco-Marin Food Bank
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $32–$33/hr
+- 🕒 **Posted:** 2026-08-12
+
+### [Program Coordinator - Equity & Inclusion (COF)(Bishop/Mammoth)](https://www.indeed.com/viewjob?jk=861758cf6b2d78b1) — Kern Community College District
+- 📍 **Location:** Bishop, CA, US
+- 💰 **Salary:** $4895–$6917/mo
+- 🕒 **Posted:** 2026-08-12
