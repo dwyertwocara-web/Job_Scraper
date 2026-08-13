@@ -1,27 +1,29 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-13 18:06 UTC*
+*Last updated: 2026-08-13 19:04 UTC*
 
-**5 new role(s)** since last run · 51 total in last 24h
+**5 new role(s)** since last run · 49 total in last 24h
 
-### [Program Coordinator-Pathways to Wellness](https://www.indeed.com/viewjob?jk=428931b8d5b80c1a) — MEND
-- 📍 **Location:** Pacoima, CA, US
-- 💰 **Salary:** $28–$30/hr
+### [Transplant Nurse Case Manager - California - Remote](https://www.indeed.com/viewjob?jk=20b75290915595ed) — The Cigna Group
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $40–$67/hr
 - 🕒 **Posted:** 2026-08-13
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=37f66a0f525eba03) — Two Chairs
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $47k–$55k/yr
+### [Bilingual Care Manager (Orosi)](https://www.indeed.com/viewjob?jk=5792637f70e38285) — Unknown
+- 📍 **Location:** Clovis, CA, US
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-08-13
 
-### [Lead Care Manager (Bilingual)](https://www.indeed.com/viewjob?jk=4d95b74332debea7) — ChildNet Youth and Family Services
-- 📍 **Location:** Palm Desert, CA, US
+### [Patient Care Coordinator (PCC) with CMA Certification](https://www.indeed.com/viewjob?jk=b3e73325ff3b6bce) — Madrone Care Network
+- 📍 **Location:** Ukiah, CA, US
+- 💰 **Salary:** $22–$25/hr
 - 🕒 **Posted:** 2026-08-13
 
-### [Patient Care Coordinator / Front Office Associate - Premier Ophthalmology Practice](https://www.indeed.com/viewjob?jk=759bca92f5972632) — Pacific Vision Institute
-- 📍 **Location:** San Francisco, CA, US
+### [Care Manager | Santa Cruz](https://www.indeed.com/viewjob?jk=8514cc3c871d8ccb) — Unknown
+- 📍 **Location:** Santa Cruz, CA, US
+- 💰 **Salary:** $23–$30/hr
 - 🕒 **Posted:** 2026-08-13
 
-### [Development Coordinator II](https://www.indeed.com/viewjob?jk=3fa8454756f48b25) — Proyecto Pastoral
+### [Case Manager AOD II Certified MC VOA](https://www.indeed.com/viewjob?jk=689c6fd4bb066081) — Volunteers of America
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $26–$30/hr
-- 🕒 **Posted:** 2026-08-13
+- 💰 **Salary:** $24–$26/hr
+- 🕒 **Posted:** 2026-08-12
