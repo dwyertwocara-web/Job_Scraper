@@ -1,49 +1,33 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-13 05:50 UTC*
+*Last updated: 2026-08-13 17:00 UTC*
 
-**10 new role(s)** since last run · 64 total in last 24h
+**6 new role(s)** since last run · 55 total in last 24h
 
-### [Clinical Program Manager, Placer Mental Health](https://www.indeed.com/viewjob?jk=2bfbaa93de6799d8) — Wayfinder Family Services
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $85k–$95k/yr
+### [Case Manager - ODR Project Based Housing, Southside Flats](https://www.indeed.com/viewjob?jk=7a67ff597705c95a) — The People Concern
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-08-13
+
+### [Case Manager - ODR Project Based Housing, Southside Flats](https://www.indeed.com/viewjob?jk=5876ff18d8a10f82) — The People Concern
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23–$26/hr
+- 🕒 **Posted:** 2026-08-13
+
+### [Housing Navigator - Coordinated Entry System](https://www.indeed.com/viewjob?jk=646767a0e9e2229d) — Community Action Partnership Of Kern
+- 📍 **Location:** Mojave, CA, US
+- 💰 **Salary:** $21–$23/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Housing Focused Case Manager](https://www.indeed.com/viewjob?jk=bdec32a98445f60e) — Hope the Mission
-- 📍 **Location:** Canoga Park, CA, US
+### [Housing Case Manager](https://www.indeed.com/viewjob?jk=376ad69f600d62d3) — Veterans Village Of San Diego
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $23–$25/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Case Manager (Housing)](https://www.indeed.com/viewjob?jk=14d9fa498472ab13) — Ruby's Place
+### [Case Manager](https://www.indeed.com/viewjob?jk=69bdef4cd1a3f4f5) — UNITY CARE
 - 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $25–$27/hr
 - 🕒 **Posted:** 2026-08-12
 
-### [Case Manager (Tracy EHP)](https://www.indeed.com/viewjob?jk=97630770dbd6d53c) — Ruby's Place
-- 📍 **Location:** Tracy, CA, US
-- 🕒 **Posted:** 2026-08-12
-
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=718d40e48773ceb0) — Unknown
-- 📍 **Location:** Beverly Hills, CA, US
-- 🕒 **Posted:** 2026-08-13
-
-### [Social Work Case Manager](https://www.indeed.com/viewjob?jk=3a247ed7e95d779d) — Santa Cruz Community Health
-- 📍 **Location:** Santa Cruz, CA, US
-- 💰 **Salary:** $66k–$88k/yr
-- 🕒 **Posted:** 2026-08-13
-
-### [RN Case Manager (PHM)- Bakersfield 1.2](https://www.indeed.com/viewjob?jk=4512faf56d85b2ee) — Universal Healthcare MSO
-- 📍 **Location:** Bakersfield, CA, US
-- 💰 **Salary:** $46–$57/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Better Together Project: Community Engagement & Program Coordinator](https://www.indeed.com/viewjob?jk=eaeefe27ab81f6ce) — THE EDUCATIONAL EDGE
-- 📍 **Location:** Poway, CA, US
-- 🕒 **Posted:** 2026-08-13
-
-### [Bilingual Program Coordinator, Participant Enrollment and Customer Service](https://www.indeed.com/viewjob?jk=f4fb6ebcad24fb72) — San Francisco-Marin Food Bank
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $32–$33/hr
-- 🕒 **Posted:** 2026-08-12
-
-### [Program Coordinator - Equity & Inclusion (COF)(Bishop/Mammoth)](https://www.indeed.com/viewjob?jk=861758cf6b2d78b1) — Kern Community College District
-- 📍 **Location:** Bishop, CA, US
-- 💰 **Salary:** $4895–$6917/mo
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=0e2df70be42b74b3) — Illumination Health + Home
+- 📍 **Location:** Stanton, CA, US
 - 🕒 **Posted:** 2026-08-12
