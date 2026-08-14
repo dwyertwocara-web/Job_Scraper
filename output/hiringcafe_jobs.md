@@ -1,19 +1,12 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-14 20:44 UTC*
+*Last updated: 2026-08-14 21:44 UTC*
 
-**3 new role(s)** since last run · 99 total in last 30d
+**2 new role(s)** since last run · 93 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
+### [Housing Navigator - Boise 23rd](https://trhs.applicantpool.com/jobs/1322259) — Terry Reilly Health Services
+- 📍 **Location:** Boise, Idaho, United States
+- 🕒 **Posted:** 2026-08-14T00:00:00.000Z
 
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, California, United States
-- 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
-
-### [Care Coordinator](https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1) — DaVita
-- 📍 **Location:** Lancaster, Pennsylvania, United States
-- 💰 **Salary:** $37k–$47k/yr
-- 🕒 **Posted:** 2026-08-06T00:00:00.000Z
+### [Social Services Coordinator](https://ibmwjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/25026838) — Brookdale Senior Living Inc.
+- 📍 **Location:** Birmingham or Homewood
+- 🕒 **Posted:** 2026-07-23T18:05:14.000Z
