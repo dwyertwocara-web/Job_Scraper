@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 22:39 UTC",
-  "total": 96,
-  "new_count": 7,
+  "scraped_at": "2026-08-14 23:32 UTC",
+  "total": 94,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -64,19 +64,6 @@
       "date_posted": "2026-07-29T04:00:00.000Z",
       "description": "Associate’s degree or 60 college credits with 2 years related housing placement experience (or equivalent), knowledge of federal low-income housing guidelines, clean driver’s license, strong communication skills.",
       "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -407,19 +394,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Friendship Place",
       "title": "Housing Navigator",
       "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
@@ -428,19 +402,6 @@
       "date_posted": "2026-08-12T18:58:39.000Z",
       "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
       "salary": "$58k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "date_posted": "2026-07-23T22:56:13.000Z",
-      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
-      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -459,14 +420,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Project 180",
+      "company": "Serene Health",
       "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
-      "direct_url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
-      "salary": "$52k–$64k/yr",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Sarahs Inn",
+      "title": "Housing Navigator",
+      "location": "Forest Park, Illinois, United States",
+      "url": "https://sarahsinn.bamboohr.com/careers/29",
+      "direct_url": "https://sarahsinn.bamboohr.com/careers/29",
+      "date_posted": "2026-07-16T00:00:00.000Z",
+      "description": "BA or equivalent experience required; 1+ year advocacy/HMIS/CE experience preferred; valid driver\\u0002s license and vehicle insurance; ability to work evenings/weekends; Spanish fluency preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -485,14 +459,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Sarahs Inn",
+      "company": "Project 180",
       "title": "Housing Navigator",
-      "location": "Forest Park, Illinois, United States",
-      "url": "https://sarahsinn.bamboohr.com/careers/29",
-      "direct_url": "https://sarahsinn.bamboohr.com/careers/29",
-      "date_posted": "2026-07-16T00:00:00.000Z",
-      "description": "BA or equivalent experience required; 1+ year advocacy/HMIS/CE experience preferred; valid driver\\u0002s license and vehicle insurance; ability to work evenings/weekends; Spanish fluency preferred.",
-      "salary": "",
+      "location": "Los Angeles, California, United States",
+      "url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
+      "direct_url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
+      "salary": "$52k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -637,19 +624,6 @@
       "description": "Requires 3 years of community, counseling, or community health experience, or equivalent education and experience with at least 1 year required; outreach, communication, documentation, and computer skills.",
       "salary": "",
       "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
-      "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -875,19 +849,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ComForCare Home Health Care - Clarksville",
-      "title": "Care Coordinator",
-      "location": "Hendersonville, Tennessee, United States",
-      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "date_posted": "2026-08-11T18:50:51.000Z",
-      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
-      "salary": "$37k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
       "location": "Evanston, Illinois, United States",
@@ -897,6 +858,19 @@
       "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
       "salary": "$35k–$46k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ComForCare Home Health Care - Clarksville",
+      "title": "Care Coordinator",
+      "location": "Hendersonville, Tennessee, United States",
+      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "date_posted": "2026-08-11T18:50:51.000Z",
+      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
+      "salary": "$37k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -953,14 +927,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
+      "company": "DaVita",
       "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "location": "Lancaster, Pennsylvania, United States",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
+      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED, 2+ years in a professional office, strong communication, confidentiality, Microsoft Office, Excel and Outlook proficiency; medical office or care coordination experience preferred.",
+      "salary": "$37k–$47k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1031,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Acentra Health, LLC",
       "title": "Care Coordinator",
       "location": "Oregon, United States",
@@ -1054,6 +1015,19 @@
       "salary": "$49k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Communicare",
+      "title": "CARE COORDINATOR",
+      "location": "Bardstown, Kentucky, United States",
+      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "date_posted": "2026-08-14T04:20:02.008Z",
+      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1254,92 +1228,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Jbfcs",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
-      "date_posted": "2026-08-05T04:00:00.000Z",
-      "description": "Bachelor's degree and 2+ years housing services experience; valid driver's license; training in Therapeutic Crisis Intervention (TCI); strong communication, organization, and trauma-informed practice; Spanish preferred.",
-      "salary": "$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Brightli",
-      "title": "Housing Specialist",
-      "location": "Poplar Bluff, Missouri, United States",
-      "url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Poplar-Bluff-MO/Housing-Specialist_R-25384",
-      "direct_url": "https://brightli.wd5.myworkdayjobs.com/brightlitalent/job/Poplar-Bluff-MO/Housing-Specialist_R-25384",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Assess clients' housing needs, coordinate placements and support, advocate with community partners, complete documentation; requires HS/GED minimum, valid driver's license and insurance, background check, and required training.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "S:US",
-      "title": "Housing Specialist",
-      "location": "Amityville, New York, United States",
-      "url": "https://careeropportunity-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careeropportunity-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-08-06T04:00:00.000Z",
-      "description": "High school diploma required; bachelor's degree preferred. Requires strong communication, fieldwork, landlord engagement, housing services knowledge, basic computer skills, and ability to work outside normal hours.",
-      "salary": "$45k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Research Foundation",
-      "title": "Housing Specialist",
-      "location": "San Diego or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
-      "url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
-      "direct_url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
-      "date_posted": "2026-08-11T20:16:56.071Z",
-      "description": "High school diploma and 1 year related experience required; housing or mental health experience preferred. Requires California driver's license, vehicle, insurance, Microsoft Office skills, and background clearance.",
-      "salary": "$60k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "S:US",
-      "title": "Housing Specialist",
-      "location": "Amityville, New York, United States",
-      "url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-08-06T04:00:00.000Z",
-      "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
-      "salary": "$45k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Roots Housing",
-      "title": "Housing Specialist",
-      "location": "Seattle, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4344387",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4344387",
-      "date_posted": "2026-07-22T16:56:19.000Z",
-      "description": "High school diploma preferred, intermediate Microsoft Office (Word, Excel, Outlook), strong communication, ability to meet deadlines, knowledge of diverse populations, preferred affordable housing (tax credit/HUD) experience, background check required.",
-      "salary": "$56k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
+      "company": "DaVita",
       "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "location": "Lancaster, Pennsylvania, United States",
+      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
+      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
+      "date_posted": "2026-08-06T00:00:00.000Z",
+      "description": "High school diploma or GED, 2+ years in a professional office, strong communication, confidentiality, Microsoft Office, Excel and Outlook proficiency; medical office or care coordination experience preferred.",
+      "salary": "$37k–$47k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
