@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-14 18:03 UTC",
+  "scraped_at": "2026-08-14 19:00 UTC",
   "total": 99,
-  "new_count": 9,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -1291,123 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Abode Services",
-      "title": "Housing Specialist",
-      "location": "Napa County, California, United States",
-      "url": "https://recruiting2.ultipro.com/abo1000adobs/JobBoard/7b4420f6-af87-4029-bd5c-dcff25afdebb/OpportunityDetail?opportunityId=242f3b40-d0b8-44c0-8426-351f2d2ebce5",
-      "direct_url": "https://recruiting2.ultipro.com/abo1000adobs/JobBoard/7b4420f6-af87-4029-bd5c-dcff25afdebb/OpportunityDetail?opportunityId=242f3b40-d0b8-44c0-8426-351f2d2ebce5",
-      "date_posted": "2026-08-13T23:20:02.781Z",
-      "description": "High school diploma or GED, one year of housing, social services, sales, or customer service experience, local housing market knowledge, California driver's license, personal vehicle, insurance, and clean DMV record.",
-      "salary": "$60k–$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Roots Housing",
-      "title": "Housing Specialist",
-      "location": "Seattle, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4344387",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4344387",
-      "date_posted": "2026-07-22T16:56:19.000Z",
-      "description": "High school diploma preferred, intermediate Microsoft Office (Word, Excel, Outlook), strong communication, ability to meet deadlines, knowledge of diverse populations, preferred affordable housing (tax credit/HUD) experience, background check required.",
-      "salary": "$56k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pacific Clinics",
-      "title": "Housing Navigator",
-      "location": "Pasadena, California, United States",
-      "url": "https://careers.pacificclinics.org/jobs/1778?lang=en-us",
-      "direct_url": "https://careers.pacificclinics.org/jobs/1778?lang=en-us",
-      "date_posted": "2026-08-13T19:52:15.000Z",
-      "description": "High school diploma/GED plus 4+ years of relevant experience, or equivalent education and experience. Requires housing knowledge, California driver's license, community resource expertise, and training in motivational interviewing, trauma-informed care, and harm reduction.",
-      "salary": "$48k–$59k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Shawnee Christian Healthcare",
-      "title": "Community Health Worker (Community Health)",
-      "location": "Louisville, Kentucky, United States",
-      "url": "https://www.joblinkapply.com/Joblink/6346/Job/Index/864686",
-      "direct_url": "https://www.joblinkapply.com/Joblink/6346/Job/Index/864686",
-      "date_posted": "2026-08-14T12:50:48.087Z",
-      "description": "Requires high school diploma, 2 years of health or social services experience and/or education, reliable transportation, computer skills, communication, organization, and cultural competence.",
-      "salary": "$2080–$4160/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "CommonSpirit Health",
-      "title": "Community Health Worker",
-      "location": "Merced, California, United States",
-      "url": "https://commonspirit.jibeapply.com/jobs/487992",
-      "direct_url": "https://commonspirit.jibeapply.com/jobs/487992",
-      "date_posted": "2026-08-13T20:44:38.000Z",
-      "description": "Requires 1 year each in healthcare and community outreach, high school diploma/GED, Community Health Worker certification within 12 months, Google Workspace proficiency, communication skills, and culturally appropriate service.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "DaVita",
-      "title": "Care Coordinator",
-      "location": "Lancaster, Pennsylvania, United States",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
-      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "High school diploma or GED, 2+ years in a professional office, strong communication, confidentiality, Microsoft Office, Excel and Outlook proficiency; medical office or care coordination experience preferred.",
-      "salary": "$37k–$47k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Acentra Health, LLC",
-      "title": "Care Coordinator",
-      "location": "Oregon, United States",
-      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
-      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
-      "date_posted": "2026-08-13T21:31:46.000Z",
-      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
-      "salary": "$49k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
