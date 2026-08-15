@@ -1,6 +1,9 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-15 17:06 UTC*
+*Last updated: 2026-08-15 18:27 UTC*
 
-**0 new role(s)** since last run · 42 total in last 24h
+**1 new role(s)** since last run · 37 total in last 24h
 
-No new roles since the last run.
+### [Patient Care Coordinator / Front Desk](https://www.indeed.com/viewjob?jk=c22f5f4df1e7b869) — Ansony Kim, DDS Inc.
+- 📍 **Location:** Oakley, CA, US
+- 💰 **Salary:** $20–$25/hr
+- 🕒 **Posted:** 2026-08-14
