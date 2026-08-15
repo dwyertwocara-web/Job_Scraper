@@ -1,31 +1,32 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-15 21:10 UTC*
+*Last updated: 2026-08-15 23:10 UTC*
 
 **6 new role(s)** since last run · 6 total in last 1h
 
-### [Technical Program Manager, Government](https://www.linkedin.com/jobs/view/4453956265/) — Gigascale Capital
-- 📍 **Location:** El Segundo, CA
-- 💰 **Salary:** $115K – $168K
+### [Program Specialist - Supporting Innovative Practices (SIP) - Northern California: South Bay/East Bay/Central Coast](https://www.linkedin.com/jobs/view/4451733891/) — El Dorado County Office of Education
+- 📍 **Location:** Placerville, CA
+- 💰 **Salary:** $119,303 - $145,012 Annually
 - 🕒 **Posted:** 2026-08-15
 
-### [Case Manager / Counselor - (Bachelor's) Hamilton & McMinn](https://www.linkedin.com/jobs/view/4453953301/) — Helen Ross McNabb Center
-- 📍 **Location:** Chattanooga, TN
+### [Program Specialist - Supporting Innovative Practices (SIP) - Central Valley](https://www.linkedin.com/jobs/view/4451727817/) — El Dorado County Office of Education
+- 📍 **Location:** Placerville, CA
+- 💰 **Salary:** $119,303 - $145,012 Annually
 - 🕒 **Posted:** 2026-08-15
 
-### [LPN Care Coordinator (BHI)](https://www.linkedin.com/jobs/view/4455138209/) — The MedElite Group
-- 📍 **Location:** New York, NY
+### [Program Manager C](https://www.linkedin.com/jobs/view/4453938343/) — Coalition for Responsible Community Development
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $70,304-$80,000 annually
 - 🕒 **Posted:** 2026-08-15
 
-### [Nursing Care Coordinator (RN / LPN)](https://www.linkedin.com/jobs/view/4455136244/) — The MedElite Group
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $30.00 – $35.00 per hour
+### [Care Manager (JR223975)](https://www.linkedin.com/jobs/view/4455151277/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-15
 
-### [Clinical Research Assistant - ONLY On Site - North Houston](https://www.linkedin.com/jobs/view/4453939271/) — Advanced Rheumatology of Houston
-- 📍 **Location:** The Woodlands, TX
+### [RN Care Manager Neuro-Oncology (JR224248)](https://www.linkedin.com/jobs/view/4455148273/) — CCHMC Biomedical Research Technologies Masters Program
+- 📍 **Location:** Cincinnati, OH
 - 🕒 **Posted:** 2026-08-15
 
-### [Program Manager, Card Network Office (Card Networks)](https://www.linkedin.com/jobs/view/4454539376/) — Stripe
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $127,600 - $191,400
+### [Development Coordinator, Regional Parks Foundation (East Bay)](https://www.linkedin.com/jobs/view/4451745896/) — Association of Fundraising Professionals, Golden Gate Chapter (AFP Golden Gate)
+- 📍 **Location:** East Bay, MI
+- 💰 **Salary:** $36.06-$40.86/hour
 - 🕒 **Posted:** 2026-08-15
