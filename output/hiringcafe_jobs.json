@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-15 03:50 UTC",
-  "total": 99,
-  "new_count": 4,
+  "scraped_at": "2026-08-15 04:45 UTC",
+  "total": 98,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -64,6 +64,19 @@
       "date_posted": "2026-07-29T04:00:00.000Z",
       "description": "Associate’s degree or 60 college credits with 2 years related housing placement experience (or equivalent), knowledge of federal low-income housing guidelines, clean driver’s license, strong communication skills.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -641,19 +654,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Parklandhospital",
       "title": "Community Health Worker",
       "location": "Dallas, Texas, United States",
@@ -745,19 +745,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ADVENT",
-      "title": "Care Coordinator",
-      "location": "Canton or Chagrin Falls",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
-      "date_posted": "2026-08-06T21:12:37.000Z",
-      "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
-      "salary": "$36k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "St. Vincent's Hospital Westchester",
       "title": "Care Coordinator",
       "location": "Staten Island, New York, United States",
@@ -766,6 +753,19 @@
       "date_posted": "2026-07-16T14:46:05.000Z",
       "description": "Coordinate care for health home members, arrange appointments, conduct assessments, develop care plans, educate members, document and communicate with providers and families.",
       "salary": "$71k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ADVENT",
+      "title": "Care Coordinator",
+      "location": "Canton or Chagrin Falls",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4398109",
+      "date_posted": "2026-08-06T21:12:37.000Z",
+      "description": "Customer engagement or care coordination experience, insurance and cost-of-care expertise, medical terminology, strong communication and organization, and Microsoft Office Suite proficiency.",
+      "salary": "$36k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -979,19 +979,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Innovista Medical Center Texas LLC",
       "title": "Care Coordinator",
       "location": "Willowbrook or Spring or Houston or Dallas",
@@ -1031,19 +1018,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Acentra Health, LLC",
-      "title": "Care Coordinator",
-      "location": "Oregon, United States",
-      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
-      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
-      "date_posted": "2026-08-13T21:31:46.000Z",
-      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
-      "salary": "$49k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AlohaCare",
       "title": "Care Coordinator",
       "location": "Honolulu, Hawaii, United States",
@@ -1054,6 +1028,19 @@
       "salary": "$34k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Acentra Health, LLC",
+      "title": "Care Coordinator",
+      "location": "Oregon, United States",
+      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "date_posted": "2026-08-13T21:31:46.000Z",
+      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
+      "salary": "$49k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1293,53 +1280,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "DaVita",
-      "title": "Care Coordinator",
-      "location": "Lancaster, Pennsylvania, United States",
-      "url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
-      "direct_url": "https://davita.wd1.myworkdayjobs.com/dkc_external/job/01659---Lancaster-Dialysis/Care-Coordinator_R0471364-1",
-      "date_posted": "2026-08-06T00:00:00.000Z",
-      "description": "High school diploma or GED, 2+ years in a professional office, strong communication, confidentiality, Microsoft Office, Excel and Outlook proficiency; medical office or care coordination experience preferred.",
-      "salary": "$37k–$47k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "University of Tennessee",
-      "title": "Program Manager, Center for Renewable Carbon - UTIA",
-      "location": "Knoxville, Tennessee, United States",
-      "url": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/9568",
-      "direct_url": "https://fa-ewlq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/9568",
-      "date_posted": "2026-08-14T19:32:55.000Z",
-      "description": "Bachelor’s degree in a relevant field and 5+ years of progressively responsible experience in program coordination, operations, executive support, project management, higher education, nonprofit administration, or related work.",
-      "salary": "",
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
