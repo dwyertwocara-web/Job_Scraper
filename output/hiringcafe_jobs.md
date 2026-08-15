@@ -1,14 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-15 17:46 UTC*
+*Last updated: 2026-08-15 18:49 UTC*
 
-**2 new role(s)** since last run · 96 total in last 30d
+**2 new role(s)** since last run · 95 total in last 30d
 
-### [Rental Assistance Housing Specialist](https://www.governmentjobs.com/careers/scottcda/jobs/5419627) — Scott County Community Development Agency, MN
-- 📍 **Location:** Shakopee, Minnesota, United States
-- 💰 **Salary:** $61k–$74k/yr
-- 🕒 **Posted:** 2026-07-22T22:11:47.000Z
+### [Care Coordinator](http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator) — Illumination Health + Home
+- 📍 **Location:** Anaheim, California, United States
+- 💰 **Salary:** $48k–$54k/yr
+- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
 
-### [Community Health Worker](https://www.governmentjobs.com/careers/houstonmn/jobs/5441794) — Houston County Minnesota
-- 📍 **Location:** Caledonia, Minnesota, United States
-- 💰 **Salary:** $49k–$64k/yr
-- 🕒 **Posted:** 2026-08-10T22:01:08.387Z
+### [Care Coordinator](https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7) — Southern California Health & Rehabilitation Program
+- 📍 **Location:** Los Angeles, California, United States
+- 💰 **Salary:** $65k/yr
+- 🕒 **Posted:** 2026-07-29T16:51:26.009Z
