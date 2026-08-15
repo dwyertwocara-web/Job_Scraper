@@ -1,19 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-15 20:41 UTC*
+*Last updated: 2026-08-15 21:44 UTC*
 
-**3 new role(s)** since last run · 98 total in last 30d
+**2 new role(s)** since last run · 96 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
+### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
+- 📍 **Location:** Santa Ana, California, United States
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
 
-### [Care Coordinator](http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator) — Illumination Health + Home
-- 📍 **Location:** Anaheim, California, United States
-- 💰 **Salary:** $48k–$54k/yr
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
-
-### [Care Coordinator](https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7) — Southern California Health & Rehabilitation Program
-- 📍 **Location:** Los Angeles, California, United States
-- 💰 **Salary:** $65k/yr
-- 🕒 **Posted:** 2026-07-29T16:51:26.009Z
+### [Housing Navigator](https://caowash.applicantpro.com/jobs/4169536) — Community Action Organization
+- 📍 **Location:** Hillsboro or Beaverton or Washington County
+- 💰 **Salary:** $48k–$52k/yr
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
