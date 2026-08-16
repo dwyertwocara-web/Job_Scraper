@@ -1,40 +1,45 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-16 16:05 UTC*
+*Last updated: 2026-08-16 19:13 UTC*
 
-**8 new role(s)** since last run · 8 total in last 1h
+**9 new role(s)** since last run · 9 total in last 1h
 
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4426644674/) — Whatnot
+### [Program Coordinator (Contract, hybrid) — People Services / Contingent Workforce Program](https://www.linkedin.com/jobs/view/4453990384/) — Carra
 - 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $190,000.00/yr - $260,000.00/yr
 - 🕒 **Posted:** 2026-08-16
 
-### [RN Case Manager - Inpatient](https://www.linkedin.com/jobs/view/4397299430/) — Torrance Memorial
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $53.00 - $75.00 per hour
+### [Strategic Program Manager - Safety](https://www.linkedin.com/jobs/view/4425323609/) — McKinstry
+- 📍 **Location:** Spokane, WA
+- 💰 **Salary:** $99,270 -$152,910 per year
 - 🕒 **Posted:** 2026-08-16
 
-### [Outreach Case Manager](https://www.linkedin.com/jobs/view/4454206139/) — Oasis Center
-- 📍 **Location:** Nashville, TN
-- 💰 **Salary:** $39,000-42,000
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4452211148/) — UnitedHealth Group
+- 📍 **Location:** Moses Lake, WA
+- 💰 **Salary:** $79,600 to $119,400 annually
 - 🕒 **Posted:** 2026-08-16
 
-### [Behavioral Health Coordinator](https://www.linkedin.com/jobs/view/4426642389/) — Eventus WholeHealth
-- 📍 **Location:** Biscoe, NC
+### [RN Case Manager-Hospice,](https://www.linkedin.com/jobs/view/4452218059/) — UnitedHealth Group
+- 📍 **Location:** Alexandria, LA
+- 💰 **Salary:** $60,200 to $107,400 annually
 - 🕒 **Posted:** 2026-08-16
 
-### [Center Care Team - Care Coordinator](https://www.linkedin.com/jobs/view/4305747537/) — ArchWell Health
-- 📍 **Location:** Largo, FL
+### [Patient Care Coordinator - Front Office](https://www.linkedin.com/jobs/view/4452219038/) — Doctors of Physical Therapy
+- 📍 **Location:** Stratford, WI
 - 🕒 **Posted:** 2026-08-16
 
-### [RN Care Manager - Cleveland Market](https://www.linkedin.com/jobs/view/4428160759/) — ArchWell Health
-- 📍 **Location:** Cleveland, OH
+### [Strategic Program Manager - Safety](https://www.linkedin.com/jobs/view/4425328523/) — McKinstry
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $99,270 -$169,900 per year
 - 🕒 **Posted:** 2026-08-16
 
-### [Customer Care Coordinator](https://www.linkedin.com/jobs/view/4397281956/) — TruGreen
-- 📍 **Location:** Westbrook, ME
-- 💰 **Salary:** $31,819.00 - $58,865.00
+### [Program Manager - Instructional Designer, WFM Merchandising Learning and Change](https://www.linkedin.com/jobs/view/4455190858/) — Amazon
+- 📍 **Location:** Austin, TX
 - 🕒 **Posted:** 2026-08-16
 
-### [Disposition & Demolition Program Manager (Program Manager 4)](https://www.linkedin.com/jobs/view/4436986826/) — Los Alamos National Laboratory
-- 📍 **Location:** Los Alamos, NM
+### [Research Assistant](https://www.linkedin.com/jobs/view/4453939147/) — Kulbida Consulting
+- 📍 **Location:** Broomfield, CO
+- 🕒 **Posted:** 2026-08-16
+
+### [Data Analyst Manager - Model Risk Office](https://www.linkedin.com/jobs/view/4428353953/) — Capital One
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $164,800 - $188,100
 - 🕒 **Posted:** 2026-08-16
