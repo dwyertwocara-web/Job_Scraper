@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-16 17:43 UTC",
-  "total": 93,
-  "new_count": 2,
+  "scraped_at": "2026-08-16 18:43 UTC",
+  "total": 91,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -459,19 +459,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "RH Community Builders",
-      "title": "Housing Navigator - Sierra Sunrise",
-      "location": "Fresno, California, United States",
-      "url": "https://rh-community-builders.rippling-ats.com/job/1041921/housing-navigator-sierra-sunrise",
-      "direct_url": "https://rh-community-builders.rippling-ats.com/job/1041921/housing-navigator-sierra-sunrise",
-      "date_posted": "2026-07-17T17:30:17.000Z",
-      "description": "Bachelor's degree, 1 year housing-related experience, understanding of coordinated entry preferred, clean driving record; assists clients with documentation, housing search, and data entry.",
-      "salary": "$54k–$56k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Epic Healthcare",
       "title": "Housing Navigator - Horizon SD",
       "location": "National City or San Diego",
@@ -836,19 +823,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ComForCare Home Health Care - Clarksville",
-      "title": "Care Coordinator",
-      "location": "Hendersonville, Tennessee, United States",
-      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "date_posted": "2026-08-11T18:50:51.000Z",
-      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
-      "salary": "$37k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
       "location": "Evanston, Illinois, United States",
@@ -858,6 +832,19 @@
       "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
       "salary": "$35k–$46k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "ComForCare Home Health Care - Clarksville",
+      "title": "Care Coordinator",
+      "location": "Hendersonville, Tennessee, United States",
+      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "date_posted": "2026-08-11T18:50:51.000Z",
+      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
+      "salary": "$37k/yr",
+      "job_type": "Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -888,19 +875,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Pro Care by Abound Health",
-      "title": "Care Coordinator",
-      "location": "Farmington, Michigan, United States",
-      "url": "https://aboundhealth.hrmdirect.com/employment/job-opening.php?req=3781215&req_loc=1424330",
-      "direct_url": "https://aboundhealth.hrmdirect.com/employment/job-opening.php?req=3781215&req_loc=1424330",
-      "date_posted": "2026-08-06T03:00:00.000Z",
-      "description": "High school diploma/GED, care coordination or related experience, strong communication and organization, Microsoft Office proficiency, driver's license, reliable transportation, and background-check eligibility.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Children's Specialized ABA",
       "title": "Care Coordinator",
       "location": "Greensboro, North Carolina, United States",
@@ -914,14 +888,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
+      "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "location": "Farmington, Michigan, United States",
+      "url": "https://aboundhealth.hrmdirect.com/employment/job-opening.php?req=3781215&req_loc=1424330",
+      "direct_url": "https://aboundhealth.hrmdirect.com/employment/job-opening.php?req=3781215&req_loc=1424330",
+      "date_posted": "2026-08-06T03:00:00.000Z",
+      "description": "High school diploma/GED, care coordination or related experience, strong communication and organization, Microsoft Office proficiency, driver's license, reliable transportation, and background-check eligibility.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1213,32 +1187,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Friendship Place",
-      "title": "Housing Navigator",
-      "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
-      "date_posted": "2026-08-12T18:58:39.000Z",
-      "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
-      "salary": "$58k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lutheran Life Communities",
-      "title": "Social Services Coordinator",
-      "location": "Arlington Heights, Illinois, United States",
-      "url": "http://lutheranlifecommunities.applytojob.com/apply/Y8F3Kgzebl/Social-Services-Coordinator",
-      "direct_url": "http://lutheranlifecommunities.applytojob.com/apply/Y8F3Kgzebl/Social-Services-Coordinator",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Requires 2+ years in social services and discharge planning within senior living, plus 1+ year using PointClickCare. Bachelor's degree in social work or related field preferred.",
-      "salary": "$58k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
