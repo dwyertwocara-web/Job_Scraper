@@ -1,9 +1,19 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-16 22:37 UTC*
+*Last updated: 2026-08-16 23:47 UTC*
 
-**1 new role(s)** since last run · 92 total in last 30d
+**3 new role(s)** since last run · 93 total in last 30d
 
-### [Community Health Worker](https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1) — AdventHealth
-- 📍 **Location:** Manchester, Kentucky, United States
-- 💰 **Salary:** $38k–$61k/yr
-- 🕒 **Posted:** 2026-08-10T00:00:00.000Z
+### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1) — Overview
+- 📍 **Location:** New York, New York, United States
+- 💰 **Salary:** $53k/yr
+- 🕒 **Posted:** 2026-07-24T04:00:00.000Z
+
+### [Housing Navigator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789) — Friendship Place
+- 📍 **Location:** Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County
+- 💰 **Salary:** $58k–$64k/yr
+- 🕒 **Posted:** 2026-08-12T18:58:39.000Z
+
+### [Care Coordinator ](https://titaniumhealthcare.bamboohr.com/careers/707) — Titanium Healthcare
+- 📍 **Location:** Seattle or King County
+- 💰 **Salary:** $52k–$62k/yr
+- 🕒 **Posted:** 2026-08-11T00:00:00.000Z

@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-16 22:37 UTC",
-  "total": 92,
-  "new_count": 1,
+  "scraped_at": "2026-08-16 23:47 UTC",
+  "total": 93,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -64,6 +64,19 @@
       "date_posted": "2026-07-29T04:00:00.000Z",
       "description": "Associate’s degree or 60 college credits with 2 years related housing placement experience (or equivalent), knowledge of federal low-income housing guidelines, clean driver’s license, strong communication skills.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -342,19 +355,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -381,14 +381,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
+      "company": "Friendship Place",
       "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
+      "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
+      "date_posted": "2026-08-12T18:58:39.000Z",
+      "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
+      "salary": "$58k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -441,6 +441,19 @@
       "date_posted": "2026-08-10T00:00:00.000Z",
       "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
       "salary": "$52k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -680,19 +693,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AdventHealth",
-      "title": "Community Health Worker",
-      "location": "Manchester, Kentucky, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "High school diploma or equivalent, community health worker training or certification, driver's license, and experience in clinical or community health settings and working with diverse populations.",
-      "salary": "$38k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Power Health",
       "title": "Care Coordinator",
       "location": "Greenwood Village, Colorado, United States",
@@ -823,19 +823,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ComForCare Home Health Care - Clarksville",
-      "title": "Care Coordinator",
-      "location": "Hendersonville, Tennessee, United States",
-      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "date_posted": "2026-08-11T18:50:51.000Z",
-      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
-      "salary": "$37k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
       "location": "Evanston, Illinois, United States",
@@ -849,6 +836,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ComForCare Home Health Care - Clarksville",
+      "title": "Care Coordinator",
+      "location": "Hendersonville, Tennessee, United States",
+      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "date_posted": "2026-08-11T18:50:51.000Z",
+      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
+      "salary": "$37k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Good Shepherd Services",
       "title": "Care Coordinator-Foster Care",
       "location": "Bronx, New York, United States",
@@ -857,19 +857,6 @@
       "date_posted": "2026-08-07T03:00:00.000Z",
       "description": "Bachelor's degree with two years' experience, case or care coordination in social services, and experience serving children and families; child welfare, foster care, or healthcare experience helpful.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Children's Specialized ABA",
-      "title": "Care Coordinator",
-      "location": "Greensboro, North Carolina, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "date_posted": "2026-08-13T14:44:46.000Z",
-      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
-      "salary": "$55k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,6 +875,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Children's Specialized ABA",
+      "title": "Care Coordinator",
+      "location": "Greensboro, North Carolina, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "date_posted": "2026-08-13T14:44:46.000Z",
+      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
+      "salary": "$55k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
       "location": "Farmington, Michigan, United States",
@@ -901,14 +901,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "company": "Titanium Healthcare",
+      "title": "Care Coordinator ",
+      "location": "Seattle or King County",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/707",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/707",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a related field, 1+ year healthcare, social work, or care coordination experience, valid driver's license, reliable transportation, BLS, and secure home workspace required.",
+      "salary": "$52k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -922,6 +922,19 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "High school diploma or GED, 2+ years in a professional office, strong communication, confidentiality, Microsoft Office, Excel and Outlook proficiency; medical office or care coordination experience preferred.",
       "salary": "$37k–$47k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1202,14 +1215,40 @@
   ],
   "new_jobs": [
     {
-      "company": "AdventHealth",
-      "title": "Community Health Worker",
-      "location": "Manchester, Kentucky, United States",
-      "url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "direct_url": "https://adventhealth.wd12.myworkdayjobs.com/ah_external_career_site/job/ADVENTHEALTH-MANCHESTER/Community-Health-Worker_R-0368467-1",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "High school diploma or equivalent, community health worker training or certification, driver's license, and experience in clinical or community health settings and working with diverse populations.",
-      "salary": "$38k–$61k/yr",
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Friendship Place",
+      "title": "Housing Navigator",
+      "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
+      "date_posted": "2026-08-12T18:58:39.000Z",
+      "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
+      "salary": "$58k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Titanium Healthcare",
+      "title": "Care Coordinator ",
+      "location": "Seattle or King County",
+      "url": "https://titaniumhealthcare.bamboohr.com/careers/707",
+      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/707",
+      "date_posted": "2026-08-11T00:00:00.000Z",
+      "description": "Bachelor's degree in a related field, 1+ year healthcare, social work, or care coordination experience, valid driver's license, reliable transportation, BLS, and secure home workspace required.",
+      "salary": "$52k–$62k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
