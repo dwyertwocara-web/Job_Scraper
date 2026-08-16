@@ -1,6 +1,9 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-16 03:56 UTC*
+*Last updated: 2026-08-16 16:24 UTC*
 
-**0 new role(s)** since last run · 15 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-No new roles since the last run.
+### [Nursing Program Coordinator - TAVR*](https://www.indeed.com/viewjob?jk=e3f5448ef70cd1d0) — San Bernardino County
+- 📍 **Location:** Colton, CA, US
+- 💰 **Salary:** $119k–$156k/yr
+- 🕒 **Posted:** 2026-08-15
