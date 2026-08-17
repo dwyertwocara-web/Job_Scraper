@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 05:05 UTC",
+  "scraped_at": "2026-08-17 17:39 UTC",
   "total": 89,
-  "new_count": 2,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -155,6 +155,19 @@
       "date_posted": "2026-07-30T17:29:57.000Z",
       "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
       "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Jbfcs",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
+      "date_posted": "2026-08-05T04:00:00.000Z",
+      "description": "Bachelor's degree and 2+ years housing services experience; valid driver's license; training in Therapeutic Crisis Intervention (TCI); strong communication, organization, and trauma-informed practice; Spanish preferred.",
+      "salary": "$66k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -316,6 +329,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -342,14 +368,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Friendship Place",
+      "company": "Community Action Organization",
       "title": "Housing Navigator",
-      "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
-      "date_posted": "2026-08-12T18:58:39.000Z",
-      "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
-      "salary": "$58k–$64k/yr",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -402,19 +428,6 @@
       "date_posted": "2026-08-10T00:00:00.000Z",
       "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
       "salary": "$52k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -851,6 +864,19 @@
     {
       "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
+      "location": "Southfield, Michigan, United States",
+      "url": "https://ontargetconnect.hrmdirect.com/employment/job-opening.php?req=3787361&req_loc=1431138",
+      "direct_url": "https://ontargetconnect.hrmdirect.com/employment/job-opening.php?req=3787361&req_loc=1431138",
+      "date_posted": "2026-08-13T03:00:00.000Z",
+      "description": "High school diploma or GED, experience in care coordination, case management, social services, healthcare, or a related field, strong communication and organization skills, and a valid driver's license.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pro Care by Abound Health",
+      "title": "Care Coordinator",
       "location": "Farmington, Michigan, United States",
       "url": "https://aboundhealth.hrmdirect.com/employment/job-opening.php?req=3781215&req_loc=1424330",
       "direct_url": "https://aboundhealth.hrmdirect.com/employment/job-opening.php?req=3781215&req_loc=1424330",
@@ -953,19 +979,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Southern California Health & Rehabilitation Program",
-      "title": "Care Coordinator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7",
-      "direct_url": "https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7",
-      "date_posted": "2026-07-29T16:51:26.009Z",
-      "description": "Bachelor's degree in social work/related field, experience in behavioral health/CCBHC/FQHC settings, proficiency with EHR/EMR, valid driver’s license, strong communication and data-informed care coordination skills.",
-      "salary": "$65k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Activeday",
       "title": "Social Services - Social Services Coordinator",
       "location": "Lowell, Massachusetts, United States",
@@ -1000,19 +1013,6 @@
       "date_posted": "2026-08-13T17:35:47.000Z",
       "description": "Bachelor's degree in social services or a related field required; three years of skilled nursing social service experience preferred; knowledge of federal and state regulations and strong communication skills.",
       "salary": "$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Lutheran Life Communities",
-      "title": "Social Services Coordinator",
-      "location": "Arlington Heights, Illinois, United States",
-      "url": "http://lutheranlifecommunities.applytojob.com/apply/Y8F3Kgzebl/Social-Services-Coordinator",
-      "direct_url": "http://lutheranlifecommunities.applytojob.com/apply/Y8F3Kgzebl/Social-Services-Coordinator",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Requires 2+ years in social services and discharge planning within senior living, plus 1+ year using PointClickCare. Bachelor's degree in social work or related field preferred.",
-      "salary": "$58k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1163,27 +1163,40 @@
   ],
   "new_jobs": [
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "company": "Jbfcs",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
+      "date_posted": "2026-08-05T04:00:00.000Z",
+      "description": "Bachelor's degree and 2+ years housing services experience; valid driver's license; training in Therapeutic Crisis Intervention (TCI); strong communication, organization, and trauma-informed practice; Spanish preferred.",
+      "salary": "$66k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Southern California Health & Rehabilitation Program",
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7",
-      "direct_url": "https://recruiting2.ultipro.com/sou1051schr/JobBoard/62954c0a-bd01-40fb-9d2e-4286ea9f65e1/OpportunityDetail?opportunityId=8aa39c25-4e71-46b2-ab13-199889668be7",
-      "date_posted": "2026-07-29T16:51:26.009Z",
-      "description": "Bachelor's degree in social work/related field, experience in behavioral health/CCBHC/FQHC settings, proficiency with EHR/EMR, valid driver’s license, strong communication and data-informed care coordination skills.",
-      "salary": "$65k/yr",
+      "location": "Southfield, Michigan, United States",
+      "url": "https://ontargetconnect.hrmdirect.com/employment/job-opening.php?req=3787361&req_loc=1431138",
+      "direct_url": "https://ontargetconnect.hrmdirect.com/employment/job-opening.php?req=3787361&req_loc=1431138",
+      "date_posted": "2026-08-13T03:00:00.000Z",
+      "description": "High school diploma or GED, experience in care coordination, case management, social services, healthcare, or a related field, strong communication and organization skills, and a valid driver's license.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
