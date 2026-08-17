@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 20:34 UTC",
-  "total": 90,
-  "new_count": 0,
+  "scraped_at": "2026-08-17 21:36 UTC",
+  "total": 94,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -64,6 +64,19 @@
       "date_posted": "2026-07-29T04:00:00.000Z",
       "description": "Associate’s degree or 60 college credits with 2 years related housing placement experience (or equivalent), knowledge of federal low-income housing guidelines, clean driver’s license, strong communication skills.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -329,6 +342,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -350,6 +376,19 @@
       "date_posted": "2026-08-11T15:34:14.966Z",
       "description": "Bachelor’s degree in social work or related field; 1–3 years of case management or 3–5 years in a related field preferred. Requires driver’s license, insurance, clear record, communication, crisis management, and database skills.",
       "salary": "$45k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1135,6 +1174,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Tennessee Aquarium",
+      "title": "Grant Program Coordinator",
+      "location": "Chattanooga, Tennessee, United States",
+      "url": "https://recruiting2.ultipro.com/ten1003tnaq/JobBoard/12ee8ae7-931c-4fa4-a24a-ff683f36b8c3/OpportunityDetail?opportunityId=9ed882c5-4eaa-43ec-a9a5-e4c01ab527ef",
+      "direct_url": "https://recruiting2.ultipro.com/ten1003tnaq/JobBoard/12ee8ae7-931c-4fa4-a24a-ff683f36b8c3/OpportunityDetail?opportunityId=9ed882c5-4eaa-43ec-a9a5-e4c01ab527ef",
+      "date_posted": "2026-08-17T15:11:13.410Z",
+      "description": "Bachelor's degree in a related field; three years of grants, nonprofit finance, or project management experience preferred. Requires budgeting, communication, project management, and Microsoft Office, Adobe Acrobat, Grants.gov, and grant software proficiency.",
+      "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Senior Living Residences",
       "title": "Creative Aging Program Manager",
       "location": "Brookline or Boston",
@@ -1174,5 +1226,58 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Tennessee Aquarium",
+      "title": "Grant Program Coordinator",
+      "location": "Chattanooga, Tennessee, United States",
+      "url": "https://recruiting2.ultipro.com/ten1003tnaq/JobBoard/12ee8ae7-931c-4fa4-a24a-ff683f36b8c3/OpportunityDetail?opportunityId=9ed882c5-4eaa-43ec-a9a5-e4c01ab527ef",
+      "direct_url": "https://recruiting2.ultipro.com/ten1003tnaq/JobBoard/12ee8ae7-931c-4fa4-a24a-ff683f36b8c3/OpportunityDetail?opportunityId=9ed882c5-4eaa-43ec-a9a5-e4c01ab527ef",
+      "date_posted": "2026-08-17T15:11:13.410Z",
+      "description": "Bachelor's degree in a related field; three years of grants, nonprofit finance, or project management experience preferred. Requires budgeting, communication, project management, and Microsoft Office, Adobe Acrobat, Grants.gov, and grant software proficiency.",
+      "salary": "$50k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
