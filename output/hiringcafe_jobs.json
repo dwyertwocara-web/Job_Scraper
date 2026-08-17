@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 17:39 UTC",
+  "scraped_at": "2026-08-17 18:55 UTC",
   "total": 89,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -1161,45 +1161,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jbfcs",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657",
-      "date_posted": "2026-08-05T04:00:00.000Z",
-      "description": "Bachelor's degree and 2+ years housing services experience; valid driver's license; training in Therapeutic Crisis Intervention (TCI); strong communication, organization, and trauma-informed practice; Spanish preferred.",
-      "salary": "$66k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Pro Care by Abound Health",
-      "title": "Care Coordinator",
-      "location": "Southfield, Michigan, United States",
-      "url": "https://ontargetconnect.hrmdirect.com/employment/job-opening.php?req=3787361&req_loc=1431138",
-      "direct_url": "https://ontargetconnect.hrmdirect.com/employment/job-opening.php?req=3787361&req_loc=1431138",
-      "date_posted": "2026-08-13T03:00:00.000Z",
-      "description": "High school diploma or GED, experience in care coordination, case management, social services, healthcare, or a related field, strong communication and organization skills, and a valid driver's license.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
