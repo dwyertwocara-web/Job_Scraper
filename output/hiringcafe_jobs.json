@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-17 02:41 UTC",
+  "scraped_at": "2026-08-17 03:58 UTC",
   "total": 92,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -64,6 +64,19 @@
       "date_posted": "2026-07-29T04:00:00.000Z",
       "description": "Associate’s degree or 60 college credits with 2 years related housing placement experience (or equivalent), knowledge of federal low-income housing guidelines, clean driver’s license, strong communication skills.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -134,19 +147,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Home/Life Services",
-      "title": "Housing Specialist",
-      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
-      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
-      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
-      "date_posted": "2026-07-28T20:36:40.744Z",
-      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Independent Living Inc",
       "title": "Housing Specialist",
       "location": "Middletown, New York, United States",
@@ -155,6 +155,19 @@
       "date_posted": "2026-07-30T17:29:57.000Z",
       "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
       "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Home/Life Services",
+      "title": "Housing Specialist",
+      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
+      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "date_posted": "2026-07-28T20:36:40.744Z",
+      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -823,19 +836,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ComForCare Home Health Care - Clarksville",
-      "title": "Care Coordinator",
-      "location": "Hendersonville, Tennessee, United States",
-      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "date_posted": "2026-08-11T18:50:51.000Z",
-      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
-      "salary": "$37k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
       "location": "Evanston, Illinois, United States",
@@ -849,6 +849,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ComForCare Home Health Care - Clarksville",
+      "title": "Care Coordinator",
+      "location": "Hendersonville, Tennessee, United States",
+      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "date_posted": "2026-08-11T18:50:51.000Z",
+      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
+      "salary": "$37k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Good Shepherd Services",
       "title": "Care Coordinator-Foster Care",
       "location": "Bronx, New York, United States",
@@ -857,19 +870,6 @@
       "date_posted": "2026-08-07T03:00:00.000Z",
       "description": "Bachelor's degree with two years' experience, case or care coordination in social services, and experience serving children and families; child welfare, foster care, or healthcare experience helpful.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Children's Specialized ABA",
-      "title": "Care Coordinator",
-      "location": "Greensboro, North Carolina, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "date_posted": "2026-08-13T14:44:46.000Z",
-      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
-      "salary": "$55k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -888,6 +888,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Children's Specialized ABA",
+      "title": "Care Coordinator",
+      "location": "Greensboro, North Carolina, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "date_posted": "2026-08-13T14:44:46.000Z",
+      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
+      "salary": "$55k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pro Care by Abound Health",
       "title": "Care Coordinator",
       "location": "Farmington, Michigan, United States",
@@ -896,19 +909,6 @@
       "date_posted": "2026-08-06T03:00:00.000Z",
       "description": "High school diploma/GED, care coordination or related experience, strong communication and organization, Microsoft Office proficiency, driver's license, reliable transportation, and background-check eligibility.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1200,5 +1200,19 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
