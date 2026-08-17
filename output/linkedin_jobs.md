@@ -1,37 +1,31 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-16 23:08 UTC*
+*Last updated: 2026-08-17 02:23 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Program Specialist - Supporting Innovative Practices (SIP) - Northern California: South Bay/East Bay/Central Coast](https://www.linkedin.com/jobs/view/4452210371/) — El Dorado County Office of Education
-- 📍 **Location:** Placerville, CA
-- 💰 **Salary:** $119,303 - $145,012 Annually
-- 🕒 **Posted:** 2026-08-16
+### [Development Coordinator - Admin](https://www.linkedin.com/jobs/view/4455228817/) — Signal Centers
+- 📍 **Location:** Chattanooga, TN
+- 🕒 **Posted:** 2026-08-17
 
-### [Program Specialist - Supporting Innovative Practices (SIP) - Central Valley](https://www.linkedin.com/jobs/view/4452206273/) — El Dorado County Office of Education
-- 📍 **Location:** Placerville, CA
-- 💰 **Salary:** $119,303 - $145,012 Annually
-- 🕒 **Posted:** 2026-08-16
+### [Patient Advocate / Care Manager (Private Health Advisor)](https://www.linkedin.com/jobs/view/4451088921/) — Avoa Health
+- 📍 **Location:** Northbrook, IL
+- 🕒 **Posted:** 2026-08-17
 
-### [Program Coordinator](https://www.linkedin.com/jobs/view/4455227284/) — Eating Recovery Center
-- 📍 **Location:** Baltimore, MD
-- 💰 **Salary:** $21.49 - $29 USD
-- 🕒 **Posted:** 2026-08-16
+### [Program Coordinator](https://www.linkedin.com/jobs/view/4455212857/) — VitalHires
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $18.25—$29 USD
+- 🕒 **Posted:** 2026-08-17
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4454215057/) — Living and Wellness by Design
-- 📍 **Location:** Albuquerque, NM
-- 🕒 **Posted:** 2026-08-16
+### [National Sudan Program Coordinator](https://www.linkedin.com/jobs/view/4454223448/) — UMR UMN
+- 📍 **Location:** Indiana, United States
+- 🕒 **Posted:** 2026-08-17
 
-### [Program Specialist 2 - Wellness & Movement Sciences (WAMS) - C99055](https://www.linkedin.com/jobs/view/4454221009/) — Eastern Washington University
-- 📍 **Location:** Cheney, WA
-- 🕒 **Posted:** 2026-08-16
+### [Medical Research Assistant](https://www.linkedin.com/jobs/view/4455221849/) — Celerion
+- 📍 **Location:** Tempe, AZ
+- 💰 **Salary:** $18.00/hr - $18.00/hr
+- 🕒 **Posted:** 2026-08-17
 
-### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4455211281/) — Addition Management
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
-- 🕒 **Posted:** 2026-08-16
-
-### [Medical Clinical Reviewer / Clinical Program Specialist | Managing Consultant](https://www.linkedin.com/jobs/view/4455227308/) — Guidehouse
-- 📍 **Location:** McLean, VA
-- 💰 **Salary:** $113,000.00-$188,000.00
-- 🕒 **Posted:** 2026-08-16
+### [Program Manager,](https://www.linkedin.com/jobs/view/4441404583/) — Baxter International Inc.
+- 📍 **Location:** Round Lake, IL
+- 💰 **Salary:** $120,000-$165,000 annually
+- 🕒 **Posted:** 2026-08-17
