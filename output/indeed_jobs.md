@@ -1,29 +1,18 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-17 17:20 UTC*
+*Last updated: 2026-08-17 18:37 UTC*
 
-**5 new role(s)** since last run · 20 total in last 24h
+**3 new role(s)** since last run · 21 total in last 24h
 
-### [Client Care Coordinator](https://www.indeed.com/viewjob?jk=5bf678962a5df10b) — ‘ili essentials
-- 📍 **Location:** Newhall, CA, US
-- 💰 **Salary:** $18–$21/hr
+### [Housing Specialist](https://www.indeed.com/viewjob?jk=338d9fa10f958a63) — Liberty Healthcare Corporation
+- 📍 **Location:** Sacramento, CA, US
 - 🕒 **Posted:** 2026-08-17
 
-### [Case Manager II - Mental Health 355](https://www.indeed.com/viewjob?jk=547da9d143d31cc2) — Telecare Corporation
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $23/hr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=e9e941479c505e0d) — Jennifer J. Liu, DDS, MD, Inc
+- 📍 **Location:** Fairfield, CA, US
+- 💰 **Salary:** $22–$26/hr
 - 🕒 **Posted:** 2026-08-17
 
-### [Case Manager III - Mental Health 355](https://www.indeed.com/viewjob?jk=4eaa3a95320e9160) — Telecare Corporation
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $23–$27/hr
-- 🕒 **Posted:** 2026-08-17
-
-### [Nurse Case Manager](https://www.indeed.com/viewjob?jk=5e5bd1fe8874e9b3) — MOMS Orange County
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $49–$57/hr
-- 🕒 **Posted:** 2026-08-17
-
-### [Case Manager Vocational Specialist - Mental Health 121](https://www.indeed.com/viewjob?jk=d9ef32687cdeaace) — Telecare Corporation
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $23–$27/hr
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=48b4a161ba2c8dde) — Oliver Audiology & Hearing Aid Services
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $20–$23/hr
 - 🕒 **Posted:** 2026-08-17
