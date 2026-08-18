@@ -1,18 +1,17 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-17 23:38 UTC*
+*Last updated: 2026-08-18 00:58 UTC*
 
-**3 new role(s)** since last run · 94 total in last 30d
+**3 new role(s)** since last run · 97 total in last 30d
 
-### [Housing Specialist](https://jobs.dayforcehcm.com/en-US/jbfcs/candidateportal/jobs/39657) — Jbfcs
-- 📍 **Location:** New York, New York, United States
-- 💰 **Salary:** $66k/yr
-- 🕒 **Posted:** 2026-08-05T04:00:00.000Z
+### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
+- 📍 **Location:** Santa Ana, California, United States
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
 
-### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483) — Care Initiatives
+### [Community Health Worker](https://secure7.saashr.com/ta/6204689.careers?ShowJob=621251159) — Community Health Alliance
+- 📍 **Location:** Reno or Sparks
+- 🕒 **Posted:** 2026-08-17T22:06:07.317Z
+
+### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484) — Care Initiatives
 - 📍 **Location:** Dubuque, Iowa, United States
 - 🕒 **Posted:** 2026-08-17T06:00:00.000Z
-
-### [Development Coordinator – Special Events](https://scoutingcolorado.org/wp-content/uploads/2026/07/Development-Coordinator-Job-Description-07-22-26.pdf) — Scouting Colorado
-- 📍 **Location:** Colorado, United States
-- 💰 **Salary:** $58k–$65k/yr
-- 🕒 **Posted:** 2026-08-17T20:19:28.849Z
