@@ -1,19 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-19 18:45 UTC*
+*Last updated: 2026-08-19 19:49 UTC*
 
-**3 new role(s)** since last run · 98 total in last 30d
+**2 new role(s)** since last run · 98 total in last 30d
 
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, California, United States
-- 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+### [Community Health Worker](https://www.governmentjobs.com/careers/houstonmn/jobs/5441794) — Houston County Minnesota
+- 📍 **Location:** Caledonia, Minnesota, United States
+- 💰 **Salary:** $49k–$64k/yr
+- 🕒 **Posted:** 2026-08-10T22:01:08.387Z
 
-### [Housing Navigator](https://caowash.applicantpro.com/jobs/4169536) — Community Action Organization
-- 📍 **Location:** Hillsboro or Beaverton or Washington County
-- 💰 **Salary:** $48k–$52k/yr
-- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
-
-### [Oral Health Community Health Worker](https://chfs.wd12.myworkdayjobs.com/chfs/job/Letcher-County-Health-Center/Oral-Health-Community-Health-Worker_JR-10001428) — Chfs
-- 📍 **Location:** Letcher County or Perry County or Knott County
-- 💰 **Salary:** $30k–$37k/yr
-- 🕒 **Posted:** 2026-08-19T00:00:00.000Z
+### [Care Coordinator](http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator) — Illumination Health + Home
+- 📍 **Location:** Anaheim, California, United States
+- 💰 **Salary:** $48k–$54k/yr
+- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
