@@ -1,14 +1,24 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-19 19:49 UTC*
+*Last updated: 2026-08-19 20:40 UTC*
 
-**2 new role(s)** since last run · 98 total in last 30d
+**4 new role(s)** since last run · 101 total in last 30d
 
-### [Community Health Worker](https://www.governmentjobs.com/careers/houstonmn/jobs/5441794) — Houston County Minnesota
-- 📍 **Location:** Caledonia, Minnesota, United States
-- 💰 **Salary:** $49k–$64k/yr
-- 🕒 **Posted:** 2026-08-10T22:01:08.387Z
+### [Housing Specialist](https://www.governmentjobs.com/careers/pcgov/jobs/5454197) — Panama City, City of (FL), FL
+- 📍 **Location:** Panama City, Florida, United States
+- 💰 **Salary:** $52k/yr
+- 🕒 **Posted:** 2026-08-19T19:45:00.185Z
 
-### [Care Coordinator](http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator) — Illumination Health + Home
-- 📍 **Location:** Anaheim, California, United States
-- 💰 **Salary:** $48k–$54k/yr
-- 🕒 **Posted:** 2026-08-04T00:00:00.000Z
+### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
+- 📍 **Location:** Santa Ana, California, United States
+- 💰 **Salary:** $46k–$52k/yr
+- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+
+### [Housing Navigator](https://caowash.applicantpro.com/jobs/4169536) — Community Action Organization
+- 📍 **Location:** Hillsboro or Beaverton or Washington County
+- 💰 **Salary:** $48k–$52k/yr
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
+
+### [Care Coordinator](https://ats.rippling.com/fountainlife/jobs/5588d91d-439c-439c-81b7-a83ee7a95bba) — Fountain Life
+- 📍 **Location:** Orlando, Florida, United States
+- 💰 **Salary:** $50k–$55k/yr
+- 🕒 **Posted:** 2026-08-18T18:33:01.724Z
