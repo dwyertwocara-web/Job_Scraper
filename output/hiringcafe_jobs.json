@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 04:05 UTC",
-  "total": 100,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 04:55 UTC",
+  "total": 98,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -134,19 +134,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Home/Life Services",
-      "title": "Housing Specialist",
-      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
-      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
-      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
-      "date_posted": "2026-07-28T20:36:40.744Z",
-      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Independent Living Inc",
       "title": "Housing Specialist",
       "location": "Middletown, New York, United States",
@@ -155,6 +142,19 @@
       "date_posted": "2026-07-30T17:29:57.000Z",
       "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
       "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Home/Life Services",
+      "title": "Housing Specialist",
+      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
+      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "date_posted": "2026-07-28T20:36:40.744Z",
+      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -342,19 +342,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -381,19 +368,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Friendship Place",
       "title": "Housing Navigator",
       "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
@@ -407,19 +381,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Serene Health",
-      "title": "Housing Navigator",
-      "location": "San Diego, California, United States",
-      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
-      "date_posted": "2026-07-23T22:56:13.000Z",
-      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
-      "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Equus",
       "title": "Housing Navigator ",
       "location": "San Diego, California, United States",
@@ -428,6 +389,19 @@
       "date_posted": "2026-07-28T20:00:49.750Z",
       "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
       "salary": "$56k–$58k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Serene Health",
+      "title": "Housing Navigator",
+      "location": "San Diego, California, United States",
+      "url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "direct_url": "https://serenehealth.com/careers/?gh_jid=5195260007",
+      "date_posted": "2026-07-23T22:56:13.000Z",
+      "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
+      "salary": "$52k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -953,19 +927,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Titanium Healthcare",
       "title": "Care Coordinator ",
       "location": "Seattle or King County",
@@ -987,6 +948,19 @@
       "date_posted": "2026-08-06T00:00:00.000Z",
       "description": "High school diploma or GED, 2+ years in a professional office, strong communication, confidentiality, Microsoft Office, Excel and Outlook proficiency; medical office or care coordination experience preferred.",
       "salary": "$37k–$47k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,14 +1018,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
+      "company": "Westchester Medical Center",
+      "title": "Care Coordinator",
+      "location": "Valhalla, New York, United States",
+      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
+      "salary": "$51k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1304,5 +1278,19 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Westchester Medical Center",
+      "title": "Care Coordinator",
+      "location": "Valhalla, New York, United States",
+      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
+      "salary": "$51k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
