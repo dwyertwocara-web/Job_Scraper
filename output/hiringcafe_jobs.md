@@ -1,12 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-19 21:31 UTC*
+*Last updated: 2026-08-19 22:41 UTC*
 
-**2 new role(s)** since last run · 101 total in last 30d
+**2 new role(s)** since last run · 102 total in last 30d
 
-### [Social Services Coordinator](https://gracelutheranfound.hcshiring.com/jobs/T_U9nGap-E6dqZHwA1bwAw) — Grace Lutheran Communities
-- 📍 **Location:** Altoona, Wisconsin, United States
-- 🕒 **Posted:** 2026-08-19T17:07:38.708Z
+### [Housing Navigator](https://caowash.applicantpro.com/jobs/4169536) — Community Action Organization
+- 📍 **Location:** Hillsboro or Beaverton or Washington County
+- 💰 **Salary:** $48k–$52k/yr
+- 🕒 **Posted:** 2026-08-05T00:00:00.000Z
 
-### [Alumni Program Coordinator](https://css-unchealthunc-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(9999,240610,1).JobPostingDisplayNav?csk.HROrganization=9999&csk.JobBoard=EXTERNAL) — UNC Health Foundation
-- 📍 **Location:** Chapel Hill or North Carolina
-- 🕒 **Posted:** 2026-08-19T00:00:00.000Z
+### [Community Health Worker](https://www.governmentjobs.com/careers/houstonmn/jobs/5441794) — Houston County Minnesota
+- 📍 **Location:** Caledonia, Minnesota, United States
+- 💰 **Salary:** $49k–$64k/yr
+- 🕒 **Posted:** 2026-08-10T22:01:08.387Z
