@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-19 01:00 UTC",
-  "total": 96,
-  "new_count": 0,
+  "scraped_at": "2026-08-19 02:41 UTC",
+  "total": 100,
+  "new_count": 6,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -134,19 +134,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Independent Living Inc",
-      "title": "Housing Specialist",
-      "location": "Middletown, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "date_posted": "2026-07-30T17:29:57.000Z",
-      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Home/Life Services",
       "title": "Housing Specialist",
       "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
@@ -155,6 +142,19 @@
       "date_posted": "2026-07-28T20:36:40.744Z",
       "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
       "salary": "$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Independent Living Inc",
+      "title": "Housing Specialist",
+      "location": "Middletown, New York, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
+      "date_posted": "2026-07-30T17:29:57.000Z",
+      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
+      "salary": "$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -342,6 +342,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -363,6 +376,19 @@
       "date_posted": "2026-08-11T15:34:14.966Z",
       "description": "Bachelor’s degree in social work or related field; 1–3 years of case management or 3–5 years in a related field preferred. Requires driver’s license, insurance, clear record, communication, crisis management, and database skills.",
       "salary": "$45k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -745,6 +771,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Grandvue Medical Care Facility",
+      "title": "Care Coordinator",
+      "location": "East Jordan, Michigan, United States",
+      "url": "https://careers.hireology.com/grandvuemcf/2849317/description",
+      "direct_url": "https://careers.hireology.com/grandvuemcf/2849317/description",
+      "date_posted": "2026-08-18T22:29:30.659Z",
+      "description": "RN/BSN with strong clinical, assessment, care coordination, leadership, communication, and team-building skills. Long-term care, dementia, and MDS experience or certification preferred; training provided.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Wellthy",
+      "title": "Care Coordinator",
+      "location": "United States",
+      "url": "https://wellthy.com/careers/post/?gh_jid=7895392003",
+      "direct_url": "https://wellthy.com/careers/post/?gh_jid=7895392003",
+      "date_posted": "2026-08-18T20:47:27.000Z",
+      "description": "Bachelor’s degree in social work, public health, healthcare administration, or similar; 4–6+ years of healthcare, case management, crisis intervention, or care coordination experience; care-plan development experience.",
+      "salary": "$50k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Christ Covenant",
       "title": "Care Coordinator",
       "location": "Atlanta, Georgia, United States",
@@ -1005,19 +1057,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Westchester Medical Center",
-      "title": "Care Coordinator",
-      "location": "Valhalla, New York, United States",
-      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
-      "salary": "$51k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Activeday",
       "title": "Social Services - Social Services Coordinator",
       "location": "Lowell, Massachusetts, United States",
@@ -1117,6 +1156,19 @@
       "date_posted": "2026-08-05T10:45:32.000Z",
       "description": "Bachelor's degree and 3+ years of relevant program or project management experience in education or nonprofits; project planning, risk management, communication, and multiple-project management skills required.",
       "salary": "$54k–$78k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Harbor Freight Tools",
+      "title": "Program Coordinator, LA County Programs",
+      "location": "Calabasas, California, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26281&siteid=6660&PageType=JobDetails&jobid=1425314",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26281&siteid=6660&PageType=JobDetails&jobid=1425314",
+      "date_posted": "2026-08-18T12:00:00.000Z",
+      "description": "Five or more years in program coordination, education, workforce development, philanthropy, nonprofit management, or a related field, with experience managing multi-partner initiatives, budgets, data, events, and stakeholder relationships.",
+      "salary": "$85k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1239,18 +1291,97 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "American Red Cross",
-      "title": "Disaster Program Specialist",
-      "location": "Morgantown, West Virginia, United States",
-      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
-      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
-      "salary": "",
+      "company": "San Diego Blood Bank",
+      "title": "Development Coordinator",
+      "location": "San Diego, California, United States",
+      "url": "https://portal.brightmove.com/jb.do?reqGK=27783427&companyGK=56834&portalGK=48618",
+      "direct_url": "https://portal.brightmove.com/jb.do?reqGK=27783427&companyGK=56834&portalGK=48618",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 2+ years supporting nonprofit fundraising and development. Requires project management, communication, organization, Microsoft Office, donor relations, and reporting skills.",
+      "salary": "$57k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Grandvue Medical Care Facility",
+      "title": "Care Coordinator",
+      "location": "East Jordan, Michigan, United States",
+      "url": "https://careers.hireology.com/grandvuemcf/2849317/description",
+      "direct_url": "https://careers.hireology.com/grandvuemcf/2849317/description",
+      "date_posted": "2026-08-18T22:29:30.659Z",
+      "description": "RN/BSN with strong clinical, assessment, care coordination, leadership, communication, and team-building skills. Long-term care, dementia, and MDS experience or certification preferred; training provided.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Wellthy",
+      "title": "Care Coordinator",
+      "location": "United States",
+      "url": "https://wellthy.com/careers/post/?gh_jid=7895392003",
+      "direct_url": "https://wellthy.com/careers/post/?gh_jid=7895392003",
+      "date_posted": "2026-08-18T20:47:27.000Z",
+      "description": "Bachelor’s degree in social work, public health, healthcare administration, or similar; 4–6+ years of healthcare, case management, crisis intervention, or care coordination experience; care-plan development experience.",
+      "salary": "$50k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Harbor Freight Tools",
+      "title": "Program Coordinator, LA County Programs",
+      "location": "Calabasas, California, United States",
+      "url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26281&siteid=6660&PageType=JobDetails&jobid=1425314",
+      "direct_url": "https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26281&siteid=6660&PageType=JobDetails&jobid=1425314",
+      "date_posted": "2026-08-18T12:00:00.000Z",
+      "description": "Five or more years in program coordination, education, workforce development, philanthropy, nonprofit management, or a related field, with experience managing multi-partner initiatives, budgets, data, events, and stakeholder relationships.",
+      "salary": "$85k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "San Diego Blood Bank",
+      "title": "Development Coordinator",
+      "location": "San Diego, California, United States",
+      "url": "https://portal.brightmove.com/jb.do?reqGK=27783427&companyGK=56834&portalGK=48618",
+      "direct_url": "https://portal.brightmove.com/jb.do?reqGK=27783427&companyGK=56834&portalGK=48618",
+      "date_posted": "2026-08-17T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 2+ years supporting nonprofit fundraising and development. Requires project management, communication, organization, Microsoft Office, donor relations, and reporting skills.",
+      "salary": "$57k–$63k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
