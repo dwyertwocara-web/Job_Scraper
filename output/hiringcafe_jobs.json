@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 17:46 UTC",
-  "total": 102,
-  "new_count": 2,
+  "scraped_at": "2026-08-20 18:59 UTC",
+  "total": 101,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -147,19 +147,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Home/Life Services",
-      "title": "Housing Specialist",
-      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
-      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
-      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
-      "date_posted": "2026-07-28T20:36:40.744Z",
-      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
-      "salary": "$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Independent Living Inc",
       "title": "Housing Specialist",
       "location": "Middletown, New York, United States",
@@ -168,6 +155,19 @@
       "date_posted": "2026-07-30T17:29:57.000Z",
       "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
       "salary": "$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Home/Life Services",
+      "title": "Housing Specialist",
+      "location": "Brooklyn or Brooklyn or Bronx or Brooklyn or Bronx or Long Island City or Brooklyn or Brooklyn or Corona or Long Island City or Brooklyn or Bronx or Brooklyn or Jamaica or Ridgewood or Queens or Brooklyn",
+      "url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "direct_url": "https://secure3.entertimeonline.com/ta/PPC8067.careers?ShowJob=738406081",
+      "date_posted": "2026-07-28T20:36:40.744Z",
+      "description": "2+ years social services experience working with homeless populations, knowledge of CARES system, strong verbal/written communication, organized, culturally sensitive, meet housing placement targets.",
+      "salary": "$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -407,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Serene Health",
       "title": "Housing Navigator",
       "location": "San Diego, California, United States",
@@ -428,19 +415,6 @@
       "date_posted": "2026-07-23T22:56:13.000Z",
       "description": "High school/GED, 1+ year related experience, valid California driver's license and vehicle insurance, TB testing, strong communication, case management, documentation and outreach skills.",
       "salary": "$52k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Project 180",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
-      "direct_url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
-      "salary": "$52k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -459,6 +433,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Project 180",
+      "title": "Housing Navigator",
+      "location": "Los Angeles, California, United States",
+      "url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
+      "direct_url": "http://project180.applytojob.com/apply/fRJAZaBcvZ/Housing-Navigator",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "BA/BS plus 1 year of case management experience, or 2 years without a degree. Requires California driver's license, insurance, personal vehicle, computer skills, and experience with diverse populations.",
+      "salary": "$52k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Butte County, CA",
       "title": "Housing Navigator",
       "location": "Oroville or Chico",
@@ -472,14 +459,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Epic Healthcare",
-      "title": "Housing Navigator - Horizon SD",
-      "location": "National City or San Diego",
-      "url": "https://jobs.apploi.com/view/1929191?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c7d39747c2db4ae798cb794d2e77e103&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=44&ajs_prop_job_id=1929191&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.6781085&ajs_prop_job_location_lon=-117.0991967&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1929191?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c7d39747c2db4ae798cb794d2e77e103&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=44&ajs_prop_job_id=1929191&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.6781085&ajs_prop_job_location_lon=-117.0991967&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Requires 2+ years of related professional experience, housing-resource knowledge, experience serving low-income or homeless populations, computer proficiency, communication skills, and conflict-resolution ability.",
-      "salary": "",
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -493,6 +480,19 @@
       "date_posted": "2026-08-14T00:00:00.000Z",
       "description": "Requires two years of related professional experience, housing knowledge for people experiencing homelessness, local resource expertise, communication and conflict-resolution skills, and proficiency with Microsoft Office and databases.",
       "salary": "$50k–$56k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Epic Healthcare",
+      "title": "Housing Navigator - Horizon SD",
+      "location": "National City or San Diego",
+      "url": "https://jobs.apploi.com/view/1929191?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c7d39747c2db4ae798cb794d2e77e103&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=44&ajs_prop_job_id=1929191&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.6781085&ajs_prop_job_location_lon=-117.0991967&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1929191?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c7d39747c2db4ae798cb794d2e77e103&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=44&ajs_prop_job_id=1929191&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.6781085&ajs_prop_job_location_lon=-117.0991967&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-08-14T00:00:00.000Z",
+      "description": "Requires 2+ years of related professional experience, housing-resource knowledge, experience serving low-income or homeless populations, computer proficiency, communication skills, and conflict-resolution ability.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1005,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AlohaCare",
-      "title": "Care Coordinator",
-      "location": "Honolulu, Hawaii, United States",
-      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
-      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
-      "date_posted": "2026-07-22T03:00:00.000Z",
-      "description": "High school diploma/GED, 1+ year related experience, behavioral health or care coordination experience preferred, Microsoft Office proficiency, strong communication, telephonic etiquette, data entry accuracy.",
-      "salary": "$34k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Acentra Health, LLC",
       "title": "Care Coordinator",
       "location": "Oregon, United States",
@@ -1031,14 +1018,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
+      "company": "AlohaCare",
+      "title": "Care Coordinator",
+      "location": "Honolulu, Hawaii, United States",
+      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "date_posted": "2026-07-22T03:00:00.000Z",
+      "description": "High school diploma/GED, 1+ year related experience, behavioral health or care coordination experience preferred, Microsoft Office proficiency, strong communication, telephonic etiquette, data entry accuracy.",
+      "salary": "$34k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1052,6 +1039,19 @@
       "date_posted": "2026-08-18T00:00:00.000Z",
       "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
       "salary": "$51k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Communicare",
+      "title": "CARE COORDINATOR",
+      "location": "Bardstown, Kentucky, United States",
+      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "date_posted": "2026-08-14T04:20:02.008Z",
+      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1091,19 +1091,6 @@
       "date_posted": "2026-08-13T17:35:47.000Z",
       "description": "Bachelor's degree in social services or a related field required; three years of skilled nursing social service experience preferred; knowledge of federal and state regulations and strong communication skills.",
       "salary": "$42k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain an LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1330,32 +1317,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
