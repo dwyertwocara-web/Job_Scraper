@@ -1,13 +1,13 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-20 04:58 UTC*
+*Last updated: 2026-08-20 17:46 UTC*
 
-**2 new role(s)** since last run · 104 total in last 30d
+**2 new role(s)** since last run · 102 total in last 30d
 
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, California, United States
-- 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+### [Community Health Worker](https://www.governmentjobs.com/careers/houstonmn/jobs/5441794) — Houston County Minnesota
+- 📍 **Location:** Caledonia, Minnesota, United States
+- 💰 **Salary:** $49k–$64k/yr
+- 🕒 **Posted:** 2026-08-10T22:01:08.387Z
 
-### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484) — Care Initiatives
+### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483) — Care Initiatives
 - 📍 **Location:** Dubuque, Iowa, United States
 - 🕒 **Posted:** 2026-08-17T06:00:00.000Z
