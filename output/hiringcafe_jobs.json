@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-19 22:41 UTC",
-  "total": 102,
+  "scraped_at": "2026-08-20 00:59 UTC",
+  "total": 103,
   "new_count": 2,
   "jobs": [
     {
@@ -69,19 +69,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "HOM, INC.",
       "title": "Housing Specialist",
       "location": "Phoenix, Arizona, United States",
@@ -90,6 +77,19 @@
       "date_posted": "2026-07-24T18:35:56.000Z",
       "description": "Knowledge of HUD regulations and fair housing, 1+ year customer service experience, ability to manage large caseloads, proficiency with Microsoft Office 365 and housing software, AZ driver's license and automobile insurance required.",
       "salary": "$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Overview",
+      "title": "Housing Specialist",
+      "location": "New York, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-07-24T04:00:00.000Z",
+      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -342,6 +342,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -368,6 +381,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Friendship Place",
       "title": "Housing Navigator",
       "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
@@ -376,19 +402,6 @@
       "date_posted": "2026-08-12T18:58:39.000Z",
       "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
       "salary": "$58k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Equus",
-      "title": "Housing Navigator ",
-      "location": "San Diego, California, United States",
-      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
-      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
-      "date_posted": "2026-07-28T20:00:49.750Z",
-      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
-      "salary": "$56k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -407,14 +420,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "WEINGART CENTER ASSOCIATION",
-      "title": "Housing Navigator",
-      "location": "Los Angeles, California, United States",
-      "url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
-      "direct_url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
-      "date_posted": "2026-08-11T19:43:17.000Z",
-      "description": "Bachelor’s degree in social services preferred or 2 years relevant experience; social services experience with homeless or low-income individuals; California driver license, auto insurance, and reliable transportation required.",
-      "salary": "",
+      "company": "Equus",
+      "title": "Housing Navigator ",
+      "location": "San Diego, California, United States",
+      "url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "direct_url": "https://jobs.smartrecruiters.com/Equus/744000140328070-housing-navigator-",
+      "date_posted": "2026-07-28T20:00:49.750Z",
+      "description": "Strong verbal/written communication, client assessment, county travel, Microsoft Office and data entry skills, driver\\u0002s license, bachelor\\u0002s in human services preferred.",
+      "salary": "$56k–$58k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -433,27 +446,27 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
+      "company": "WEINGART CENTER ASSOCIATION",
       "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
+      "location": "Los Angeles, California, United States",
+      "url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
+      "direct_url": "https://apply.appone.com/job/6a7b7b54b072b712c1aeff8b",
+      "date_posted": "2026-08-11T19:43:17.000Z",
+      "description": "Bachelor’s degree in social services preferred or 2 years relevant experience; social services experience with homeless or low-income individuals; California driver license, auto insurance, and reliable transportation required.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Oxford Health Group",
-      "title": "Housing Navigator  - Horizon SD",
-      "location": "San Diego, California, United States",
-      "url": "https://jobs.apploi.com/view/1929181?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c13e521e1a464e0f9f99b40d3ebc0ac3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=6&ajs_prop_job_id=1929181&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.7566402&ajs_prop_job_location_lon=-117.2182802&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "direct_url": "https://jobs.apploi.com/view/1929181?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c13e521e1a464e0f9f99b40d3ebc0ac3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=6&ajs_prop_job_id=1929181&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.7566402&ajs_prop_job_location_lon=-117.2182802&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
-      "date_posted": "2026-08-14T00:00:00.000Z",
-      "description": "Requires two years of related professional experience, housing knowledge for people experiencing homelessness, local resource expertise, communication and conflict-resolution skills, and proficiency with Microsoft Office and databases.",
-      "salary": "$50k–$56k/yr",
+      "company": "Butte County, CA",
+      "title": "Housing Navigator",
+      "location": "Oroville or Chico",
+      "url": "https://www.governmentjobs.com/careers/buttecountyca/jobs/5452932",
+      "direct_url": "https://www.governmentjobs.com/careers/buttecountyca/jobs/5452932",
+      "date_posted": "2026-08-19T14:37:05.000Z",
+      "description": "Requires 30 semester or 45 quarter units in a related social services field, three years of case management experience, and a valid U.S. driver's license; California license required after hire.",
+      "salary": "$53k–$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -467,6 +480,19 @@
       "date_posted": "2026-08-14T00:00:00.000Z",
       "description": "Requires 2+ years of related professional experience, housing-resource knowledge, experience serving low-income or homeless populations, computer proficiency, communication skills, and conflict-resolution ability.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Oxford Health Group",
+      "title": "Housing Navigator  - Horizon SD",
+      "location": "San Diego, California, United States",
+      "url": "https://jobs.apploi.com/view/1929181?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c13e521e1a464e0f9f99b40d3ebc0ac3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=6&ajs_prop_job_id=1929181&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.7566402&ajs_prop_job_location_lon=-117.2182802&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "direct_url": "https://jobs.apploi.com/view/1929181?utm_campaign=integration&utm_medium=job-board-search&utm_source=None&ajs_event=LOAD_JOB_PAGE&ajs_aid=3f617530-4530-11e9-a2ca-7e775511d9e3&ajs_prop_search_fetch_id=c13e521e1a464e0f9f99b40d3ebc0ac3&ajs_prop_keyword=&ajs_prop_page=1&ajs_prop_city_center=Unselected&ajs_prop_search_order=6&ajs_prop_job_id=1929181&ajs_prop_doc_type=job&ajs_prop_job_location_lat=32.7566402&ajs_prop_job_location_lon=-117.2182802&ajs_prop_boosted=0&ajs_prop_utm_source=None&ajs_prop_utm_medium=job-board-search&ajs_prop_utm_campaign=integration",
+      "date_posted": "2026-08-14T00:00:00.000Z",
+      "description": "Requires two years of related professional experience, housing knowledge for people experiencing homelessness, local resource expertise, communication and conflict-resolution skills, and proficiency with Microsoft Office and databases.",
+      "salary": "$50k–$56k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -531,19 +557,6 @@
       "direct_url": "https://secure7.saashr.com/ta/6204689.careers?ShowJob=621251159",
       "date_posted": "2026-08-17T22:06:07.317Z",
       "description": "Requires 2+ years of healthcare or community-based experience, fluent Spanish, Nevada community health worker certification, Microsoft Office and EMR proficiency, communication, data collection, and community resource knowledge.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Community Health Service Inc.",
-      "title": "Community Health Worker",
-      "location": "Grafton, North Dakota, United States",
-      "url": "https://chsiclinics.applicantpro.com/jobs/4153851",
-      "direct_url": "https://chsiclinics.applicantpro.com/jobs/4153851",
-      "date_posted": "2026-07-21T00:00:00.000Z",
-      "description": "Certified community/traditional health worker; knowledge of HIPAA; valid driver\\u0002s license and ability to travel; Microsoft Office skills; excellent communication and organizational skills.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -966,19 +979,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Titanium Healthcare",
       "title": "Care Coordinator ",
       "location": "Seattle or King County",
@@ -987,6 +987,19 @@
       "date_posted": "2026-08-11T00:00:00.000Z",
       "description": "Bachelor's degree in a related field, 1+ year healthcare, social work, or care coordination experience, valid driver's license, reliable transportation, BLS, and secure home workspace required.",
       "salary": "$52k–$62k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1044,19 +1057,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Westchester Medical Center",
       "title": "Care Coordinator",
       "location": "Valhalla, New York, United States",
@@ -1065,6 +1065,19 @@
       "date_posted": "2026-08-18T00:00:00.000Z",
       "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
       "salary": "$51k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Communicare",
+      "title": "CARE COORDINATOR",
+      "location": "Bardstown, Kentucky, United States",
+      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "date_posted": "2026-08-14T04:20:02.008Z",
+      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1332,27 +1345,27 @@
   ],
   "new_jobs": [
     {
-      "company": "Community Action Organization",
+      "company": "Illumination Health + Home",
       "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "Houston County Minnesota",
-      "title": "Community Health Worker",
-      "location": "Caledonia, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "direct_url": "https://www.governmentjobs.com/careers/houstonmn/jobs/5441794",
-      "date_posted": "2026-08-10T22:01:08.387Z",
-      "description": "High school diploma or equivalent, one year of related community health experience, CHW certificate or ability to obtain within one year, Minnesota DHS Merit qualification, and background check.",
-      "salary": "$49k–$64k/yr",
+      "company": "Butte County, CA",
+      "title": "Housing Navigator",
+      "location": "Oroville or Chico",
+      "url": "https://www.governmentjobs.com/careers/buttecountyca/jobs/5452932",
+      "direct_url": "https://www.governmentjobs.com/careers/buttecountyca/jobs/5452932",
+      "date_posted": "2026-08-19T14:37:05.000Z",
+      "description": "Requires 30 semester or 45 quarter units in a related social services field, three years of case management experience, and a valid U.S. driver's license; California license required after hire.",
+      "salary": "$53k–$71k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
