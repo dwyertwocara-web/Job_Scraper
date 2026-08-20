@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 00:59 UTC",
+  "scraped_at": "2026-08-20 02:45 UTC",
   "total": 103,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -1343,32 +1343,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Butte County, CA",
-      "title": "Housing Navigator",
-      "location": "Oroville or Chico",
-      "url": "https://www.governmentjobs.com/careers/buttecountyca/jobs/5452932",
-      "direct_url": "https://www.governmentjobs.com/careers/buttecountyca/jobs/5452932",
-      "date_posted": "2026-08-19T14:37:05.000Z",
-      "description": "Requires 30 semester or 45 quarter units in a related social services field, three years of case management experience, and a valid U.S. driver's license; California license required after hire.",
-      "salary": "$53k–$71k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
