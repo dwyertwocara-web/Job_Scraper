@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 21:49 UTC",
-  "total": 103,
-  "new_count": 2,
+  "scraped_at": "2026-08-20 22:47 UTC",
+  "total": 102,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -212,19 +212,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Housing Commission",
-      "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "S:US",
       "title": "Housing Specialist",
       "location": "Amityville, New York, United States",
@@ -234,6 +221,19 @@
       "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
       "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "San Diego Housing Commission",
+      "title": "Housing Specialist",
+      "location": "San Diego, California, United States",
+      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "date_posted": "2026-07-30T18:02:04.000Z",
+      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
+      "salary": "$78k–$95k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -901,19 +901,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "ComForCare Home Health Care - Clarksville",
-      "title": "Care Coordinator",
-      "location": "Hendersonville, Tennessee, United States",
-      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
-      "date_posted": "2026-08-11T18:50:51.000Z",
-      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
-      "salary": "$37k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "EmpowerMe Wellness",
       "title": "Care Coordinator",
       "location": "Evanston, Illinois, United States",
@@ -927,6 +914,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "ComForCare Home Health Care - Clarksville",
+      "title": "Care Coordinator",
+      "location": "Hendersonville, Tennessee, United States",
+      "url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "direct_url": "https://cfc-clarksville.careerplug.com/jobs/3541336",
+      "date_posted": "2026-08-11T18:50:51.000Z",
+      "description": "High school diploma or equivalent required; healthcare or home care coordination experience preferred. Requires strong organization, communication, problem-solving, and scheduling software proficiency.",
+      "salary": "$37k/yr",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Good Shepherd Services",
       "title": "Care Coordinator-Foster Care",
       "location": "Bronx, New York, United States",
@@ -935,19 +935,6 @@
       "date_posted": "2026-08-07T03:00:00.000Z",
       "description": "Bachelor's degree with two years' experience, case or care coordination in social services, and experience serving children and families; child welfare, foster care, or healthcare experience helpful.",
       "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Children's Specialized ABA",
-      "title": "Care Coordinator",
-      "location": "Greensboro, North Carolina, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "date_posted": "2026-08-13T14:44:46.000Z",
-      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
-      "salary": "$55k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -966,14 +953,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
+      "company": "Children's Specialized ABA",
       "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
+      "location": "Greensboro, North Carolina, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "date_posted": "2026-08-13T14:44:46.000Z",
+      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
+      "salary": "$55k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1018,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "AlohaCare",
-      "title": "Care Coordinator",
-      "location": "Honolulu, Hawaii, United States",
-      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
-      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
-      "date_posted": "2026-07-22T03:00:00.000Z",
-      "description": "High school diploma/GED, 1+ year related experience, behavioral health or care coordination experience preferred, Microsoft Office proficiency, strong communication, telephonic etiquette, data entry accuracy.",
-      "salary": "$34k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Acentra Health, LLC",
       "title": "Care Coordinator",
       "location": "Oregon, United States",
@@ -1044,14 +1018,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
+      "company": "AlohaCare",
+      "title": "Care Coordinator",
+      "location": "Honolulu, Hawaii, United States",
+      "url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "direct_url": "https://alohacare.hrmdirect.com/employment/job-opening.php?req=3768941&req_loc=1402508",
+      "date_posted": "2026-07-22T03:00:00.000Z",
+      "description": "High school diploma/GED, 1+ year related experience, behavioral health or care coordination experience preferred, Microsoft Office proficiency, strong communication, telephonic etiquette, data entry accuracy.",
+      "salary": "$34k–$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1065,6 +1039,19 @@
       "date_posted": "2026-08-18T00:00:00.000Z",
       "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
       "salary": "$51k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Communicare",
+      "title": "CARE COORDINATOR",
+      "location": "Bardstown, Kentucky, United States",
+      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "date_posted": "2026-08-14T04:20:02.008Z",
+      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1343,32 +1330,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Friendship Place",
-      "title": "Housing Navigator",
-      "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789",
-      "date_posted": "2026-08-12T18:58:39.000Z",
-      "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
-      "salary": "$58k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Titanium Healthcare",
-      "title": "Care Coordinator ",
-      "location": "Seattle or King County",
-      "url": "https://titaniumhealthcare.bamboohr.com/careers/707",
-      "direct_url": "https://titaniumhealthcare.bamboohr.com/careers/707",
-      "date_posted": "2026-08-11T00:00:00.000Z",
-      "description": "Bachelor's degree in a related field, 1+ year healthcare, social work, or care coordination experience, valid driver's license, reliable transportation, BLS, and secure home workspace required.",
-      "salary": "$52k–$62k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
