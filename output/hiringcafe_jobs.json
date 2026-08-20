@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-20 22:47 UTC",
-  "total": 102,
-  "new_count": 0,
+  "scraped_at": "2026-08-20 23:46 UTC",
+  "total": 103,
+  "new_count": 3,
   "jobs": [
     {
       "company": "Cincinnati Metropolitan Housing Authority",
@@ -69,19 +69,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "HOM, INC.",
-      "title": "Housing Specialist",
-      "location": "Phoenix, Arizona, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746",
-      "date_posted": "2026-07-24T18:35:56.000Z",
-      "description": "Knowledge of HUD regulations and fair housing, 1+ year customer service experience, ability to manage large caseloads, proficiency with Microsoft Office 365 and housing software, AZ driver's license and automobile insurance required.",
-      "salary": "$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Overview",
       "title": "Housing Specialist",
       "location": "New York, New York, United States",
@@ -90,6 +77,19 @@
       "date_posted": "2026-07-24T04:00:00.000Z",
       "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
       "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "HOM, INC.",
+      "title": "Housing Specialist",
+      "location": "Phoenix, Arizona, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4362746",
+      "date_posted": "2026-07-24T18:35:56.000Z",
+      "description": "Knowledge of HUD regulations and fair housing, 1+ year customer service experience, ability to manage large caseloads, proficiency with Microsoft Office 365 and housing software, AZ driver's license and automobile insurance required.",
+      "salary": "$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -212,19 +212,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "S:US",
-      "title": "Housing Specialist",
-      "location": "Amityville, New York, United States",
-      "url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-08-06T04:00:00.000Z",
-      "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
-      "salary": "$45k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "San Diego Housing Commission",
       "title": "Housing Specialist",
       "location": "San Diego, California, United States",
@@ -238,6 +225,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "S:US",
+      "title": "Housing Specialist",
+      "location": "Amityville, New York, United States",
+      "url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-08-06T04:00:00.000Z",
+      "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
+      "salary": "$45k–$55k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Community Roots Housing",
       "title": "Housing Specialist",
       "location": "Seattle, Washington, United States",
@@ -246,19 +246,6 @@
       "date_posted": "2026-07-22T16:56:19.000Z",
       "description": "High school diploma preferred, intermediate Microsoft Office (Word, Excel, Outlook), strong communication, ability to meet deadlines, knowledge of diverse populations, preferred affordable housing (tax credit/HUD) experience, background check required.",
       "salary": "$56k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Scott County Community Development Agency, MN",
-      "title": "Rental Assistance Housing Specialist",
-      "location": "Shakopee, Minnesota, United States",
-      "url": "https://www.governmentjobs.com/careers/scottcda/jobs/5419627",
-      "direct_url": "https://www.governmentjobs.com/careers/scottcda/jobs/5419627",
-      "date_posted": "2026-07-22T22:11:47.000Z",
-      "description": "Case management experience with subsidized housing programs, ability to determine eligibility, strong written/verbal communication, data management proficiency, valid driver’s license, HCV Specialist certification within six months.",
-      "salary": "$61k–$74k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -368,19 +355,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
@@ -407,19 +381,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Friendship Place",
       "title": "Housing Navigator",
       "location": "Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County",
@@ -428,6 +389,19 @@
       "date_posted": "2026-08-12T18:58:39.000Z",
       "description": "High school diploma/GED required; 2+ years of case management or similar experience preferred. Requires driver's license, auto insurance, reliable vehicle, strong communication, Office 365, and CPR/First Aid/AED certification.",
       "salary": "$58k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Community Action Organization",
+      "title": "Housing Navigator",
+      "location": "Hillsboro or Beaverton or Washington County",
+      "url": "https://caowash.applicantpro.com/jobs/4169536",
+      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
+      "date_posted": "2026-08-05T00:00:00.000Z",
+      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
+      "salary": "$48k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -550,19 +524,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Neighborhood Health Center",
-      "title": "Community Health Worker",
-      "location": "Blasdell, New York, United States",
-      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
-      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=859a25ef-1259-4bb2-8828-fbb1ed2e3b82",
-      "date_posted": "2026-07-28T14:50:57.167Z",
-      "description": "High school diploma, experience in community health or patient resource coordination, EHR and Microsoft Office experience, strong communication and organizational skills.",
-      "salary": "$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Community Health Alliance",
       "title": "Community Health Worker",
       "location": "Reno or Sparks",
@@ -623,6 +584,19 @@
       "date_posted": "2026-08-19T00:00:00.000Z",
       "description": "High school diploma or GED, one year of public health or related supportive-services experience, valid motor vehicle operator's license, and community health worker certification or certification within six months.",
       "salary": "$30k–$37k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Neighborhood Health Center",
+      "title": "Community Health Worker",
+      "location": "Blasdell, New York, United States",
+      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=07e17835-5b7c-4824-89ff-5bf4802b5628",
+      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=07e17835-5b7c-4824-89ff-5bf4802b5628",
+      "date_posted": "2026-07-28T14:49:30.244Z",
+      "description": "High school diploma, experience in community health or patient resource coordination, familiarity with EHRs and Microsoft Office, strong communication and organizational skills, ability to travel for outreach and work occasional evening hours.",
+      "salary": "$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -727,6 +701,19 @@
       "date_posted": "2026-08-18T12:29:59.000Z",
       "description": "Community Health Worker certification, high school diploma or GED, 1–3 years of health or behavioral health experience, Indiana driver's license, insurance, reliable transportation, HIPAA compliance, and vaccination requirements.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Well Care Community Health, Inc",
+      "title": "Community Health Worker-Population Health",
+      "location": "Austin, Indiana, United States",
+      "url": "https://wellcarecommunityhealth.exacthire.com/job/206295",
+      "direct_url": "https://wellcarecommunityhealth.exacthire.com/job/206295",
+      "date_posted": "2026-08-20T18:49:41.000Z",
+      "description": "High school diploma or GED required. Community Health Worker certification required at hire or completion of an approved 40+ hour program. One year of related experience preferred.",
+      "salary": "$40k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -901,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "EmpowerMe Wellness",
-      "title": "Care Coordinator",
-      "location": "Evanston, Illinois, United States",
-      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
-      "date_posted": "2026-08-04T18:37:46.000Z",
-      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
-      "salary": "$35k–$46k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "ComForCare Home Health Care - Clarksville",
       "title": "Care Coordinator",
       "location": "Hendersonville, Tennessee, United States",
@@ -927,6 +901,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "EmpowerMe Wellness",
+      "title": "Care Coordinator",
+      "location": "Evanston, Illinois, United States",
+      "url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "direct_url": "https://careers.empowerme.com/jobs/22966?lang=en-us",
+      "date_posted": "2026-08-04T18:37:46.000Z",
+      "description": "Administrative experience in senior living preferred; certification in healthcare or business administration; scheduling, intake, care coordination, client-facing communication, and knowledge of senior therapy services.",
+      "salary": "$35k–$46k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Good Shepherd Services",
       "title": "Care Coordinator-Foster Care",
       "location": "Bronx, New York, United States",
@@ -935,6 +922,19 @@
       "date_posted": "2026-08-07T03:00:00.000Z",
       "description": "Bachelor's degree with two years' experience, case or care coordination in social services, and experience serving children and families; child welfare, foster care, or healthcare experience helpful.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Children's Specialized ABA",
+      "title": "Care Coordinator",
+      "location": "Greensboro, North Carolina, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
+      "date_posted": "2026-08-13T14:44:46.000Z",
+      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
+      "salary": "$55k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -953,14 +953,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Children's Specialized ABA",
+      "company": "Illumination Health + Home",
       "title": "Care Coordinator",
-      "location": "Greensboro, North Carolina, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4417004",
-      "date_posted": "2026-08-13T14:44:46.000Z",
-      "description": "High school diploma or GED, strong organization and communication skills, Microsoft Office proficiency, and 2 years of intake/care coordination or ABA experience; higher education preferred.",
-      "salary": "$55k–$60k/yr",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1005,19 +1005,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Acentra Health, LLC",
-      "title": "Care Coordinator",
-      "location": "Oregon, United States",
-      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
-      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
-      "date_posted": "2026-08-13T21:31:46.000Z",
-      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
-      "salary": "$49k–$60k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "AlohaCare",
       "title": "Care Coordinator",
       "location": "Honolulu, Hawaii, United States",
@@ -1031,16 +1018,16 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Westchester Medical Center",
+      "company": "Acentra Health, LLC",
       "title": "Care Coordinator",
-      "location": "Valhalla, New York, United States",
-      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
-      "salary": "$51k–$64k/yr",
+      "location": "Oregon, United States",
+      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "date_posted": "2026-08-13T21:31:46.000Z",
+      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
+      "salary": "$49k–$60k/yr",
       "job_type": "Full Time",
-      "is_remote": false,
+      "is_remote": true,
       "ats": "HiringCafe"
     },
     {
@@ -1052,6 +1039,19 @@
       "date_posted": "2026-08-14T04:20:02.008Z",
       "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
       "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Westchester Medical Center",
+      "title": "Care Coordinator",
+      "location": "Valhalla, New York, United States",
+      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
+      "salary": "$51k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1328,7 +1328,60 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "American Red Cross",
+      "title": "Disaster Program Specialist",
+      "location": "Morgantown, West Virginia, United States",
+      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Well Care Community Health, Inc",
+      "title": "Community Health Worker-Population Health",
+      "location": "Austin, Indiana, United States",
+      "url": "https://wellcarecommunityhealth.exacthire.com/job/206295",
+      "direct_url": "https://wellcarecommunityhealth.exacthire.com/job/206295",
+      "date_posted": "2026-08-20T18:49:41.000Z",
+      "description": "High school diploma or GED required. Community Health Worker certification required at hire or completion of an approved 40+ hour program. One year of related experience preferred.",
+      "salary": "$40k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "American Red Cross",
+      "title": "Disaster Program Specialist",
+      "location": "Morgantown, West Virginia, United States",
+      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
