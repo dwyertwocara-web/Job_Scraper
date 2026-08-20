@@ -1,13 +1,14 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-20 20:42 UTC*
+*Last updated: 2026-08-20 21:49 UTC*
 
-**2 new role(s)** since last run · 101 total in last 30d
+**2 new role(s)** since last run · 103 total in last 30d
 
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, California, United States
-- 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+### [Housing Navigator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4414789) — Friendship Place
+- 📍 **Location:** Washington or Arlington County or Alexandria or Loudoun County or Fairfax County or Prince William County or Montgomery County or Prince George's County or Frederick County or Washington County or Anne Arundel County or Howard County or Allegany County or Carroll County or Garrett County
+- 💰 **Salary:** $58k–$64k/yr
+- 🕒 **Posted:** 2026-08-12T18:58:39.000Z
 
-### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484) — Care Initiatives
-- 📍 **Location:** Dubuque, Iowa, United States
-- 🕒 **Posted:** 2026-08-17T06:00:00.000Z
+### [Care Coordinator ](https://titaniumhealthcare.bamboohr.com/careers/707) — Titanium Healthcare
+- 📍 **Location:** Seattle or King County
+- 💰 **Salary:** $52k–$62k/yr
+- 🕒 **Posted:** 2026-08-11T00:00:00.000Z
