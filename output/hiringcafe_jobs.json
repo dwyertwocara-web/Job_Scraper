@@ -1,8 +1,21 @@
 {
-  "scraped_at": "2026-08-21 05:02 UTC",
-  "total": 102,
-  "new_count": 0,
+  "scraped_at": "2026-08-21 17:51 UTC",
+  "total": 99,
+  "new_count": 4,
   "jobs": [
+    {
+      "company": "Samaritan Daytop Village",
+      "title": "Housing Specialist",
+      "location": "New York City, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6355/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6355/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-08-21T04:00:00.000Z",
+      "description": "Associate’s or bachelor’s degree in human services or related field, at least one year of housing specialist experience, housing systems knowledge, strong communication, computer literacy, confidentiality, and ability to work independently.",
+      "salary": "$63k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
     {
       "company": "Cincinnati Metropolitan Housing Authority",
       "title": "Housing Specialist (Leasing)",
@@ -82,19 +95,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Overview",
-      "title": "Housing Specialist",
-      "location": "New York, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6243/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-07-24T04:00:00.000Z",
-      "description": "High school diploma, 6+ months housing/real estate experience with NYC DHS or similar, case management experience, knowledge of housing subsidies, strong computer skills, CPR/First Aid training willingness.",
-      "salary": "$53k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Abode Services",
       "title": "Housing Specialist",
       "location": "Napa County, California, United States",
@@ -147,14 +147,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Independent Living Inc",
+      "company": "Fresno Housing Authority, CA",
       "title": "Housing Specialist",
-      "location": "Middletown, New York, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4377960",
-      "date_posted": "2026-07-30T17:29:57.000Z",
-      "description": "High school diploma or equivalent, valid driver\\u000driver's license and reliable transportation, experience in housing/disability/human services, Microsoft Office proficiency, strong communication and organizational skills.",
-      "salary": "$52k/yr",
+      "location": "Fresno, California, United States",
+      "url": "https://www.governmentjobs.com/careers/fresnohousing/jobs/5448099",
+      "direct_url": "https://www.governmentjobs.com/careers/fresnohousing/jobs/5448099",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "One year of progressively responsible experience in housing, social services, or a similar field, plus a high school diploma or GED; strong customer service and administrative skills.",
+      "salary": "$52k–$63k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -186,19 +186,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Research Foundation",
-      "title": "Housing Specialist",
-      "location": "San Diego or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
-      "url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
-      "direct_url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
-      "date_posted": "2026-08-11T20:16:56.071Z",
-      "description": "High school diploma and 1 year related experience required; housing or mental health experience preferred. Requires California driver's license, vehicle, insurance, Microsoft Office skills, and background clearance.",
-      "salary": "$60k–$61k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "S:US",
       "title": "Housing Specialist",
       "location": "Amityville, New York, United States",
@@ -206,19 +193,6 @@
       "direct_url": "https://careeropportunity-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
       "date_posted": "2026-08-06T04:00:00.000Z",
       "description": "High school diploma required; bachelor's degree preferred. Requires strong communication, fieldwork, landlord engagement, housing services knowledge, basic computer skills, and ability to work outside normal hours.",
-      "salary": "$45k–$55k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "S:US",
-      "title": "Housing Specialist",
-      "location": "Amityville, New York, United States",
-      "url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-08-06T04:00:00.000Z",
-      "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
       "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
@@ -238,14 +212,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Roots Housing",
+      "company": "S:US",
       "title": "Housing Specialist",
-      "location": "Seattle, Washington, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4344387",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4344387",
-      "date_posted": "2026-07-22T16:56:19.000Z",
-      "description": "High school diploma preferred, intermediate Microsoft Office (Word, Excel, Outlook), strong communication, ability to meet deadlines, knowledge of diverse populations, preferred affordable housing (tax credit/HUD) experience, background check required.",
-      "salary": "$56k–$60k/yr",
+      "location": "Amityville, New York, United States",
+      "url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-sus.icims.com/jobs/18760/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-08-06T04:00:00.000Z",
+      "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
+      "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -433,19 +407,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Community Action Organization",
-      "title": "Housing Navigator",
-      "location": "Hillsboro or Beaverton or Washington County",
-      "url": "https://caowash.applicantpro.com/jobs/4169536",
-      "direct_url": "https://caowash.applicantpro.com/jobs/4169536",
-      "date_posted": "2026-08-05T00:00:00.000Z",
-      "description": "High school diploma or equivalent and 1+ year of social services experience required. Requires communication, public speaking, case coordination, Microsoft Office, database management, transportation, driver's license, and vehicle insurance.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Oxford Health Group",
       "title": "Housing Navigator  - Horizon SD",
       "location": "San Diego, California, United States",
@@ -571,19 +532,6 @@
       "date_posted": "2026-08-19T00:00:00.000Z",
       "description": "High school diploma or GED, one year of public health or related supportive-services experience, valid motor vehicle operator's license, and community health worker certification or certification within six months.",
       "salary": "$30k–$37k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Neighborhood Health Center",
-      "title": "Community Health Worker",
-      "location": "Blasdell, New York, United States",
-      "url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=07e17835-5b7c-4824-89ff-5bf4802b5628",
-      "direct_url": "https://recruiting.ultipro.com/nei1007nbhr/JobBoard/13d0e2c6-140c-45a9-9b75-3b2ef5191e20/OpportunityDetail?opportunityId=07e17835-5b7c-4824-89ff-5bf4802b5628",
-      "date_posted": "2026-07-28T14:49:30.244Z",
-      "description": "High school diploma, experience in community health or patient resource coordination, familiarity with EHRs and Microsoft Office, strong communication and organizational skills, ability to travel for outreach and work occasional evening hours.",
-      "salary": "$46k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -992,6 +940,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Innovista Medical Center Texas LLC",
       "title": "Care Coordinator",
       "location": "Willowbrook or Spring or Houston or Dallas",
@@ -1005,14 +966,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Archwellhealth",
-      "title": "Center Care Team - Care Coordinator",
-      "location": "Ferguson, Missouri, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/archwellhealth/candidateportal/jobs/27133",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/archwellhealth/candidateportal/jobs/27133",
-      "date_posted": "2026-07-22T06:00:00.000Z",
-      "description": "Coordinate care and referrals for senior members, document referrals, navigate healthcare systems, and collaborate with interdisciplinary teams; HS diploma and 2 years referral or care coordination experience required.",
-      "salary": "",
+      "company": "Westchester Medical Center",
+      "title": "Care Coordinator",
+      "location": "Valhalla, New York, United States",
+      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
+      "salary": "$51k–$64k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1028,19 +989,6 @@
       "salary": "$49k–$60k/yr",
       "job_type": "Full Time",
       "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Westchester Medical Center",
-      "title": "Care Coordinator",
-      "location": "Valhalla, New York, United States",
-      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
-      "salary": "$51k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
       "ats": "HiringCafe"
     },
     {
@@ -1099,10 +1047,10 @@
       "company": "Care Initiatives",
       "title": "Social Services Coordinator",
       "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
+      "url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
       "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain LSW; and one year of supervised healthcare social work experience.",
+      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain an LSW; and one year of supervised healthcare social work experience.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1112,10 +1060,10 @@
       "company": "Care Initiatives",
       "title": "Social Services Coordinator",
       "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
+      "url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
+      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
       "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain an LSW; and one year of supervised healthcare social work experience.",
+      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain LSW; and one year of supervised healthcare social work experience.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -1328,7 +1276,73 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
+    },
+    {
+      "company": "American Red Cross",
+      "title": "Disaster Program Specialist",
+      "location": "Morgantown, West Virginia, United States",
+      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "Samaritan Daytop Village",
+      "title": "Housing Specialist",
+      "location": "New York City, New York, United States",
+      "url": "https://careers-samaritanvillage.icims.com/jobs/6355/housing-specialist/job?in_iframe=1",
+      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6355/housing-specialist/job?in_iframe=1",
+      "date_posted": "2026-08-21T04:00:00.000Z",
+      "description": "Associate’s or bachelor’s degree in human services or related field, at least one year of housing specialist experience, housing systems knowledge, strong communication, computer literacy, confidentiality, and ability to work independently.",
+      "salary": "$63k–$69k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Fresno Housing Authority, CA",
+      "title": "Housing Specialist",
+      "location": "Fresno, California, United States",
+      "url": "https://www.governmentjobs.com/careers/fresnohousing/jobs/5448099",
+      "direct_url": "https://www.governmentjobs.com/careers/fresnohousing/jobs/5448099",
+      "date_posted": "2026-08-13T00:00:00.000Z",
+      "description": "One year of progressively responsible experience in housing, social services, or a similar field, plus a high school diploma or GED; strong customer service and administrative skills.",
+      "salary": "$52k–$63k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Care Coordinator",
+      "location": "Anaheim, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
+      "date_posted": "2026-08-04T00:00:00.000Z",
+      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
+      "salary": "$48k–$54k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "American Red Cross",
+      "title": "Disaster Program Specialist",
+      "location": "Morgantown, West Virginia, United States",
+      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
+      "date_posted": "2026-08-10T00:00:00.000Z",
+      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    }
+  ]
 }
