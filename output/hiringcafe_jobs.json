@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 18:50 UTC",
-  "total": 99,
-  "new_count": 0,
+  "scraped_at": "2026-08-21 20:40 UTC",
+  "total": 100,
+  "new_count": 5,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -186,6 +186,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Community Research Foundation",
+      "title": "Housing Specialist",
+      "location": "San Diego or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
+      "url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
+      "direct_url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
+      "date_posted": "2026-08-11T20:16:56.071Z",
+      "description": "High school diploma and 1 year related experience required; housing or mental health experience preferred. Requires California driver's license, vehicle, insurance, Microsoft Office skills, and background clearance.",
+      "salary": "$60k–$61k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "S:US",
       "title": "Housing Specialist",
       "location": "Amityville, New York, United States",
@@ -303,6 +316,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "City of San Bernardino, CA",
+      "title": "Housing Navigator",
+      "location": "San Bernardino, California, United States",
+      "url": "https://www.governmentjobs.com/careers/citysanbernardino/jobs/5449143",
+      "direct_url": "https://www.governmentjobs.com/careers/citysanbernardino/jobs/5449143",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Bachelor’s degree or equivalent education and experience, plus one year of social casework, eligibility casework, or housing-program experience. California driver’s license required; mandated reporter training required.",
+      "salary": "$68k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Pacific Clinics",
       "title": "Housing Navigator",
       "location": "Pasadena, California, United States",
@@ -316,14 +342,14 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "YWCA Nashville & Middle Tennessee",
+      "company": "Illumination Health + Home",
       "title": "Housing Navigator",
-      "location": "Nashville, Tennessee, United States",
-      "url": "https://apply.appone.com/job/6a7b3fe45b677f622d1e25bf",
-      "direct_url": "https://apply.appone.com/job/6a7b3fe45b677f622d1e25bf",
-      "date_posted": "2026-08-11T15:39:10.000Z",
-      "description": "Bachelor’s degree in social work or related field; 1–3 years case management or 3–5 years related experience preferred. Requires driver’s license, insurance, clear record, local travel, crisis response, and flexible availability.",
-      "salary": "",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -332,11 +358,11 @@
       "company": "YWCA Nashville & Middle Tennessee",
       "title": "Housing Navigator",
       "location": "Nashville, Tennessee, United States",
-      "url": "https://ywcanashville.betterteam.com/housing-navigator",
-      "direct_url": "https://ywcanashville.betterteam.com/housing-navigator",
-      "date_posted": "2026-08-11T15:34:14.966Z",
-      "description": "Bachelor’s degree in social work or related field; 1–3 years of case management or 3–5 years in a related field preferred. Requires driver’s license, insurance, clear record, communication, crisis management, and database skills.",
-      "salary": "$45k/yr",
+      "url": "https://apply.appone.com/job/6a7b3fe45b677f622d1e25bf",
+      "direct_url": "https://apply.appone.com/job/6a7b3fe45b677f622d1e25bf",
+      "date_posted": "2026-08-11T15:39:10.000Z",
+      "description": "Bachelor’s degree in social work or related field; 1–3 years case management or 3–5 years related experience preferred. Requires driver’s license, insurance, clear record, local travel, crisis response, and flexible availability.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1057,19 +1083,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Lutheran Life Communities",
       "title": "Social Services Coordinator",
       "location": "Arlington Heights, Illinois, United States",
@@ -1117,6 +1130,19 @@
       "date_posted": "2026-08-20T17:47:00.000Z",
       "description": "Bachelor’s degree and 3+ years in administration, program or project coordination, events, nonprofit services, government, or related work. Requires Microsoft Office skills, Michigan driver’s license, and vehicle insurance.",
       "salary": "$50k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Albert Einstein College of Medicine",
+      "title": "Program Coordinator",
+      "location": "Bronx, New York, United States",
+      "url": "https://employee-einstein.icims.com/jobs/18250/program-coordinator/job?in_iframe=1",
+      "direct_url": "https://employee-einstein.icims.com/jobs/18250/program-coordinator/job?in_iframe=1",
+      "date_posted": "2026-08-21T04:00:00.000Z",
+      "description": "Bachelor's degree preferred; 2–3 years of relevant administrative, program coordination, higher education, nonprofit, or related experience. Requires strong organization, communication, multitasking, and Microsoft Office skills.",
+      "salary": "$70k–$75k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1200,6 +1226,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Catholic Charities of the Archdiocese of Washington",
+      "title": "Program Coordinator, (1166)",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4435048",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4435048",
+      "date_posted": "2026-08-20T22:12:08.000Z",
+      "description": "Associate’s degree and two years supporting a mid- to high-level administrator, preferably in school, nonprofit, or human services settings; advanced Microsoft Office Suite and database proficiency required.",
+      "salary": "$53k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "UNC Health Foundation",
       "title": "Alumni Program Coordinator",
       "location": "Chapel Hill or North Carolina",
@@ -1263,33 +1302,73 @@
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
-    },
+    }
+  ],
+  "new_jobs": [
     {
-      "company": "San Diego Blood Bank",
-      "title": "Development Coordinator",
-      "location": "San Diego, California, United States",
-      "url": "https://portal.brightmove.com/jb.do?reqGK=27783427&companyGK=56834&portalGK=48618",
-      "direct_url": "https://portal.brightmove.com/jb.do?reqGK=27783427&companyGK=56834&portalGK=48618",
-      "date_posted": "2026-08-17T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience and 2+ years supporting nonprofit fundraising and development. Requires project management, communication, organization, Microsoft Office, donor relations, and reporting skills.",
-      "salary": "$57k–$63k/yr",
+      "company": "Community Research Foundation",
+      "title": "Housing Specialist",
+      "location": "San Diego or Clayton County or Cobb County or DeKalb County or Douglas County or Fayette County or Fulton County or Gwinnett County or Henry County or Jackson County or Rockdale County",
+      "url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
+      "direct_url": "https://secure7.saashr.com/ta/6215389.careers?ShowJob=621242629",
+      "date_posted": "2026-08-11T20:16:56.071Z",
+      "description": "High school diploma and 1 year related experience required; housing or mental health experience preferred. Requires California driver's license, vehicle, insurance, Microsoft Office skills, and background clearance.",
+      "salary": "$60k–$61k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
     {
-      "company": "American Red Cross",
-      "title": "Disaster Program Specialist",
-      "location": "Morgantown, West Virginia, United States",
-      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
-      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
-      "salary": "",
+      "company": "City of San Bernardino, CA",
+      "title": "Housing Navigator",
+      "location": "San Bernardino, California, United States",
+      "url": "https://www.governmentjobs.com/careers/citysanbernardino/jobs/5449143",
+      "direct_url": "https://www.governmentjobs.com/careers/citysanbernardino/jobs/5449143",
+      "date_posted": "2026-08-18T00:00:00.000Z",
+      "description": "Bachelor’s degree or equivalent education and experience, plus one year of social casework, eligibility casework, or housing-program experience. California driver’s license required; mandated reporter training required.",
+      "salary": "$68k–$83k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Albert Einstein College of Medicine",
+      "title": "Program Coordinator",
+      "location": "Bronx, New York, United States",
+      "url": "https://employee-einstein.icims.com/jobs/18250/program-coordinator/job?in_iframe=1",
+      "direct_url": "https://employee-einstein.icims.com/jobs/18250/program-coordinator/job?in_iframe=1",
+      "date_posted": "2026-08-21T04:00:00.000Z",
+      "description": "Bachelor's degree preferred; 2–3 years of relevant administrative, program coordination, higher education, nonprofit, or related experience. Requires strong organization, communication, multitasking, and Microsoft Office skills.",
+      "salary": "$70k–$75k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Catholic Charities of the Archdiocese of Washington",
+      "title": "Program Coordinator, (1166)",
+      "location": "Washington, District of Columbia, United States",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4435048",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4435048",
+      "date_posted": "2026-08-20T22:12:08.000Z",
+      "description": "Associate’s degree and two years supporting a mid- to high-level administrator, preferably in school, nonprofit, or human services settings; advanced Microsoft Office Suite and database proficiency required.",
+      "salary": "$53k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
     }
-  ],
-  "new_jobs": []
+  ]
 }
