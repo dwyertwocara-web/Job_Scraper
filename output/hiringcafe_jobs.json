@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-21 17:51 UTC",
+  "scraped_at": "2026-08-21 18:50 UTC",
   "total": 99,
-  "new_count": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -1291,58 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Samaritan Daytop Village",
-      "title": "Housing Specialist",
-      "location": "New York City, New York, United States",
-      "url": "https://careers-samaritanvillage.icims.com/jobs/6355/housing-specialist/job?in_iframe=1",
-      "direct_url": "https://careers-samaritanvillage.icims.com/jobs/6355/housing-specialist/job?in_iframe=1",
-      "date_posted": "2026-08-21T04:00:00.000Z",
-      "description": "Associate’s or bachelor’s degree in human services or related field, at least one year of housing specialist experience, housing systems knowledge, strong communication, computer literacy, confidentiality, and ability to work independently.",
-      "salary": "$63k–$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Fresno Housing Authority, CA",
-      "title": "Housing Specialist",
-      "location": "Fresno, California, United States",
-      "url": "https://www.governmentjobs.com/careers/fresnohousing/jobs/5448099",
-      "direct_url": "https://www.governmentjobs.com/careers/fresnohousing/jobs/5448099",
-      "date_posted": "2026-08-13T00:00:00.000Z",
-      "description": "One year of progressively responsible experience in housing, social services, or a similar field, plus a high school diploma or GED; strong customer service and administrative skills.",
-      "salary": "$52k–$63k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "American Red Cross",
-      "title": "Disaster Program Specialist",
-      "location": "Morgantown, West Virginia, United States",
-      "url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
-      "direct_url": "https://americanredcross.wd1.myworkdayjobs.com/american_red_cross_careers/job/Morgantown-WV/Disaster-Program-Specialist_RC90403",
-      "date_posted": "2026-08-10T00:00:00.000Z",
-      "description": "Bachelor's degree or equivalent experience and 3+ years in social services, emergency management, disaster relief, nonprofit coordination, or related work. Requires volunteer coordination, communication, Microsoft Office proficiency, and 20% travel.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
