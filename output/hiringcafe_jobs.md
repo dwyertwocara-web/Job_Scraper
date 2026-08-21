@@ -1,9 +1,13 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-21 21:42 UTC*
+*Last updated: 2026-08-21 22:38 UTC*
 
-**1 new role(s)** since last run · 101 total in last 30d
+**2 new role(s)** since last run · 102 total in last 30d
 
-### [Program Coordinator](https://careers.einsteinmed.edu/jobs/18250?lang=en-us) — Albert Einstein College of Medicine
-- 📍 **Location:** Bronx, New York, United States
-- 💰 **Salary:** $70k–$75k/yr
-- 🕒 **Posted:** 2026-08-21T16:36:39.000Z
+### [Housing Navigator](https://ywcanashville.betterteam.com/housing-navigator) — YWCA Nashville & Middle Tennessee
+- 📍 **Location:** Nashville, Tennessee, United States
+- 💰 **Salary:** $45k/yr
+- 🕒 **Posted:** 2026-08-11T15:34:14.966Z
+
+### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483) — Care Initiatives
+- 📍 **Location:** Dubuque, Iowa, United States
+- 🕒 **Posted:** 2026-08-17T06:00:00.000Z
