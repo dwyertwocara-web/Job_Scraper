@@ -1,83 +1,114 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-22 18:10 UTC*
+*Last updated: 2026-08-22 19:26 UTC*
 
-**17 new role(s)** since last run · 17 total in last 1h
+**24 new role(s)** since last run · 24 total in last 1h
 
-### [In-Custody Case Manager I/II](https://www.linkedin.com/jobs/view/4456100109/) — County of San Mateo
-- 📍 **Location:** San Mateo County, CA
-- 💰 **Salary:** $6,676.80/mo - $9,351.33/mo
-- 🕒 **Posted:** 2026-08-22
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4447711311/) — PDS Health
-- 📍 **Location:** Palm Springs, CA
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4447715251/) — PDS Health
+- 📍 **Location:** San Diego, CA
 - 💰 **Salary:** $18.00/hr - $25.50/hr
 - 🕒 **Posted:** 2026-08-22
 
-### [Contingent Workforce Program Coordinator -VNDLY-$75/hr](https://www.linkedin.com/jobs/view/4454221178/) — Trilyon, Inc.
-- 📍 **Location:** San Francisco Bay Area
+### [Senior Program Manager - Value Based Care](https://www.linkedin.com/jobs/view/4408880886/) — SCAN
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $125,400 to $181,419 per year
 - 🕒 **Posted:** 2026-08-22
 
-### [Per Diem Case Manager](https://www.linkedin.com/jobs/view/4437912460/) — South Shore Health
-- 📍 **Location:** Weymouth, MA
-- 💰 **Salary:** $59.42 - $86.20
+### [TikTok Live Operational Risk Control Program Manager - USDS](https://www.linkedin.com/jobs/view/4457866127/) — TikTok USDS Joint Venture
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $83600 - $143556 annually
 - 🕒 **Posted:** 2026-08-22
 
-### [Community Engagement Coordinator](https://www.linkedin.com/jobs/view/4455062094/) — City of New York
-- 📍 **Location:** Bronx, NY
-- 💰 **Salary:** $72,275.00 – $72,275.00
+### [IPV & SA Case Manager](https://www.linkedin.com/jobs/view/4457861071/) — Hilltop Community Resources
+- 📍 **Location:** Grand Junction, CO
+- 💰 **Salary:** $26.35 - $27.66 per hour
 - 🕒 **Posted:** 2026-08-22
 
-### [Diabetes Technology & Care Coordinator - Joslin Diabetes Center](https://www.linkedin.com/jobs/view/4447708428/) — Beth Israel Lahey Health
+### [Social Services Case Manager - Psychiatry Adult Inpatient - FT - Days - MRH](https://www.linkedin.com/jobs/view/4438319988/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Manager - Homeless Services](https://www.linkedin.com/jobs/view/4446767656/) — People Encouraging People
+- 📍 **Location:** Baltimore, MD
+- 💰 **Salary:** $70,000.00/yr - $80,000.00/yr
+- 🕒 **Posted:** 2026-08-22
+
+### [Patient Care Coordinator - Women's Clinic](https://www.linkedin.com/jobs/view/4447539744/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $27.01 to $38.45
+- 🕒 **Posted:** 2026-08-22
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4061619247/) — Castellon Plastic Surgery Center
+- 📍 **Location:** Melbourne, FL
+- 💰 **Salary:** $54,000.00/yr - $58,000.00/yr
+- 🕒 **Posted:** 2026-08-22
+
+### [Case Manager RN Cottonwood,](https://www.linkedin.com/jobs/view/4455069172/) — UnitedHealth Group
+- 📍 **Location:** Cottonwood, AZ
+- 💰 **Salary:** $85,196 to $127,794 annually
+- 🕒 **Posted:** 2026-08-22
+
+### [Managed Care Coordinator](https://www.linkedin.com/jobs/view/4457867042/) — PACS
+- 📍 **Location:** Salt Lake City, UT
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Coordinator, Data Philanthropy](https://www.linkedin.com/jobs/view/4430901254/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $31.26 to $44.51
+- 🕒 **Posted:** 2026-08-22
+
+### [Integrated Payload Project Team Specialist (Project/Program Specialist 1)](https://www.linkedin.com/jobs/view/4430956082/) — Los Alamos National Laboratory
+- 📍 **Location:** Los Alamos, NM
+- 🕒 **Posted:** 2026-08-22
+
+### [Strategic Data Analyst - CICIP-CICIP Program](https://www.linkedin.com/jobs/view/4436602885/) — The MetroHealth System (Cleveland, OH)
+- 📍 **Location:** Cleveland, OH
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Coordinator - Events](https://www.linkedin.com/jobs/view/4430900297/) — Fred Hutch
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $31.26 to $44.51
+- 🕒 **Posted:** 2026-08-22
+
+### [Rural and Community Forestry Division Chief (Natural Resource Program Manager)](https://www.linkedin.com/jobs/view/4456459537/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Dauphin County, PA
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Manager, Real Estate Transactions](https://www.linkedin.com/jobs/view/4447725001/) — Tractor Supply Company
+- 📍 **Location:** Brentwood, TN
+- 🕒 **Posted:** 2026-08-22
+
+### [Staff Technical Program Manager, Site Reliability Engineering](https://www.linkedin.com/jobs/view/4420491010/) — MongoDB
+- 📍 **Location:** Atlanta, GA
+- 💰 **Salary:** $151,000—$297,000 USD
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Manager - Spend Management](https://www.linkedin.com/jobs/view/4447555606/) — Direct Supply
+- 📍 **Location:** Milwaukee, WI
+- 🕒 **Posted:** 2026-08-22
+
+### [Highway Safety Program Specialist](https://www.linkedin.com/jobs/view/4457868067/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-22
+
+### [Social Services Case Manager - Psychiatry Adult Inpatient - Per Diem - Days - MRH](https://www.linkedin.com/jobs/view/4438333348/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
+- 🕒 **Posted:** 2026-08-22
+
+### [RN Case Manager PRN - Memorial White Rose Hospice,](https://www.linkedin.com/jobs/view/4455068183/) — UnitedHealth Group
+- 📍 **Location:** York, PA
+- 💰 **Salary:** $79,600 to $119,400 annually
+- 🕒 **Posted:** 2026-08-22
+
+### [Program Specialist (Insurance)](https://www.linkedin.com/jobs/view/4457859076/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-22
+
+### [Professional Services Program Manager](https://www.linkedin.com/jobs/view/4430755606/) — Axon
+- 📍 **Location:** Scottsdale, AZ
+- 💰 **Salary:** $87,900 USD - $140,640 USD
+- 🕒 **Posted:** 2026-08-22
+
+### [Research Assistant I](https://www.linkedin.com/jobs/view/4439033925/) — Boston Children's Hospital
 - 📍 **Location:** Boston, MA
-- 💰 **Salary:** $22.05 - $29.68
-- 🕒 **Posted:** 2026-08-22
-
-### [Care Coordinator- Cobble Hill](https://www.linkedin.com/jobs/view/4447585200/) — Spear Physical Therapy
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $18.00/hr - $18.00/hr
-- 🕒 **Posted:** 2026-08-22
-
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4447718293/) — PDS Health
-- 📍 **Location:** Henderson, NV
-- 💰 **Salary:** $19.00/hr - $26.75/hr
-- 🕒 **Posted:** 2026-08-22
-
-### [Clinical Care Coordinator (RN)](https://www.linkedin.com/jobs/view/4447740135/) — IHA
-- 📍 **Location:** Clinton, IA
-- 🕒 **Posted:** 2026-08-22
-
-### [Case Manager - Float](https://www.linkedin.com/jobs/view/4457852062/) — Akron Children's
-- 📍 **Location:** Akron, OH
-- 🕒 **Posted:** 2026-08-22
-
-### [Program Manager (Entry-Level / Junior / Associate)](https://www.linkedin.com/jobs/view/4456653445/) — Facultad de Educación UC
-- 📍 **Location:** Massachusetts, United States
-- 🕒 **Posted:** 2026-08-22
-
-### [Patient Care Coordinator _BIDMC](https://www.linkedin.com/jobs/view/4419981823/) — Beth Israel Lahey Health
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $21.00 - $28.26
-- 🕒 **Posted:** 2026-08-22
-
-### [Development Program Manager (Data Center Construction)](https://www.linkedin.com/jobs/view/4439399888/) — QTS Data Centers
-- 📍 **Location:** Cedar Rapids, IA
-- 🕒 **Posted:** 2026-08-22
-
-### [Project/Program Manager - Aviation](https://www.linkedin.com/jobs/view/4252744495/) — STV
-- 📍 **Location:** Greater Orlando
-- 💰 **Salary:** $143,435.23 - $163,925.98
-- 🕒 **Posted:** 2026-08-22
-
-### [Workplace Strategy Program Manager](https://www.linkedin.com/jobs/view/4435993847/) — Solomon Page
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-22
-
-### [Business Development Coordinator](https://www.linkedin.com/jobs/view/4359246311/) — King & Spalding
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $70,000 -$80,000
-- 🕒 **Posted:** 2026-08-22
-
-### [Enterprise Business Program Manager](https://www.linkedin.com/jobs/view/4447792860/) — Microsoft
-- 📍 **Location:** Redmond, WA
-- 💰 **Salary:** USD $116,900 - $203,600 per year
+- 💰 **Salary:** $44,657.60/yr - $69,773.60/yr
 - 🕒 **Posted:** 2026-08-22
