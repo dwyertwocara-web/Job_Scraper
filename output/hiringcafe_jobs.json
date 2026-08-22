@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 17:38 UTC",
+  "scraped_at": "2026-08-22 18:50 UTC",
   "total": 102,
-  "new_count": 5,
+  "new_count": 1,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -199,19 +199,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "San Diego Housing Commission",
-      "title": "Housing Specialist",
-      "location": "San Diego, California, United States",
-      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
-      "date_posted": "2026-07-30T18:02:04.000Z",
-      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
-      "salary": "$78k–$95k/yr",
-      "job_type": "Full Time, Temporary",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "S:US",
       "title": "Housing Specialist",
       "location": "Amityville, New York, United States",
@@ -221,6 +208,19 @@
       "description": "High school diploma required; bachelor's degree preferred. Requires strong written and verbal communication, fieldwork, landlord engagement, housing search knowledge, and basic computer skills. English/Spanish bilingual ability is a plus.",
       "salary": "$45k–$55k/yr",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "San Diego Housing Commission",
+      "title": "Housing Specialist",
+      "location": "San Diego, California, United States",
+      "url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "direct_url": "https://www.governmentjobs.com/careers/sandiegohousingcommission/jobs/5431039",
+      "date_posted": "2026-07-30T18:02:04.000Z",
+      "description": "Perform client intakes and assessments, provide case management and landlord engagement, maintain compliant records, use Yardi/Salesforce/HMIS, and prepare reports; bachelor's degree preferred and 2 years housing program experience.",
+      "salary": "$78k–$95k/yr",
+      "job_type": "Full Time, Temporary",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -337,6 +337,19 @@
       "date_posted": "2026-08-13T19:52:15.000Z",
       "description": "High school diploma/GED plus 4+ years of relevant experience, or equivalent education and experience. Requires housing knowledge, California driver's license, community resource expertise, and training in motivational interviewing, trauma-informed care, and harm reduction.",
       "salary": "$48k–$59k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -966,19 +979,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Westchester Medical Center",
       "title": "Care Coordinator",
       "location": "Valhalla, New York, United States",
@@ -987,6 +987,19 @@
       "date_posted": "2026-08-18T00:00:00.000Z",
       "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
       "salary": "$51k–$64k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Communicare",
+      "title": "CARE COORDINATOR",
+      "location": "Bardstown, Kentucky, United States",
+      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
+      "date_posted": "2026-08-14T04:20:02.008Z",
+      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
+      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1226,19 +1239,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "UNC Health Foundation",
-      "title": "Alumni Program Coordinator",
-      "location": "Chapel Hill or North Carolina",
-      "url": "https://css-unchealthunc-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(9999,240610,1).JobPostingDisplayNav?csk.HROrganization=9999&csk.JobBoard=EXTERNAL",
-      "direct_url": "https://css-unchealthunc-prd.inforcloudsuite.com/hcm/Jobs/navigation/JobPosting%5BJobPostingSet%5D(9999,240610,1).JobPostingDisplayNav?csk.HROrganization=9999&csk.JobBoard=EXTERNAL",
-      "date_posted": "2026-08-19T00:00:00.000Z",
-      "description": "Bachelor's degree and 2+ years in university administration, alumni relations, nonprofit management, or related work. Requires communication, presentation, database, analytical, and stakeholder relationship skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Houston-Galveston Area Council",
       "title": "Sen. Program Coordinator/Performance and Data Analytics – Child Care Operations and Systems Support",
       "location": "Houston, Texas, United States",
@@ -1332,66 +1332,14 @@
   ],
   "new_jobs": [
     {
-      "company": "Connecticut Children's",
-      "title": "Community Health Worker",
-      "location": "Hartford or Connecticut",
-      "url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
-      "direct_url": "https://fa-evav-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/connecticutchildrenscareers/requisitions/job/5411",
-      "date_posted": "2026-08-07T13:14:17.000Z",
-      "description": "High school diploma or GED and one year of experience in medical case management, community health, community programs, or supporting people affected by health or social challenges.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain an LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Economic and Community Development Institute",
-      "title": "Program Coordinator, Contractor Resource Center (Cincinnati)",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "http://economicandcommunitydevelopmentinstitute.applytojob.com/apply/u1fZHIm9YU/Program-Coordinator-Contractor-Resource-Center-Cincinnati",
-      "direct_url": "http://economicandcommunitydevelopmentinstitute.applytojob.com/apply/u1fZHIm9YU/Program-Coordinator-Contractor-Resource-Center-Cincinnati",
-      "date_posted": "2026-08-22T00:00:00.000Z",
-      "description": "Bachelor's degree preferred or equivalent experience; 2+ years in program coordination, workforce or economic development, construction support, small-business assistance, or nonprofit management; strong communication and organizational skills required.",
-      "salary": "$50k–$58k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Houston-Galveston Area Council",
-      "title": "Sen. Program Coordinator/Performance and Data Analytics – Child Care Operations and Systems Support",
-      "location": "Houston, Texas, United States",
-      "url": "http://houstongalvestonareacouncil.applytojob.com/apply/CafeB3TSdC/Sen-Program-CoordinatorPerformance-And-Data-Analytics-Child-Care-Operations-And-Systems-Support",
-      "direct_url": "http://houstongalvestonareacouncil.applytojob.com/apply/CafeB3TSdC/Sen-Program-CoordinatorPerformance-And-Data-Analytics-Child-Care-Operations-And-Systems-Support",
-      "date_posted": "2026-07-24T00:00:00.000Z",
-      "description": "5 years experience with government or nonprofit programs, grant and public funds management, strong analytics, performance measurement, and executive reporting skills; bachelor's degree required.",
-      "salary": "",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
