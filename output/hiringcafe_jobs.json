@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-22 19:49 UTC",
+  "scraped_at": "2026-08-22 20:30 UTC",
   "total": 102,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -1330,19 +1330,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Behavioral Health Network",
-      "title": "Housing Specialist-ACCS",
-      "location": "Worcester or Massachusetts",
-      "url": "https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc",
-      "date_posted": "2026-08-17T17:20:44.565Z",
-      "description": "High school diploma or GED, affordable housing or housing-support experience, and at least two years working directly with individuals with mental health needs; strong communication and organizational skills required.",
-      "salary": "$46k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
