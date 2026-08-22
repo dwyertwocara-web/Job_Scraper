@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-21 17:13 UTC",
-  "total": 2,
+  "scraped_at": "2026-08-22 16:56 UTC",
+  "total": 1,
   "new_count": 0,
   "jobs": [
     {
@@ -10,15 +10,6 @@
       "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=515473",
       "date_posted": "2026-08-06",
       "salary": "$8230.00 - $10242.00",
-      "ats": "CalCareers"
-    },
-    {
-      "company": "California Correctional Health Care Services",
-      "title": "HEALTH PROGRAM MANAGER I",
-      "location": "Sacramento County",
-      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=525855",
-      "date_posted": "2026-08-11",
-      "salary": "$7172.00 - $8910.00",
       "ats": "CalCareers"
     }
   ],
