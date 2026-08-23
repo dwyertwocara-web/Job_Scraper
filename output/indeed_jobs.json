@@ -1,6 +1,6 @@
 {
-  "scraped_at": "2026-08-23 18:30 UTC",
-  "total": 9,
+  "scraped_at": "2026-08-23 20:28 UTC",
+  "total": 7,
   "new_count": 0,
   "jobs": [
     {
@@ -33,40 +33,6 @@
       "salary_source": "direct_data",
       "salary_currency": "USD",
       "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Bonmente",
-      "title": "Patient Care Coordinator - Outpatient Mental Health Office",
-      "location": "Long Beach, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=94ebf7c2da6463f0",
-      "direct_url": "http://www.indeed.com/job/patient-care-coordinator-outpatient-mental-health-office-94ebf7c2da6463f0",
-      "company_url": "https://www.indeed.com/cmp/Bonmente",
-      "date_posted": "2026-08-22",
-      "description": "We are currently looking for a Patient Care Coordinator to join our team at an outpatient mental and behavioral health office in CA for a full\\-time position, willing to work Hybrid.\n\nWe are currently looking for an experienced Patient Care Coordinator who will be responsible for all aspects of patient care coordination and administrative tasks. A professional demeanor with the ability to interact with patients in a positive environment is necessary.\n\nYou will be required to provide support with the daily activities of a medical office in the new patient department, including but not limited to new patient appointment scheduling, registration, insurance verifications, patient referrals, telephone coverage, and the ability to communicate with patients, providers, and staff members.\n\n**Typical Duties \\& Responsibilities:**\n\n**Job Responsibilities of Patient Care Coordinator:**\n\n* Communicate with patients about their status and condition through emails, phone, and face\\-to\\-face conversations.\n* Manage patient accounts with contact information, insurance, and financial information in a confidential manner.\n* Document care provided, meeting standards for chart reviews.\n* Strong communication skills and interpersonal skills\n* Explain administrative procedures to patients\n* Maintain patient confidentiality and patient privacy\n* Follow established treatment and office procedures\n* Interact regularly with patients and complete additional office administrative tasks when time permits\n* Complies with organizational, departmental, state/federal guidelines \\& all regulatory agency policies and procedures.\n\n**Skills and Abilities:**\n\n* Excellent communication skills and interpersonal skills.\n* Solid insurance verification knowledge and the ability to communicate with patients about their financial responsibilities.\n* Strong verbal communication skills to communicate with patients and the healthcare team.\n* People skills to connect emotionally with patients and healthcare personnel.\n* Must be attentive and tactful.\n* Ability to utilize/access computer and electronic medical records (EMR), DrChrono system to document patient charts.\n* Perform other duties as required for patient care and efficient business functioning.\n\n**Minimum Qualifications:**\n\n**Experience**\n\nA minimum o**f Two (2\\) years** of experience in a **healthcare** and/or **Behavioral Health setting is required.**\n\n**Education**\n\nAssociate’s or bachelor’s degree from an accredited program, ideally in psychology and/or sociology.\n\n**Job Type:**\n\nFull\\-time (Hybrid)\n\nPay: $23\\.00 \\- $25\\.00 per hour\n\nBenefits:\n\n* 401(k) matching\n* Dental insurance\n* Health insurance\n* Life insurance\n* Paid time off\n* Vision insurance\n\nWork Location: Hybrid remote in Long Beach, CA 90815",
-      "salary": "$23–$25/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": true,
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Visiting Angels",
-      "title": "Case Manager / Client Care Coordinator for Home Care Agency",
-      "location": "Walnut Creek, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=cdf2970ae82fad0e",
-      "direct_url": "https://visitingangelsCA.isolvedhire.com/jobs/1848988-593143.html",
-      "company_url": "https://www.indeed.com/cmp/Visiting-Angels",
-      "date_posted": "2026-08-22",
-      "description": "**Pay:** $30\\.00 \\- $38\\.00 / hour\n\n**Job Type:** Part\\-Time (W\\-2, \\~20–24 hours/week across 3 days)\n\n**About Us:**\n\n\nWe are a premier home care agency in Contra Costa County. We are seeking a detail\\-oriented, compassionate **Part\\-Time Case Manager** to handle client intake assessments, care plan development, and field quality assurance 3 days per week.\n\n**Key Responsibilities:**\n\n* **AssessmentsOnboarding:** Conduct in\\-person client assessments, complete home safety checks, and design personalized care plans for new senior clients.\n* **Care Quality Assurance:** Perform routine field supervisory visits, evaluate caregiver performance, and ensure care plans are being followed accurately.\n* **ClientFamily Communication:** Serve as a trusted point of contact for family members, addressing care plan adjustments and client feedback.\n* **Caregiver Orientation:** Brief caregivers on specific client needs and condition updates prior to assignment start dates.\n\n**Qualifications:**\n\n* 2\\+ years of case management, intake, or social work experience in home care, senior living, home health, or Regional Center caregiving.\n* Hands\\-on knowledge of senior care needs, ADL support, and dementia care protocols.\n* Excellent communication skills and reliable personal transportation for local East Bay travel.",
-      "salary": "$30–$38/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "parttime",
       "is_remote": false,
       "emails": "",
       "ats": "Indeed"
