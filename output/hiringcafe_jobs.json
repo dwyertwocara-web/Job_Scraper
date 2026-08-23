@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 17:45 UTC",
+  "scraped_at": "2026-08-23 18:50 UTC",
   "total": 96,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -1252,32 +1252,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Person Centered Services",
-      "title": "Care Coordinator ",
-      "location": "West Seneca, New York, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3424",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/pcscco/candidateportal/jobs/3424",
-      "date_posted": "2026-08-09T04:00:00.000Z",
-      "description": "Bachelor's degree with 2 years relevant experience, licensed RN with 2 years, or master's degree with 1 year; valid driver's license and experience providing care, support, coordination, or advocacy.",
-      "salary": "$50k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Activeday",
-      "title": "Social Services - Social Services Coordinator",
-      "location": "Lowell, Massachusetts, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/activeday/candidateportal/jobs/5105",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/activeday/candidateportal/jobs/5105",
-      "date_posted": "2026-08-23T04:00:00.000Z",
-      "description": "New Jersey social work license or certification required; one year of healthcare social work experience preferred. Requires strong communication, collaboration, organization, computer, and case management skills.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
