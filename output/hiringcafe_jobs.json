@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-23 21:35 UTC",
-  "total": 97,
-  "new_count": 3,
+  "scraped_at": "2026-08-23 22:54 UTC",
+  "total": 96,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -12,19 +12,6 @@
       "date_posted": "2026-08-21T04:00:00.000Z",
       "description": "Associate’s or bachelor’s degree in human services or related field, at least one year of housing specialist experience, housing systems knowledge, strong communication, computer literacy, confidentiality, and ability to work independently.",
       "salary": "$63k–$69k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Cincinnati Metropolitan Housing Authority",
-      "title": "Housing Specialist (Leasing)",
-      "location": "Cincinnati, Ohio, United States",
-      "url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
-      "direct_url": "https://secure3.entertimeonline.com/ta/6128043.careers?ShowJob=1006937540",
-      "date_posted": "2026-07-24T22:27:28.775Z",
-      "description": "Verify applicant eligibility for public housing, maintain compliant client files, compute rents, prepare hearing packets, and maintain waiting lists. Requires HS diploma, 2 years related experience, and housing specialist certification within 1 year.",
-      "salary": "$57k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1265,45 +1252,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Behavioral Health Network",
-      "title": "Housing Specialist-ACCS",
-      "location": "Worcester or Massachusetts",
-      "url": "https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc",
-      "date_posted": "2026-08-17T17:20:44.565Z",
-      "description": "High school diploma or GED, affordable housing or housing-support experience, and at least two years working directly with individuals with mental health needs; strong communication and organizational skills required.",
-      "salary": "$46k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Circle Care Services",
-      "title": "Care Coordinator",
-      "location": "Highland Park, New Jersey, United States",
-      "url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
-      "direct_url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
-      "date_posted": "2026-08-23T15:22:36.881Z",
-      "description": "Fluent Spanish and English required, with strong communication, organization, follow-through, problem-solving, and client coordination skills. Experience in ABA, healthcare, case management, customer service, or care coordination is a plus.",
-      "salary": "$40k–$45k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain an LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
