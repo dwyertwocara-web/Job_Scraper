@@ -1,37 +1,48 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-24 00:11 UTC*
+*Last updated: 2026-08-24 02:26 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Victim Services Case Manager](https://www.linkedin.com/jobs/view/4458136140/) — Chesterfield County
-- 📍 **Location:** Chesterfield, VA
-- 💰 **Salary:** $62,154.00 - $73,030.00 Annually
-- 🕒 **Posted:** 2026-08-23
+### [Care Manager II - Case Management](https://www.linkedin.com/jobs/view/4455819291/) — CHRISTUS Health
+- 📍 **Location:** Corpus Christi, TX
+- 🕒 **Posted:** 2026-08-24
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4458155223/) — Circle Care Services
-- 📍 **Location:** Highland Park, NJ
-- 💰 **Salary:** $40,000.00/yr - $45,000.00/yr
-- 🕒 **Posted:** 2026-08-23
+### [Care Coordinator II-ACCS](https://www.linkedin.com/jobs/view/4456853048/) — Behavioral Health Network, Inc (BHN)
+- 📍 **Location:** Worcester, MA
+- 🕒 **Posted:** 2026-08-24
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4456816855/) — Pelvic Health and Wellness Physical Therapy
-- 📍 **Location:** Franklin, WI
-- 💰 **Salary:** $20.00 - $22.00 per hour
-- 🕒 **Posted:** 2026-08-23
+### [Clinical Research Assistant / Medical Assistant](https://www.linkedin.com/jobs/view/4455823368/) — Alcanza Clinical Research
+- 📍 **Location:** Charleston, SC
+- 🕒 **Posted:** 2026-08-24
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4456805894/) — Pelvic Health and Wellness Physical Therapy
-- 📍 **Location:** Milwaukee, WI
-- 💰 **Salary:** $20.00 - $22.00 per hour
-- 🕒 **Posted:** 2026-08-23
+### [LPN-Health Care Coordinator](https://www.linkedin.com/jobs/view/4456842263/) — LakeHouse Senior Living
+- 📍 **Location:** Sheboygan, WI
+- 🕒 **Posted:** 2026-08-24
 
-### [Workers' Compensation Certified Nurse Case Manager](https://www.linkedin.com/jobs/view/4455542150/) — Y-12 National Security Complex
-- 📍 **Location:** Oak Ridge, TN
-- 🕒 **Posted:** 2026-08-23
+### [Part Time After School Site Program Manager-Lamar/Richmond](https://www.linkedin.com/jobs/view/4455832294/) — Right At School
+- 📍 **Location:** Richmond, TX
+- 💰 **Salary:** $20–$24 per hour
+- 🕒 **Posted:** 2026-08-24
 
-### [Patient Care Coordinator I](https://www.linkedin.com/jobs/view/4458150254/) — Boomerang Healthcare
-- 📍 **Location:** Portland, OR
-- 💰 **Salary:** $20.00/hr - $22.00/hr
-- 🕒 **Posted:** 2026-08-23
+### [Program Manager – Public Health Program & Project Management](https://www.linkedin.com/jobs/view/4456864092/) — ASRT, Inc.
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-24
 
-### [Data Analyst, Customer Insights — New Grad](https://www.linkedin.com/jobs/view/4456818915/) — Jobright.ai
+### [Program Manager – Data & Analytics](https://www.linkedin.com/jobs/view/4456855097/) — ASRT, Inc.
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-08-24
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4455824181/) — Fly My Group
 - 📍 **Location:** United States
-- 🕒 **Posted:** 2026-08-23
+- 💰 **Salary:** $90,000.00/yr - $99,000.00/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Research Assistant](https://www.linkedin.com/jobs/view/4455825198/) — Fly My Group
+- 📍 **Location:** United States
+- 💰 **Salary:** $62,000.00/yr - $69,000.00/yr
+- 🕒 **Posted:** 2026-08-24
+
+### [Research Assistant](https://www.linkedin.com/jobs/view/4455834188/) — Hustle Notice Biz
+- 📍 **Location:** United States
+- 💰 **Salary:** $62,000.00/yr - $69,000.00/yr
+- 🕒 **Posted:** 2026-08-24
