@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 22:48 UTC",
+  "scraped_at": "2026-08-24 23:37 UTC",
   "total": 97,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -1265,32 +1265,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Illumination Health + Home",
-      "title": "Housing Navigator",
-      "location": "Santa Ana, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
-      "date_posted": "2026-07-28T00:00:00.000Z",
-      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
-      "salary": "$46k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Better Together ND",
-      "title": "Care Coordinator",
-      "location": "Wahpeton, North Dakota, United States",
-      "url": "https://bettertogethernd.hireclick.com/jb/care-coordinator/view/256764",
-      "direct_url": "https://bettertogethernd.hireclick.com/jb/care-coordinator/view/256764",
-      "date_posted": "2026-07-31T12:34:55.000Z",
-      "description": "Bachelor's in a related field OR 4 years direct human services experience, valid driver’s license, ability to pass background check, state care coordination training after hire.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
