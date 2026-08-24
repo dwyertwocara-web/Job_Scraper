@@ -1,6 +1,9 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-24 19:09 UTC*
+*Last updated: 2026-08-24 19:53 UTC*
 
-**0 new role(s)** since last run · 97 total in last 30d
+**1 new role(s)** since last run · 98 total in last 30d
 
-No new roles since the last run.
+### [Housing Specialist](https://phe.tbe.taleo.net/phe03/ats/careers/requisition.jsp?org=CPOFNYS&cws=37&rid=7703) — Center for Public Health and Education
+- 📍 **Location:** Brooklyn or Queens
+- 💰 **Salary:** $60k/yr
+- 🕒 **Posted:** 2026-08-24T15:12:31.000Z
