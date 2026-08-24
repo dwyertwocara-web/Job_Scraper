@@ -1,48 +1,25 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-24 02:26 UTC*
+*Last updated: 2026-08-24 03:46 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Care Manager II - Case Management](https://www.linkedin.com/jobs/view/4455819291/) — CHRISTUS Health
-- 📍 **Location:** Corpus Christi, TX
+### [Senior Technical Program Manager](https://www.linkedin.com/jobs/view/4455841370/) — Saasuji
+- 📍 **Location:** San Francisco, CA
 - 🕒 **Posted:** 2026-08-24
 
-### [Care Coordinator II-ACCS](https://www.linkedin.com/jobs/view/4456853048/) — Behavioral Health Network, Inc (BHN)
-- 📍 **Location:** Worcester, MA
+### [Senior PMO / Portfolio Program Manager – Digital Transformation](https://www.linkedin.com/jobs/view/4457535208/) — Delta Computer Consulting
+- 📍 **Location:** Los Angeles Metropolitan Area
+- 💰 **Salary:** $109.00/hr - $116.00/hr
 - 🕒 **Posted:** 2026-08-24
 
-### [Clinical Research Assistant / Medical Assistant](https://www.linkedin.com/jobs/view/4455823368/) — Alcanza Clinical Research
-- 📍 **Location:** Charleston, SC
+### [Clinical Care Coordinator RN - Home Care- Iselin, NJ- FT](https://www.linkedin.com/jobs/view/4456846225/) — Hackensack Meridian Health
+- 📍 **Location:** Iselin, NJ
 - 🕒 **Posted:** 2026-08-24
 
-### [LPN-Health Care Coordinator](https://www.linkedin.com/jobs/view/4456842263/) — LakeHouse Senior Living
-- 📍 **Location:** Sheboygan, WI
+### [Safety Program Coordinator](https://www.linkedin.com/jobs/view/4458143909/) — Bengal Logistics Services, LLC
+- 📍 **Location:** Ascension Parish County, LA
 - 🕒 **Posted:** 2026-08-24
 
-### [Part Time After School Site Program Manager-Lamar/Richmond](https://www.linkedin.com/jobs/view/4455832294/) — Right At School
-- 📍 **Location:** Richmond, TX
-- 💰 **Salary:** $20–$24 per hour
-- 🕒 **Posted:** 2026-08-24
-
-### [Program Manager – Public Health Program & Project Management](https://www.linkedin.com/jobs/view/4456864092/) — ASRT, Inc.
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-24
-
-### [Program Manager – Data & Analytics](https://www.linkedin.com/jobs/view/4456855097/) — ASRT, Inc.
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-24
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4455824181/) — Fly My Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $90,000.00/yr - $99,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Research Assistant](https://www.linkedin.com/jobs/view/4455825198/) — Fly My Group
-- 📍 **Location:** United States
-- 💰 **Salary:** $62,000.00/yr - $69,000.00/yr
-- 🕒 **Posted:** 2026-08-24
-
-### [Research Assistant](https://www.linkedin.com/jobs/view/4455834188/) — Hustle Notice Biz
-- 📍 **Location:** United States
-- 💰 **Salary:** $62,000.00/yr - $69,000.00/yr
+### [Clinical Research Assistant II (Contract) - On Call - 6-8 weeks](https://www.linkedin.com/jobs/view/4454644351/) — SGS
+- 📍 **Location:** Richardson, TX
 - 🕒 **Posted:** 2026-08-24
