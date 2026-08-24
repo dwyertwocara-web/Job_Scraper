@@ -1,19 +1,19 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-24 18:45 UTC*
+*Last updated: 2026-08-24 20:25 UTC*
 
-**3 new role(s)** since last run · 6 total in last 24h
+**3 new role(s)** since last run · 9 total in last 24h
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=32ea75d4243ff4cb) — Abode Services
-- 📍 **Location:** Santa Cruz, CA, US
-- 💰 **Salary:** $28–$31/hr
+### [Case Manager](https://www.indeed.com/viewjob?jk=88c85600590853f6) — 911 AM PM HOME HEALTH CARE
+- 📍 **Location:** Reseda, CA, US
+- 💰 **Salary:** $30–$31/hr
 - 🕒 **Posted:** 2026-08-24
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=7be2dba88c1f1d1a) — BioHackr Health
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $26–$28/hr
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=093d6568d8693ef5) — Exodus Recovery Inc.
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23–$25/hr
 - 🕒 **Posted:** 2026-08-24
 
-### [Case Manager III - Mental Health 184](https://www.indeed.com/viewjob?jk=ec832e40f079566e) — Telecare Corporation
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $23–$26/hr
+### [Social Services Coordinator I](https://www.indeed.com/viewjob?jk=daefe1e20dbbb522) — Exodus Recovery Inc.
+- 📍 **Location:** El Cajon, CA, US
+- 💰 **Salary:** $35–$38/hr
 - 🕒 **Posted:** 2026-08-24
