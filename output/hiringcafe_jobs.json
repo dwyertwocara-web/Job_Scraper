@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 17:46 UTC",
+  "scraped_at": "2026-08-24 19:09 UTC",
   "total": 97,
-  "new_count": 2,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -1265,32 +1265,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "YWCA Nashville & Middle Tennessee",
-      "title": "Housing Navigator",
-      "location": "Nashville, Tennessee, United States",
-      "url": "https://ywcanashville.betterteam.com/housing-navigator",
-      "direct_url": "https://ywcanashville.betterteam.com/housing-navigator",
-      "date_posted": "2026-08-11T15:34:14.966Z",
-      "description": "Bachelor’s degree in social work or related field; 1–3 years of case management or 3–5 years in a related field preferred. Requires driver’s license, insurance, clear record, communication, crisis management, and database skills.",
-      "salary": "$45k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/dubuquespecialtycare/jobs/85484",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain an LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
