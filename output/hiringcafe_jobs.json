@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-24 04:07 UTC",
+  "scraped_at": "2026-08-24 05:20 UTC",
   "total": 96,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -1252,45 +1252,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Behavioral Health Network",
-      "title": "Housing Specialist-ACCS",
-      "location": "Worcester or Massachusetts",
-      "url": "https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc",
-      "date_posted": "2026-08-17T17:20:44.565Z",
-      "description": "High school diploma or GED, affordable housing or housing-support experience, and at least two years working directly with individuals with mental health needs; strong communication and organizational skills required.",
-      "salary": "$46k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Illumination Health + Home",
-      "title": "Care Coordinator",
-      "location": "Anaheim, California, United States",
-      "url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "direct_url": "http://illuminationfoundation.applytojob.com/apply/zS4TuDy0Re/Care-Coordinator",
-      "date_posted": "2026-08-04T00:00:00.000Z",
-      "description": "Assess and support clients in permanent supportive housing, develop service plans, coordinate care and community resources, conduct home visits, document in HMIS/KIPU, and maintain confidentiality (HIPAA).",
-      "salary": "$48k–$54k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Care Initiatives",
-      "title": "Social Services Coordinator",
-      "location": "Dubuque, Iowa, United States",
-      "url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "direct_url": "https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483",
-      "date_posted": "2026-08-17T06:00:00.000Z",
-      "description": "Bachelor’s degree in social work, gerontology, or related health and human services field; ability to obtain LSW; and one year of supervised healthcare social work experience.",
-      "salary": "",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
