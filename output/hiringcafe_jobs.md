@@ -1,18 +1,8 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-25 02:50 UTC*
+*Last updated: 2026-08-25 04:06 UTC*
 
-**3 new role(s)** since last run · 96 total in last 30d
+**1 new role(s)** since last run · 96 total in last 30d
 
-### [Housing Navigator](https://careers.pacificclinics.org/jobs/1830?lang=en-us) — Pacific Clinics
-- 📍 **Location:** San Jose, California, United States
-- 💰 **Salary:** $59k–$73k/yr
-- 🕒 **Posted:** 2026-08-24T23:49:51.000Z
-
-### [Community Health Worker](https://conehealth.wd12.myworkdayjobs.com/cone_health-careers/job/Market-Street---4411/Community-Health-Worker_JR152787) — Conehealth
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
-
-### [Principal Gifts Program Coordinator](https://ibqajb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/688) — University of Memphis
-- 📍 **Location:** Memphis, Tennessee, United States
-- 💰 **Salary:** $55k–$60k/yr
-- 🕒 **Posted:** 2026-08-24T20:54:44.000Z
+### [Community Health Worker](https://gusea1p01.rec.pro.ukg.net/spe1500shsi/JobBoard/096330ac-2642-48bb-87e0-72862b26f4e5/OpportunityDetail?opportunityId=50124bbd-88b2-4421-9cd7-1b440aa3499f) — Spectrum Health Services
+- 📍 **Location:** Philadelphia, Pennsylvania, United States
+- 🕒 **Posted:** 2026-08-24T16:37:20.431Z
