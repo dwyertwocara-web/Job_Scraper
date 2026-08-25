@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 04:06 UTC",
-  "total": 96,
-  "new_count": 1,
+  "scraped_at": "2026-08-25 04:59 UTC",
+  "total": 99,
+  "new_count": 4,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -264,6 +264,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Young Women's Christian Association (YWCA of Cleveland)",
+      "title": "Housing Navigator",
+      "location": "Cleveland or Cleveland",
+      "url": "https://ywcaofcleveland.isolvedhire.com/jobs/1850005",
+      "direct_url": "https://ywcaofcleveland.isolvedhire.com/jobs/1850005",
+      "date_posted": "2026-08-24T00:00:00.000Z",
+      "description": "Requires 2+ years working with homeless populations and knowledge of housing systems, eligibility, and community resources. Strong documentation, communication, organization, judgment, and crisis-response skills required.",
+      "salary": "$40k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Integrated Services of Kalamazoo",
       "title": "Housing Navigator",
       "location": "Kalamazoo, Michigan, United States",
@@ -311,6 +324,19 @@
       "date_posted": "2026-08-24T23:49:51.000Z",
       "description": "High school diploma/GED plus 4+ years relevant experience, or equivalent education and experience. Requires housing and homelessness knowledge, California driver's license, and training in motivational interviewing, trauma-informed care, and harm reduction.",
       "salary": "$59k–$73k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -654,6 +680,19 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Circle Care Services",
+      "title": "Care Coordinator",
+      "location": "Highland Park, New Jersey, United States",
+      "url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
+      "direct_url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
+      "date_posted": "2026-08-23T15:22:36.881Z",
+      "description": "Fluent Spanish and English required, with strong communication, organization, follow-through, problem-solving, and client coordination skills. Experience in ABA, healthcare, case management, customer service, or care coordination is a plus.",
+      "salary": "$40k–$45k/yr",
+      "job_type": "Full Time, Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Grand Peaks",
       "title": "Care Coordinator",
       "location": "Idaho Falls, Idaho, United States",
@@ -676,19 +715,6 @@
       "description": "RN/BSN with strong clinical, assessment, care coordination, leadership, communication, and team-building skills. Long-term care, dementia, and MDS experience or certification preferred; training provided.",
       "salary": "",
       "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Circle Care Services",
-      "title": "Care Coordinator",
-      "location": "Highland Park, New Jersey, United States",
-      "url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
-      "direct_url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
-      "date_posted": "2026-08-23T15:22:36.881Z",
-      "description": "Fluent Spanish and English required, with strong communication, organization, follow-through, problem-solving, and client coordination skills. Experience in ABA, healthcare, case management, customer service, or care coordination is a plus.",
-      "salary": "$40k–$45k/yr",
-      "job_type": "Full Time, Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -862,19 +888,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Better Together ND",
-      "title": "Care Coordinator",
-      "location": "Wahpeton, North Dakota, United States",
-      "url": "https://bettertogethernd.hireclick.com/jb/care-coordinator/view/256764",
-      "direct_url": "https://bettertogethernd.hireclick.com/jb/care-coordinator/view/256764",
-      "date_posted": "2026-07-31T12:34:55.000Z",
-      "description": "Bachelor's in a related field OR 4 years direct human services experience, valid driver’s license, ability to pass background check, state care coordination training after hire.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Titanium Healthcare",
       "title": "Care Coordinator ",
       "location": "Seattle or King County",
@@ -888,13 +901,26 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Innovista Medical Center Texas LLC",
+      "company": "Better Together ND",
       "title": "Care Coordinator",
-      "location": "Willowbrook or Spring or Houston or Dallas",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
-      "date_posted": "2026-08-05T14:02:41.000Z",
-      "description": "High school diploma required (bachelor's preferred). 3+ years clinical or community resource experience. Bilingual English/Spanish, Excel and EHR experience, care coordination/case management skills.",
+      "location": "Wahpeton, North Dakota, United States",
+      "url": "https://bettertogethernd.hireclick.com/jb/care-coordinator/view/256764",
+      "direct_url": "https://bettertogethernd.hireclick.com/jb/care-coordinator/view/256764",
+      "date_posted": "2026-07-31T12:34:55.000Z",
+      "description": "Bachelor's in a related field OR 4 years direct human services experience, valid driver’s license, ability to pass background check, state care coordination training after hire.",
+      "salary": "",
+      "job_type": "Part Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bluebird Kids Health",
+      "title": "Care Coordinator ",
+      "location": "West Palm Beach, Florida, United States",
+      "url": "https://job-boards.greenhouse.io/bluebirdkidshealth/jobs/5398135008",
+      "direct_url": "https://job-boards.greenhouse.io/bluebirdkidshealth/jobs/5398135008",
+      "date_posted": "2026-08-24T12:28:41.000Z",
+      "description": "Strong interpersonal skills, self-direction, medical receptionist experience, and ability to deliver results in a fast-paced environment. Familiarity with care coordination, referrals, authorizations, and EMR workflows is relevant.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
@@ -914,6 +940,32 @@
       "ats": "HiringCafe"
     },
     {
+      "company": "Innovista Medical Center Texas LLC",
+      "title": "Care Coordinator",
+      "location": "Willowbrook or Spring or Houston or Dallas",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
+      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4392990",
+      "date_posted": "2026-08-05T14:02:41.000Z",
+      "description": "High school diploma required (bachelor's preferred). 3+ years clinical or community resource experience. Bilingual English/Spanish, Excel and EHR experience, care coordination/case management skills.",
+      "salary": "",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Acentra Health, LLC",
+      "title": "Care Coordinator",
+      "location": "Oregon, United States",
+      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "date_posted": "2026-08-13T21:31:46.000Z",
+      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
+      "salary": "$49k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
+      "ats": "HiringCafe"
+    },
+    {
       "company": "Westchester Medical Center",
       "title": "Care Coordinator",
       "location": "Valhalla, New York, United States",
@@ -922,19 +974,6 @@
       "date_posted": "2026-08-18T00:00:00.000Z",
       "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
       "salary": "$51k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Communicare",
-      "title": "CARE COORDINATOR",
-      "location": "Bardstown, Kentucky, United States",
-      "url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "direct_url": "https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078",
-      "date_posted": "2026-08-14T04:20:02.008Z",
-      "description": "Requires LPN, RN, or Kentucky-licensed physician assistant; alternatively, a human services bachelor's degree with 5 years of care coordination experience. Behavioral health experience and Microsoft Office proficiency preferred.",
-      "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
       "ats": "HiringCafe"
@@ -1254,16 +1293,55 @@
   ],
   "new_jobs": [
     {
-      "company": "Spectrum Health Services",
-      "title": "Community Health Worker",
-      "location": "Philadelphia, Pennsylvania, United States",
-      "url": "https://gusea1p01.rec.pro.ukg.net/spe1500shsi/JobBoard/096330ac-2642-48bb-87e0-72862b26f4e5/OpportunityDetail?opportunityId=50124bbd-88b2-4421-9cd7-1b440aa3499f",
-      "direct_url": "https://gusea1p01.rec.pro.ukg.net/spe1500shsi/JobBoard/096330ac-2642-48bb-87e0-72862b26f4e5/OpportunityDetail?opportunityId=50124bbd-88b2-4421-9cd7-1b440aa3499f",
-      "date_posted": "2026-08-24T16:37:20.431Z",
-      "description": "High school diploma, CHW certification, valid Pennsylvania driver's license, community health experience, crisis management, de-escalation, communication, cultural competency, and basic computer skills.",
+      "company": "Young Women's Christian Association (YWCA of Cleveland)",
+      "title": "Housing Navigator",
+      "location": "Cleveland or Cleveland",
+      "url": "https://ywcaofcleveland.isolvedhire.com/jobs/1850005",
+      "direct_url": "https://ywcaofcleveland.isolvedhire.com/jobs/1850005",
+      "date_posted": "2026-08-24T00:00:00.000Z",
+      "description": "Requires 2+ years working with homeless populations and knowledge of housing systems, eligibility, and community resources. Strong documentation, communication, organization, judgment, and crisis-response skills required.",
+      "salary": "$40k–$50k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Illumination Health + Home",
+      "title": "Housing Navigator",
+      "location": "Santa Ana, California, United States",
+      "url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "direct_url": "http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator",
+      "date_posted": "2026-07-28T00:00:00.000Z",
+      "description": "Valid CA driver’s license and vehicle access, high school diploma or equivalent, proficiency with Microsoft Office/Teams, HMIS/EHR experience preferred, case management experience preferred, strong communication and documentation skills.",
+      "salary": "$46k–$52k/yr",
+      "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Bluebird Kids Health",
+      "title": "Care Coordinator ",
+      "location": "West Palm Beach, Florida, United States",
+      "url": "https://job-boards.greenhouse.io/bluebirdkidshealth/jobs/5398135008",
+      "direct_url": "https://job-boards.greenhouse.io/bluebirdkidshealth/jobs/5398135008",
+      "date_posted": "2026-08-24T12:28:41.000Z",
+      "description": "Strong interpersonal skills, self-direction, medical receptionist experience, and ability to deliver results in a fast-paced environment. Familiarity with care coordination, referrals, authorizations, and EMR workflows is relevant.",
       "salary": "",
       "job_type": "Full Time",
       "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Acentra Health, LLC",
+      "title": "Care Coordinator",
+      "location": "Oregon, United States",
+      "url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "direct_url": "https://careers.acentra.com/jobs/6101?lang=en-us",
+      "date_posted": "2026-08-13T21:31:46.000Z",
+      "description": "Associate degree in a health-related field or medical assistant training, 4+ years of care coordination experience, and 2+ years in a clinical environment. Strong communication, assessment, computer, and organizational skills required.",
+      "salary": "$49k–$60k/yr",
+      "job_type": "Full Time",
+      "is_remote": true,
       "ats": "HiringCafe"
     }
   ]
