@@ -1,49 +1,65 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-08-25 19:29 UTC*
+*Last updated: 2026-08-25 21:37 UTC*
 
-**9 new role(s)** since last run · 57 total in last 24h
+**14 new role(s)** since last run · 59 total in last 24h
 
-### [Community Supports Lead Care Coordinator (Housing) - San Joaquin County](https://www.indeed.com/viewjob?jk=80d519418f0bc310) — Pacific Health Group
-- 📍 **Location:** Lodi, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Community Program Coordinator (Vintage Crossings)](https://www.indeed.com/viewjob?jk=5db8a934b03cd2ca) — PROJECT ACCESS
+- 📍 **Location:** Anaheim, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Supports Lead Care Coordinator (Housing) - San Joaquin County](https://www.indeed.com/viewjob?jk=e5fe061a1a381e1e) — Pacific Health Group
-- 📍 **Location:** Stockton, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Client Care Coordinator](https://www.indeed.com/viewjob?jk=4e5d42386a3e37b2) — OPTIONS HOME CARE
+- 📍 **Location:** Menlo Park, CA, US
+- 💰 **Salary:** $26–$28/hr
 - 🕒 **Posted:** 2026-08-25
 
-### [Care Manager/ Care Navigator](https://www.indeed.com/viewjob?jk=203468380b09fd0b) — MASTER CARE
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $25–$28/hr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=06a52c71ba8edee0) — Pair Team
+- 📍 **Location:** Fremont, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Care Manager - San Bernadino County](https://www.indeed.com/viewjob?jk=93203cfd4350b3ff) — Unknown
-- 📍 **Location:** Upland, CA, US
-- 💰 **Salary:** $60k–$68k/yr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=9a6b14ca92ce948c) — Pair Team
+- 📍 **Location:** Berkeley, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Supports Lead Care Coordinator (Housing) - Stanislaus County](https://www.indeed.com/viewjob?jk=990deb07b4cd2203) — Pacific Health Group
-- 📍 **Location:** Oakdale, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=8aab396419c1af33) — Pair Team
+- 📍 **Location:** Hayward, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Supports Lead Care Coordinator (Housing) - Stanislaus County](https://www.indeed.com/viewjob?jk=9e32c3d95a8fd9de) — Pacific Health Group
-- 📍 **Location:** Riverbank, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=553baa8a02e3176c) — Pair Team
+- 📍 **Location:** Oakland, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Supports Lead Care Coordinator (Housing) - Stanislaus County](https://www.indeed.com/viewjob?jk=8a73507b1b372b4c) — Pacific Health Group
-- 📍 **Location:** Ceres, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=2a16fe350bec7f4d) — Pair Team
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Supports Lead Care Coordinator (Housing) - Stanislaus County](https://www.indeed.com/viewjob?jk=21cf1438e0d51ebe) — Pacific Health Group
-- 📍 **Location:** Turlock, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=3a9b444e88028be3) — Pair Team
+- 📍 **Location:** Pleasanton, CA, US
 - 🕒 **Posted:** 2026-08-25
 
-### [Community Supports Lead Care Coordinator (Housing) - Stanislaus County](https://www.indeed.com/viewjob?jk=cd970f60cb4ec8bc) — Pacific Health Group
-- 📍 **Location:** Modesto, CA, US
-- 💰 **Salary:** $62k–$73k/yr
+### [Field Care Coordinator / Field Case Management](https://www.indeed.com/viewjob?jk=7d0a40b9f4a60a1f) — Pair Team
+- 📍 **Location:** Alameda, CA, US
+- 🕒 **Posted:** 2026-08-25
+
+### [LA Galaxy, Team Operations & Player Care Coordinator](https://www.indeed.com/viewjob?jk=312eec76f34b5fd9) — AEG Worldwide
+- 📍 **Location:** Carson, CA, US
+- 💰 **Salary:** $21–$25/hr
+- 🕒 **Posted:** 2026-08-25
+
+### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=833589fb29463960) — Sunlit Gardens
+- 📍 **Location:** Rancho Cucamonga, CA, US
+- 🕒 **Posted:** 2026-08-25
+
+### [Senior Data Analyst, People](https://www.indeed.com/viewjob?jk=3676d61451e4428d) — Fivetran
+- 📍 **Location:** Oakland, CA, US
+- 💰 **Salary:** $156k–$195k/yr
+- 🕒 **Posted:** 2026-08-25
+
+### [TEMPORARY Program Coordinator I - PART TIME 30 hrs/week](https://www.indeed.com/viewjob?jk=d705a2cddc8b9c54) — CARE
+- 📍 **Location:** Wildomar, CA, US
+- 💰 **Salary:** $21–$23/hr
+- 🕒 **Posted:** 2026-08-25
+
+### [Program Coordinator, Undocumented Student Services](https://www.indeed.com/viewjob?jk=59827328fcab8024) — UC San Diego
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $31–$32/hr
 - 🕒 **Posted:** 2026-08-25
