@@ -1,5 +1,5 @@
 # 🏛 CalOpps — California Local-Agency Housing & Community Impact Roles
-*Last updated: 2026-08-25 17:45 UTC*
+*Last updated: 2026-08-26 18:52 UTC*
 
 **0 new role(s)** since last run · 5 total in recent CalOpps postings
 
