@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-25 23:43 UTC",
+  "scraped_at": "2026-08-26 00:57 UTC",
   "total": 99,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Samaritan Daytop Village",
@@ -654,19 +654,6 @@
       "ats": "HiringCafe"
     },
     {
-      "company": "Circle Care Services",
-      "title": "Care Coordinator",
-      "location": "Highland Park, New Jersey, United States",
-      "url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
-      "direct_url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
-      "date_posted": "2026-08-23T15:22:36.881Z",
-      "description": "Fluent Spanish and English required, with strong communication, organization, follow-through, problem-solving, and client coordination skills. Experience in ABA, healthcare, case management, customer service, or care coordination is a plus.",
-      "salary": "$40k–$45k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
       "company": "Grand Peaks",
       "title": "Care Coordinator",
       "location": "Idaho Falls, Idaho, United States",
@@ -689,6 +676,19 @@
       "description": "RN/BSN with strong clinical, assessment, care coordination, leadership, communication, and team-building skills. Long-term care, dementia, and MDS experience or certification preferred; training provided.",
       "salary": "",
       "job_type": "Full Time",
+      "is_remote": false,
+      "ats": "HiringCafe"
+    },
+    {
+      "company": "Circle Care Services",
+      "title": "Care Coordinator",
+      "location": "Highland Park, New Jersey, United States",
+      "url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
+      "direct_url": "https://jobs.lever.co/circlecareservices/8c360a63-ac97-474e-9ff9-f704a6edb961",
+      "date_posted": "2026-08-23T15:22:36.881Z",
+      "description": "Fluent Spanish and English required, with strong communication, organization, follow-through, problem-solving, and client coordination skills. Experience in ABA, healthcare, case management, customer service, or care coordination is a plus.",
+      "salary": "$40k–$45k/yr",
+      "job_type": "Full Time, Part Time",
       "is_remote": false,
       "ats": "HiringCafe"
     },
@@ -1291,19 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Westchester Medical Center",
-      "title": "Care Coordinator",
-      "location": "Valhalla, New York, United States",
-      "url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "direct_url": "https://pm.healthcaresource.com/CS/wmc1/#/job/33835",
-      "date_posted": "2026-08-18T00:00:00.000Z",
-      "description": "High school diploma or equivalent required; four-year degree preferred. Two to five years of clinical, care coordination, or case management experience preferred, with PCMH knowledge and Microsoft Office proficiency.",
-      "salary": "$51k–$64k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
