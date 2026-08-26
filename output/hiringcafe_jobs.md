@@ -1,18 +1,18 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-26 05:08 UTC*
+*Last updated: 2026-08-26 19:10 UTC*
 
 **3 new role(s)** since last run · 102 total in last 30d
 
-### [Housing Navigator](http://illuminationfoundation.applytojob.com/apply/mqqqyA9JLp/Housing-Navigator) — Illumination Health + Home
-- 📍 **Location:** Santa Ana, California, United States
-- 💰 **Salary:** $46k–$52k/yr
-- 🕒 **Posted:** 2026-07-28T00:00:00.000Z
+### [Housing Specialist](https://recruiting2.ultipro.com/viv1002vivhe/JobBoard/47c9bc3a-8c84-4a15-a882-998936cd7f40/OpportunityDetail?opportunityId=f3aa023a-146d-49a8-b7bc-97af9459cf2e) — Vivent Health
+- 📍 **Location:** Kansas City, Missouri, United States
+- 💰 **Salary:** $50k/yr
+- 🕒 **Posted:** 2026-08-26T16:13:21.474Z
 
-### [Care Coordinator ](https://job-boards.greenhouse.io/bluebirdkidshealth/jobs/5398135008) — Bluebird Kids Health
-- 📍 **Location:** West Palm Beach, Florida, United States
-- 🕒 **Posted:** 2026-08-24T12:28:41.000Z
+### [Community Health Worker](https://myjobs.adp.com/ahfexternalcareers/cx/job-details?reqId=5001213665606) — AIDS Healthcare Foundation
+- 📍 **Location:** Chicago or Chicago
+- 💰 **Salary:** $49k/yr
+- 🕒 **Posted:** 2026-08-24T15:13:42.000Z
 
-### [Digital Equity Program Coordinator](https://lasbest.bamboohr.com/careers/41) — LA's BEST
-- 📍 **Location:** Los Angeles or Los Angeles County
-- 💰 **Salary:** $54k–$78k/yr
-- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
+### [Care Coordinator](https://secure6.saashr.com/ta/6096220.careers?ShowJob=705344384) — Clarity Child Guidance Center
+- 📍 **Location:** San Antonio, Texas, United States
+- 🕒 **Posted:** 2026-08-26T16:51:51.443Z
