@@ -1,37 +1,33 @@
 # ☕ HiringCafe — Housing & Community Impact Roles
-*Last updated: 2026-08-28 01:45 UTC*
+*Last updated: 2026-08-28 14:14 UTC*
 
-**7 new role(s)** since last run · 100 total in last 30d
+**6 new role(s)** since last run · 99 total in last 30d
 
-### [Housing Specialist](https://careers-samaritanvillage.icims.com/jobs/6095/housing-specialist/job?in_iframe=1) — Samaritan Daytop Village
-- 📍 **Location:** Queens or New York City
-- 💰 **Salary:** $53k/yr
-- 🕒 **Posted:** 2026-08-27T04:00:00.000Z
+### [Housing Specialist](https://housing-advocacy-vocational-and-emp.careerplug.com/jobs/3532181) — HOUSING ADVOCACY VOCATIONAL AND EMP
+- 📍 **Location:** Gaithersburg, Maryland, United States
+- 💰 **Salary:** $46k–$58k/yr
+- 🕒 **Posted:** 2026-08-05T18:31:45.000Z
 
-### [Housing Specialist-ACCS](https://gusea1p01.rec.pro.ukg.net/BEH1500BEHN/JobBoard/7eeb8a3f-4e08-4218-b028-09f24af143fc/OpportunityDetail?opportunityId=d8342326-b19d-4d37-baed-186f983229bc) — Behavioral Health Network
-- 📍 **Location:** Worcester or Massachusetts
-- 💰 **Salary:** $46k–$54k/yr
-- 🕒 **Posted:** 2026-08-17T17:20:44.565Z
+### [SSVF Housing Navigator](https://covous.bamboohr.com/careers/25) — Central Oregon Veterans Outreach
+- 📍 **Location:** Bend or Deschutes County or Crook County or Jefferson County
+- 💰 **Salary:** $48k–$52k/yr
+- 🕒 **Posted:** 2026-08-24T00:00:00.000Z
 
-### [CARE COORDINATOR](https://secure7.saashr.com/ta/6206078.careers?ShowJob=621237078) — Communicare
-- 📍 **Location:** Bardstown, Kentucky, United States
-- 🕒 **Posted:** 2026-08-14T04:20:02.008Z
+### [Housing Navigator](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4294394) — DuPage PADS
+- 📍 **Location:** Wheaton, Illinois, United States
+- 💰 **Salary:** $46k–$48k/yr
+- 🕒 **Posted:** 2026-08-24T13:39:28.000Z
 
-### [Social Services Coordinator](https://chespenn.bamboohr.com/careers/158) — ChesPenn Health Services
-- 📍 **Location:** Chester, Pennsylvania, United States
-- 💰 **Salary:** $42k/yr
-- 🕒 **Posted:** 2026-08-27T00:00:00.000Z
+### [Community Health Worker](https://secure6.saashr.com/ta/6187395.careers?ShowJob=738603522) — Scenic Rivers Health Services
+- 📍 **Location:** Cook, Minnesota, United States
+- 💰 **Salary:** $44k–$50k/yr
+- 🕒 **Posted:** 2026-08-20T23:26:43.576Z
 
-### [Social Services Coordinator](https://jobs.dayforcehcm.com/en-US/cwu/careinitiativescareers/jobs/85483) — Care Initiatives
-- 📍 **Location:** Dubuque, Iowa, United States
-- 🕒 **Posted:** 2026-08-17T06:00:00.000Z
-
-### [Women's Philanthropy Program Coordinator](https://houstonjewish.zohorecruit.com/jobs/Careers/636820000005533019/Women-s-Philanthropy-Program-Coordinator) — Jewish Federation of Greater Houston
-- 📍 **Location:** Houston, Texas, United States
-- 💰 **Salary:** $60k–$70k/yr
-- 🕒 **Posted:** 2026-08-25T00:00:00.000Z
-
-### [Outreach and After School Program Coordinator](https://westcottcc.betterteam.com/outreach-and-after-school-program-coordinator) — Westcott Community Center
-- 📍 **Location:** Syracuse or New York
+### [Care Coordinator](https://job-boards.greenhouse.io/familywell/jobs/5406314008) — FamilyWell
+- 📍 **Location:** United States
 - 💰 **Salary:** $52k/yr
-- 🕒 **Posted:** 2026-08-27T15:53:30.457Z
+- 🕒 **Posted:** 2026-08-25T23:34:12.000Z
+
+### [Program Coordinator](https://shepherds-clinic-inc.careerplug.com/jobs/2398994) — Shepherds Clinic Inc
+- 📍 **Location:** Baltimore, Maryland, United States
+- 🕒 **Posted:** 2026-08-28T06:18:21.466Z
