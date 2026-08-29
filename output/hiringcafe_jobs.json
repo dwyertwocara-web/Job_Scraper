@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-08-28 14:14 UTC",
+  "scraped_at": "2026-08-29 01:27 UTC",
   "total": 99,
-  "new_count": 6,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Child & Family",
@@ -1291,84 +1291,5 @@
       "ats": "HiringCafe"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "HOUSING ADVOCACY VOCATIONAL AND EMP",
-      "title": "Housing Specialist",
-      "location": "Gaithersburg, Maryland, United States",
-      "url": "https://housing-advocacy-vocational-and-emp.careerplug.com/jobs/3532181",
-      "direct_url": "https://housing-advocacy-vocational-and-emp.careerplug.com/jobs/3532181",
-      "date_posted": "2026-08-05T18:31:45.000Z",
-      "description": "Housing or social services experience, housing program knowledge, strong communication and caseload management skills, case management software and Microsoft Office proficiency; bachelor's degree preferred.",
-      "salary": "$46k–$58k/yr",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Central Oregon Veterans Outreach",
-      "title": "SSVF Housing Navigator",
-      "location": "Bend or Deschutes County or Crook County or Jefferson County",
-      "url": "https://covous.bamboohr.com/careers/25",
-      "direct_url": "https://covous.bamboohr.com/careers/25",
-      "date_posted": "2026-08-24T00:00:00.000Z",
-      "description": "High school diploma, experience with indigent or at-risk populations and landlord housing placement, knowledge of landlord-tenant laws and fair housing, Oregon driver's license, and insured vehicle required.",
-      "salary": "$48k–$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "DuPage PADS",
-      "title": "Housing Navigator",
-      "location": "Wheaton, Illinois, United States",
-      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4294394",
-      "direct_url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4294394",
-      "date_posted": "2026-08-24T13:39:28.000Z",
-      "description": "Bachelor’s degree in social work, human services, or related field preferred, or equivalent experience. Requires confidentiality, engagement, organization, communication, Microsoft Office proficiency, transportation, and ability to lift 50 pounds.",
-      "salary": "$46k–$48k/yr",
-      "job_type": "Full Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Scenic Rivers Health Services",
-      "title": "Community Health Worker",
-      "location": "Cook, Minnesota, United States",
-      "url": "https://secure6.saashr.com/ta/6187395.careers?ShowJob=738603522",
-      "direct_url": "https://secure6.saashr.com/ta/6187395.careers?ShowJob=738603522",
-      "date_posted": "2026-08-20T23:26:43.576Z",
-      "description": "High school diploma required; community health worker certificate preferred. Requires strong communication, social determinants of health knowledge, computer skills, and EMR and telehealth software proficiency.",
-      "salary": "$44k–$50k/yr",
-      "job_type": "Full Time, Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "FamilyWell",
-      "title": "Care Coordinator",
-      "location": "United States",
-      "url": "https://job-boards.greenhouse.io/familywell/jobs/5406314008",
-      "direct_url": "https://job-boards.greenhouse.io/familywell/jobs/5406314008",
-      "date_posted": "2026-08-25T23:34:12.000Z",
-      "description": "Bachelor's and/or master's degree in nursing, social work, or psychology. Requires patient engagement, care coordination, documentation, communication, organization, EHR, Google Suite, and women's mental health knowledge.",
-      "salary": "$52k/yr",
-      "job_type": "Full Time",
-      "is_remote": true,
-      "ats": "HiringCafe"
-    },
-    {
-      "company": "Shepherds Clinic Inc",
-      "title": "Program Coordinator",
-      "location": "Baltimore, Maryland, United States",
-      "url": "https://shepherds-clinic-inc.careerplug.com/jobs/2398994",
-      "direct_url": "https://shepherds-clinic-inc.careerplug.com/jobs/2398994",
-      "date_posted": "2026-08-28T06:18:21.466Z",
-      "description": "Bachelor's degree in public health, healthcare administration, or related field; healthcare or nonprofit program coordination experience; project management, communication, collaboration, and data analysis skills.",
-      "salary": "",
-      "job_type": "Part Time",
-      "is_remote": false,
-      "ats": "HiringCafe"
-    }
-  ]
+  "new_jobs": []
 }
