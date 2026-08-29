@@ -1,97 +1,104 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-29 07:39 UTC*
+*Last updated: 2026-08-29 19:07 UTC*
 
-**21 new role(s)** since last run · 21 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [Utilization Review Case Manager Extra on Call Days](https://www.linkedin.com/jobs/view/4460577954/) — Saint Agnes Medical Center
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $49.47 - $71.74
+### [Senior Security Technical Program Manager](https://www.linkedin.com/jobs/view/4441679930/) — Snap Inc.
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $190,000-$284,000 annually
 - 🕒 **Posted:** 2026-08-29
 
-### [Utilization Review Case Manager Extra on Call Days](https://www.linkedin.com/jobs/view/4460588778/) — Trinity Health
-- 📍 **Location:** Fresno, CA
-- 💰 **Salary:** $49.47 - $71.74
+### [Senior Security Technical Program Manager](https://www.linkedin.com/jobs/view/4441699082/) — Snap Inc.
+- 📍 **Location:** Palo Alto, CA
+- 💰 **Salary:** $190,000-$284,000 annually
 - 🕒 **Posted:** 2026-08-29
 
-### [Accreditation Program Manager - Risk Management](https://www.linkedin.com/jobs/view/4459468863/) — Providence
-- 📍 **Location:** Fullerton, CA
-- 💰 **Salary:** $50.32/hr - $79.45/hr
+### [Remote Housing Coordinator](https://www.linkedin.com/jobs/view/4457794386/) — Sedgwick
+- 📍 **Location:** United States
+- 💰 **Salary:** $17-$18/hr
 - 🕒 **Posted:** 2026-08-29
 
-### [Senior Software Technical Program Manager](https://www.linkedin.com/jobs/view/4458460457/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4450775194/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
 - 🕒 **Posted:** 2026-08-29
 
-### [Nurse Case Manager for Substance Use Disorder (SUD)](https://www.linkedin.com/jobs/view/4460594116/) — Chapa-De Indian Health
-- 📍 **Location:** Grass Valley, CA
-- 💰 **Salary:** $52.65-$60.00
+### [Bilingual Case Manager - (English/Spanish)](https://www.linkedin.com/jobs/view/4423016537/) — Bethany Christian Services
+- 📍 **Location:** Indianapolis, IN
 - 🕒 **Posted:** 2026-08-29
 
-### [Care Manager RN Per Diem Variable](https://www.linkedin.com/jobs/view/4459456940/) — Providence
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $57.28/hr - $88.92/hr
+### [Early Childhood Program Specialist 2 - Preschool](https://www.linkedin.com/jobs/view/4460821833/) — Olympic College
+- 📍 **Location:** Bremerton, WA
+- 💰 **Salary:** $45,924.00/yr - $61,332.00/yr
 - 🕒 **Posted:** 2026-08-29
 
-### [Lung Cancer Screening Program Coordinator](https://www.linkedin.com/jobs/view/4460580945/) — Trinity Health Of New England
-- 📍 **Location:** Hartford, CT
+### [Care Manager - Medicaid Care Management](https://www.linkedin.com/jobs/view/4460822761/) — Grow in Greenville, NC
+- 📍 **Location:** Greenville, NC
+- 💰 **Salary:** $65520.00 - $95501.12
 - 🕒 **Posted:** 2026-08-29
 
-### [Health Homes - Care Coordinator - Troy NY](https://www.linkedin.com/jobs/view/4460580974/) — Trinity Health
-- 📍 **Location:** Troy, NY
-- 💰 **Salary:** $21.20 - $28.55
-- 🕒 **Posted:** 2026-08-29
-
-### [Health Homes - Care Coordinator - Troy NY](https://www.linkedin.com/jobs/view/4460590734/) — St. Peter's Health Partners
-- 📍 **Location:** Troy, NY
-- 💰 **Salary:** $21.20 - $28.55
-- 🕒 **Posted:** 2026-08-29
-
-### [Program Coordinator (ACP)](https://www.linkedin.com/jobs/view/4460592117/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-29
-
-### [Senior Technical Program Manager, Supply Chain Business Transformation](https://www.linkedin.com/jobs/view/4458458549/) — NVIDIA AI
-- 📍 **Location:** Santa Clara, CA
-- 🕒 **Posted:** 2026-08-29
-
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460564515/) — Arkansas Blue Cross and Blue Shield
-- 📍 **Location:** Little Rock, AR
-- 🕒 **Posted:** 2026-08-29
-
-### [Patient Care Coordinator - Heart and Vascular](https://www.linkedin.com/jobs/view/4459480714/) — Providence Swedish
-- 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $25.73/hr - $39.36/hr
-- 🕒 **Posted:** 2026-08-29
-
-### [Program Coordinator- School of Medicine, OBGYN](https://www.linkedin.com/jobs/view/4458417506/) — Emory University
-- 📍 **Location:** Atlanta, GA
-- 🕒 **Posted:** 2026-08-29
-
-### [CPS Hotline Specialist III (Social Services Specialist III)](https://www.linkedin.com/jobs/view/4459456964/) — Fairfax County Government
-- 📍 **Location:** Fairfax, VA
-- 🕒 **Posted:** 2026-08-29
-
-### [Lung Cancer Screening Program Coordinator](https://www.linkedin.com/jobs/view/4460589742/) — Trinity Health
-- 📍 **Location:** Hartford, CT
-- 🕒 **Posted:** 2026-08-29
-
-### [Architect (Facility Assessments Program Manager)](https://www.linkedin.com/jobs/view/4457528960/) — Architect of the Capitol
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-29
-
-### [Digital IT Program Manager](https://www.linkedin.com/jobs/view/4460563407/) — Travel + Leisure Co.
-- 📍 **Location:** Orlando, FL
-- 🕒 **Posted:** 2026-08-29
-
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4460591626/) — Continuum Hospice & Palliative Care Massachusetts
-- 📍 **Location:** Braintree, MA
-- 💰 **Salary:** $90,000 - $105,000 per year
-- 🕒 **Posted:** 2026-08-29
-
-### [Program Manager, Major Investigations](https://www.linkedin.com/jobs/view/4460584798/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
-- 🕒 **Posted:** 2026-08-29
-
-### [Senior Data Analyst](https://www.linkedin.com/jobs/view/4460593198/) — FELICIS
+### [Program Manager](https://www.linkedin.com/jobs/view/4459495702/) — Evlo AI
 - 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-08-29
+
+### [Part Time Pediatric RN Case Manager - Capital Caring Health](https://www.linkedin.com/jobs/view/4450505710/) — Chapters Health System
+- 📍 **Location:** Fairfax County, VA
+- 💰 **Salary:** $76,612.89 - $114,030.63
+- 🕒 **Posted:** 2026-08-29
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4450754592/) — SERC Physical Therapy
+- 📍 **Location:** Fayetteville, AR
+- 🕒 **Posted:** 2026-08-29
+
+### [Patient Care Coordinator - Beacon Ortho clinic Red Bank RD](https://www.linkedin.com/jobs/view/4450742969/) — Upstream Rehabilitation
+- 📍 **Location:** Cincinnati, OH
+- 🕒 **Posted:** 2026-08-29
+
+### [Occupational Medicine Care Coordinator](https://www.linkedin.com/jobs/view/4450049422/) — HCA Healthcare
+- 📍 **Location:** Greenwood Village, CO
+- 💰 **Salary:** $17.44 - $25.30
+- 🕒 **Posted:** 2026-08-29
+
+### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4414234957/) — Bethany Christian Services
+- 📍 **Location:** Flint, MI
+- 🕒 **Posted:** 2026-08-29
+
+### [Development Coordinator, Intercollegiate Athletics](https://www.linkedin.com/jobs/view/4414055017/) — Miami University
+- 📍 **Location:** Oxford, OH
+- 🕒 **Posted:** 2026-08-29
+
+### [Litigation Case Manager](https://www.linkedin.com/jobs/view/4414650154/) — Newrez
+- 📍 **Location:** Greenville, SC
+- 🕒 **Posted:** 2026-08-29
+
+### [RN, Case Manager - Float Team (HPH Hospice)](https://www.linkedin.com/jobs/view/4450504770/) — Chapters Health System
+- 📍 **Location:** Brooksville, FL
+- 💰 **Salary:** $61,860.66 - $96,657.28
+- 🕒 **Posted:** 2026-08-29
+
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4442417578/) — HCA HealthONE
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $40.35 - $58.87
+- 🕒 **Posted:** 2026-08-29
+
+### [Supplier Diversity Program Manager](https://www.linkedin.com/jobs/view/4449231605/) — McKinstry
+- 📍 **Location:** Seattle, WA
+- 💰 **Salary:** $68,310 - $114,500 per year
+- 🕒 **Posted:** 2026-08-29
+
+### [Fundraising & Development Coordinator — Volunteer](https://www.linkedin.com/jobs/view/4460818876/) — Face Friends Foundation
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-08-29
+
+### [Program Manager - Member Experience, Geisinger Health Plan (Eastern Standard Time Zone resident)](https://www.linkedin.com/jobs/view/4458810015/) — Geisinger
+- 📍 **Location:** Danville, PA
+- 🕒 **Posted:** 2026-08-29
+
+### [Senior Security Technical Program Manager](https://www.linkedin.com/jobs/view/4441681792/) — Snap Inc.
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $190,000-$284,000 annually
+- 🕒 **Posted:** 2026-08-29
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4444763401/) — swipejobs
+- 📍 **Location:** Fort Lauderdale, FL
+- 💰 **Salary:** $27.00/hr - $27.00/hr
 - 🕒 **Posted:** 2026-08-29
