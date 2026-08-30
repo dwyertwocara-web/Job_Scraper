@@ -1,38 +1,38 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-30 07:14 UTC*
+*Last updated: 2026-08-30 19:12 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**8 new role(s)** since last run · 8 total in last 1h
 
-### [Senior Data Analyst – Customer Data Platforms (CDP)](https://www.linkedin.com/jobs/view/4460528133/) — Delta Computer Consulting
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $54.00/hr - $61.00/hr
+### [Case Manager](https://www.linkedin.com/jobs/view/4459736683/) — Lutheran Community Services Northwest
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-08-30
 
-### [Care Manager RN Per Diem Variable](https://www.linkedin.com/jobs/view/4459728690/) — Providence
-- 📍 **Location:** Torrance, CA
-- 💰 **Salary:** $57.28/hr - $88.92/hr
+### [Care Manager, LTSS (BH Licensed) - LSW](https://www.linkedin.com/jobs/view/4441922605/) — Molina Healthcare
+- 📍 **Location:** Ohio, United States
+- 💰 **Salary:** $26.41 - $51.49
 - 🕒 **Posted:** 2026-08-30
 
-### [Care Manager - Medicaid Care Management](https://www.linkedin.com/jobs/view/4460885444/) — Grow in Greenville, NC
-- 📍 **Location:** Greenville, NC
-- 💰 **Salary:** $65520.00 - $95501.12
+### [Social Services Case Manager - Outpatient Behavioral Health - FT - Days - MRH](https://www.linkedin.com/jobs/view/4414490851/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
 - 🕒 **Posted:** 2026-08-30
 
-### [Patient Care Manager-RN (At Home Healthcare-Denver),](https://www.linkedin.com/jobs/view/4458849352/) — UnitedHealth Group
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $98,648 to $147,972 annually
+### [Data Analyst Senior](https://www.linkedin.com/jobs/view/4448271266/) — CLA (CliftonLarsonAllen)
+- 📍 **Location:** Dallas, TX
+- 💰 **Salary:** $107,000 - $155,000
 - 🕒 **Posted:** 2026-08-30
 
-### [Case Manager RN Cottonwood,](https://www.linkedin.com/jobs/view/4458838348/) — UnitedHealth Group
-- 📍 **Location:** Cottonwood, AZ
-- 💰 **Salary:** $85,196 to $127,794 annually
+### [Program Manager, Patient Affordability](https://www.linkedin.com/jobs/view/4459737665/) — InfinityRx
+- 📍 **Location:** New York, NY
 - 🕒 **Posted:** 2026-08-30
 
-### [Program Manager, Cable Makerspace](https://www.linkedin.com/jobs/view/4460883584/) — Dartmouth College
-- 📍 **Location:** Hanover, NH
-- 💰 **Salary:** $29.06/hr - $36.37/hr
+### [Education Program Coordinator II - Hematology Oncology](https://www.linkedin.com/jobs/view/4423545794/) — Medical College of Wisconsin
+- 📍 **Location:** Milwaukee, WI
 - 🕒 **Posted:** 2026-08-30
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4460877464/) — DC Department of Human Resources
-- 📍 **Location:** Washington, DC
+### [RN Case Manager - FT - Days - $10K Sign on Bonus - MRH](https://www.linkedin.com/jobs/view/4433287784/) — Memorial Healthcare System
+- 📍 **Location:** Hollywood, FL
+- 🕒 **Posted:** 2026-08-30
+
+### [Outreach Program Coordinator](https://www.linkedin.com/jobs/view/4459754466/) — Lyric Theatre Company
+- 📍 **Location:** South Burlington, VT
 - 🕒 **Posted:** 2026-08-30
