@@ -1,16 +1,27 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-08-30 22:26 UTC*
+*Last updated: 2026-08-31 01:08 UTC*
 
-**3 new role(s)** since last run · 3 total in last 1h
+**5 new role(s)** since last run · 5 total in last 1h
 
-### [Program Manager 2 - Data Reporting and Accreditation (Bauer College)](https://www.linkedin.com/jobs/view/4460525121/) — University of Houston
-- 📍 **Location:** Houston, TX
-- 🕒 **Posted:** 2026-08-30
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4459753835/) — MaineHealth
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $20.68to $25.10 per hour
+- 🕒 **Posted:** 2026-08-31
 
-### [Program Manager (Full-time)](https://www.linkedin.com/jobs/view/4461028326/) — US Joint Activities
-- 📍 **Location:** Baltimore, MD
-- 🕒 **Posted:** 2026-08-30
+### [Case Manager](https://www.linkedin.com/jobs/view/4461019753/) — DC Department of Human Resources
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-31
 
-### [Clinical Research Assistant / Medical Assistant - Phlebotomy experience required](https://www.linkedin.com/jobs/view/4458870275/) — ActivMed Practices & Research, LLC.
-- 📍 **Location:** Gilbert, AZ
-- 🕒 **Posted:** 2026-08-30
+### [Program Manager - Alabama Forestry Accelerator](https://www.linkedin.com/jobs/view/4459747865/) — Venture Capital Careers
+- 📍 **Location:** Dothan, AL
+- 💰 **Salary:** $60,000 - $70,000
+- 🕒 **Posted:** 2026-08-31
+
+### [Early Childhood Program Specialist 2 - Preschool](https://www.linkedin.com/jobs/view/4461035753/) — Olympic College
+- 📍 **Location:** Bremerton, WA
+- 💰 **Salary:** $45,924.00/yr - $61,332.00/yr
+- 🕒 **Posted:** 2026-08-31
+
+### [Architect (Facility Assessments Program Manager)](https://www.linkedin.com/jobs/view/4457528960/) — Architect of the Capitol
+- 📍 **Location:** Washington, DC
+- 🕒 **Posted:** 2026-08-31
