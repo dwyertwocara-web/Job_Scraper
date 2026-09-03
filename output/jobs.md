@@ -1,14 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-09-02 08:23 UTC*
+*Last updated: 2026-09-03 08:43 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Ambulatory Case Manager RN - Sacramento County Health (CASE MGR NEX)](https://www.linkedin.com/jobs/view/4459919100/) — UC Davis Health
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $75.58 - $110.71
-- 🕒 **Posted:** 2026-09-02
-
-### [Care Manager, LTSS - Field travel in Rock County, WI](https://www.linkedin.com/jobs/view/4441419828/) — Molina Healthcare
-- 📍 **Location:** Janesville, WI
+### [Care Manager, LTSS](https://www.linkedin.com/jobs/view/4462148935/) — Molina Healthcare
+- 📍 **Location:** Miami, FL
 - 💰 **Salary:** $24 - $46.81
-- 🕒 **Posted:** 2026-09-01
+- 🕒 **Posted:** 2026-09-02
