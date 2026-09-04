@@ -1,9 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-09-03 08:43 UTC*
+*Last updated: 2026-09-04 08:27 UTC*
 
 **1 new role(s)** since last run · 1 total in last 24h
 
-### [Care Manager, LTSS](https://www.linkedin.com/jobs/view/4462148935/) — Molina Healthcare
-- 📍 **Location:** Miami, FL
-- 💰 **Salary:** $24 - $46.81
-- 🕒 **Posted:** 2026-09-02
+### [Case Manager Utilization RN, 40/hr Day](https://www.linkedin.com/jobs/view/4461643782/) — Kaiser Permanente
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $64.74/hr - $79.23/hr
+- 🕒 **Posted:** 2026-09-03
