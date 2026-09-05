@@ -1,9 +1,12 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-05 20:26 UTC*
+*Last updated: 2026-09-05 22:11 UTC*
 
-**1 new role(s)** since last run · 34 total in last 24h
+**2 new role(s)** since last run · 34 total in last 24h
 
-### [MAT Care Coordinator (Medicated Assisted Treatment)](https://www.indeed.com/viewjob?jk=64bbf6ebc52d57f7) — Safer Alternatives thru Networking & Education
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $24–$26/hr
-- 🕒 **Posted:** 2026-09-05
+### [Case Manager](https://www.indeed.com/viewjob?jk=2846bc77b3b3ef1d) — Horizon Services, Inc.
+- 📍 **Location:** Pleasanton, CA, US
+- 🕒 **Posted:** 2026-09-04
+
+### [Data Analyst - Active Secret Clearance Required](https://www.indeed.com/viewjob?jk=a06d00aae6266837) — MTSI
+- 📍 **Location:** Edwards AFB, CA, US
+- 🕒 **Posted:** 2026-09-04
