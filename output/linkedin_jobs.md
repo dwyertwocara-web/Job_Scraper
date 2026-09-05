@@ -1,91 +1,58 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-05 20:02 UTC*
+*Last updated: 2026-09-05 20:54 UTC*
 
-**20 new role(s)** since last run · 20 total in last 1h
+**11 new role(s)** since last run · 28 total in last 1h
 
-### [TikTok Shop - Data Analyst (Production & Quality Improvement)](https://www.linkedin.com/jobs/view/4462648076/) — TikTok
-- 📍 **Location:** Fontana, CA
+### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410992086/) — Seyfarth Shaw LLP
+- 📍 **Location:** Sacramento, CA
+- 💰 **Salary:** $64,000 to $75,000 annually
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager (II)](https://www.linkedin.com/jobs/view/4463778450/) — Strong Tower Consulting
-- 📍 **Location:** San Bruno, CA
-- 💰 **Salary:** $95-$112 per hour
+### [COB Graduate Program Specialist - 2 Positions Available](https://www.linkedin.com/jobs/view/4462661100/) — California State University, Long Beach
+- 📍 **Location:** Long Beach, CA
+- 💰 **Salary:** $5,540 - $6,182 per month
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4462657048/) — Seasats
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $130,000 - $160,000
+### [Case Manager, Compass SF HOME (Temporary)](https://www.linkedin.com/jobs/view/4463696119/) — Compass Family Services
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $27 - $31 hourly
 - 🕒 **Posted:** 2026-09-05
 
-### [Immigrations Data Analyst, AMS - San Jose](https://www.linkedin.com/jobs/view/4462653065/) — TikTok
-- 📍 **Location:** San Jose, CA
-- 💰 **Salary:** $76000 - $128000 annually
+### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410982970/) — Seyfarth Shaw LLP
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $64,000 to $75,000 annually
 - 🕒 **Posted:** 2026-09-05
 
-### [Case Manager II](https://www.linkedin.com/jobs/view/4463788423/) — Catholic Charities of Acadiana
-- 📍 **Location:** Lafayette, LA
+### [Care Manager - HH Plus Program](https://www.linkedin.com/jobs/view/4463144877/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $62,000.00/yr - $64,517.95/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Case Manager - ARCHES Redwood Crossings - Day](https://www.linkedin.com/jobs/view/4463771446/) — Mid-Willamette Valley Community Action Agency
-- 📍 **Location:** Salem, OR
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463152740/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $58,952.61/yr - $63,425.15/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4463767441/) — WES HEALTH SYSTEM
-- 📍 **Location:** Philadelphia, PA
-- 🕒 **Posted:** 2026-09-05
-
-### [Housing Case Manager (PSH)](https://www.linkedin.com/jobs/view/4463775460/) — Vita Nova Inc.
-- 📍 **Location:** West Palm Beach, FL
-- 🕒 **Posted:** 2026-09-05
-
-### [Case Manager II - Women & Children's Longterm Program](https://www.linkedin.com/jobs/view/4463773424/) — Light of Life Rescue Mission
-- 📍 **Location:** Pittsburgh, PA
-- 🕒 **Posted:** 2026-09-05
-
-### [TikTok Shop - Data Analyst (Supply Chain & Network Optimization)](https://www.linkedin.com/jobs/view/4462648075/) — TikTok
-- 📍 **Location:** Fontana, CA
-- 🕒 **Posted:** 2026-09-05
-
-### [Youth Independent Living - Case Manager](https://www.linkedin.com/jobs/view/4463776597/) — Intercept Health
-- 📍 **Location:** Richmond, VA
-- 💰 **Salary:** $21 - $23/hour
-- 🕒 **Posted:** 2026-09-05
-
-### [Case Management -Case Manager Full-Time Days MMH](https://www.linkedin.com/jobs/view/4463625558/) — Manatee Memorial Hospital
-- 📍 **Location:** Bradenton, FL
-- 🕒 **Posted:** 2026-09-05
-
-### [Vocational Case Manager Chicago, IL](https://www.linkedin.com/jobs/view/4462448602/) — Paradigm
-- 📍 **Location:** Chicago, IL
-- 🕒 **Posted:** 2026-09-05
-
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4461491420/) — UnitedHealth Group
-- 📍 **Location:** Menominee, MI
-- 💰 **Salary:** $58,800 to $105,000 annually
-- 🕒 **Posted:** 2026-09-05
-
-### [Residential Program Manager](https://www.linkedin.com/jobs/view/4463782433/) — Maryhurst
-- 📍 **Location:** Louisville, KY
-- 🕒 **Posted:** 2026-09-05
-
-### [RN Case Manager-Hospice,](https://www.linkedin.com/jobs/view/4461484441/) — UnitedHealth Group
-- 📍 **Location:** Cottonwood, AZ
-- 💰 **Salary:** $75,620 to $113,430 annually
-- 🕒 **Posted:** 2026-09-05
-
-### [Patient Care Coordinator - Castle Pines Family Practice](https://www.linkedin.com/jobs/view/4463768472/) — OnPoint Medical Group
-- 📍 **Location:** Castle Rock, CO
+### [Patient Care Coordinator - Lone Tree Pedatrics](https://www.linkedin.com/jobs/view/4463789462/) — OnPoint Medical Group
+- 📍 **Location:** Lone Tree, CO
 - 💰 **Salary:** $20 - $24
 - 🕒 **Posted:** 2026-09-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4463787456/) — AgileGrid Solutions
-- 📍 **Location:** United States
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463147813/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $58,952.61/yr - $63,425.15/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4463787444/) — Fusion Technology LLC
-- 📍 **Location:** Clarksburg, WV
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463152739/) — Community Healthcare Network
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $58,952.16/yr - $63,425.15/yr
 - 🕒 **Posted:** 2026-09-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4463769437/) — FetchJobs.co
-- 📍 **Location:** United States
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4463624773/) — Devereux
+- 📍 **Location:** New Preston, CT
+- 🕒 **Posted:** 2026-09-05
+
+### [Patient Care Coordinator - Westminster](https://www.linkedin.com/jobs/view/4463781475/) — OnPoint Medical Group
+- 📍 **Location:** Westminster, CO
+- 💰 **Salary:** $20 - $24
 - 🕒 **Posted:** 2026-09-05
