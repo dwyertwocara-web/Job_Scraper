@@ -1,58 +1,71 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-05 20:54 UTC*
+*Last updated: 2026-09-05 23:23 UTC*
 
-**11 new role(s)** since last run · 28 total in last 1h
+**14 new role(s)** since last run · 14 total in last 1h
 
-### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410992086/) — Seyfarth Shaw LLP
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $64,000 to $75,000 annually
+### [Data Analyst - Active Secret Clearance Required](https://www.linkedin.com/jobs/view/4462665136/) — Modern Technology Solutions, Inc. (MTSI)
+- 📍 **Location:** Edwards, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [COB Graduate Program Specialist - 2 Positions Available](https://www.linkedin.com/jobs/view/4462661100/) — California State University, Long Beach
-- 📍 **Location:** Long Beach, CA
-- 💰 **Salary:** $5,540 - $6,182 per month
-- 🕒 **Posted:** 2026-09-05
-
-### [Case Manager, Compass SF HOME (Temporary)](https://www.linkedin.com/jobs/view/4463696119/) — Compass Family Services
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $27 - $31 hourly
-- 🕒 **Posted:** 2026-09-05
-
-### [Practice Development Coordinator (Labor & Employment)](https://www.linkedin.com/jobs/view/4410982970/) — Seyfarth Shaw LLP
+### [Pharmacy Program Coordinator - Specialty Pharmacy](https://www.linkedin.com/jobs/view/4461488622/) — Cedars-Sinai
 - 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $64,000 to $75,000 annually
+- 💰 **Salary:** $78.86/hr - $126.18/hr
 - 🕒 **Posted:** 2026-09-05
 
-### [Care Manager - HH Plus Program](https://www.linkedin.com/jobs/view/4463144877/) — Community Healthcare Network
+### [Care Manager, LTSS](https://www.linkedin.com/jobs/view/4463769816/) — Molina Healthcare
+- 📍 **Location:** Chippewa Falls, WI
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-09-05
+
+### [Care Manager, LTSS](https://www.linkedin.com/jobs/view/4463778677/) — Molina Healthcare
+- 📍 **Location:** Madison, WI
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-09-05
+
+### [Care Manager, LTSS - Cook County](https://www.linkedin.com/jobs/view/4460198459/) — Molina Healthcare
+- 📍 **Location:** Chicago, IL
+- 🕒 **Posted:** 2026-09-05
+
+### [Care Manager, LTSS (RN) - Field travel in Milwaukee County, WI](https://www.linkedin.com/jobs/view/4463772702/) — Molina Healthcare
+- 📍 **Location:** Wauwatosa, WI
+- 💰 **Salary:** $26.41 - $51.49
+- 🕒 **Posted:** 2026-09-05
+
+### [Plant Health Care Coordinator | West Chicago, IL](https://www.linkedin.com/jobs/view/4463772688/) — The Davey Tree Expert Company
+- 📍 **Location:** West Chicago, IL
+- 💰 **Salary:** $25-$30 per hour
+- 🕒 **Posted:** 2026-09-05
+
+### [Clinical Research Assistant](https://www.linkedin.com/jobs/view/4463779689/) — Retina Consultants of Texas
+- 📍 **Location:** San Antonio, TX
+- 🕒 **Posted:** 2026-09-05
+
+### [RN Hospice Case Manager](https://www.linkedin.com/jobs/view/4463788735/) — Amedisys
+- 📍 **Location:** Lynchburg, VA
+- 💰 **Salary:** $83,000 - $86,000
+- 🕒 **Posted:** 2026-09-05
+
+### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4463769840/) — Amedisys
+- 📍 **Location:** Glen Allen, VA
+- 💰 **Salary:** $85,000 - $92,000
+- 🕒 **Posted:** 2026-09-05
+
+### [Field Care Manager, LTSS (LVN) - Local Travel Required](https://www.linkedin.com/jobs/view/4463774741/) — Molina Healthcare
+- 📍 **Location:** Cypress, TX
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-09-05
+
+### [Care Manager, LTSS (RN) - Field travel in Waukesha County, WI](https://www.linkedin.com/jobs/view/4458365015/) — Molina Healthcare
+- 📍 **Location:** Waukesha, WI
+- 💰 **Salary:** $26.41 - $51.49
+- 🕒 **Posted:** 2026-09-05
+
+### [Field Care Manager, LTSS (LVN) - Local Travel Required](https://www.linkedin.com/jobs/view/4463778679/) — Molina Healthcare
+- 📍 **Location:** Jasper, TX
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-09-05
+
+### [Academic Program Coordinator, College Now (aHEO) - 400518](https://www.linkedin.com/jobs/view/4463781704/) — The City University of New York
 - 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $62,000.00/yr - $64,517.95/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463152740/) — Community Healthcare Network
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $58,952.61/yr - $63,425.15/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Patient Care Coordinator - Lone Tree Pedatrics](https://www.linkedin.com/jobs/view/4463789462/) — OnPoint Medical Group
-- 📍 **Location:** Lone Tree, CO
-- 💰 **Salary:** $20 - $24
-- 🕒 **Posted:** 2026-09-05
-
-### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463147813/) — Community Healthcare Network
-- 📍 **Location:** Brooklyn, NY
-- 💰 **Salary:** $58,952.61/yr - $63,425.15/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463152739/) — Community Healthcare Network
-- 📍 **Location:** New York, NY
-- 💰 **Salary:** $58,952.16/yr - $63,425.15/yr
-- 🕒 **Posted:** 2026-09-05
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4463624773/) — Devereux
-- 📍 **Location:** New Preston, CT
-- 🕒 **Posted:** 2026-09-05
-
-### [Patient Care Coordinator - Westminster](https://www.linkedin.com/jobs/view/4463781475/) — OnPoint Medical Group
-- 📍 **Location:** Westminster, CO
-- 💰 **Salary:** $20 - $24
+- 💰 **Salary:** $61,525- $68,470
 - 🕒 **Posted:** 2026-09-05
