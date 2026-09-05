@@ -1,94 +1,91 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-05 17:54 UTC*
+*Last updated: 2026-09-05 20:02 UTC*
 
 **20 new role(s)** since last run · 20 total in last 1h
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4444752634/) — PDS Health
-- 📍 **Location:** Rancho Cordova, CA
-- 💰 **Salary:** $20.75/hr - $29.00/hr
+### [TikTok Shop - Data Analyst (Production & Quality Improvement)](https://www.linkedin.com/jobs/view/4462648076/) — TikTok
+- 📍 **Location:** Fontana, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Test Technical Program Manager](https://www.linkedin.com/jobs/view/4444749896/) — Etched
+### [Program Manager (II)](https://www.linkedin.com/jobs/view/4463778450/) — Strong Tower Consulting
+- 📍 **Location:** San Bruno, CA
+- 💰 **Salary:** $95-$112 per hour
+- 🕒 **Posted:** 2026-09-05
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4462657048/) — Seasats
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $130,000 - $160,000
+- 🕒 **Posted:** 2026-09-05
+
+### [Immigrations Data Analyst, AMS - San Jose](https://www.linkedin.com/jobs/view/4462653065/) — TikTok
 - 📍 **Location:** San Jose, CA
+- 💰 **Salary:** $76000 - $128000 annually
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager, Airports & Venues CX](https://www.linkedin.com/jobs/view/4463781195/) — Uber
-- 📍 **Location:** San Francisco, CA
+### [Case Manager II](https://www.linkedin.com/jobs/view/4463788423/) — Catholic Charities of Acadiana
+- 📍 **Location:** Lafayette, LA
 - 🕒 **Posted:** 2026-09-05
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4454827566/) — PDS Health
-- 📍 **Location:** South Pasadena, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Case Manager - ARCHES Redwood Crossings - Day](https://www.linkedin.com/jobs/view/4463771446/) — Mid-Willamette Valley Community Action Agency
+- 📍 **Location:** Salem, OR
 - 🕒 **Posted:** 2026-09-05
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4454829105/) — PDS Health
-- 📍 **Location:** Simi Valley, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4463767441/) — WES HEALTH SYSTEM
+- 📍 **Location:** Philadelphia, PA
 - 🕒 **Posted:** 2026-09-05
 
-### [Community Program Coordinator](https://www.linkedin.com/jobs/view/4463774225/) — Wichita State University
-- 📍 **Location:** Wichita, KS
+### [Housing Case Manager (PSH)](https://www.linkedin.com/jobs/view/4463775460/) — Vita Nova Inc.
+- 📍 **Location:** West Palm Beach, FL
 - 🕒 **Posted:** 2026-09-05
 
-### [Care Coordinator II](https://www.linkedin.com/jobs/view/4454847994/) — Iowa Total Care
-- 📍 **Location:** Council Bluffs, IA
-- 💰 **Salary:** $17.84 - $28.02 per hour
+### [Case Manager II - Women & Children's Longterm Program](https://www.linkedin.com/jobs/view/4463773424/) — Light of Life Rescue Mission
+- 📍 **Location:** Pittsburgh, PA
 - 🕒 **Posted:** 2026-09-05
 
-### [Case Manager - Active](https://www.linkedin.com/jobs/view/4463790231/) — ShiftClicks
-- 📍 **Location:** Aurora, CO
-- 💰 **Salary:** $25.10 - $28.68 hourly
+### [TikTok Shop - Data Analyst (Supply Chain & Network Optimization)](https://www.linkedin.com/jobs/view/4462648075/) — TikTok
+- 📍 **Location:** Fontana, CA
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager, Medical Devices](https://www.linkedin.com/jobs/view/4422011425/) — The Lubrizol Corporation
-- 📍 **Location:** Corona, CA
-- 💰 **Salary:** $146,000 - $162,000
+### [Youth Independent Living - Case Manager](https://www.linkedin.com/jobs/view/4463776597/) — Intercept Health
+- 📍 **Location:** Richmond, VA
+- 💰 **Salary:** $21 - $23/hour
 - 🕒 **Posted:** 2026-09-05
 
-### [Specialty Healthcare Coordinator](https://www.linkedin.com/jobs/view/4454808829/) — PDS Health
-- 📍 **Location:** Maple Valley, WA
-- 💰 **Salary:** $21.50/hr - $30.25/hr
+### [Case Management -Case Manager Full-Time Days MMH](https://www.linkedin.com/jobs/view/4463625558/) — Manatee Memorial Hospital
+- 📍 **Location:** Bradenton, FL
 - 🕒 **Posted:** 2026-09-05
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4454568902/) — PINN | Peoples Injury Network Northwest
-- 📍 **Location:** Fairview, OR
+### [Vocational Case Manager Chicago, IL](https://www.linkedin.com/jobs/view/4462448602/) — Paradigm
+- 📍 **Location:** Chicago, IL
 - 🕒 **Posted:** 2026-09-05
 
-### [Resident Care Manager - RN](https://www.linkedin.com/jobs/view/4451249448/) — Marquis Companies
-- 📍 **Location:** Portland, OR
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4461491420/) — UnitedHealth Group
+- 📍 **Location:** Menominee, MI
+- 💰 **Salary:** $58,800 to $105,000 annually
 - 🕒 **Posted:** 2026-09-05
 
-### [ER Case Manager RN Weekends](https://www.linkedin.com/jobs/view/4454852596/) — IHA
-- 📍 **Location:** Des Moines, IA
+### [Residential Program Manager](https://www.linkedin.com/jobs/view/4463782433/) — Maryhurst
+- 📍 **Location:** Louisville, KY
 - 🕒 **Posted:** 2026-09-05
 
-### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4384099506/) — NVA General Practice
-- 📍 **Location:** Staunton, VA
+### [RN Case Manager-Hospice,](https://www.linkedin.com/jobs/view/4461484441/) — UnitedHealth Group
+- 📍 **Location:** Cottonwood, AZ
+- 💰 **Salary:** $75,620 to $113,430 annually
 - 🕒 **Posted:** 2026-09-05
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4454573431/) — PDS Health
-- 📍 **Location:** Highlands Ranch, CO
-- 💰 **Salary:** $19.75/hr - $28.00/hr
+### [Patient Care Coordinator - Castle Pines Family Practice](https://www.linkedin.com/jobs/view/4463768472/) — OnPoint Medical Group
+- 📍 **Location:** Castle Rock, CO
+- 💰 **Salary:** $20 - $24
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager, Women's Heart Center](https://www.linkedin.com/jobs/view/4451273303/) — Houston Methodist
-- 📍 **Location:** Georgia, United States
+### [Data Analyst](https://www.linkedin.com/jobs/view/4463787456/) — AgileGrid Solutions
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-05
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4444727756/) — Chamberlain Group
-- 📍 **Location:** Oak Brook, IL
-- 💰 **Salary:** $102,600.00 - $193,425.00
+### [Program Manager](https://www.linkedin.com/jobs/view/4463787444/) — Fusion Technology LLC
+- 📍 **Location:** Clarksburg, WV
 - 🕒 **Posted:** 2026-09-05
 
-### [Marketing Program Manager](https://www.linkedin.com/jobs/view/4454807256/) — OpenEye
-- 📍 **Location:** Liberty Lake, WA
-- 💰 **Salary:** $25—$35 USD
-- 🕒 **Posted:** 2026-09-05
-
-### [Health & Environmental Program Manager](https://www.linkedin.com/jobs/view/4453711881/) — LAIKA Studios
-- 📍 **Location:** Hillsboro, OR
-- 🕒 **Posted:** 2026-09-05
-
-### [Patient Care Coordinator Full Time](https://www.linkedin.com/jobs/view/4427116003/) — BJ's Wholesale Club
-- 📍 **Location:** Seabrook, NH
+### [Data Analyst](https://www.linkedin.com/jobs/view/4463769437/) — FetchJobs.co
+- 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-05
