@@ -1,115 +1,111 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-06 18:12 UTC*
+*Last updated: 2026-09-06 20:59 UTC*
 
-**24 new role(s)** since last run · 24 total in last 1h
+**23 new role(s)** since last run · 23 total in last 1h
 
-### [Rotary-Wing Pilot Program Manager](https://www.linkedin.com/jobs/view/4450556177/) — California Department of Forestry and Fire Protection (CAL FIRE)
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $9,276.00/mo - $12,032.00/mo
+### [Behavioral Health Program Manager - San Francisco, CA](https://www.linkedin.com/jobs/view/4459049001/) — Protouch Staffing
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $100,000.00/yr - $106,090.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Aviation Safety Program Manager](https://www.linkedin.com/jobs/view/4457065522/) — California Department of Forestry and Fire Protection (CAL FIRE)
-- 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $9,276.00/mo - $12,032.00/mo
+### [Community Research Liaison, Sr / Pathways Program Coordinator](https://www.linkedin.com/jobs/view/4442258691/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager II PRN/Day](https://www.linkedin.com/jobs/view/4464042094/) — Kindred
-- 📍 **Location:** West Covina, CA
-- 💰 **Salary:** $47.26-$59.93/hr
+### [Care Coordinator](https://www.linkedin.com/jobs/view/4458694276/) — STRIDE Community Health Center
+- 📍 **Location:** Wheat Ridge, CO
+- 💰 **Salary:** $20.67 - $24.03
 - 🕒 **Posted:** 2026-09-06
 
-### [ASIC Technical Program Manager](https://www.linkedin.com/jobs/view/4409159083/) — Etched
-- 📍 **Location:** San Jose, CA
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463152740/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $58,952.61/yr - $63,425.15/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/4445200855/) — PDS Health
-- 📍 **Location:** Bellflower, CA
-- 💰 **Salary:** $18.00/hr - $25.50/hr
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463147813/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $58,952.61/yr - $63,425.15/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Case Manager - Case Management](https://www.linkedin.com/jobs/view/4459491611/) — Rady Children's Hospital-San Diego
-- 📍 **Location:** San Diego, CA
-- 💰 **Salary:** $61.22 to $94.34
+### [Care Manager I - HH](https://www.linkedin.com/jobs/view/4463152739/) — Community Healthcare Network
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $58,952.16/yr - $63,425.15/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Senior Program Manager, AI Delivery](https://www.linkedin.com/jobs/view/4387183304/) — Pharmavite
-- 📍 **Location:** California, United States
-- 💰 **Salary:** $140,000 - $234,000
+### [Care Manager - HH Plus Program](https://www.linkedin.com/jobs/view/4463155320/) — Community Healthcare Network
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $50,000.00/yr - $64,517.95/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [IT PROGRAM MANAGER (POLICY AND PLANNING)](https://www.linkedin.com/jobs/view/4461839519/) — WorkScoop
-- 📍 **Location:** Seaside, CA
-- 💰 **Salary:** $121,785 - $172,980 per year
+### [Case Manager Social Worker](https://www.linkedin.com/jobs/view/4439280037/) — Trinity Health MI
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-09-06
 
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4463327724/) — Hydrosat
-- 📍 **Location:** Carlsbad, CA
-- 💰 **Salary:** $150,000.00/yr - $160,000.00/yr
+### [Ambulatory RN Care Manager - Southeastern MI](https://www.linkedin.com/jobs/view/4364599773/) — Trinity Health MI
+- 📍 **Location:** Livonia, MI
 - 🕒 **Posted:** 2026-09-06
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4445217505/) — Drayer Physical Therapy Institute
-- 📍 **Location:** Cayce, SC
+### [Care Coordinator 2](https://www.linkedin.com/jobs/view/4444714721/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $30.34/hr - $41.02/hr
 - 🕒 **Posted:** 2026-09-06
 
-### [Community Health Worker II/Full-time/Mercy Hospital STL](https://www.linkedin.com/jobs/view/4453944119/) — Mercy
-- 📍 **Location:** St Louis, MO
+### [Case Manager | Adult Residential Services](https://www.linkedin.com/jobs/view/4450399369/) — Valley Behavioral Health
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager - Care Transitions (Part Time., Weekdays)](https://www.linkedin.com/jobs/view/4436436823/) — Beth Israel Lahey Health
-- 📍 **Location:** Burlington, MA
-- 💰 **Salary:** $38.11 - $98.23
+### [Case Manager | Adult Outpatient Services](https://www.linkedin.com/jobs/view/4450829882/) — Valley Behavioral Health
+- 📍 **Location:** Salt Lake City, UT
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4433574436/) — Medical City Healthcare
-- 📍 **Location:** Dallas, TX
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4460399603/) — St. Croix Hospice
+- 📍 **Location:** Eau Claire, WI
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4455159224/) — Medical City Healthcare
-- 📍 **Location:** Arlington, TX
+### [Care Manager - Hematology Oncology Oakland](https://www.linkedin.com/jobs/view/4437626189/) — Trinity Health MI
+- 📍 **Location:** Pontiac, MI
 - 🕒 **Posted:** 2026-09-06
 
-### [Nurse Care Manager, Infertility/Maternity [Temp-to-Hire]](https://www.linkedin.com/jobs/view/4084510389/) — Included Health
-- 📍 **Location:** United States
+### [Case Manager & Respite Provider](https://www.linkedin.com/jobs/view/4458296841/) — Applewood Centers Inc
+- 📍 **Location:** Cleveland, OH
+- 💰 **Salary:** $18-$21.00 per hour
 - 🕒 **Posted:** 2026-09-06
 
-### [Onsite Case Manager (RN Required ) in Espanola, NM](https://www.linkedin.com/jobs/view/4443184684/) — United Energy Workers Healthcare
-- 📍 **Location:** Espanola, NM
-- 💰 **Salary:** USD $45.00 - USD $50.00 /Hr
+### [Case Manager | Adult Outpatient Services](https://www.linkedin.com/jobs/view/4451472696/) — Valley Behavioral Health
+- 📍 **Location:** West Valley City, UT
 - 🕒 **Posted:** 2026-09-06
 
-### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4428352443/) — Beth Israel Lahey Health
-- 📍 **Location:** Plymouth, MA
-- 💰 **Salary:** $37.14 - $82.22
+### [Facilities Program Manager](https://www.linkedin.com/jobs/view/4460553913/) — Medtronic
+- 📍 **Location:** North Haven, CT
+- 💰 **Salary:** $106,400.00 - $159,600.00
 - 🕒 **Posted:** 2026-09-06
 
-### [Mental Health Case Manager II-Therapist (Remote)](https://www.linkedin.com/jobs/view/4453943343/) — Mercy
-- 📍 **Location:** Chesterfield, MO
+### [Care Manager - HH Plus Program](https://www.linkedin.com/jobs/view/4463144877/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $62,000.00/yr - $64,517.95/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Provider Program Manager - APM](https://www.linkedin.com/jobs/view/4445246523/) — TriWest Healthcare Alliance
-- 📍 **Location:** Phoenix, AZ
-- 💰 **Salary:** $115,000 - $135,000 per year
+### [Sr Engineering Program Manager](https://www.linkedin.com/jobs/view/4461050841/) — Medtronic
+- 📍 **Location:** Mounds View, MN
+- 💰 **Salary:** $171,200.00 - $256,800.00
 - 🕒 **Posted:** 2026-09-06
 
-### [Sr. Program Manager - Surgery Scientific Core](https://www.linkedin.com/jobs/view/4441844616/) — Houston Methodist
-- 📍 **Location:** Houston, TX
+### [Strategic Sourcing Program Manager-M&A](https://www.linkedin.com/jobs/view/4459893726/) — Medtronic
+- 📍 **Location:** Minneapolis, MN
+- 💰 **Salary:** $113,600.00 - $170,400.00
 - 🕒 **Posted:** 2026-09-06
 
-### [Care Coordinator - RN - Social Services – PT - Days](https://www.linkedin.com/jobs/view/4455536336/) — NewYork-Presbyterian Hospital
-- 📍 **Location:** Bronxville, NY
-- 💰 **Salary:** $134,900.00/yr - $168,000.00/yr
+### [Research Assistant](https://www.linkedin.com/jobs/view/4455577872/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $23.18/hr - $33.02/hr
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Case Manager Part Time](https://www.linkedin.com/jobs/view/4334908074/) — HCA Florida Capital Hospital
-- 📍 **Location:** Tallahassee, FL
+### [Senior Research Assistant](https://www.linkedin.com/jobs/view/4455574909/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $48,505.00/yr - $75,254.00/yr
 - 🕒 **Posted:** 2026-09-06
 
-### [Program Manager- Weapon Systems Program Execution](https://www.linkedin.com/jobs/view/4441830278/) — BAE Systems, Inc.
-- 📍 **Location:** Louisville, KY
-- 💰 **Salary:** $120874 - $205486
-- 🕒 **Posted:** 2026-09-06
-
-### [Senior Program Manager, Payment Operations and Optimization](https://www.linkedin.com/jobs/view/4445232548/) — Chewy
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $129,500 - $207,000.00
+### [TI Sr Clinical Research Assistant](https://www.linkedin.com/jobs/view/4439509271/) — Oregon Health & Science University
+- 📍 **Location:** Portland, Oregon Metropolitan Area
+- 💰 **Salary:** $24.43/hr - $40.72/hr
 - 🕒 **Posted:** 2026-09-06
