@@ -1,39 +1,49 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-06 01:39 UTC*
+*Last updated: 2026-09-06 05:25 UTC*
 
-**8 new role(s)** since last run · 54 total in last 1h
+**10 new role(s)** since last run · 10 total in last 1h
 
-### [Case Manager (Trans Services)](https://www.linkedin.com/jobs/view/4462658612/) — San Francisco Community Health Center
+### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461807466/) — CoreWeave
 - 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $134,000 to $179,000
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Fellow - Care Manager - PCSTMC Nov 2026](https://www.linkedin.com/jobs/view/4462638086/) — Providence
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $59.73/hr - $90.33/hr
+### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461822422/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $134,000 to $179,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager - Insurance Coverage](https://www.linkedin.com/jobs/view/4462664692/) — MaineHealth
-- 📍 **Location:** South Portland, ME
-- 💰 **Salary:** $52,499.20to $71,052.80per year
+### [Assistant Residential Program Manager](https://www.linkedin.com/jobs/view/4464014472/) — Ability Beyond
+- 📍 **Location:** Danbury, CT
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager RN $100-$108,250 Annually $5000 Retention Bonus](https://www.linkedin.com/jobs/view/4462649669/) — Christian Living Communities
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $100-$108,250 Annually
+### [Case Manager Liaison Nurse - Advanced Urgent Care Discharge Planning Bellevue WA 1.0 FTE](https://www.linkedin.com/jobs/view/4461828322/) — RegisteredNurse.jobs
+- 📍 **Location:** Bellevue, WA
 - 🕒 **Posted:** 2026-09-06
 
-### [RN Care Manager](https://www.linkedin.com/jobs/view/4462649529/) — Health Wealth Safe
-- 📍 **Location:** Billings, MT
+### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461823359/) — CoreWeave
+- 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $134,000 to $179,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Clinical Care Manager, RN](https://www.linkedin.com/jobs/view/4462651534/) — Bold Steps Behavioral Health
-- 📍 **Location:** Port Charlotte, FL
+### [Specialty Care Coordinator](https://www.linkedin.com/jobs/view/4456254284/) — True Rx Health Strategists
+- 📍 **Location:** Washington, IN
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager Social Worker (LBSW)](https://www.linkedin.com/jobs/view/4462660417/) — Seacrest Behavioral Health
-- 📍 **Location:** Baltimore, MD
+### [Nurse Clinician (Nurse Navigator/Case Manager) - Inpatient Oncology - 100%](https://www.linkedin.com/jobs/view/4464013494/) — Oncology Voice Network
+- 📍 **Location:** Iowa City, IA
 - 🕒 **Posted:** 2026-09-06
 
-### [HR Data Analyst](https://www.linkedin.com/jobs/view/4461486724/) — Purpose Financial
-- 📍 **Location:** Beaumont, TX
-- 🕒 **Posted:** 2026-09-05
+### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461807464/) — CoreWeave
+- 📍 **Location:** Livingston, NJ
+- 💰 **Salary:** $134,000 to $179,000
+- 🕒 **Posted:** 2026-09-06
+
+### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4462669896/) — Husky Technologies
+- 📍 **Location:** Milton, VT
+- 🕒 **Posted:** 2026-09-06
+
+### [Program Manager 1](https://www.linkedin.com/jobs/view/4463792611/) — Northrop Grumman
+- 📍 **Location:** Rocket Center, WV
+- 💰 **Salary:** $114,900.00 - $172,300.00
+- 🕒 **Posted:** 2026-09-06
