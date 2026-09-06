@@ -1,49 +1,71 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-06 05:25 UTC*
+*Last updated: 2026-09-06 06:34 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**14 new role(s)** since last run · 16 total in last 1h
 
-### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461807466/) — CoreWeave
-- 📍 **Location:** San Francisco, CA
-- 💰 **Salary:** $134,000 to $179,000
-- 🕒 **Posted:** 2026-09-06
-
-### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461822422/) — CoreWeave
+### [Sr. Technical Program Manager, Capacity Delivery](https://www.linkedin.com/jobs/view/4461826425/) — CoreWeave
 - 📍 **Location:** Sunnyvale, CA
-- 💰 **Salary:** $134,000 to $179,000
+- 💰 **Salary:** $143,000 to $210,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Assistant Residential Program Manager](https://www.linkedin.com/jobs/view/4464014472/) — Ability Beyond
-- 📍 **Location:** Danbury, CT
+### [Senior Technical Program Manager – Fleet Operations & Reliability](https://www.linkedin.com/jobs/view/4461830364/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $157,000 to $210,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Case Manager Liaison Nurse - Advanced Urgent Care Discharge Planning Bellevue WA 1.0 FTE](https://www.linkedin.com/jobs/view/4461828322/) — RegisteredNurse.jobs
+### [Marketing Program Manager V](https://www.linkedin.com/jobs/view/4462667996/) — Kaiser Permanente
+- 📍 **Location:** Pasadena, CA
+- 💰 **Salary:** $147,500.00/yr - $190,850.00/yr
+- 🕒 **Posted:** 2026-09-06
+
+### [Technical Program Manager - Performance & Benchmarking](https://www.linkedin.com/jobs/view/4461821452/) — CoreWeave
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $177,000 to $237,000
+- 🕒 **Posted:** 2026-09-06
+
+### [Case Manager (Intensive Case Management)](https://www.linkedin.com/jobs/view/4461819470/) — Highland Rivers Behavioral Health
+- 📍 **Location:** Austell, GA
+- 🕒 **Posted:** 2026-09-06
+
+### [Technical Program Manager - Cluster Orchestration & Applied Training](https://www.linkedin.com/jobs/view/4461829419/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $237,000 to $261,000
+- 🕒 **Posted:** 2026-09-06
+
+### [Technical Program Manager - Cluster Orchestration & Applied Training](https://www.linkedin.com/jobs/view/4461820454/) — CoreWeave
 - 📍 **Location:** Bellevue, WA
+- 💰 **Salary:** $237,000 to $261,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461823359/) — CoreWeave
-- 📍 **Location:** Bellevue, WA
-- 💰 **Salary:** $134,000 to $179,000
+### [RN Hospice Case Manager](https://www.linkedin.com/jobs/view/4463793733/) — AMEDISYS HOME HEALTH
+- 📍 **Location:** Lynchburg, VA
+- 💰 **Salary:** $83,000 - $86,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Specialty Care Coordinator](https://www.linkedin.com/jobs/view/4456254284/) — True Rx Health Strategists
-- 📍 **Location:** Washington, IN
+### [Hospice RN Case Manager](https://www.linkedin.com/jobs/view/4464003616/) — AMEDISYS HOME HEALTH
+- 📍 **Location:** Glen Allen, VA
+- 💰 **Salary:** $85,000 - $92,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Nurse Clinician (Nurse Navigator/Case Manager) - Inpatient Oncology - 100%](https://www.linkedin.com/jobs/view/4464013494/) — Oncology Voice Network
-- 📍 **Location:** Iowa City, IA
+### [Patient Care Coordinator - Front Office](https://www.linkedin.com/jobs/view/4461828422/) — Doctors of Physical Therapy
+- 📍 **Location:** Bay City, MI
 - 🕒 **Posted:** 2026-09-06
 
-### [Data Center Operations Program Manager](https://www.linkedin.com/jobs/view/4461807464/) — CoreWeave
+### [Patient Care Coordinator - Front Office](https://www.linkedin.com/jobs/view/4461816529/) — Doctors of Physical Therapy
+- 📍 **Location:** Chetek, WI
+- 🕒 **Posted:** 2026-09-06
+
+### [Technical Program Manager - Performance & Benchmarking](https://www.linkedin.com/jobs/view/4461819437/) — CoreWeave
+- 📍 **Location:** Sunnyvale, CA
+- 💰 **Salary:** $177,000 to $237,000
+- 🕒 **Posted:** 2026-09-06
+
+### [Technical Program Manager - Performance & Benchmarking](https://www.linkedin.com/jobs/view/4461822474/) — CoreWeave
 - 📍 **Location:** Livingston, NJ
-- 💰 **Salary:** $134,000 to $179,000
+- 💰 **Salary:** $177,000 to $237,000
 - 🕒 **Posted:** 2026-09-06
 
-### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4462669896/) — Husky Technologies
-- 📍 **Location:** Milton, VT
-- 🕒 **Posted:** 2026-09-06
-
-### [Program Manager 1](https://www.linkedin.com/jobs/view/4463792611/) — Northrop Grumman
-- 📍 **Location:** Rocket Center, WV
-- 💰 **Salary:** $114,900.00 - $172,300.00
+### [Technical Program Manager - Performance & Benchmarking](https://www.linkedin.com/jobs/view/4461822475/) — CoreWeave
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $177,000 to $237,000
 - 🕒 **Posted:** 2026-09-06
