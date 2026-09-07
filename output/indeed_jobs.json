@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-07 01:57 UTC",
+  "scraped_at": "2026-09-07 07:02 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Unknown",
@@ -38,23 +38,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Unknown",
-      "title": "Front Desk, Concierge & Patient Care Coordinator (Aesthetic Plastic Surgery)",
-      "location": "Beverly Hills, CA, US",
-      "url": "https://www.indeed.com/viewjob?jk=b33ece0bb9042698",
-      "direct_url": "http://www.indeed.com/job/front-desk-concierge-patient-care-coordinator-aesthetic-plastic-surgery-b33ece0bb9042698",
-      "company_url": "https://www.indeed.comNone",
-      "date_posted": "2026-09-06",
-      "description": "**About the role**\n\nFarajzMD Plastic Surgery is a new boutique aesthetic plastic surgery practice in Beverly Hills, founded by Dr. Matt Farajzadeh. We are small by design, with human touch and care at the center of everything we do.\n\nYou'll be the person patients meet first and hear from most, and you'll help run the office alongside Dr. Farajzadeh as we grow. The role covers the front desk, patient coordination, day\\-to\\-day operations, and a hand in how the practice shows up online, with a defined path into a dedicated Patient Coordinator position and the option to train as a medical assistant if you want the clinical side. No medical office experience required; we'll train you. If you've read Unreasonable Hospitality or Setting the Table, you'll recognize what we're building.\n\n**What you'll own**\n\n* Nurturing leads, every inquiry answered the same day, warmly, with the next step in hand, and thoughtful follow\\-up with patients who haven't booked.\n* Every consultation and surgery prepared before the patient arrives: intake, photos, scheduling with the surgery center, pre\\-op instructions, financing, and follow\\-up.\n* The front of house: greeting, check\\-in and checkout, payments, scheduling in our practice software (we'll train you), supplies, and patient flow, including escorting patients to rooms, clinical photography under our protocol, and room prep.\n* Back of house: Finalizing the sale of the procedure, shecking in on patients, fielding post op calls, handling patient concerns, customer service.\n* Our content: filming and photographing in the office (with patient consent, always), helping shape posts and stories, and answering comments and messages.\n* A running list of what could be better, and the follow\\-through to fix it.\n\n**Who this is for**\n\n* You get things done: you work independently, know when to ask for help, think critically, and bring solutions, not problems.\n* Warm by default. You treat each patient as you would your own family.\n* You have an eye. You notice when a room, a photo, or a caption is slightly off and fix it before anyone asks. You're polished, and you'd want the practice to be too.\n* You read people, you own your mistakes early, and you're steady in a fast, high\\-touch day.\n* Comfortable working in a medical setting.\n\n**Experience**\n\nStrongly preferred: hospitality, luxury retail, or sales (hotels, restaurants, membership clubs, concierge). Not required: medical office or EMR experience; we'll train you. Required: authorized to work in the U.S., in person in Beverly Hills Monday to Friday, comfortable on phones, email, and text at volume, and absolute discretion with patient information. A plus: Spanish, and comfort filming on a phone.\n\n**How to apply**\n\nApply with your resume and answer one question in the application (150 words or fewer): tell us about a time you noticed something about a guest or customer that no one told you, what you did about it, and how it ended. If it looks like a fit: a phone call, a conversation at the office, then a paid half\\-day working session before any offer.\n\nFarajzMD Plastic Surgery (Matthew Farajzadeh, MD Inc.) is an equal opportunity employer. We make hiring decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, veteran status, or any other protected characteristic.\n\nPay: $26\\.25 \\- $31\\.61 per hour\n\nExpected hours: 40\\.0 per week\n\nBenefits:\n\n* Employee discount\n* On\\-the\\-job training\n* Opportunities for advancement\n* Paid sick time\n* Professional development assistance\n* Referral program\n\nWork Location: In person",
-      "salary": "$26–$31/hr",
-      "salary_source": "direct_data",
-      "salary_currency": "USD",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
