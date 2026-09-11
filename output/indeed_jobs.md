@@ -1,88 +1,69 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-11 01:43 UTC*
+*Last updated: 2026-09-11 06:48 UTC*
 
-**17 new role(s)** since last run · 55 total in last 24h
+**14 new role(s)** since last run · 53 total in last 24h
 
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=8316f0a5775eb572) — Independent Living Systems, llc
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $26–$43/hr
-- 🕒 **Posted:** 2026-04-23
-
-### [Program Coordinator, Experienced](https://www.indeed.com/viewjob?jk=8469478cd87cd907) — Blue Shield of California
-- 📍 **Location:** El Dorado Hills, CA, US
-- 💰 **Salary:** $33–$50/hr
+### [Resident Care Coordinator - RN](https://www.indeed.com/viewjob?jk=62fc4b60bfe52471) — Pacific Retirement Services
+- 📍 **Location:** Davis, CA, US
+- 💰 **Salary:** $45–$55/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [Financial/Data Analyst](https://www.indeed.com/viewjob?jk=0fa8a1a8177554dc) — Unknown
-- 📍 **Location:** Irvine, CA, US
-- 💰 **Salary:** $60k–$65k/yr
+### [Case Manager - Permanent Housing](https://www.indeed.com/viewjob?jk=0870cc57d84920e5) — Mercy House
+- 📍 **Location:** Riverside, CA, US
 - 🕒 **Posted:** 2026-09-10
 
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=2277f02e98ed69a1) — Independent Living Systems, llc
-- 📍 **Location:** Fontana, CA, US
-- 💰 **Salary:** $26–$43/hr
+### [Case Manager - Permanent Housing](https://www.indeed.com/viewjob?jk=1c8000a3127efda5) — Mercy House
+- 📍 **Location:** Riverside, CA, US
 - 🕒 **Posted:** 2026-09-10
 
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=0a54c53995275b8c) — Independent Living Systems, llc
-- 📍 **Location:** San Bernardino, CA, US
-- 💰 **Salary:** $26–$43/hr
+### [Program Coordinator](https://www.indeed.com/viewjob?jk=61fe90fea910d628) — Life Skills Training and Educational Programs - LifeSTEPS
+- 📍 **Location:** San Jose, CA, US
 - 🕒 **Posted:** 2026-09-10
 
-### [Front Office Patient Care Coordinator](https://www.indeed.com/viewjob?jk=ed2bbb5c92d285cf) — Dr. Jeffrey Brown
-- 📍 **Location:** Costa Mesa, CA, US
-- 💰 **Salary:** $18–$20/hr
+### [Employment Case Manager](https://www.indeed.com/viewjob?jk=733d499a38c72e50) — FRIENDS OUTSIDE
+- 📍 **Location:** Modesto, CA, US
+- 💰 **Salary:** $23–$25/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [Patient Care Coordinator/Marketing Coordinator](https://www.indeed.com/viewjob?jk=152f320307cdc8c9) — Steven Merchant, DDS, A Dental Corporati
-- 📍 **Location:** Carlsbad, CA, US
-- 💰 **Salary:** $25–$30/hr
+### [Reentry Care Manager - Community Health Worker](https://www.indeed.com/viewjob?jk=6a576d3b51ef07be) — SISTAHFRIENDS Women's Counseling and Eldercare Management
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $24–$28/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Case Manager- Health Center](https://www.indeed.com/viewjob?jk=768514bf048b9beb) — Casa de las Campanas
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $38–$43/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Program Specialist - Clinical Programs](https://www.indeed.com/viewjob?jk=984ba40e0dfc7957) — Roots Community Health Center
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $25–$27/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=1d13f3bf7b59c62d) — Independent Living Systems, llc
-- 📍 **Location:** Anaheim, CA, US
-- 💰 **Salary:** $26–$43/hr
-- 🕒 **Posted:** 2026-02-06
-
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=5823fdb7557a3028) — Independent Living Systems, llc
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $26–$43/hr
-- 🕒 **Posted:** 2026-01-30
-
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=9a6a54978899a24d) — Independent Living Systems, llc
-- 📍 **Location:** Glendale, CA, US
-- 💰 **Salary:** $26–$43/hr
-- 🕒 **Posted:** 2026-01-30
-
-### [Temporary Program Coordinator](https://www.indeed.com/viewjob?jk=4a59b1c58ae715a5) — Jewish Vocational Service (JVS)
-- 📍 **Location:** San Francisco, CA, US
+### [Patient Care Coordinator (Temporary)](https://www.indeed.com/viewjob?jk=2e0940d8cc5a1694) — Arrowhead Orthopaedics
+- 📍 **Location:** Hemet, CA, US
 - 🕒 **Posted:** 2026-09-10
 
-### [GME Program Coordinator-Neuro-Full Time](https://www.indeed.com/viewjob?jk=0c88ee6c50ac43e5) — Temecula Valley Hospital
-- 📍 **Location:** Temecula, CA, US
-- 💰 **Salary:** $65k–$97k/yr
+### [Customer Care Coordinator, ES (onsite Cypress, CA)](https://www.indeed.com/viewjob?jk=4cea8de1fb352944) — FujiFilm
+- 📍 **Location:** Cypress, CA, US
+- 💰 **Salary:** $24–$29/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [Marketing and Business Development Coordinator](https://www.indeed.com/viewjob?jk=674087adb7e82718) — Unknown
-- 📍 **Location:** Burbank, CA, US
-- 💰 **Salary:** $50k–$70k/yr
+### [RN Case Manager - AS Utilization Management - Full Time - 8 Hour - Days](https://www.indeed.com/viewjob?jk=00ddfd9ecb5de36a) — John Muir Health
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $89–$121/hr
 - 🕒 **Posted:** 2026-09-10
 
-### [Integrated Case Manager- RN (Chesapeake)](https://www.indeed.com/viewjob?jk=bdd90fe47c217492) — Unknown
-- 📍 **Location:** Virginia Beach, VA, US
-- 💰 **Salary:** $90k–$136k/yr
+### [Lead Case Manager](https://www.indeed.com/viewjob?jk=24d74a9b17f2d68f) — AMPLA HEALTH
+- 📍 **Location:** Chico, CA, US
+- 💰 **Salary:** $40–$56/hr
+- 🕒 **Posted:** 2026-02-04
+
+### [Care Manager I](https://www.indeed.com/viewjob?jk=6eed9ba9029abcdf) — Institute on Aging
+- 📍 **Location:** San Mateo, CA, US
 - 🕒 **Posted:** 2026-09-10
 
-### [Associate Manager - Community Health Worker - Work at Home](https://www.indeed.com/viewjob?jk=3db3e819d59afee5) — CVS Health
-- 📍 **Location:** Trenton, NJ, US
-- 💰 **Salary:** $88k–$190k/yr
-- 🕒 **Posted:** 2026-09-10
-
-### [Translation Program Coordinator - Spanish](https://www.indeed.com/viewjob?jk=27f80021c0529fd8) — Stanford Medicine Children's Health
-- 📍 **Location:** Palo Alto, CA, US
-- 💰 **Salary:** $45–$51/hr
-- 🕒 **Posted:** 2026-09-10
-
-### [Camps and Athlete Development Coordinator](https://www.indeed.com/viewjob?jk=18e777d793213e28) — Unknown
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $47k–$55k/yr
+### [Care Center Case Manager](https://www.indeed.com/viewjob?jk=7ac83075f47f82d0) — Hill Country Community Clinic
+- 📍 **Location:** Redding, CA, US
+- 💰 **Salary:** $22–$25/hr
 - 🕒 **Posted:** 2026-09-10
