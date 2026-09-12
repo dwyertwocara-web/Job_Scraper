@@ -1,70 +1,58 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-12 21:08 UTC*
+*Last updated: 2026-09-12 23:33 UTC*
 
-**14 new role(s)** since last run · 14 total in last 1h
+**12 new role(s)** since last run · 12 total in last 1h
 
-### [Senior Analyst - Port Operations PIO Data Analyst](https://www.linkedin.com/jobs/view/4464294858/) — GLOVIS America, Inc.
-- 📍 **Location:** Irvine, CA
-- 💰 **Salary:** $55,000 - $70,000 per year
+### [School Nurse - IEP Case Manager](https://www.linkedin.com/jobs/view/4466752037/) — Backstage Health
+- 📍 **Location:** Lakeport, CA
 - 🕒 **Posted:** 2026-09-12
 
-### [Program Manager, Commercial Learning & Development](https://www.linkedin.com/jobs/view/4464287871/) — Net2Source (N2S)
-- 📍 **Location:** Foster City, CA
-- 💰 **Salary:** $64.75/hr - $68.35/hr
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4465443059/) — Jobright.ai
-- 📍 **Location:** San Francisco, CA
-- 🕒 **Posted:** 2026-09-12
-
-### [Housing Case Manager](https://www.linkedin.com/jobs/view/4464291932/) — Kintegra Health
-- 📍 **Location:** Gastonia, NC
-- 🕒 **Posted:** 2026-09-12
-
-### [Targeted case manager](https://www.linkedin.com/jobs/view/4466723191/) — Homestead Behavior Clinic
-- 📍 **Location:** Miami, FL
-- 🕒 **Posted:** 2026-09-12
-
-### [Instructional Program Manager](https://www.linkedin.com/jobs/view/4454282630/) — Saga Education
+### [TLC Leader Learning Program Coordinator](https://www.linkedin.com/jobs/view/4458053251/) — CommonSpirit Health
 - 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $78,300 - $91,900
+- 💰 **Salary:** $43.20 - $64.26 /hour
 - 🕒 **Posted:** 2026-09-12
 
-### [Veterinary Receptionist (Care Coordinator) - Central Valley Animal Hospital](https://www.linkedin.com/jobs/view/4466710473/) — PetVet Care Centers
-- 📍 **Location:** Rainbow City, AL
-- 💰 **Salary:** $12—$15.60 USD
-- 🕒 **Posted:** 2026-09-12
-
-### [Patient Care Manager,](https://www.linkedin.com/jobs/view/4464295678/) — UnitedHealth Group
-- 📍 **Location:** Louisville, KY
-- 💰 **Salary:** $85,196 to $127,794 annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Patient Care Manager-RN (At Home Healthcare-Denver),](https://www.linkedin.com/jobs/view/4464705667/) — UnitedHealth Group
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $98,648 to $147,972 annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Undergraduate Program Coordinator and Advisor](https://www.linkedin.com/jobs/view/4466729200/) — University of Michigan
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $48,400.00/yr - $60,500.00/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [Merchant Services Program Manager](https://www.linkedin.com/jobs/view/4466712457/) — University of Michigan
-- 📍 **Location:** Ann Arbor, MI
-- 💰 **Salary:** $95,000.00/yr - $110,000.00/yr
-- 🕒 **Posted:** 2026-09-12
-
-### [RN Case Manager PRN - Memorial White Rose Hospice,](https://www.linkedin.com/jobs/view/4464707544/) — UnitedHealth Group
-- 📍 **Location:** York, PA
-- 💰 **Salary:** $79,600 to $119,400 annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4464701659/) — UnitedHealth Group
-- 📍 **Location:** Menominee, MI
-- 💰 **Salary:** $58,800 to $105,000 annually
-- 🕒 **Posted:** 2026-09-12
-
-### [Data Analyst (AI)](https://www.linkedin.com/jobs/view/4466719324/) — Torentify
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4464731099/) — TalentHop
 - 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-12
+
+### [Sr. Program Manager](https://www.linkedin.com/jobs/view/4464726104/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $157,500—$177,300 USD
+- 🕒 **Posted:** 2026-09-12
+
+### [Technical Program Manager](https://www.linkedin.com/jobs/view/4464717165/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $87,100 to $108,900 USD
+- 🕒 **Posted:** 2026-09-12
+
+### [Program Manager - Enterprise Transformation](https://www.linkedin.com/jobs/view/4464733116/) — TalentHop
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-12
+
+### [26-27 Accountability and Data Reporting: Data Analyst, Accountability and Research](https://www.linkedin.com/jobs/view/4465434230/) — Aurora Public Schools
+- 📍 **Location:** Aurora, CO
+- 🕒 **Posted:** 2026-09-12
+
+### [Data Analyst III - Data Analytics & Reporting - 100% remote](https://www.linkedin.com/jobs/view/4464715152/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $4,801.16 to $6,281.33 monthly
+- 🕒 **Posted:** 2026-09-12
+
+### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4465447144/) — Jobright.ai
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-12
+
+### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4465446124/) — Husky Technologies
+- 📍 **Location:** Milton, VT
+- 🕒 **Posted:** 2026-09-12
+
+### [Experienced Data Analyst](https://www.linkedin.com/jobs/view/4464732097/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $81,100.00 to $115,900.00 per year
+- 🕒 **Posted:** 2026-09-12
+
+### [Senior Program Manager, Pricing and Packaging](https://www.linkedin.com/jobs/view/4464733122/) — TalentHop
+- 📍 **Location:** United States
+- 💰 **Salary:** $128,200 to $202,900 USD
 - 🕒 **Posted:** 2026-09-12
