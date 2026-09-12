@@ -1,97 +1,57 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-12 07:18 UTC*
+*Last updated: 2026-09-12 23:52 UTC*
 
-**20 new role(s)** since last run · 50 total in last 24h
+**11 new role(s)** since last run · 30 total in last 24h
 
-### [Care Manager II Utilization Mgmt Acute](https://www.indeed.com/viewjob?jk=23ec740b3ce80074) — Sutter Health
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $82–$132/hr
+### [Care Manager/Care Navigator](https://www.indeed.com/viewjob?jk=d8f5453954ead4bd) — MASTER CARE
+- 📍 **Location:** Placerville, CA, US
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Temporary Housing Specialist-CWSP P/T (20 Hours)](https://www.indeed.com/viewjob?jk=97d2c9d270ec3620) — HomeFirst
-- 📍 **Location:** Mountain View, CA, US
+### [FTR Reentry & Housing Stabilization Case Manager III](https://www.indeed.com/viewjob?jk=0dffa51aef7fbd2e) — Goodwill of Silicon Valley
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $70k–$80k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Housing Case Manager](https://www.indeed.com/viewjob?jk=1b76ed43608fab44) — Illumination Health + Home
-- 📍 **Location:** Cerritos, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [ALA Shared Housing Program Coordinator VISTA](https://www.indeed.com/viewjob?jk=b03cea405a5754a3) — AmeriCorps
+### [RN Care Manager - Enhanced Care Management (ECM)](https://www.indeed.com/viewjob?jk=34bb7be82091e13b) — Unknown
 - 📍 **Location:** Los Angeles, CA, US
-- 🕒 **Posted:** 2026-09-01
-
-### [Patient Care Coordinator (Front Office) - PART-TIME](https://www.indeed.com/viewjob?jk=7362642a243c42c7) — Skin And Cancer Institute
-- 📍 **Location:** Palm Springs, CA, US
-- 💰 **Salary:** $19–$21/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Case Manager](https://www.indeed.com/viewjob?jk=d75ec9ddca97570b) — Unknown
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $29–$38/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Copy of Community Care Coordinator - Redding](https://www.indeed.com/viewjob?jk=29d081c9cdedcd8a) — Unknown
-- 📍 **Location:** Redding, CA, US
-- 💰 **Salary:** $17–$26/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Case Manager](https://www.indeed.com/viewjob?jk=1d4cad8f1df812d1) — Whole Person Care Clinic
-- 📍 **Location:** Heber, CA, US
-- 🕒 **Posted:** 2026-09-11
-
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=5190235a43798064) — Five Keys Schools and Programs
-- 📍 **Location:** Highland Park, CA, US
-- 💰 **Salary:** $25–$27/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Bilingual Care Coordinator](https://www.indeed.com/viewjob?jk=57f58a4efcdffa38) — Meals On Wheels OC
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $19–$23/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Lead Care Manager](https://www.indeed.com/viewjob?jk=e2d3d32225e1f4e9) — Wayfinder Family Services
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $24–$26/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Customer Care Coordinator, ES (onsite Cypress, CA)](https://www.indeed.com/viewjob?jk=dee76d6c60ae66c3) — FujiFilm
-- 📍 **Location:** Cypress, CA, US
-- 💰 **Salary:** $24–$29/hr
-- 🕒 **Posted:** 2026-09-10
-
-### [Memory Care Coordinator](https://www.indeed.com/viewjob?jk=c5d4edbdacde72fc) — LiveWell Homecare Agency
-- 📍 **Location:** Westlake Village, CA, US
-- 🕒 **Posted:** 2026-09-02
-
-### [Travel Nurse – RN – Case Manager](https://www.indeed.com/viewjob?jk=c39ec65538dc375d) — LiveWell Homecare Agency
-- 📍 **Location:** Santa Monica, CA, US
-- 🕒 **Posted:** 2026-07-15
-
-### [Case Manager II - Mental Health 152](https://www.indeed.com/viewjob?jk=f54206919b8f38d7) — Telecare Corporation
-- 📍 **Location:** Oakland, CA, US
-- 💰 **Salary:** $23/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Complex Care Coordinator (licensed)](https://www.indeed.com/viewjob?jk=aac8d2e5e71eb40b) — Umpqua Health Management LLC
-- 📍 **Location:** Roseburg, OR, US
-- 💰 **Salary:** $80k–$95k/yr
+- 💰 **Salary:** $46–$72/hr
 - 🕒 **Posted:** 2026-09-12
 
-### [RN School Nurse Care Coordinator - Part Time](https://www.indeed.com/viewjob?jk=ad67e7a77bd7ff73) — Avel eCare
-- 📍 **Location:** Remote, US
+### [Part-Time Client Care Manager](https://www.indeed.com/viewjob?jk=ccfb58271e0e6deb) — Unknown
+- 📍 **Location:** Chula Vista, CA, US
+- 💰 **Salary:** $27–$36/hr
+- 🕒 **Posted:** 2026-09-12
+
+### [Hospice RN Case Manager](https://www.indeed.com/viewjob?jk=1569517d55ba9b39) — The Elizabeth Hospice
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $45–$61/hr
+- 🕒 **Posted:** 2026-09-12
+
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=afc718ac119229cf) — Vitality Integrative Wellness
+- 📍 **Location:** Temecula, CA, US
+- 🕒 **Posted:** 2026-09-12
+
+### [Case Manager - ECM](https://www.indeed.com/viewjob?jk=07d0b95715b05f6f) — Peninsula HealthCare Connection
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $65k–$75k/yr
+- 🕒 **Posted:** 2026-09-12
+
+### [RN Case Manager - Patient Care Coordination - Full Time/Days - Req# 2151492362](https://www.indeed.com/viewjob?jk=4fec99d917a12670) — Antelope Valley Medical Center
+- 📍 **Location:** Lancaster, CA, US
+- 💰 **Salary:** $47–$79/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Care Coordinator / LA West Coast](https://www.indeed.com/viewjob?jk=5c6891548fdbe281) — UCB
+### [Licensed Vocational Nurse, In-Patient Case Manager](https://www.indeed.com/viewjob?jk=e12a91d003766ff5) — AltaMed Health Services
+- 📍 **Location:** Commerce, CA, US
+- 🕒 **Posted:** 2026-09-11
+
+### [RN Care Manager - Enhanced Care Management (ECM)](https://www.indeed.com/viewjob?jk=436f6122cc9f77e1) — MLK Community Healthcare
 - 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $88k–$116k/yr
+- 💰 **Salary:** $46–$72/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Care Coordinator / Nevada West Coast](https://www.indeed.com/viewjob?jk=57f45cd16b483005) — UCB
-- 📍 **Location:** Las Vegas, NV, US
+### [Care Coordinator / Arizona West Coast](https://www.indeed.com/viewjob?jk=44a9cf4eef75825f) — UCB
+- 📍 **Location:** Phoenix, AZ, US
 - 💰 **Salary:** $88k–$116k/yr
-- 🕒 **Posted:** 2026-09-11
-
-### [Behavioral Health Care Manager](https://www.indeed.com/viewjob?jk=524a15f0383d53a5) — Synapticure
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $65k–$70k/yr
 - 🕒 **Posted:** 2026-09-11
