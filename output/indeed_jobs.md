@@ -1,57 +1,57 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-11 23:49 UTC*
+*Last updated: 2026-09-12 01:51 UTC*
 
-**11 new role(s)** since last run · 44 total in last 24h
+**11 new role(s)** since last run · 40 total in last 24h
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=9a95d95f025490bb) — Cecilia Holistic & Wellness Center
-- 📍 **Location:** Sacramento, CA, US
-- 💰 **Salary:** $17–$25/hr
+### [Care Manager/Care Navigator](https://www.indeed.com/viewjob?jk=d8f5453954ead4bd) — MASTER CARE
+- 📍 **Location:** Placerville, CA, US
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [CASE MANAGER I](https://www.indeed.com/viewjob?jk=a17da0922e45174d) — CASA of Placer Yuba & Sutter
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $24–$27/hr
+### [Maternal Health Case Manager](https://www.indeed.com/viewjob?jk=8cb7fbb5a10d132b) — The Amelia Ann Adams Whole Life Center
+- 📍 **Location:** Stockton, CA, US
+- 💰 **Salary:** $24–$28/hr
+- 🕒 **Posted:** 2026-09-12
+
+### [Senior Program Manager - Healthspan and Strategy](https://www.indeed.com/viewjob?jk=fe8a790035cd4dce) — HumanGood
+- 📍 **Location:** Duarte, CA, US
+- 💰 **Salary:** $120k–$147k/yr
 - 🕒 **Posted:** 2026-09-11
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=8261795173d0b89c) — Cecilia Holistic & Wellness Center
-- 📍 **Location:** Monterey, CA, US
-- 💰 **Salary:** $17–$25/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Care Coordinator / Scheduler — Be Employee #1 at a Brand-New Home Care Agency!](https://www.indeed.com/viewjob?jk=dd52d7a98b4eea5e) — Unknown
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $20–$26/hr
-- 🕒 **Posted:** 2026-09-11
-
-### [Clinical Care Manager - CA](https://www.indeed.com/viewjob?jk=2277f02e98ed69a1) — Independent Living Systems, llc
-- 📍 **Location:** Fontana, CA, US
-- 💰 **Salary:** $26–$43/hr
+### [Case Manager - Permanent Housing](https://www.indeed.com/viewjob?jk=0870cc57d84920e5) — Mercy House
+- 📍 **Location:** Riverside, CA, US
 - 🕒 **Posted:** 2026-09-10
 
-### [Case Manager (CM)](https://www.indeed.com/viewjob?jk=f166827191f86f5c) — Palomar Health Rehabilitation Institute
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $79k–$111k/yr
+### [Care Manager/Care Navigator](https://www.indeed.com/viewjob?jk=ad09dcd1d6a1e920) — MASTER CARE
+- 📍 **Location:** Yuba City, CA, US
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Teen Program Specialist](https://www.indeed.com/viewjob?jk=5b485afafd0c0d2c) — Boys & Girls Clubs of Northwest San Diego
-- 📍 **Location:** Oceanside, CA, US
+### [Patient Care Coordinator, Day shift, Full-time](https://www.indeed.com/viewjob?jk=4c0a84dd4e226462) — Adventist Health
+- 📍 **Location:** Saint Helena, CA, US
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Volunteer & Community Engagement Coordinator](https://www.indeed.com/viewjob?jk=886367a16e304145) — Resource Area for Teaching
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $20–$22/hr
+### [Vietnamese Speaking Patient Care Coordinator](https://www.indeed.com/viewjob?jk=4785a0e5bf47824b) — Long Beach Primary Care Associates
+- 📍 **Location:** Long Beach, CA, US
+- 💰 **Salary:** $20–$25/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=5422669430ffd4d8) — Oscar Health
-- 📍 **Location:** Atlanta, GA, US
-- 💰 **Salary:** $17–$23/hr
+### [Case Manager](https://www.indeed.com/viewjob?jk=8ce78ad2c599129b) — Project 180
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $25–$30/hr
 - 🕒 **Posted:** 2026-09-11
 
-### [Community Health Worker](https://www.indeed.com/viewjob?jk=3a19dcbdbd5ec454) — Aletheia House
-- 📍 **Location:** Remote, US
+### [Enhanced Care Manager (ECM ) in SF-Peninsula](https://www.indeed.com/viewjob?jk=e85daebe439d2ce8) — J&M Homecare Services
+- 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-09-11
 
-### [Business & Fulfillment Operations Program Coordinator](https://www.indeed.com/viewjob?jk=cad4ae82fb751ff5) — Northwest Open Access Network
-- 📍 **Location:** Spokane Valley, WA, US
-- 💰 **Salary:** $76k–$105k/yr
+### [Community Health Worker - Bakersfield](https://www.indeed.com/viewjob?jk=a420a7828da36dd9) — Unknown
+- 📍 **Location:** Bakersfield, CA, US
+- 💰 **Salary:** $22–$25/hr
+- 🕒 **Posted:** 2026-09-11
+
+### [Community Health Worker](https://www.indeed.com/viewjob?jk=058f006b7aca47a7) — Institute on Aging
+- 📍 **Location:** Merced, CA, US
+- 💰 **Salary:** $30–$32/hr
 - 🕒 **Posted:** 2026-09-11
