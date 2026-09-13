@@ -1,58 +1,106 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-12 23:33 UTC*
+*Last updated: 2026-09-13 01:32 UTC*
 
-**12 new role(s)** since last run · 12 total in last 1h
+**22 new role(s)** since last run · 22 total in last 1h
 
-### [School Nurse - IEP Case Manager](https://www.linkedin.com/jobs/view/4466752037/) — Backstage Health
-- 📍 **Location:** Lakeport, CA
-- 🕒 **Posted:** 2026-09-12
+### [Care Manager RN - Case Management](https://www.linkedin.com/jobs/view/4465451072/) — Providence
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $57.28/hr - $88.92/hr
+- 🕒 **Posted:** 2026-09-13
 
-### [TLC Leader Learning Program Coordinator](https://www.linkedin.com/jobs/view/4458053251/) — CommonSpirit Health
-- 📍 **Location:** Chicago, IL
-- 💰 **Salary:** $43.20 - $64.26 /hour
-- 🕒 **Posted:** 2026-09-12
+### [Care Manager RN - Case Management](https://www.linkedin.com/jobs/view/4465469021/) — Providence
+- 📍 **Location:** Santa Monica, CA
+- 💰 **Salary:** $57.28 - $88.92
+- 🕒 **Posted:** 2026-09-13
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4464731099/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
+### [Care Manager RN - Case Management](https://www.linkedin.com/jobs/view/4465466018/) — Providence
+- 📍 **Location:** Eureka, CA
+- 💰 **Salary:** $54.61 - $92.23
+- 🕒 **Posted:** 2026-09-13
 
-### [Sr. Program Manager](https://www.linkedin.com/jobs/view/4464726104/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $157,500—$177,300 USD
-- 🕒 **Posted:** 2026-09-12
+### [Care Manager RN Per Diem Variable](https://www.linkedin.com/jobs/view/4465475013/) — Providence
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $57.28 - $88.92
+- 🕒 **Posted:** 2026-09-13
 
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4464717165/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $87,100 to $108,900 USD
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager – Energy Storage Systems](https://www.linkedin.com/jobs/view/4465430349/) — Qcells North America
+- 📍 **Location:** San Francisco, CA
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Program Manager - Enterprise Transformation](https://www.linkedin.com/jobs/view/4464733116/) — TalentHop
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
+### [Care Manager RN - Float Personnel](https://www.linkedin.com/jobs/view/4465444259/) — Providence
+- 📍 **Location:** Victorville, CA
+- 💰 **Salary:** $57.28/hr - $88.92/hr
+- 🕒 **Posted:** 2026-09-13
 
-### [26-27 Accountability and Data Reporting: Data Analyst, Accountability and Research](https://www.linkedin.com/jobs/view/4465434230/) — Aurora Public Schools
-- 📍 **Location:** Aurora, CO
-- 🕒 **Posted:** 2026-09-12
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4466706908/) — Ochsner Health
+- 📍 **Location:** New Orleans, LA
+- 🕒 **Posted:** 2026-09-13
 
-### [Data Analyst III - Data Analytics & Reporting - 100% remote](https://www.linkedin.com/jobs/view/4464715152/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $4,801.16 to $6,281.33 monthly
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager, Health Justice Mobile](https://www.linkedin.com/jobs/view/4466741187/) — Community Healthcare Network
+- 📍 **Location:** New York, NY
+- 🕒 **Posted:** 2026-09-13
 
-### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4465447144/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-12
+### [Hospice RN Case Manager - Wilson, NC - Full Time,](https://www.linkedin.com/jobs/view/4464734171/) — UnitedHealth Group
+- 📍 **Location:** Wilson, NC
+- 💰 **Salary:** $75,620 - $86,000
+- 🕒 **Posted:** 2026-09-13
 
-### [Trade Compliance Program Manager](https://www.linkedin.com/jobs/view/4465446124/) — Husky Technologies
-- 📍 **Location:** Milton, VT
-- 🕒 **Posted:** 2026-09-12
+### [Hospice RN Case Manager - Waynesville, NC - Full Time,](https://www.linkedin.com/jobs/view/4464714226/) — UnitedHealth Group
+- 📍 **Location:** Waynesville, NC
+- 💰 **Salary:** $73,000 - $82,000
+- 🕒 **Posted:** 2026-09-13
 
-### [Experienced Data Analyst](https://www.linkedin.com/jobs/view/4464732097/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $81,100.00 to $115,900.00 per year
-- 🕒 **Posted:** 2026-09-12
+### [Program Manager - YACAP](https://www.linkedin.com/jobs/view/4466734203/) — Community Healthcare Network
+- 📍 **Location:** Brooklyn, NY
+- 💰 **Salary:** $69,497.00/yr - $78,185.00/yr
+- 🕒 **Posted:** 2026-09-13
 
-### [Senior Program Manager, Pricing and Packaging](https://www.linkedin.com/jobs/view/4464733122/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $128,200 to $202,900 USD
-- 🕒 **Posted:** 2026-09-12
+### [RN Case Manager- Hospice,](https://www.linkedin.com/jobs/view/4464718224/) — UnitedHealth Group
+- 📍 **Location:** Baton Rouge, LA
+- 💰 **Salary:** $75,620 to $113,430 annually
+- 🕒 **Posted:** 2026-09-13
+
+### [PRN Outpatient Program Therapist/Case Manager (LCPC, LPC, LCSW, LMSW, LMFT)](https://www.linkedin.com/jobs/view/4465458172/) — UHS Physician Careers
+- 📍 **Location:** Boise, ID
+- 🕒 **Posted:** 2026-09-13
+
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4464721163/) — UnitedHealth Group
+- 📍 **Location:** Denver, CO
+- 💰 **Salary:** $87,560 to $131,340 annually
+- 🕒 **Posted:** 2026-09-13
+
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4464733188/) — UnitedHealth Group
+- 📍 **Location:** Brookhaven, MS
+- 🕒 **Posted:** 2026-09-13
+
+### [Patient Care Manager RN,](https://www.linkedin.com/jobs/view/4464732164/) — UnitedHealth Group
+- 📍 **Location:** Waynesville, NC
+- 💰 **Salary:** $80,712 to $121,068 annually
+- 🕒 **Posted:** 2026-09-13
+
+### [Assistant Program Coordinator](https://www.linkedin.com/jobs/view/4465458080/) — Soccer Shots Los Angeles
+- 📍 **Location:** Grand Rapids, MI
+- 🕒 **Posted:** 2026-09-13
+
+### [Learning & Development Coordinator](https://www.linkedin.com/jobs/view/4466741268/) — GE Aerospace
+- 📍 **Location:** Boston, MA
+- 💰 **Salary:** $78,000 - $85,000
+- 🕒 **Posted:** 2026-09-13
+
+### [Program Manager – Energy Storage Systems](https://www.linkedin.com/jobs/view/4465440280/) — Qcells North America
+- 📍 **Location:** Teaneck, NJ
+- 💰 **Salary:** $140,000.00/yr - $180,000.00/yr
+- 🕒 **Posted:** 2026-09-13
+
+### [Construction Management - Data Analyst](https://www.linkedin.com/jobs/view/4465430265/) — Gryps
+- 📍 **Location:** New York, United States
+- 🕒 **Posted:** 2026-09-13
+
+### [Program Manager (Nurse) - Partial Hospitalization Program (PHP)](https://www.linkedin.com/jobs/view/4465474026/) — UHS Physician Careers
+- 📍 **Location:** Norfolk, VA
+- 🕒 **Posted:** 2026-09-13
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4464716175/) — Success Recruitments
+- 📍 **Location:** Texas, United States
+- 🕒 **Posted:** 2026-09-13
