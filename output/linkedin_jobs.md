@@ -1,33 +1,20 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-13 21:16 UTC*
+*Last updated: 2026-09-13 23:33 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 4 total in last 1h
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4465324712/) — A First Name Basis Home Care
-- 📍 **Location:** Vicksburg, MS
+### [Case Manager - Pathway of Hope](https://www.linkedin.com/jobs/view/4465483368/) — The Salvation Army North & Central Illinois Division
+- 📍 **Location:** Kansas City, MO
 - 🕒 **Posted:** 2026-09-13
 
-### [Program Manager - Mechanical Engineering](https://www.linkedin.com/jobs/view/4461684864/) — Brookfield Global Recruitment Services
-- 📍 **Location:** Dallastown, PA
+### [CASE MANAGER SUPPORT](https://www.linkedin.com/jobs/view/4463555788/) — Premier Health Partners
+- 📍 **Location:** Troy, OH
 - 🕒 **Posted:** 2026-09-13
 
-### [Clinical Case Manager - Health Professional III - Western Slope.](https://www.linkedin.com/jobs/view/4466790527/) — State of Colorado
-- 📍 **Location:** United States
+### [Junior Data Analyst](https://www.linkedin.com/jobs/view/4453799421/) — Morgan Stanley
+- 📍 **Location:** Dallas, TX
 - 🕒 **Posted:** 2026-09-13
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4465493159/) — Galapagos Federal Systems
-- 📍 **Location:** Patrick AFB, FL
-- 💰 **Salary:** USD $135,000.00 - USD $150,000.00 /Yr
-- 🕒 **Posted:** 2026-09-13
-
-### [Data Analyst](https://www.linkedin.com/jobs/view/4467001260/) — FetchJobs.co
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Data Analyst, New Grad](https://www.linkedin.com/jobs/view/4465480317/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-13
-
-### [Data Analyst, Mid Level](https://www.linkedin.com/jobs/view/4465491212/) — Jobright.ai
+### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4465488304/) — Jobright.ai
 - 📍 **Location:** United States
 - 🕒 **Posted:** 2026-09-13
