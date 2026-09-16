@@ -1,7 +1,27 @@
 {
-  "scraped_at": "2026-09-12 18:40 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-09-16 19:50 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Natural Resources Agency",
+      "title": "BIODIVERSITY PROGRAM MANAGER",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530935",
+      "date_posted": "2026-09-03",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Natural Resources Agency",
+      "title": "BIODIVERSITY PROGRAM MANAGER",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=530935",
+      "date_posted": "2026-09-03",
+      "salary": "$4418.00 - $9321.00",
+      "ats": "CalCareers"
+    }
+  ]
 }
