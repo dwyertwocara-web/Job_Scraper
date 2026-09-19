@@ -1,34 +1,32 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-19 21:09 UTC*
+*Last updated: 2026-09-19 23:28 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**6 new role(s)** since last run · 6 total in last 1h
 
-### [Case Manager](https://www.linkedin.com/jobs/view/4469548857/) — Akua Mind Body
-- 📍 **Location:** Newport Beach, CA
-- 💰 **Salary:** $28-$32 per hour
+### [Case Manager - Care Coordination - Full Time 8 hours Day (Union, Non-Exempt)](https://www.linkedin.com/jobs/view/4469569100/) — Keck Medicine of USC
+- 📍 **Location:** Arcadia, CA
+- 💰 **Salary:** $46.00 - $76.07
 - 🕒 **Posted:** 2026-09-19
 
-### [Authorizations and Claims Analytics Solutions Business Insights and Data Analyst III](https://www.linkedin.com/jobs/view/4466245140/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Senior Payer Contracting Data Analyst](https://www.linkedin.com/jobs/view/4468406654/) — Scripps Health
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $51.66-$74.92/hour
 - 🕒 **Posted:** 2026-09-19
 
-### [Care Delivery Analytics Data Analyst III](https://www.linkedin.com/jobs/view/4468857896/) — L.A. Care Health Plan
-- 📍 **Location:** Los Angeles, CA
+### [Care Manager / Adult / Child / Randolph and Surrounding Counties](https://www.linkedin.com/jobs/view/4468405630/) — RHA Health Services, LLC
+- 📍 **Location:** High Point, NC
+- 💰 **Salary:** $20-$25/hr
 - 🕒 **Posted:** 2026-09-19
 
-### [Staff Development Coordinator RN](https://www.linkedin.com/jobs/view/4469550798/) — Southern HealthCare Management
-- 📍 **Location:** Sarasota, FL
+### [Care Manager / Adult / Child / Behavioral Health / Alamance/Person and surrounding counties](https://www.linkedin.com/jobs/view/4468407530/) — RHA Health Services, LLC
+- 📍 **Location:** Roxboro, NC
 - 🕒 **Posted:** 2026-09-19
 
-### [Staff Development Coordinator RN](https://www.linkedin.com/jobs/view/4469565120/) — Southern HealthCare Management
-- 📍 **Location:** Boynton Beach, FL
+### [Social Work Team Lead Inpatient Case Manager](https://www.linkedin.com/jobs/view/4466991426/) — MedStar Health
+- 📍 **Location:** Washington, DC
+- 💰 **Salary:** USD $74,214.00 - USD $134,596.00 /Yr
 - 🕒 **Posted:** 2026-09-19
 
-### [program manager](https://www.linkedin.com/jobs/view/4468412407/) — WNC Nonprofit Pathways
-- 📍 **Location:** Home, KS
-- 💰 **Salary:** $58,000-$62,000
-- 🕒 **Posted:** 2026-09-19
-
-### [Social Services Specialist](https://www.linkedin.com/jobs/view/4468097733/) — State of Oklahoma
-- 📍 **Location:** Custer, IL
+### [Program Specialist Value Analysis](https://www.linkedin.com/jobs/view/4468411534/) — Corewell Health
+- 📍 **Location:** Grand Rapids, MI
 - 🕒 **Posted:** 2026-09-19
