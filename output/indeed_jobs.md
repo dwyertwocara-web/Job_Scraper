@@ -1,5 +1,5 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-19 01:52 UTC*
+*Last updated: 2026-09-19 05:31 UTC*
 
 **0 new role(s)** since last run · 5 total in last 24h
 
