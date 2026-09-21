@@ -1,74 +1,78 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-21 01:38 UTC*
+*Last updated: 2026-09-21 06:53 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**16 new role(s)** since last run · 16 total in last 1h
 
-### [Care Manager MSW](https://www.linkedin.com/jobs/view/4468472939/) — Providence
-- 📍 **Location:** Fullerton, CA
-- 💰 **Salary:** $38.56 - $59.88
+### [Program Manager - Special Education (Autism)](https://www.linkedin.com/jobs/view/4467366071/) — Modesto City Schools
+- 📍 **Location:** Modesto, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469821817/) — Hear Wright, Inc
-- 📍 **Location:** Corte Madera, CA
+### [Program Manager - LMFT/LPCC/LCSW](https://www.linkedin.com/jobs/view/4469855049/) — Stars Behavioral Health Group
+- 📍 **Location:** Victorville, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Case Manager - MCCC](https://www.linkedin.com/jobs/view/4469818940/) — City of Indianapolis
-- 📍 **Location:** Indianapolis, IN
+### [Program Manager - Special Education](https://www.linkedin.com/jobs/view/4467363126/) — Modesto City Schools
+- 📍 **Location:** Modesto, CA
 - 🕒 **Posted:** 2026-09-21
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4469835117/) — Expert Hearing Clinic, LLC
-- 📍 **Location:** Springboro, OH
+### [Care Coordinator – Managed Care (RN, LCPC, LPC, LCSW, LSW)](https://www.linkedin.com/jobs/view/4468709310/) — Access Community Health Network
+- 📍 **Location:** Chicago, IL
+- 💰 **Salary:** $72,300.00/yr - $85,100.00/yr
 - 🕒 **Posted:** 2026-09-21
 
-### [Home Care Coordinator (RN) | Leadership Opportunity | $90K–$102K](https://www.linkedin.com/jobs/view/4468482764/) — Christian Living Communities
-- 📍 **Location:** Englewood, CO
-- 💰 **Salary:** $90K–$102K
+### [Aging Care Manager 2 (Local Government) Lebanon County Area Agency on Aging](https://www.linkedin.com/jobs/view/4469834783/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Lebanon County, PA
 - 🕒 **Posted:** 2026-09-21
 
-### [Patient Care Manager RN,](https://www.linkedin.com/jobs/view/4467335688/) — UnitedHealth Group
-- 📍 **Location:** Waynesville, NC
-- 💰 **Salary:** $80,712 to $121,068 annually
+### [Assoc. Program Manager, Chapter Affairs & BOG](https://www.linkedin.com/jobs/view/4469849369/) — American College of Cardiology
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-09-21
 
-### [Patient Care Manager, RN Team Lead,](https://www.linkedin.com/jobs/view/4467336667/) — UnitedHealth Group
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $89,680 to $134,520 annually
+### [Case Manager RN - Compact License](https://www.linkedin.com/jobs/view/4469845495/) — CVS Health
+- 📍 **Location:** Trenton, NJ
+- 💰 **Salary:** $54,095.00 - $142,576.00
 - 🕒 **Posted:** 2026-09-21
 
-### [Senior Operations Program Manager](https://www.linkedin.com/jobs/view/4469821142/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $135,000.00/yr - $165,000.00/yr
+### [Client Care Coordinator](https://www.linkedin.com/jobs/view/4468711283/) — The Total Canine, LLC
+- 📍 **Location:** Marysville, WA
+- 💰 **Salary:** $21-$23 per hour
 - 🕒 **Posted:** 2026-09-21
 
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467345495/) — UnitedHealth Group
+### [RN Case Manager](https://www.linkedin.com/jobs/view/4469847419/) — Holisticare Hospice
+- 📍 **Location:** Red Bank, NJ
+- 💰 **Salary:** $94,000 - $99,000 per year
+- 🕒 **Posted:** 2026-09-21
+
+### [Patient Care Manager-RN (At Home Healthcare-Denver),](https://www.linkedin.com/jobs/view/4467353903/) — UnitedHealth Group
 - 📍 **Location:** Denver, CO
-- 💰 **Salary:** $87,560 to $131,340 annually
+- 💰 **Salary:** $98,648 to $147,972 annually
 - 🕒 **Posted:** 2026-09-21
 
-### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467339599/) — UnitedHealth Group
-- 📍 **Location:** Brookhaven, MS
-- 🕒 **Posted:** 2026-09-21
-
-### [RN Case Manager - Geisinger Hospice-Lewistown,](https://www.linkedin.com/jobs/view/4467345496/) — UnitedHealth Group
-- 📍 **Location:** Lewistown, PA
+### [RN Case Manager-Hospice,](https://www.linkedin.com/jobs/view/4467356877/) — UnitedHealth Group
+- 📍 **Location:** Cottonwood, AZ
 - 💰 **Salary:** $75,620 to $113,430 annually
 - 🕒 **Posted:** 2026-09-21
 
-### [RN Case Manager Hospice Per Diem - Geisinger-Lewistown,](https://www.linkedin.com/jobs/view/4467350386/) — UnitedHealth Group
-- 📍 **Location:** Lewistown, PA
-- 💰 **Salary:** $37.40 to $56.10 per hour
+### [Hospice RN Case Manager,](https://www.linkedin.com/jobs/view/4467366197/) — UnitedHealth Group
+- 📍 **Location:** Menominee, MI
+- 💰 **Salary:** $58,800 to $105,000 annually
 - 🕒 **Posted:** 2026-09-21
 
-### [Hospice RN Case Manager - Wilson, NC - Full Time,](https://www.linkedin.com/jobs/view/4467352375/) — UnitedHealth Group
-- 📍 **Location:** Wilson, NC
-- 💰 **Salary:** $75,620 - $86,000
+### [River Basin Commission Coordinator (Water Program Specialist)](https://www.linkedin.com/jobs/view/4469851350/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Dauphin County, PA
 - 🕒 **Posted:** 2026-09-21
 
-### [Sr. Program Manager, WFM Perishables Merchandising](https://www.linkedin.com/jobs/view/4469825625/) — Amazon
-- 📍 **Location:** Austin, TX
+### [Program Manager, Social Impact, Government Affairs & ESG](https://www.linkedin.com/jobs/view/4469842442/) — The Best Job Board
+- 📍 **Location:** Eagan, MN
+- 💰 **Salary:** $74,200 USD - $137,800 USD
 - 🕒 **Posted:** 2026-09-21
 
-### [Program Manager](https://www.linkedin.com/jobs/view/4469808524/) — Swooped
-- 📍 **Location:** United States
-- 💰 **Salary:** $120,000.00/yr - $140,000.00/yr
+### [RN Case Manager - PRN](https://www.linkedin.com/jobs/view/4469844499/) — Holisticare Hospice
+- 📍 **Location:** Toms River, NJ
+- 💰 **Salary:** $43.00 - $50.00 per hour
+- 🕒 **Posted:** 2026-09-21
+
+### [RN Case Manager PRN - Memorial White Rose Hospice,](https://www.linkedin.com/jobs/view/4467373052/) — UnitedHealth Group
+- 📍 **Location:** York, PA
+- 💰 **Salary:** $79,600 to $119,400 annually
 - 🕒 **Posted:** 2026-09-21
