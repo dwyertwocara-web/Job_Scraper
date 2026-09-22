@@ -1,29 +1,48 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-09-22 02:06 UTC*
+*Last updated: 2026-09-22 23:39 UTC*
 
-**8 new role(s)** since last run · 9 total in last 24h
+**14 new role(s)** since last run · 14 total in last 24h
 
-### [Housing Program Manager- HUD Certified](https://www.indeed.com/viewjob?jk=750d4f96ae6dee3a&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — YWCA Metropolitan Chicago
-- 📍 **Location:** Chicago, IL
+### [Family Care Coordinator - Sacramento](https://jobmesh.io/job/60b9ff10-2630-4adb-ad16-7bf27809db9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — DCI Donor Services
+- 📍 **Location:** Pleasant Grove, CA
 
-### [Housing Affordability Breakthrough Challenge - Program Manager, National Programs](https://www.linkedin.com/jobs/view/housing-affordability-breakthrough-challenge-program-manager-national-programs-at-enterprise-community-partners-4468280271?refId=MLURUzwCYZPbAbUHlWqVNg%3D%3D&trackingId=%2BdoRZr8hzUjgbu8LPcthDg%3D%3D&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Enterprise Community Partners
-- 📍 **Location:** Chicago, IL
+### [Housing Case Manager](https://www.linkedin.com/jobs/view/housing-case-manager-at-illumination-health-%2B-home-4470242070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Illumination Health + Home
+- 📍 **Location:** Stanton, CA
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=35f298ecd2d42139&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Nan McKay
-- 📍 **Location:** Chicago, IL
-
-### [Care Coordinator](https://www.linkedin.com/jobs/view/care-coordinator-at-qualicare-sf-bay-area-4469943215?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Qualicare SF Bay Area
-- 📍 **Location:** San Ramon, CA
-
-### [Care Coordinator - Health Plan](https://www.simplyhired.com/job/ieac7B-PLXfl-7Vipb-buT8Qsd00Ts5vUXUSRxpqM-q_dS9N94PdwQ?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — SCAN Health Plan
-- 📍 **Location:** Long Beach, CA
+### [ICMS Case Manager](https://www.linkedin.com/jobs/view/icms-case-manager-at-linc-housing-4468180770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Linc Housing
+- 📍 **Location:** Inglewood, CA
 - 🕒 **Posted:** 2026-09-22
 
-### [Customer Care Coordinator](https://www.linkedin.com/jobs/view/customer-care-coordinator-at-dentsply-sirona-4469925860?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Dentsply Sirona
-- 📍 **Location:** Camarillo, CA
+### [Housing Navigator: Bridge to Shelter & Housing](https://www.learn4good.com/jobs/stockton/california/social_work/5486621508/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Community Action Partnership of Kern
+- 📍 **Location:** Stockton, CA
 
-### [Customer Care Coordinator - Delivery Scheduling](https://www.linkedin.com/jobs/view/customer-care-coordinator-delivery-scheduling-at-numotion-4469919952?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Numotion
-- 📍 **Location:** Santa Fe Springs, CA
+### [Program Manager, Healthcare Services (Enhanced Care Mgmt - PST hours)](https://jobs.womenforhire.com/job/usa/tarpey-village-ca/program-manager-healthcare-services-enhanced-care-mgmt-pst-hours-159790/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
+- 📍 **Location:** Tarpey Village, CA
 
-### [Resident Care Coordinator- LVN  (Kingsley Manor)](https://bandana.com/jobs/7c8cb30e-da3a-497a-9239-e0cb054d92ee?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Front Porch Communities & Services
-- 📍 **Location:** San Fernando, CA
+### [Field Patient Care Coordinator/Medical Assistant](https://www.linkedin.com/jobs/view/field-patient-care-coordinator-medical-assistant-at-western-geriatrics-neurology-4470493064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Western Geriatrics & Neurology
+- 📍 **Location:** Oceanside, CA
+
+### [Home Health Patient Care Coordinator](https://hispanic-jobs.com/jobs/home-health-patient-care-coordinator-thermal-california/2982303094-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pathwell Health
+- 📍 **Location:** Thermal, CA
+
+### [Care Coordinator](https://www.learn4good.com/jobs/bakersfield/california/healthcare/5488155210/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sierra Health and Wellness
+- 📍 **Location:** Bakersfield, CA
+- 🕒 **Posted:** 2026-09-22
+
+### [AHD RN Care Coordinator](https://jobs.womenforhire.com/job/usa/colma-ca/ahd-rn-care-coordinator-497091/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Alameda Health System
+- 📍 **Location:** Colma, CA
+
+### [Travel RN Care Coordinator - $2,793 per week](https://jobs.womenforhire.com/job/usa/glenn-ca/travel-rn-care-coordinator-2-793-per-week-324659/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — GQR Healthcare
+- 📍 **Location:** Glenn, CA
+
+### [Travel RN Care Coordinator - $2,813 per week](https://jobs.womenforhire.com/job/usa/artois-ca/travel-rn-care-coordinator-2-813-per-week-643742/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Nightingale Nurses
+- 📍 **Location:** Artois, CA
+
+### [Remote RN: Home Health Care Coordinator](https://www.learn4good.com/jobs/online_remote/nursing/5484921226/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Obran Cooperative
+- 📍 **Location:** Anywhere
+
+### [Public Health Coordinator](https://www.learn4good.com/jobs/long-beach/california/healthcare/5488214848/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Insight Global
+- 📍 **Location:** Long Beach, CA
+
+### [Trans Health Project Case Manager - Medicine - 141485](https://employment.ucsd.edu/trans-health-project-case-manager-medicine-141485/job/67B472A50CF02849DF5546A10D8E737E?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — UC San Diego/UC San Diego Health
+- 📍 **Location:** San Diego, CA
