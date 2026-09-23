@@ -1,43 +1,38 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-09-23 20:04 UTC*
+*Last updated: 2026-09-23 23:34 UTC*
 
-**12 new role(s)** since last run · 15 total in last 24h
+**10 new role(s)** since last run · 15 total in last 24h
 
-### [Customer Care Coordinator-Order Experience I](https://www.linkedin.com/jobs/view/customer-care-coordinator-order-experience-i-at-numotion-4469322963?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Numotion
-- 📍 **Location:** Sacramento, CA
+### [Family Care Coordinator - Sacramento](https://jobmesh.io/job/3fddb94d-b5b9-11f1-87ec-4201ac122412?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — DCI Donor Services
+- 📍 **Location:** Mather, CA
 
-### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4470656071?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
-- 📍 **Location:** Citrus Heights, CA
+### [Housing Specialist - LLE](https://www.indeed.com/viewjob?jk=463f21d7644d8f68&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — RH Community Builders
+- 📍 **Location:** Fresno, CA
 - 🕒 **Posted:** 2026-09-23
 
-### [Enhanced Care Management Lead Care Coordinator](https://www.recruit.net/job/enhanced-care-management-care-coordinator-jobs/5578E4E8C6A863F2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pacific Health Group
-- 📍 **Location:** Diamond Springs, CA
-
-### [Program Coordinator- Family](https://us.trabajo.org/job-4023-b6af3a81988e3ef393a7f48fd577c448?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Roots Community Health Center
-- 📍 **Location:** Oakland, CA
+### [Housing Navigator](https://www.indeed.com/viewjob?jk=da0500b19208ae22&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Independent Living Systems
+- 📍 **Location:** Mariposa, CA
 - 🕒 **Posted:** 2026-09-23
 
-### [Program Coordinator - Systems Change & Grants (Nonprofit)](https://jobmesh.io/job/f2186f9e-967b-474a-8ece-34d83bbffb54?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — The National Center for Youth Law
-- 📍 **Location:** Oakland, CA
+### [CalAim Coordinator/ Admin Assistant - Senior Living](https://www.indeed.com/viewjob?jk=2cea8493c809a0fa&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Vista Roseville Memory Care
+- 📍 **Location:** Roseville, CA
+- 🕒 **Posted:** 2026-09-23
 
-### [Patient Care Coordinator](https://careers.unitedhealthgroup.com/job/walnut-creek/patient-care-coordinator/34088/101039688768?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — UnitedHealth Group
-- 📍 **Location:** Walnut Creek, CA
+### [Resident Care Coordinator](https://www.linkedin.com/jobs/view/resident-care-coordinator-at-oakmont-senior-living-4469601773?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Oakmont Senior Living
+- 📍 **Location:** Fullerton, CA
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-circadia-health-4469405168?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Circadia Health
-- 📍 **Location:** Corona, CA
+### [Client Care Coordinator](https://compedgept.applytojob.com/apply/Ll5Y7HBA0M/Client-Care-Coordinator?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Competitive EDGE Physical Therapy, Inc
+- 📍 **Location:** Fremont, CA
 
-### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-keplr-vision-4469063964?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Keplr Vision
-- 📍 **Location:** Cerritos, CA
+### [CNA Home Care Coordinator (Outpatient Clinic)](https://www.simplyhired.com/job/c2VR3M1iscjrtfa6SNJ4J22Y0LbmPJYhSZNlLWDx30lntLL5GsmJzw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Universal HCR
+- 📍 **Location:** California
+- 🕒 **Posted:** 2026-09-23
 
-### [Care Coordinator III](https://salutemyjob.com/jobs/care-coordinator-iii-san-diego-california/2983976619-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Centene Corporation
+### [Patient Care & Program Coordinator (Part-time)](https://salutemyjob.com/jobs/patient-care-program-coordinator-part-time-san-diego-california/2983977028-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — SOMEWHERE
 - 📍 **Location:** San Diego, CA
 
-### [Dental Patient Care Coordinator](https://www.ziprecruiter.com/c/milberg-orthodontics/Job/Dental-Patient-Care-Coordinator/-in-San-Diego,CA?jid=c8247e954219df70&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Milberg Orthodontics
-- 📍 **Location:** San Diego, CA
-- 🕒 **Posted:** 2026-09-23
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-nationsbenefits-india-4470971971?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — NationsBenefits India
+- 📍 **Location:** Fountain Valley, CA
 
-### [Travel RN Care Coordinator Case Management - $2,150 per week](https://jobs.womenforhire.com/job/usa/paradise-ca/travel-rn-care-coordinator-case-management-2-150-per-week-544748/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — AMN Healthcare Revenue Cycle
-- 📍 **Location:** Paradise, CA
-
-### [Program Manager - Behavioral Health](https://www.linkedin.com/jobs/view/program-manager-behavioral-health-at-aspiranet-4469049974?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Aspiranet
-- 📍 **Location:** Merced, CA
+### [(Medical Assistant) Patient Care Coordinator II,  Oncology Infusion](https://careers.stanfordhealthcare.org/us/en/job/R2552389/-Medical-Assistant-Patient-Care-Coordinator-II-Oncology-Infusion?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Stanford Health Care
+- 📍 **Location:** Pleasanton, CA (+1 other)
