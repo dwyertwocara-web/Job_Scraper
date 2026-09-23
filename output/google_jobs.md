@@ -1,48 +1,29 @@
 # 🔎 Google Jobs — Housing & Community Impact Roles
-*Last updated: 2026-09-22 23:39 UTC*
+*Last updated: 2026-09-23 02:03 UTC*
 
-**14 new role(s)** since last run · 14 total in last 24h
+**7 new role(s)** since last run · 12 total in last 24h
 
-### [Family Care Coordinator - Sacramento](https://jobmesh.io/job/60b9ff10-2630-4adb-ad16-7bf27809db9c?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — DCI Donor Services
-- 📍 **Location:** Pleasant Grove, CA
+### [Healthcare Coordinator](https://www.linkedin.com/jobs/view/healthcare-coordinator-at-pds-health-4470656071?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — PDS Health
+- 📍 **Location:** Citrus Heights, CA
+- 🕒 **Posted:** 2026-09-23
 
-### [Housing Case Manager](https://www.linkedin.com/jobs/view/housing-case-manager-at-illumination-health-%2B-home-4470242070?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Illumination Health + Home
-- 📍 **Location:** Stanton, CA
+### [Housing Specialist](https://www.ziprecruiter.com/c/Lao-Family-Community-Development/Job/Housing-Specialist/-in-San-Pablo,CA?jid=3d93c23c3e5db3ad&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Lao Family Community Development, Inc.
+- 📍 **Location:** San Pablo, CA
+- 🕒 **Posted:** 2026-09-23
 
-### [ICMS Case Manager](https://www.linkedin.com/jobs/view/icms-case-manager-at-linc-housing-4468180770?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Linc Housing
-- 📍 **Location:** Inglewood, CA
-- 🕒 **Posted:** 2026-09-22
+### [Program Manager, Healthcare Services (Enhanced Care Mgmt - PST hours)](https://jobs.womenforhire.com/job/usa/rancho-cordova-ca/program-manager-healthcare-services-enhanced-care-mgmt-pst-hours-248646/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
+- 📍 **Location:** Rancho Cordova, CA
 
-### [Housing Navigator: Bridge to Shelter & Housing](https://www.learn4good.com/jobs/stockton/california/social_work/5486621508/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Community Action Partnership of Kern
-- 📍 **Location:** Stockton, CA
+### [SLH Care Management Community Health Worker](https://jobs.womenforhire.com/job/usa/lafayette-ca/slh-care-management-community-health-worker-862318/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Alameda Health System
+- 📍 **Location:** Lafayette, CA
 
-### [Program Manager, Healthcare Services (Enhanced Care Mgmt - PST hours)](https://jobs.womenforhire.com/job/usa/tarpey-village-ca/program-manager-healthcare-services-enhanced-care-mgmt-pst-hours-159790/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Molina Healthcare
-- 📍 **Location:** Tarpey Village, CA
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/patient-care-coordinator-at-circadia-health-4470643144?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Circadia Health
+- 📍 **Location:** Corona, CA
+- 🕒 **Posted:** 2026-09-23
 
-### [Field Patient Care Coordinator/Medical Assistant](https://www.linkedin.com/jobs/view/field-patient-care-coordinator-medical-assistant-at-western-geriatrics-neurology-4470493064?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Western Geriatrics & Neurology
-- 📍 **Location:** Oceanside, CA
+### [Travel RN Care Coordinator Case Management - $2,150 per week](https://www.linkedin.com/jobs/view/travel-rn-care-coordinator-case-management-%242-150-per-week-at-amn-healthcare-nursing-4470492701?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — AMN Healthcare Nursing
+- 📍 **Location:** Chico, CA
 
-### [Home Health Patient Care Coordinator](https://hispanic-jobs.com/jobs/home-health-patient-care-coordinator-thermal-california/2982303094-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Pathwell Health
-- 📍 **Location:** Thermal, CA
-
-### [Care Coordinator](https://www.learn4good.com/jobs/bakersfield/california/healthcare/5488155210/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Sierra Health and Wellness
-- 📍 **Location:** Bakersfield, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [AHD RN Care Coordinator](https://jobs.womenforhire.com/job/usa/colma-ca/ahd-rn-care-coordinator-497091/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Alameda Health System
-- 📍 **Location:** Colma, CA
-
-### [Travel RN Care Coordinator - $2,793 per week](https://jobs.womenforhire.com/job/usa/glenn-ca/travel-rn-care-coordinator-2-793-per-week-324659/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — GQR Healthcare
-- 📍 **Location:** Glenn, CA
-
-### [Travel RN Care Coordinator - $2,813 per week](https://jobs.womenforhire.com/job/usa/artois-ca/travel-rn-care-coordinator-2-813-per-week-643742/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Nightingale Nurses
-- 📍 **Location:** Artois, CA
-
-### [Remote RN: Home Health Care Coordinator](https://www.learn4good.com/jobs/online_remote/nursing/5484921226/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Obran Cooperative
-- 📍 **Location:** Anywhere
-
-### [Public Health Coordinator](https://www.learn4good.com/jobs/long-beach/california/healthcare/5488214848/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Insight Global
-- 📍 **Location:** Long Beach, CA
-
-### [Trans Health Project Case Manager - Medicine - 141485](https://employment.ucsd.edu/trans-health-project-case-manager-medicine-141485/job/67B472A50CF02849DF5546A10D8E737E?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — UC San Diego/UC San Diego Health
-- 📍 **Location:** San Diego, CA
+### [Patient Care Coordinator (Front Office) - Dermatology](https://www.ziprecruiter.com/c/Skin-and-Cancer-Institute/Job/Patient-Care-Coordinator-(Front-Office)-Dermatology/-in-San-Clemente,CA?jid=fcafdb72996b735e&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) — Skin and Cancer Institute
+- 📍 **Location:** San Clemente, CA
+- 🕒 **Posted:** 2026-09-23
