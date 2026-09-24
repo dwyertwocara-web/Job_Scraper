@@ -1,12 +1,18 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-09-23 09:03 UTC*
+*Last updated: 2026-09-24 08:54 UTC*
 
-**2 new role(s)** since last run · 2 total in last 24h
+**3 new role(s)** since last run · 3 total in last 24h
 
-### [Case Manager Specialty RN - Oncology/Radiology](https://www.linkedin.com/jobs/view/4470622930/) — Kaiser Permanente
+### [Temporary Program Coordinator](https://www.linkedin.com/jobs/view/4469625832/) — CDA
+- 📍 **Location:** Chula Vista, CA
+- 🕒 **Posted:** 2026-09-24
+
+### [Care Manager - Multiple Openings in FL (BH, LPN, LVN)](https://www.linkedin.com/jobs/view/4382348452/) — Molina Healthcare
+- 📍 **Location:** Miami, FL
+- 💰 **Salary:** $24 - $46.81
+- 🕒 **Posted:** 2026-09-24
+
+### [Case Manager Specialty RN - Oncology/Radiology](https://www.linkedin.com/jobs/view/4469460062/) — Kaiser Permanente
 - 📍 **Location:** Los Angeles, CA
-- 🕒 **Posted:** 2026-09-22
-
-### [Case Manager Utilization RN, 28/hr Day](https://www.linkedin.com/jobs/view/4470634687/) — Kaiser Permanente
-- 📍 **Location:** Moreno Valley, CA
-- 🕒 **Posted:** 2026-09-22
+- 💰 **Salary:** $64.74/hr - $79.23/hr
+- 🕒 **Posted:** 2026-09-23
