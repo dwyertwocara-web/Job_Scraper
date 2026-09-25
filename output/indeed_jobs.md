@@ -1,38 +1,29 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-25 01:03 UTC*
+*Last updated: 2026-09-25 02:23 UTC*
 
-**7 new role(s)** since last run · 43 total in last 24h
+**5 new role(s)** since last run · 35 total in last 24h
 
-### [Community Supports (CS) Housing Specialist](https://www.indeed.com/viewjob?jk=19854bf29231c4e7) — Pit River Health Service, Inc
-- 📍 **Location:** Burney, CA, US
-- 💰 **Salary:** $24–$34/hr
+### [LVN Case Manager](https://www.indeed.com/viewjob?jk=370998858ce63b58) — Vynca
+- 📍 **Location:** Eureka, CA, US
+- 💰 **Salary:** $32–$38/hr
 - 🕒 **Posted:** 2026-09-24
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=72baab0c9edd2954) — Turning Point Community Programs
-- 📍 **Location:** Modesto, CA, US
-- 💰 **Salary:** $21/hr
+### [Behavioral Health Case Manager](https://www.indeed.com/viewjob?jk=76236cc41b84fd79) — Vynca
+- 📍 **Location:** Eureka, CA, US
+- 💰 **Salary:** $35–$40/hr
 - 🕒 **Posted:** 2026-09-24
 
-### [Care Manager RN](https://www.indeed.com/viewjob?jk=611d788dc8aac593) — Providence
-- 📍 **Location:** Tarzana, CA, US
-- 💰 **Salary:** $59–$90/hr
+### [Case Manager](https://www.indeed.com/viewjob?jk=3cd1c10b084794bc) — Vynca
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $26–$30/hr
 - 🕒 **Posted:** 2026-09-24
 
-### [Bilingual Care Coordinator for Home Care](https://www.indeed.com/viewjob?jk=97a138068953d4fd) — CareWorks Health Services
-- 📍 **Location:** Huntington Beach, CA, US
-- 💰 **Salary:** $21–$25/hr
+### [Home Care Coordinator - Bilingual (Hmong)](https://www.indeed.com/viewjob?jk=8bf579e215b32c6c) — BoldAge PACE
+- 📍 **Location:** Fresno, CA, US
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-09-24
 
-### [Patient Care Coordinator (Outpatient) (Sycamore) Full-time, Day Shift](https://www.indeed.com/viewjob?jk=af5fc0d254d984af) — Adventist Health
-- 📍 **Location:** Simi Valley, CA, US
-- 💰 **Salary:** $25–$29/hr
-- 🕒 **Posted:** 2026-09-24
-
-### [Program Manager](https://www.indeed.com/viewjob?jk=4784439e5167207c) — Sevita
-- 📍 **Location:** Ontario, CA, US
-- 🕒 **Posted:** 2026-09-24
-
-### [Education Program Coordinator](https://www.indeed.com/viewjob?jk=1055d5cba353c79d) — Providence
-- 📍 **Location:** Burbank, CA, US
-- 💰 **Salary:** $33–$51/hr
+### [Community Health Worker I](https://www.indeed.com/viewjob?jk=d4e92ac7442e8ff5) — WelbeHealth
+- 📍 **Location:** San Jose, CA, US
+- 💰 **Salary:** $25–$32/hr
 - 🕒 **Posted:** 2026-09-24
