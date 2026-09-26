@@ -1,19 +1,9 @@
 # 🏛 Priority Employers — Housing & Community Impact Roles
-*Last updated: 2026-09-25 09:14 UTC*
+*Last updated: 2026-09-26 09:02 UTC*
 
-**3 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-### [Care Manager - Multiple Openings in FL (BH, LPN, LVN)](https://www.linkedin.com/jobs/view/4460186550/) — Molina Healthcare
-- 📍 **Location:** Florida, United States
-- 💰 **Salary:** $24 - $46.81
-- 🕒 **Posted:** 2026-09-25
-
-### [Case Manager](https://www.linkedin.com/jobs/view/4471693828/) — UC Davis Health
+### [Ambulatory Case Manager RN (CASE MGR NEX)](https://www.linkedin.com/jobs/view/4472208443/) — UC Davis Health
 - 📍 **Location:** Sacramento, CA
-- 💰 **Salary:** $2,045.60 - $3,524.80
-- 🕒 **Posted:** 2026-09-24
-
-### [Mobile Mammography Program Coordinator](https://www.linkedin.com/jobs/view/4471688934/) — UC Davis Health
-- 📍 **Location:** Davis, CA
-- 💰 **Salary:** $29.57 - $50.89
-- 🕒 **Posted:** 2026-09-24
+- 💰 **Salary:** $75.58 - $110.71
+- 🕒 **Posted:** 2026-09-25
