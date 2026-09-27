@@ -1,34 +1,24 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-27 00:58 UTC*
+*Last updated: 2026-09-27 06:56 UTC*
 
-**7 new role(s)** since last run · 7 total in last 1h
+**4 new role(s)** since last run · 5 total in last 1h
 
-### [Court Case Manager](https://www.linkedin.com/jobs/view/4470574531/) — CITY OF MISSOULA
-- 📍 **Location:** Missoula, MT
-- 💰 **Salary:** $28.14 - $30.92 Hourly
+### [TDM Program Manager](https://www.linkedin.com/jobs/view/4472429542/) — CME Associates
+- 📍 **Location:** Austin, TX
+- 💰 **Salary:** $80,000-$100,000 annually
 - 🕒 **Posted:** 2026-09-27
 
-### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4471078262/) — Sunrise Children's Services
-- 📍 **Location:** Elizabethtown, KY
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4471085486/) — MaineHealth
+- 📍 **Location:** Portland, ME
+- 💰 **Salary:** $20.68to $25.10 per hour
 - 🕒 **Posted:** 2026-09-27
 
-### [Mgr 3, Hlth Care/TB Program Manager](https://www.linkedin.com/jobs/view/4467124609/) — Georgia Department of Public Health
-- 📍 **Location:** Atlanta, GA
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4471078705/) — MaineHealth
+- 📍 **Location:** Saco, ME
+- 💰 **Salary:** $20.68to $25.10 per hour
 - 🕒 **Posted:** 2026-09-27
 
-### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472406884/) — Amazon Web Services (AWS)
-- 📍 **Location:** Seattle, WA
-- 🕒 **Posted:** 2026-09-27
-
-### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472413479/) — Amazon Web Services (AWS)
-- 📍 **Location:** Fairless Hills, PA
-- 🕒 **Posted:** 2026-09-27
-
-### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472411602/) — Amazon Web Services (AWS)
-- 📍 **Location:** Herndon, VA
-- 🕒 **Posted:** 2026-09-27
-
-### [Staff Technical Program Manager (R5791)](https://www.linkedin.com/jobs/view/4472409755/) — Shield AI
-- 📍 **Location:** Dallas, TX
-- 💰 **Salary:** $150,000 - $230,000
+### [Community Health Worker](https://www.linkedin.com/jobs/view/4471077752/) — MaineHealth
+- 📍 **Location:** North Conway, NH
+- 💰 **Salary:** $20.68to $25.10 per hour
 - 🕒 **Posted:** 2026-09-27
