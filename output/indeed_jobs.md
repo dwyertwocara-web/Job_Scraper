@@ -1,9 +1,8 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-09-27 19:28 UTC*
+*Last updated: 2026-09-27 22:47 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-### [Housing Navigator](https://www.indeed.com/viewjob?jk=b1bf36c6f136c770) — BLEHEALTH, LLC
-- 📍 **Location:** Pomona, CA, US
-- 💰 **Salary:** $20–$22/hr
+### [Senior Patient Care Coordinator](https://www.indeed.com/viewjob?jk=6575f1b35fa9b0fb) — Tehrani Plastic Surgery
+- 📍 **Location:** Newport Beach, CA, US
 - 🕒 **Posted:** 2026-09-27
