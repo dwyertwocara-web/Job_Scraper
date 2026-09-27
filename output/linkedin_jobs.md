@@ -1,45 +1,34 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-26 22:17 UTC*
+*Last updated: 2026-09-27 00:58 UTC*
 
-**9 new role(s)** since last run · 9 total in last 1h
+**7 new role(s)** since last run · 7 total in last 1h
 
-### [LVN or LPN, Case Manager - Remote](https://www.linkedin.com/jobs/view/4472401761/) — Optum
-- 📍 **Location:** Cypress, CA
-- 💰 **Salary:** $20 - $36 per hour
-- 🕒 **Posted:** 2026-09-26
+### [Court Case Manager](https://www.linkedin.com/jobs/view/4470574531/) — CITY OF MISSOULA
+- 📍 **Location:** Missoula, MT
+- 💰 **Salary:** $28.14 - $30.92 Hourly
+- 🕒 **Posted:** 2026-09-27
 
-### [Field Based Clinical Care Coordinator - Marion County, IN](https://www.linkedin.com/jobs/view/4472403720/) — UnitedHealthcare
-- 📍 **Location:** Indianapolis, IN
-- 💰 **Salary:** $29 - $52 per hour
-- 🕒 **Posted:** 2026-09-26
+### [Foster Care Case Manager](https://www.linkedin.com/jobs/view/4471078262/) — Sunrise Children's Services
+- 📍 **Location:** Elizabethtown, KY
+- 🕒 **Posted:** 2026-09-27
 
-### [Telephonic RN Case Manager, Care at Home - Washington and Colorado](https://www.linkedin.com/jobs/view/4472292930/) — Optum
+### [Mgr 3, Hlth Care/TB Program Manager](https://www.linkedin.com/jobs/view/4467124609/) — Georgia Department of Public Health
+- 📍 **Location:** Atlanta, GA
+- 🕒 **Posted:** 2026-09-27
+
+### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472406884/) — Amazon Web Services (AWS)
 - 📍 **Location:** Seattle, WA
-- 💰 **Salary:** $60,200 - $107,400 annually
-- 🕒 **Posted:** 2026-09-26
+- 🕒 **Posted:** 2026-09-27
 
-### [Technical Program Manager](https://www.linkedin.com/jobs/view/4471072349/) — Impact Bridge Consulting
+### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472413479/) — Amazon Web Services (AWS)
+- 📍 **Location:** Fairless Hills, PA
+- 🕒 **Posted:** 2026-09-27
+
+### [Sr. Technical Infrastructure Program Manager, Data Center Planning & Delivery](https://www.linkedin.com/jobs/view/4472411602/) — Amazon Web Services (AWS)
+- 📍 **Location:** Herndon, VA
+- 🕒 **Posted:** 2026-09-27
+
+### [Staff Technical Program Manager (R5791)](https://www.linkedin.com/jobs/view/4472409755/) — Shield AI
 - 📍 **Location:** Dallas, TX
-- 🕒 **Posted:** 2026-09-26
-
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4472401763/) — Optum
-- 📍 **Location:** Scottsdale, AZ
-- 💰 **Salary:** $16.00 to $29.00 per hour
-- 🕒 **Posted:** 2026-09-26
-
-### [Associate Patient Care Coordinator](https://www.linkedin.com/jobs/view/4472400737/) — Optum
-- 📍 **Location:** Worcester, MA
-- 💰 **Salary:** $16.00 to $29.00 per hour
-- 🕒 **Posted:** 2026-09-26
-
-### [Mission Critical Program Manager/Market Lead](https://www.linkedin.com/jobs/view/4471083079/) — GBA
-- 📍 **Location:** Lenexa, KS
-- 🕒 **Posted:** 2026-09-26
-
-### [Data Analyst, Growth Analytics — Entry Level](https://www.linkedin.com/jobs/view/4471074300/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
-
-### [Data Analyst, Senior Level](https://www.linkedin.com/jobs/view/4471072367/) — Jobright.ai
-- 📍 **Location:** United States
-- 🕒 **Posted:** 2026-09-26
+- 💰 **Salary:** $150,000 - $230,000
+- 🕒 **Posted:** 2026-09-27
