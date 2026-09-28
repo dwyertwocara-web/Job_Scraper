@@ -1,52 +1,69 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-09-28 01:16 UTC*
+*Last updated: 2026-09-28 07:23 UTC*
 
-**10 new role(s)** since last run · 10 total in last 1h
+**15 new role(s)** since last run · 16 total in last 1h
 
-### [Program Coordinator II - Community Engagement](https://www.linkedin.com/jobs/view/4471097894/) — Charles R. Drew University of Medicine and Science
-- 📍 **Location:** Los Angeles, CA
-- 💰 **Salary:** $70,340 - $78,260
+### [Senior Program Manager – Release Management](https://www.linkedin.com/jobs/view/4429441104/) — Cyngn
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-28
 
-### [Senior Program Manager](https://www.linkedin.com/jobs/view/4471304689/) — Haystack
-- 📍 **Location:** Los Angeles Metropolitan Area
-- 💰 **Salary:** $148,700 - $201,200 USD
+### [Education Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4469058400/) — Crossover
+- 📍 **Location:** Torrance, CA
+- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [Care Manager RN - Case Management (Weekend Shift)](https://www.linkedin.com/jobs/view/4471315294/) — Providence
-- 📍 **Location:** Burbank, CA
-- 💰 **Salary:** $57.80/hr - $87.29/hr
+### [Aging Care Manager 3 (Local Government)](https://www.linkedin.com/jobs/view/4472487469/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Delaware County, PA
 - 🕒 **Posted:** 2026-09-28
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4471097840/) — Coulter Services
-- 📍 **Location:** Cheriton, VA
+### [Nurse Care Coordinator](https://www.linkedin.com/jobs/view/4454651535/) — KenCrest
+- 📍 **Location:** Connecticut, United States
 - 🕒 **Posted:** 2026-09-28
 
-### [RN Case Manager](https://www.linkedin.com/jobs/view/4471308592/) — Hospice of Alabama
-- 📍 **Location:** Gadsden, AL
-- 💰 **Salary:** $76,000 - $79,000 per year
+### [Senior Program Manager – Deployments](https://www.linkedin.com/jobs/view/4429428227/) — Cyngn
+- 📍 **Location:** Mountain View, CA
 - 🕒 **Posted:** 2026-09-28
 
-### [RN Case Manager-Hospice,](https://www.linkedin.com/jobs/view/4470825208/) — Optum
-- 📍 **Location:** Cottonwood, AZ
-- 💰 **Salary:** $75,620 to $113,430 annually
+### [Research Assistant I](https://www.linkedin.com/jobs/view/4472486705/) — Brigham and Women's Hospital
+- 📍 **Location:** Boston, MA
 - 🕒 **Posted:** 2026-09-28
 
-### [Patient Care Manager-RN (At Home Healthcare-Denver),](https://www.linkedin.com/jobs/view/4470829139/) — Optum
-- 📍 **Location:** Denver, CO
-- 💰 **Salary:** $98,648 to $147,972 annually
+### [Clinical Nutrition Program Manager](https://www.linkedin.com/jobs/view/4471327398/) — Mercy
+- 📍 **Location:** Springfield, MO
 - 🕒 **Posted:** 2026-09-28
 
-### [Mgr 3, Hlth Care/TB Program Manager](https://www.linkedin.com/jobs/view/4467124609/) — Georgia Department of Public Health
-- 📍 **Location:** Atlanta, GA
+### [Program Specialist II](https://www.linkedin.com/jobs/view/4472485613/) — Iowa State University
+- 📍 **Location:** Ames, IA
 - 🕒 **Posted:** 2026-09-28
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4471306675/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $62,000 – $141,000
+### [Preschool Program Coordinator, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4469049562/) — Crossover
+- 📍 **Location:** Round Rock, TX
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-09-28
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4471301849/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $62,000 – $141,000
+### [Program Manager, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4469049563/) — Crossover
+- 📍 **Location:** Scottsdale, AZ
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Education Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4469048557/) — Crossover
+- 📍 **Location:** Raleigh, NC
+- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
+- 🕒 **Posted:** 2026-09-28
+
+### [Data Analyst - Remote](https://www.linkedin.com/jobs/view/4472702100/) — Torentify
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-09-28
+
+### [County Children Youth Families Program Specialist 1 (Local Government)](https://www.linkedin.com/jobs/view/4471858439/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Wayne County, PA
+- 🕒 **Posted:** 2026-09-28
+
+### [Program Manager](https://www.linkedin.com/jobs/view/4449876909/) — NiCE
+- 📍 **Location:** Hoboken, NJ
+- 🕒 **Posted:** 2026-09-28
+
+### [Senior Technical Data Analyst](https://www.linkedin.com/jobs/view/4470815278/) — Haystack
+- 📍 **Location:** Tampa, FL
+- 💰 **Salary:** $75.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-09-28
