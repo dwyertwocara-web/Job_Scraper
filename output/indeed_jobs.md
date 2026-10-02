@@ -1,97 +1,78 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-10-01 21:02 UTC*
+*Last updated: 2026-10-02 00:45 UTC*
 
-**20 new role(s)** since last run · 51 total in last 24h
+**16 new role(s)** since last run · 40 total in last 24h
 
-### [Front Desk Assistant/Care Coordinator](https://www.indeed.com/viewjob?jk=09597cca2fbebf5a) — Nuvia Dental Implant Center
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $20–$41/hr
+### [Case Manager II - Housing Program 625](https://www.indeed.com/viewjob?jk=63508925c5b5decc) — Telecare Corporation
+- 📍 **Location:** Redwood City, CA, US
 - 🕒 **Posted:** 2026-10-01
 
-### [Program Coordinator](https://www.indeed.com/viewjob?jk=9de25f1efc31c59f) — Three Sisters Gardens
-- 📍 **Location:** West Sacramento, CA, US
-- 💰 **Salary:** $60k–$70k/yr
+### [Patient Care Coordinator (Outpatient), Bariatric Services (Per Diem, Day Shift)](https://www.indeed.com/viewjob?jk=bf9d227bf5611dfb) — Adventist Health
+- 📍 **Location:** Bakersfield, CA, US
+- 💰 **Salary:** $25–$29/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Housing Focused Case Manager - PT & FT](https://www.indeed.com/viewjob?jk=7b333e8fd52ab11b) — Hope the Mission
-- 📍 **Location:** Los Angeles, CA, US
+### [Program Manager](https://www.indeed.com/viewjob?jk=68ea5b162cd78127) — Pala Band of Mission Indians
+- 📍 **Location:** Pala, CA, US
 - 🕒 **Posted:** 2026-10-01
 
-### [Program Manager - Interim Housing](https://www.indeed.com/viewjob?jk=f9737199b1375f05) — Hope the Mission
-- 📍 **Location:** Los Angeles, CA, US
-- 💰 **Salary:** $74k–$85k/yr
+### [AlmaVia of San Rafael - Resident Care Coordinator](https://www.indeed.com/viewjob?jk=e73e97a2201019cd) — AlmaVia of San Rafael
+- 📍 **Location:** San Rafael, CA, US
+- 💰 **Salary:** $25–$28/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Case Manager (Veteran GPD Program)- Interim Housing (JR 5830)](https://www.indeed.com/viewjob?jk=cbe1d19127e94818) — People Assisting The Homeless (PATH)
+### [PEDIATRIC HOSPICE RN CASE MANAGER](https://www.indeed.com/viewjob?jk=04e8b8366e65b467) — Anchor Health
+- 📍 **Location:** CA, US
+- 🕒 **Posted:** 2026-10-01
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=b734f394f89f7f53) — Olive Crest
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $28/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Scheduling Care Coordinator (Remote)](https://www.indeed.com/viewjob?jk=bd9c23608536d638) — Unknown
 - 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $23–$28/hr
+- 💰 **Salary:** $21–$27/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Program Coordinator - 11-306 - SC/ Salvation Village- Harbor Park](https://www.indeed.com/viewjob?jk=b2fe0950640e3c56) — The Salvation Army
-- 📍 **Location:** Wilmington, CA, US
+### [Care Coordinator - Visalia](https://www.indeed.com/viewjob?jk=e996f6152b40d8ae) — ROWI
+- 📍 **Location:** Visalia, CA, US
+- 💰 **Salary:** $22–$24/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Patient Care Coordinator, ObGyn/UroGyn, (Greenbrae), Full-Time, Days](https://www.indeed.com/viewjob?jk=00e89930afb0c6f2) — MarinHealth
-- 📍 **Location:** Greenbrae, CA, US
-- 💰 **Salary:** $24–$33/hr
+### [Bilingual Spanish LVN Care Coordinator | Active California LVN License Required | Remote](https://www.indeed.com/viewjob?jk=0516e61eacb09a83) — Alignment Health
+- 📍 **Location:** Orange, CA, US
+- 💰 **Salary:** $71k–$106k/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Patient Care Coordinator (Contact Center)](https://www.indeed.com/viewjob?jk=ff1d566ef59187c3) — Metropolis Dermatology
-- 📍 **Location:** Costa Mesa, CA, US
-- 🕒 **Posted:** 2026-10-01
-
-### [CareMore RN Care Manager](https://www.indeed.com/viewjob?jk=1bdbd92bf5887106) — Unknown
+### [Career Services Program Manager](https://www.indeed.com/viewjob?jk=11dd2bb97a7f1487) — Unknown
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $38–$70/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=ed912f881d2d0b03) — Optum
-- 📍 **Location:** Redlands, CA, US
-- 💰 **Salary:** $18–$32/hr
+### [Community Health Worker - Los Angeles - South LA](https://www.indeed.com/viewjob?jk=8041b6f6eb294a97) — Sickle Cell Disease Foundation
+- 📍 **Location:** Los Angeles, CA, US
 - 🕒 **Posted:** 2026-10-01
 
-### [Case Manager (Bilingual Chinese)](https://www.indeed.com/viewjob?jk=ef045bbd99ed488c) — Garfield Health Center
-- 📍 **Location:** El Monte, CA, US
-- 💰 **Salary:** $28–$30/hr
+### [Recuperative Care Community Health Worker](https://www.indeed.com/viewjob?jk=87e144f6aa5d85f6) — Curry Senior Center
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $29–$32/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=1604539ed3119868) — Music Rental, Repair & Storage
-- 📍 **Location:** Beverly Hills, CA, US
-- 💰 **Salary:** $27–$30/hr
+### [Community Health Worker - Los Angeles - South Bay](https://www.indeed.com/viewjob?jk=c5af69d696f27d0f) — Sickle Cell Disease Foundation
+- 📍 **Location:** Torrance, CA, US
 - 🕒 **Posted:** 2026-10-01
 
-### [Care Coordinator (Medical Receptionist/PSR)](https://www.indeed.com/viewjob?jk=b2c2b683fd8e2cdc) — All-Star Physical Therapy
-- 📍 **Location:** Fontana, CA, US
-- 💰 **Salary:** $17–$20/hr
-- 🕒 **Posted:** 2026-09-30
-
-### [License Vocational Care Coordinator](https://www.indeed.com/viewjob?jk=82412b5399a10045) — Airmid Home Health Care
-- 📍 **Location:** Redlands, CA, US
-- 💰 **Salary:** $35–$50/hr
-- 🕒 **Posted:** 2026-09-30
-
-### [Licensed Vocational Nurse, Home Care Coordinator](https://www.indeed.com/viewjob?jk=0cc62798fc8704b1) — AltaMed Health Services
-- 📍 **Location:** El Monte, CA, US
-- 🕒 **Posted:** 2026-09-30
-
-### [Patient Care Coordinator II - Psych Stanford Integrated Med Hoover - Full Time, Days](https://www.indeed.com/viewjob?jk=745612946c947a93) — Stanford Health Care
-- 📍 **Location:** Stanford, CA, US
-- 💰 **Salary:** $33–$37/hr
-- 🕒 **Posted:** 2026-09-30
-
-### [Case Manager](https://www.indeed.com/viewjob?jk=59029a506332fa68) — Westcare
-- 📍 **Location:** Fresno, CA, US
+### [Program Coordinator - Residential](https://www.indeed.com/viewjob?jk=110ee19304a62208) — Unknown
+- 📍 **Location:** Escondido, CA, US
+- 💰 **Salary:** $87k–$88k/yr
 - 🕒 **Posted:** 2026-10-01
 
-### [Senior Case Manager](https://www.indeed.com/viewjob?jk=6c7901de2db9d6df) — Westcare
-- 📍 **Location:** Fresno, CA, US
-- 🕒 **Posted:** 2026-10-01
-
-### [Youth Program Specialist](https://www.indeed.com/viewjob?jk=139f354e2065e76c) — Unknown
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $22–$25/hr
-- 🕒 **Posted:** 2026-10-01
-
-### [Referral, Patient Care Coordinator](https://www.indeed.com/viewjob?jk=5505b44a8a6dbff1) — Talkiatry
+### [Oncology Nurse Case Manager - Remote](https://www.indeed.com/viewjob?jk=77feab64377b38e2) — The Cigna Group
 - 📍 **Location:** Remote, US
+- 💰 **Salary:** $78k–$129k/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Oncology Nurse Case Manager - Remote](https://www.indeed.com/viewjob?jk=681beac2d76fdaf9) — The Cigna Group
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $78k–$129k/yr
 - 🕒 **Posted:** 2026-10-01
