@@ -1,78 +1,115 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-10-02 00:45 UTC*
+*Last updated: 2026-10-02 06:37 UTC*
 
-**16 new role(s)** since last run · 40 total in last 24h
+**23 new role(s)** since last run · 45 total in last 24h
 
-### [Case Manager II - Housing Program 625](https://www.indeed.com/viewjob?jk=63508925c5b5decc) — Telecare Corporation
-- 📍 **Location:** Redwood City, CA, US
+### [Resident Services Coordinator/ Program Coordinator](https://www.indeed.com/viewjob?jk=3e55ea15b139fea3) — Life Skills Training and Educational Programs - LifeSTEPS
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $20–$27/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Patient Care Coordinator (Outpatient), Bariatric Services (Per Diem, Day Shift)](https://www.indeed.com/viewjob?jk=bf9d227bf5611dfb) — Adventist Health
-- 📍 **Location:** Bakersfield, CA, US
-- 💰 **Salary:** $25–$29/hr
+### [Resident Services Coordinator/ Program Coordinator](https://www.indeed.com/viewjob?jk=4ea6fb7cc5b48160) — Life Skills Training and Educational Programs - LifeSTEPS
+- 📍 **Location:** Elk Grove, CA, US
+- 💰 **Salary:** $20–$27/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Program Manager](https://www.indeed.com/viewjob?jk=68ea5b162cd78127) — Pala Band of Mission Indians
-- 📍 **Location:** Pala, CA, US
+### [Community Health Worker (CHW) – Hospital Based - CHW Integration and Transitions of Care Services](https://www.indeed.com/viewjob?jk=3ffdcb438bdcbf3a) — Mindful Living
+- 📍 **Location:** Roseville, CA, US
+- 💰 **Salary:** $24–$28/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [AlmaVia of San Rafael - Resident Care Coordinator](https://www.indeed.com/viewjob?jk=e73e97a2201019cd) — AlmaVia of San Rafael
-- 📍 **Location:** San Rafael, CA, US
-- 💰 **Salary:** $25–$28/hr
-- 🕒 **Posted:** 2026-10-01
-
-### [PEDIATRIC HOSPICE RN CASE MANAGER](https://www.indeed.com/viewjob?jk=04e8b8366e65b467) — Anchor Health
-- 📍 **Location:** CA, US
-- 🕒 **Posted:** 2026-10-01
-
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=b734f394f89f7f53) — Olive Crest
-- 📍 **Location:** Santa Ana, CA, US
-- 💰 **Salary:** $28/hr
-- 🕒 **Posted:** 2026-10-01
-
-### [Scheduling Care Coordinator (Remote)](https://www.indeed.com/viewjob?jk=bd9c23608536d638) — Unknown
-- 📍 **Location:** San Diego, CA, US
-- 💰 **Salary:** $21–$27/hr
-- 🕒 **Posted:** 2026-10-01
-
-### [Care Coordinator - Visalia](https://www.indeed.com/viewjob?jk=e996f6152b40d8ae) — ROWI
-- 📍 **Location:** Visalia, CA, US
-- 💰 **Salary:** $22–$24/hr
-- 🕒 **Posted:** 2026-10-01
-
-### [Bilingual Spanish LVN Care Coordinator | Active California LVN License Required | Remote](https://www.indeed.com/viewjob?jk=0516e61eacb09a83) — Alignment Health
-- 📍 **Location:** Orange, CA, US
-- 💰 **Salary:** $71k–$106k/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Career Services Program Manager](https://www.indeed.com/viewjob?jk=11dd2bb97a7f1487) — Unknown
+### [Mobile Senior Program Coordinator](https://www.indeed.com/viewjob?jk=1e841935ca9cd7ba) — Bernal Heights Neighborhood Center
 - 📍 **Location:** San Francisco, CA, US
 - 🕒 **Posted:** 2026-10-01
 
-### [Community Health Worker - Los Angeles - South LA](https://www.indeed.com/viewjob?jk=8041b6f6eb294a97) — Sickle Cell Disease Foundation
-- 📍 **Location:** Los Angeles, CA, US
+### [Case Manager/Housing Navigator](https://www.indeed.com/viewjob?jk=076ac0cb2d99a252) — Symba Center
+- 📍 **Location:** Victorville, CA, US
+- 💰 **Salary:** $25–$27/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Recuperative Care Community Health Worker](https://www.indeed.com/viewjob?jk=87e144f6aa5d85f6) — Curry Senior Center
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $29–$32/hr
+### [Lead Care Manager](https://www.indeed.com/viewjob?jk=e11a743fccf0a3b4) — Life Skills Training and Educational Programs - LifeSTEPS
+- 📍 **Location:** Alameda, CA, US
 - 🕒 **Posted:** 2026-10-01
 
-### [Community Health Worker - Los Angeles - South Bay](https://www.indeed.com/viewjob?jk=c5af69d696f27d0f) — Sickle Cell Disease Foundation
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=53ba2e983a30e827) — Dudum Chiropractic
+- 📍 **Location:** Walnut Creek, CA, US
+- 💰 **Salary:** $24–$30/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Community Health Worker II - Los Angeles - South Bay](https://www.indeed.com/viewjob?jk=62a7851a635e46fe) — Sickle Cell Disease Foundation
 - 📍 **Location:** Torrance, CA, US
+- 💰 **Salary:** $23–$25/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Kinder Care Coordinator](https://www.indeed.com/viewjob?jk=ebf4d8b62a1b21ec) — Boys & Girls Clubs of America
+- 📍 **Location:** San Leandro, CA, US
+- 💰 **Salary:** $23–$33/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Program Coordinator - Residential](https://www.indeed.com/viewjob?jk=110ee19304a62208) — Unknown
-- 📍 **Location:** Escondido, CA, US
-- 💰 **Salary:** $87k–$88k/yr
+### [RN Case Manager Full Time](https://www.indeed.com/viewjob?jk=781875d18c356eae) — Saint Agnes Medical Center
+- 📍 **Location:** Fresno, CA, US
+- 💰 **Salary:** $53.18–$77.11/hr
 - 🕒 **Posted:** 2026-10-01
 
-### [Oncology Nurse Case Manager - Remote](https://www.indeed.com/viewjob?jk=77feab64377b38e2) — The Cigna Group
+### [RN Case Manager Full Time](https://www.indeed.com/viewjob?jk=574a28ed93d5d6ed) — Saint Agnes Medical Center
+- 📍 **Location:** Fresno, CA, US
+- 💰 **Salary:** $53.18–$77.11/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=e1cdeb9e4b77a809) — Montage Medical Group
+- 📍 **Location:** Monterey, CA, US
+- 💰 **Salary:** $25–$27.85/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Youth Program Specialist](https://www.indeed.com/viewjob?jk=a45a377be2fab2ac) — Boys & Girls Clubs of America
+- 📍 **Location:** San Marcos, CA, US
+- 🕒 **Posted:** 2026-10-02
+
+### [Bilingual Community Health Worker](https://www.indeed.com/viewjob?jk=512ae0b9a2ebd70c) — Titanium Healthcare
+- 📍 **Location:** Victorville, CA, US
+- 💰 **Salary:** $21–$23/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Occupational Safety & Health (OSH) Program Manager](https://www.indeed.com/viewjob?jk=cf0c608e93fea747) — Clarvida
+- 📍 **Location:** Anaheim, CA, US
+- 💰 **Salary:** $100k–$120k/yr
+- 🕒 **Posted:** 2026-10-01
+
+### [Personal Service Coordinator/Case Manager I](https://www.indeed.com/viewjob?jk=619329c021758770) — The Fresno Center
+- 📍 **Location:** Fresno, CA, US
+- 🕒 **Posted:** 2026-10-02
+
+### [Program Coordinator - YAWL Young Adult Job Centers](https://www.indeed.com/viewjob?jk=f59069eaa175a12e) — Community Youth Center of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $30–$34/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Program Specialist (SFIHS Academic Tutor/Behavioral Coach)](https://www.indeed.com/viewjob?jk=dbf9621f850cabba) — Community Youth Center of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Program Specialist - TOPS](https://www.indeed.com/viewjob?jk=26b3e2df6310c955) — Community Youth Center of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Program Specialist (Aptos Academic Tutor/Behavioral Coach)](https://www.indeed.com/viewjob?jk=8357c070e814dc9c) — Community Youth Center of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $26–$30/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Program Coordinator - YAWL Work Based Learning](https://www.indeed.com/viewjob?jk=e87128c39704e98a) — Community Youth Center of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $30–$34/hr
+- 🕒 **Posted:** 2026-10-01
+
+### [Athletics Development Coordinator (Advancement Professional I)](https://www.indeed.com/viewjob?jk=75d2be0473a9a17e) — San Diego State University
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $4799–$6992/mo
+- 🕒 **Posted:** 2026-10-01
+
+### [Medical Assistant Patient Care Coordinator](https://www.indeed.com/viewjob?jk=7b82374cca80b08a) — Cosan Group
 - 📍 **Location:** Remote, US
-- 💰 **Salary:** $78k–$129k/yr
-- 🕒 **Posted:** 2026-10-01
-
-### [Oncology Nurse Case Manager - Remote](https://www.indeed.com/viewjob?jk=681beac2d76fdaf9) — The Cigna Group
-- 📍 **Location:** Remote, US
-- 💰 **Salary:** $78k–$129k/yr
+- 💰 **Salary:** $16.33–$24/hr
 - 🕒 **Posted:** 2026-10-01
