@@ -1,65 +1,117 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-10-02 01:16 UTC*
+*Last updated: 2026-10-02 06:23 UTC*
 
-**13 new role(s)** since last run · 85 total in last 1h
+**26 new role(s)** since last run · 28 total in last 1h
 
-### [Case Manager Outreach](https://www.linkedin.com/jobs/view/4472846394/) — LifeMoves
+### [Case Manager II - Housing Program 625](https://www.linkedin.com/jobs/view/4474706020/) — Telecare Corporation
+- 📍 **Location:** Redwood City, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Temporary Program Specialist II](https://www.linkedin.com/jobs/view/4472872475/) — County of Riverside
+- 📍 **Location:** Riverside County, CA
+- 🕒 **Posted:** 2026-10-02
+
+### [Pediatric ABA Program Manager](https://www.linkedin.com/jobs/view/4472861836/) — DV Therapy Learning Center
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $30.00/hr - $33.00/hr
+- 🕒 **Posted:** 2026-10-02
+
+### [Program Coordinator � NPI](https://www.linkedin.com/jobs/view/4474700298/) — AppLab Systems, Inc
 - 📍 **Location:** Santa Clara, CA
-- 💰 **Salary:** $25.50/hr - $38.50/hr
+- 💰 **Salary:** $120-$124K
 - 🕒 **Posted:** 2026-10-02
 
-### [RN-Case Manager](https://www.linkedin.com/jobs/view/4471162422/) — Baptist Memorial Health Care
-- 📍 **Location:** Southaven, MS
+### [Software Technical Program Manager](https://www.linkedin.com/jobs/view/4474595397/) — MiniMed
+- 📍 **Location:** Los Angeles, CA
+- 💰 **Salary:** $109,000.00 - $185,000.00
 - 🕒 **Posted:** 2026-10-02
 
-### [BMH Rankin: RN-Case Manager](https://www.linkedin.com/jobs/view/4472049893/) — Baptist Memorial Health Care
-- 📍 **Location:** Brandon, MS
+### [Software Technical Program Manager](https://www.linkedin.com/jobs/view/4474702070/) — MiniMed
+- 📍 **Location:** San Diego, CA
+- 💰 **Salary:** $109,000.00 - $185,000.00
 - 🕒 **Posted:** 2026-10-02
 
-### [Case Manager - Child - Behavioral Health](https://www.linkedin.com/jobs/view/4472855060/) — MaineHealth
-- 📍 **Location:** Portland, ME
-- 💰 **Salary:** $52,499.20to $71,052.80per year
+### [Commercial Program Manager (P4)](https://www.linkedin.com/jobs/view/4468239264/) — DHL Express
+- 📍 **Location:** Irvine, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Inpatient Care Manager](https://www.linkedin.com/jobs/view/4472995175/) — Atrium Health
-- 📍 **Location:** Rome, GA
-- 💰 **Salary:** $38.20/hr - $57.30/hr
+### [Program Manager - Agentic AI & Automation](https://www.linkedin.com/jobs/view/4474593585/) — AppLab Systems, Inc
+- 📍 **Location:** Fremont, CA
 - 🕒 **Posted:** 2026-10-02
 
-### [Patient Navigator Complex Care Coordinator](https://www.linkedin.com/jobs/view/4474549834/) — Mass General Brigham
-- 📍 **Location:** Danvers, MA
-- 💰 **Salary:** $22.22 - $31.71/Hourly
+### [Aging Care Manager 2 (Local Government) - Monroe County Area Agency on Aging](https://www.linkedin.com/jobs/view/4474597522/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Monroe County, PA
 - 🕒 **Posted:** 2026-10-02
 
-### [Patient Navigator Complex Care Coordinator](https://www.linkedin.com/jobs/view/4474561417/) — Mass General Brigham
-- 📍 **Location:** Haverhill, MA
-- 💰 **Salary:** $22.22 - $31.71/Hourly
+### [Community Health Worker - Macomb & Wayne Counties](https://www.linkedin.com/jobs/view/4472864614/) — Corewell Health
+- 📍 **Location:** Southfield, MI
 - 🕒 **Posted:** 2026-10-02
 
-### [Community Health Worker-First Steps](https://www.linkedin.com/jobs/view/4472954562/) — CHAS Health
-- 📍 **Location:** Spokane Valley, WA
-- 💰 **Salary:** $25.67 - $37.70
+### [Senior Program Coordinator (Community Engagement)](https://www.linkedin.com/jobs/view/4474588939/) — Rutgers Transportation Services
+- 📍 **Location:** Piscataway, NJ
 - 🕒 **Posted:** 2026-10-02
 
-### [Staff Research Assistant - HPRC](https://www.linkedin.com/jobs/view/4472645682/) — University of Oklahoma
-- 📍 **Location:** Oklahoma City, OK
-- 💰 **Salary:** $33,600 - $43,700,
+### [Data Analyst, Business Operations (Secret Clearance Required)](https://www.linkedin.com/jobs/view/4449776266/) — The Clearing, Inc.
+- 📍 **Location:** Washington, DC
 - 🕒 **Posted:** 2026-10-02
 
-### [AlmaVia of San Rafael - Resident Care Coordinator](https://www.linkedin.com/jobs/view/4474563322/) — Transforming Age
-- 📍 **Location:** San Rafael, CA
-- 💰 **Salary:** $25.00 to $28.00 Hourly
+### [HIV NON-MEDICAL CASE MANAGER (COORDINATOR SPECIAL PROGRAMS HEALTH SERVICES II, HEALTH SERVICES) - #26-002818-0018](https://www.linkedin.com/jobs/view/4472874411/) — Maryland Department of Health
+- 📍 **Location:** Maryland, United States
+- 💰 **Salary:** $59,305.00 - $76,725.00/year
 - 🕒 **Posted:** 2026-10-02
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4473577241/) — The Harris Center for Mental Health and IDD
-- 📍 **Location:** Houston, TX
+### [Social Worker (SW) - Care Manager - Maryview Medical Center](https://www.linkedin.com/jobs/view/4472875453/) — Bon Secours
+- 📍 **Location:** Portsmouth, VA
 - 🕒 **Posted:** 2026-10-02
 
-### [Research Assistant](https://www.linkedin.com/jobs/view/4474558595/) — Brigham and Women's Hospital
-- 📍 **Location:** Boston, MA
-- 💰 **Salary:** $21.00 - $29.01/Hourly
+### [Case Manager](https://www.linkedin.com/jobs/view/4472876286/) — American Addiction Centers
+- 📍 **Location:** Worcester, MA
+- 💰 **Salary:** $26.00-$30.00 per hour
 - 🕒 **Posted:** 2026-10-02
 
-### [Research Assistant 1](https://www.linkedin.com/jobs/view/4472981740/) — Case Western Reserve University
-- 📍 **Location:** Cleveland, OH
+### [Care Coordinator Auth Scheduling Specialist GCMG Morehead Medical - FT](https://www.linkedin.com/jobs/view/4474587953/) — Atrium Health
+- 📍 **Location:** Charlotte, NC
+- 💰 **Salary:** $20.80 - $31.20
+- 🕒 **Posted:** 2026-10-02
+
+### [Home Health Case Manager](https://www.linkedin.com/jobs/view/4474328856/) — BEE WELL HOME HEALTH CARE, INC
+- 📍 **Location:** Florida, United States
+- 🕒 **Posted:** 2026-10-02
+
+### [RN, Case Manager-Hope Hospice (Field)](https://www.linkedin.com/jobs/view/4472868735/) — Chapters Health System
+- 📍 **Location:** Fort Myers, FL
+- 💰 **Salary:** $61,860.66 - $96,657.28
+- 🕒 **Posted:** 2026-10-02
+
+### [Patient Care Coordinator](https://www.linkedin.com/jobs/view/4474587735/) — AEG Vision
+- 📍 **Location:** Farr West, UT
+- 🕒 **Posted:** 2026-10-02
+
+### [County Intellectual Disabilities Program Specialist 1 (Local Government) - Delaware County MH/ID](https://www.linkedin.com/jobs/view/4474704176/) — Commonwealth of Pennsylvania
+- 📍 **Location:** Delaware County, PA
+- 🕒 **Posted:** 2026-10-02
+
+### [Program Coordinator I](https://www.linkedin.com/jobs/view/4474597517/) — Rutgers Transportation Services
+- 📍 **Location:** Camden, NJ
+- 🕒 **Posted:** 2026-10-02
+
+### [Program Manager – Autism Services & Quality Assurance (F/T - 32hrs)](https://www.linkedin.com/jobs/view/4472516131/) — Namrata G
+- 📍 **Location:** Orange, CA
+- 💰 **Salary:** $32.00 – $36.00
+- 🕒 **Posted:** 2026-10-02
+
+### [Program Coordinator II](https://www.linkedin.com/jobs/view/4474709035/) — Rutgers Transportation Services
+- 📍 **Location:** Newark, NJ
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Analyst - WFH](https://www.linkedin.com/jobs/view/4474591772/) — Torentify
+- 📍 **Location:** United States
+- 🕒 **Posted:** 2026-10-02
+
+### [Data Analyst](https://www.linkedin.com/jobs/view/4474592691/) — Rutgers Transportation Services
+- 📍 **Location:** New Brunswick, NJ
+- 🕒 **Posted:** 2026-10-02
+
+### [Temporary Research Assistant](https://www.linkedin.com/jobs/view/4474592871/) — Rutgers Transportation Services
+- 📍 **Location:** New Brunswick, NJ
 - 🕒 **Posted:** 2026-10-02
