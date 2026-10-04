@@ -1,8 +1,8 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-10-04 19:08 UTC*
+*Last updated: 2026-10-04 22:42 UTC*
 
-**1 new role(s)** since last run · 4 total in last 24h
+**1 new role(s)** since last run · 5 total in last 24h
 
-### [PEDIATRIC HOSPICE RN CASE MANAGER](https://www.indeed.com/viewjob?jk=8c767d893518a1ef) — Anchor Health
-- 📍 **Location:** CA, US
+### [Development and grant coordinator](https://www.indeed.com/viewjob?jk=dbfb52d0ba8e7c73) — Alachua Preparatory Academy
+- 📍 **Location:** Remote, US
 - 🕒 **Posted:** 2026-10-04
