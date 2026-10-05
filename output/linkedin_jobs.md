@@ -1,73 +1,99 @@
 # 🔥 LinkedIn — Housing & Community Impact Roles
-*Last updated: 2026-10-05 07:58 UTC*
+*Last updated: 2026-10-05 09:32 UTC*
 
-**15 new role(s)** since last run · 15 total in last 1h
+**20 new role(s)** since last run · 20 total in last 1h
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4475544200/) — Vetted Solutions
-- 📍 **Location:** Carmichael, CA
-- 💰 **Salary:** $17.20 to $21.55 per hour
-- 🕒 **Posted:** 2026-10-05
-
-### [Care Manager](https://www.linkedin.com/jobs/view/4475541312/) — Vetted Solutions
+### [Reading Program Coordinator, Alpha - $120,000/year USD](https://www.linkedin.com/jobs/view/4471951504/) — Crossover
 - 📍 **Location:** Simi Valley, CA
+- 💰 **Salary:** $120,000.00/yr - $120,000.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4475535697/) — Vetted Solutions
-- 📍 **Location:** Simi Valley, CA
+### [Program Manager, Preclinical & Early...](https://www.linkedin.com/jobs/view/4474248850/) — Xtalks
+- 📍 **Location:** Brisbane, CA
+- 💰 **Salary:** $213,200 - $270,600
 - 🕒 **Posted:** 2026-10-05
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4475548058/) — Vetted Solutions
-- 📍 **Location:** Beverly Hills, CA
-- 💰 **Salary:** $17.20 - $21.55 per hour
+### [Assistant Housing Program Specialist](https://www.linkedin.com/jobs/view/4474251569/) — City of Portland
+- 📍 **Location:** Portland, OR
 - 🕒 **Posted:** 2026-10-05
 
-### [Service Agreement and Screening Document Specialist or Representative / Human Services Program Specialist 2 or Human Services Program Representative 1](https://www.linkedin.com/jobs/view/4474244537/) — Minnesota Department of Human Services
-- 📍 **Location:** St Paul, MN
-- 💰 **Salary:** $26.89 - $39.22
+### [Case Manager - Active](https://www.linkedin.com/jobs/view/4471689211/) — Developmental Pathways
+- 📍 **Location:** Aurora, CO
+- 💰 **Salary:** $25.10 - $28.68 hourly
 - 🕒 **Posted:** 2026-10-05
 
-### [Care Coordinator- Mount Sinai at Home - Full Time Days](https://www.linkedin.com/jobs/view/4473623117/) — TalentHop
+### [Social Service Program Specialist 2](https://www.linkedin.com/jobs/view/4475538956/) — Pierce County
+- 📍 **Location:** Washington, United States
+- 💰 **Salary:** $42.03/hr - $53.41/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [Case Manager](https://www.linkedin.com/jobs/view/4464720937/) — Jobot
+- 📍 **Location:** Albuquerque, NM
+- 💰 **Salary:** $19.00/hr - $21.00/hr
+- 🕒 **Posted:** 2026-10-05
+
+### [KATIE BECKETT CASE MANAGER - 09292026- 81276](https://www.linkedin.com/jobs/view/4473221206/) — State of Tennessee
+- 📍 **Location:** Nashville, TN
+- 💰 **Salary:** $4,057.00 - $5,078.00
+- 🕒 **Posted:** 2026-10-05
+
+### [Care Coordinator II](https://www.linkedin.com/jobs/view/4474259288/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $25.32/hr - $37.97/hr
+- 💰 **Salary:** $17.84 to $28.02 per hour
 - 🕒 **Posted:** 2026-10-05
 
-### [Virtual Care Manager](https://www.linkedin.com/jobs/view/4473621243/) — TalentHop
+### [COMMUNITY HEALTH WORKER - 40009104](https://www.linkedin.com/jobs/view/4475545517/) — Durham County Government
+- 📍 **Location:** Durham, NC
+- 💰 **Salary:** $40,528.00 - $68,849.00
+- 🕒 **Posted:** 2026-10-05
+
+### [CLINICAL CARE COORDINATOR ( Michigan Congenital Heart Center- Pediatric Cardiology)](https://www.linkedin.com/jobs/view/4475544423/) — Michigan Medicine
+- 📍 **Location:** Ann Arbor, MI
+- 💰 **Salary:** $44.83-$69.71
+- 🕒 **Posted:** 2026-10-05
+
+### [Lead Patient Care Coordinator](https://www.linkedin.com/jobs/view/4462968677/) — PLACEM!NT
+- 📍 **Location:** Hoboken, NJ
+- 🕒 **Posted:** 2026-10-05
+
+### [Scheduling Care Coordinator (Remote)](https://www.linkedin.com/jobs/view/4474247856/) — RemoteHunter
 - 📍 **Location:** United States
-- 💰 **Salary:** $75,000.00/yr - $85,000.00/yr
+- 💰 **Salary:** $21.88 to $27.34 per hour
 - 🕒 **Posted:** 2026-10-05
 
-### [Youth Art Program Manager](https://www.linkedin.com/jobs/view/4473608570/) — Wayne Art Center
-- 📍 **Location:** Wayne, PA
+### [Case Manager (RN) - FT | Georgetown Rehab](https://www.linkedin.com/jobs/view/4380772743/) — PAM Health Rehabilitation Hospital of Georgetown
+- 📍 **Location:** Georgetown, DE
 - 🕒 **Posted:** 2026-10-05
 
-### [Senior Program Manager,  Employee Experience](https://www.linkedin.com/jobs/view/4473626087/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $127,800.00/yr - $194,600.00/yr
+### [Hospice RN Case Manager (Gwinnett, Georgia)](https://www.linkedin.com/jobs/view/4475545658/) — Ennoble Care
+- 📍 **Location:** Gwinnett County, GA
 - 🕒 **Posted:** 2026-10-05
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4475536641/) — Vetted Solutions
-- 📍 **Location:** Burlington, MA
+### [Hospice RN Case Manager (Rockdale / Dekalb / Newton County, GA)](https://www.linkedin.com/jobs/view/4475546615/) — Ennoble Care
+- 📍 **Location:** Newton County, GA
 - 🕒 **Posted:** 2026-10-05
 
-### [Care Manager](https://www.linkedin.com/jobs/view/4475546139/) — Vetted Solutions
-- 📍 **Location:** Leawood, KS
+### [Assistant Patient Care Manager, 4E Cardiovascular ICU-Full-Time, Rotating](https://www.linkedin.com/jobs/view/4475314088/) — UChicago Medicine
+- 📍 **Location:** Illinois, United States
+- 💰 **Salary:** $118,500.00/yr - $138,300.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Care Coordinator](https://www.linkedin.com/jobs/view/4473603967/) — TalentHop
-- 📍 **Location:** United States
+### [Telephonic Case Manager](https://www.linkedin.com/jobs/view/4438377212/) — Enlyte
+- 📍 **Location:** Texas, United States
+- 💰 **Salary:** $84,000 - $86,000 annually
 - 🕒 **Posted:** 2026-10-05
 
-### [Cyber Data Analyst](https://www.linkedin.com/jobs/view/4473619460/) — TalentHop
-- 📍 **Location:** United States
-- 💰 **Salary:** $55,271.00/yr - $62,808.00/yr
+### [Program Manager, Alpha - $150,000/year USD](https://www.linkedin.com/jobs/view/4471958208/) — Crossover
+- 📍 **Location:** Scottsdale, AZ
+- 💰 **Salary:** $150,000.00/yr - $150,000.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4474245426/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $62,000 – $141,000
+### [Education Program Manager, Alpha - $200,000/year USD](https://www.linkedin.com/jobs/view/4471946654/) — Crossover
+- 📍 **Location:** New York, NY
+- 💰 **Salary:** $200,000.00/yr - $200,000.00/yr
 - 🕒 **Posted:** 2026-10-05
 
-### [Data Analyst](https://www.linkedin.com/jobs/view/4474241689/) — Haystack
-- 📍 **Location:** Washington DC-Baltimore Area
-- 💰 **Salary:** $62,000 – $141,000
+### [Educational Program Manager, Studient (Remote) - $150,000/year USD](https://www.linkedin.com/jobs/view/4471944823/) — Crossover
+- 📍 **Location:** Round Rock, TX
+- 💰 **Salary:** $75.00/hr - $75.00/hr
 - 🕒 **Posted:** 2026-10-05
