@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-05 22:45 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-06 21:14 UTC",
+  "total": 2,
+  "new_count": 2,
+  "jobs": [
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Program Manager I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534568",
+      "date_posted": "2026-10-06",
+      "salary": "$8230.00 - $10242.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Program Manager I (Supervisory)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534501",
+      "date_posted": "2026-10-06",
+      "salary": "$12551.00 - $15602.00",
+      "ats": "CalCareers"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "California Governor's Office of Emergency Services",
+      "title": "Program Manager I",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534568",
+      "date_posted": "2026-10-06",
+      "salary": "$8230.00 - $10242.00",
+      "ats": "CalCareers"
+    },
+    {
+      "company": "Department of Resources Recycling & Recovery",
+      "title": "Environmental Program Manager I (Supervisory)",
+      "location": "Sacramento County",
+      "url": "https://www.calcareers.ca.gov/CalHrPublic/Jobs/JobPosting.aspx?JobControlId=534501",
+      "date_posted": "2026-10-06",
+      "salary": "$12551.00 - $15602.00",
+      "ats": "CalCareers"
+    }
+  ]
 }
