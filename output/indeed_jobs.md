@@ -1,60 +1,130 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-10-06 09:58 UTC*
+*Last updated: 2026-10-06 21:01 UTC*
 
-**12 new role(s)** since last run · 46 total in last 24h
+**26 new role(s)** since last run · 46 total in last 24h
 
-### [Housing Case Manager - Vista Nueva](https://www.indeed.com/viewjob?jk=f139c8bde3cac79a) — Jamboree Housing
-- 📍 **Location:** Sacramento, CA, US
+### [Housing Coordinator](https://www.indeed.com/viewjob?jk=dbf535f23a21f19d) — The Gathering Inn
+- 📍 **Location:** North Highlands, CA, US
 - 🕒 **Posted:** 2026-10-05
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=78c6b080f0dcd1ad) — Bernal Heights Neighborhood Center
-- 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $28–$32/hr
+### [Case Manager Housing Specialist - Mental Health 629](https://www.indeed.com/viewjob?jk=d9e13ddf6993ab59) — Telecare Corporation
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $23–$26.25/hr
 - 🕒 **Posted:** 2026-10-06
 
-### [Wallis House Case Manager](https://www.indeed.com/viewjob?jk=64a81c59b116b405) — Aviva Family and Children's Services (Hamburger Home)
-- 📍 **Location:** Los Angeles, CA, US
-- 🕒 **Posted:** 2026-10-05
-
-### [Part-Time Veterinary Receptionist (Care Coordinator) - Inland Valley Veterinary Specialists](https://www.indeed.com/viewjob?jk=9d9466c3252b3bd9) — PetVet Care Centers
-- 📍 **Location:** Upland, CA, US
-- 💰 **Salary:** $19–$20/hr
+### [Housing Case Manager - 11-037 - SC/ Bell Shelter](https://www.indeed.com/viewjob?jk=ff44b8943ae48c9e) — The Salvation Army
+- 📍 **Location:** Bell, CA, US
+- 💰 **Salary:** $26.45–$31.05/hr
 - 🕒 **Posted:** 2026-10-06
 
-### [Care Coordinator - Health Plan](https://www.indeed.com/viewjob?jk=6407c1d150e9d026) — SCAN Health Plan
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=242a94c050486697) — Serene health
+- 📍 **Location:** Santa Clara, CA, US
+- 💰 **Salary:** $25–$28/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Dental Patient Care Coordinator](https://www.indeed.com/viewjob?jk=3d82a61be15fd28d) — NOW Dental
+- 📍 **Location:** San Mateo, CA, US
+- 🕒 **Posted:** 2026-10-06
+
+### [Patient Care Coordinator (Bilingual Spanish)](https://www.indeed.com/viewjob?jk=48721548dad75d84) — Simple Care Solutions
+- 📍 **Location:** Van Nuys, CA, US
+- 🕒 **Posted:** 2026-10-06
+
+### [Bilingual Lead Care Manager](https://www.indeed.com/viewjob?jk=09bb0290fdae3403) — Seneca Family of Agencies
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $27.01–$29.51/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=1198106d4d2c97e4) — Pacific Neuropsychiatric Specialists
 - 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $21.78–$26/hr
-- 🕒 **Posted:** 2026-10-05
+- 💰 **Salary:** $23–$24/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Care Coordinator - Health Plan](https://www.indeed.com/viewjob?jk=5730754351cc0170) — SCAN Health Plan
-- 📍 **Location:** Lakewood, CA, US
-- 💰 **Salary:** $21.78–$26/hr
-- 🕒 **Posted:** 2026-10-05
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Torrance, CA](https://www.indeed.com/viewjob?jk=c9308c14bd2a3a9b) — Optum
+- 📍 **Location:** Torrance, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [PT Care Coordinator - 7AM-7:30PM and/or 7PM - 7:30AM (Caregivers with Dementia Care experience encouraged to apply)](https://www.indeed.com/viewjob?jk=764b2f86632e42cd) — Alter Management LLC
-- 📍 **Location:** Dana Point, CA, US
-- 💰 **Salary:** $22–$24.50/hr
-- 🕒 **Posted:** 2026-10-05
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - San Bernardino, CA](https://www.indeed.com/viewjob?jk=4452c7ccf16a0d55) — Optum
+- 📍 **Location:** San Bernardino, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=c5572e2c2e5ec190) — Total Vision
-- 📍 **Location:** Milpitas, CA, US
-- 💰 **Salary:** $16.50–$20/hr
-- 🕒 **Posted:** 2026-10-05
+### [Care Coordinator - Onsite (Hybrid) - PT/OT/SLP/RN - Ontario, CA](https://www.indeed.com/viewjob?jk=bb32d13ea2bc37a7) — Optum
+- 📍 **Location:** Ontario, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Patient Care Coordinator](https://www.indeed.com/viewjob?jk=045b0bd0b08f0ac4) — UMMA Health
-- 📍 **Location:** Los Angeles, CA, US
-- 🕒 **Posted:** 2026-10-05
+### [Care Coordinator Onsite (Hybrid) PT/OT/SLP/RN - Los Alamitos, CA](https://www.indeed.com/viewjob?jk=b40c7ed8559fb645) — Optum
+- 📍 **Location:** Los Alamitos, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Patient Care Coordinator - Chino](https://www.indeed.com/viewjob?jk=31cc42c77ea15af8) — TotalWellness
-- 📍 **Location:** Chino, CA, US
-- 🕒 **Posted:** 2026-10-05
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Seal Beach CA](https://www.indeed.com/viewjob?jk=14d3cc2fda9bf2e4) — Optum
+- 📍 **Location:** Seal Beach, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
 
-### [Mental Health Specialist/Case Manager IV - Bilingual Preferred](https://www.indeed.com/viewjob?jk=c750e72910140467) — Turning Point of Central California, Inc.
+### [Care Coordinator - Onsite (Hybrid) - PT/OT/SLP/RN - Riverside, CA](https://www.indeed.com/viewjob?jk=7153c0195ead4a1e) — Optum
+- 📍 **Location:** Riverside, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Santa Ana, CA](https://www.indeed.com/viewjob?jk=4330fd4bf6a610c9) — Optum
+- 📍 **Location:** Santa Ana, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Van Nuys, CA](https://www.indeed.com/viewjob?jk=4b4a9de1785b71f2) — Optum
+- 📍 **Location:** Van Nuys, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Long Beach, CA](https://www.indeed.com/viewjob?jk=db60cde28f9dbd44) — Optum
+- 📍 **Location:** Long Beach, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Beaumont, CA](https://www.indeed.com/viewjob?jk=869ac4239021cb47) — Optum
+- 📍 **Location:** Beaumont, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Care Coordinator - Onsite (Hybrid) PT/OT/SLP/RN - Glendora, CA](https://www.indeed.com/viewjob?jk=013c7761ff861b53) — Optum
+- 📍 **Location:** Glendora, CA, US
+- 💰 **Salary:** $35–$63/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Case Manager/ Group Facilitator I/II (Outpatient)](https://www.indeed.com/viewjob?jk=d2a921e39d36fe23) — Unknown
 - 📍 **Location:** Fresno, CA, US
-- 💰 **Salary:** $23.10–$30.72/hr
+- 💰 **Salary:** $22–$24/hr
 - 🕒 **Posted:** 2026-10-05
 
-### [HEALTH PROGRAM SPECIALIST II](https://www.indeed.com/viewjob?jk=28d067b31d3e2906) — Department Of Public Health
-- 📍 **Location:** CA, US
-- 💰 **Salary:** $7276–$9107/mo
+### [RN Case Manager - General Medicine](https://www.indeed.com/viewjob?jk=7198df898e0bd944) — UCLA Health
+- 📍 **Location:** Santa Monica, CA, US
+- 💰 **Salary:** $68.81–$88.99/hr
+- 🕒 **Posted:** 2026-09-24
+
+### [Onsite Community Health Worker / Medical Assistant](https://www.indeed.com/viewjob?jk=52fd40278783955b) — MiSalud Health
+- 📍 **Location:** Tracy, CA, US
+- 💰 **Salary:** $20–$25/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Community Health Worker I](https://www.indeed.com/viewjob?jk=a51c85b76043cd77) — WelbeHealth
+- 📍 **Location:** Long Beach, CA, US
+- 💰 **Salary:** $23.31–$29.66/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Program Coordinator](https://www.indeed.com/viewjob?jk=8ed59e0869bde586) — Unknown
+- 📍 **Location:** Santa Rosa, CA, US
+- 💰 **Salary:** $24.50–$29.50/hr
+- 🕒 **Posted:** 2026-10-06
+
+### [Part Time Community Outreach Coordinator](https://www.indeed.com/viewjob?jk=d37566cd93f76447) — The Salvation Army
+- 📍 **Location:** Chico, CA, US
+- 🕒 **Posted:** 2026-10-06
+
+### [RN or Social Worker - Remote Care Manager (Spanish-speaking)](https://www.indeed.com/viewjob?jk=142051f3dcc9f267) — Hera
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $40–$60/hr
 - 🕒 **Posted:** 2026-10-06
