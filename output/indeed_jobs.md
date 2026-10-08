@@ -1,62 +1,98 @@
 # 🟦 Indeed — Housing & Community Impact Roles
-*Last updated: 2026-10-08 01:34 UTC*
+*Last updated: 2026-10-08 06:45 UTC*
 
-**12 new role(s)** since last run · 51 total in last 24h
+**20 new role(s)** since last run · 51 total in last 24h
 
-### [Senior Living- Care Manager full time](https://www.indeed.com/viewjob?jk=d8e4ba1923473f5b) — Integral Senior Living
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $19–$20/hr
+### [Care Manager Lead](https://www.indeed.com/viewjob?jk=fa5dda227e317390) — Sacramento Children's Home
+- 📍 **Location:** Sacramento, CA, US
+- 💰 **Salary:** $28.53–$32.10/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Senior Living- Care Manager part time](https://www.indeed.com/viewjob?jk=0af193b05180061a) — Integral Senior Living
-- 📍 **Location:** Roseville, CA, US
-- 💰 **Salary:** $19–$20/hr
+### [HEALTH PROGRAM SPECIALIST I](https://www.indeed.com/viewjob?jk=08a552dc65dc8ff9) — Department Of Public Health
+- 📍 **Location:** CA, US
+- 💰 **Salary:** $6623–$8290/mo
 - 🕒 **Posted:** 2026-10-07
 
-### [Housing Specialist](https://www.indeed.com/viewjob?jk=cb071dfa053881d3) — Abode Services
-- 📍 **Location:** San Jose, CA, US
-- 💰 **Salary:** $28.85–$31.74/hr
-- 🕒 **Posted:** 2026-10-08
-
-### [HOUSING PROGRAM MANAGER](https://www.indeed.com/viewjob?jk=f35bf9a95fa42079) — County of Santa Cruz
-- 📍 **Location:** Santa Cruz, CA, US
-- 💰 **Salary:** $12k–$16k/mo
-- 🕒 **Posted:** 2026-09-25
-
-### [Care Coordinator](https://www.indeed.com/viewjob?jk=d02051fcabae83f6) — FPA Women's Health
-- 📍 **Location:** Fresno, CA, US
-- 🕒 **Posted:** 2026-10-08
-
-### [Outpatient Care Coordinator](https://www.indeed.com/viewjob?jk=458414125d653980) — Advanced Medical Management
-- 📍 **Location:** Long Beach, CA, US
-- 💰 **Salary:** $24–$26/hr
+### [Case Manager (Housing)](https://www.indeed.com/viewjob?jk=d3f46750ead94618) — Ruby's Place
+- 📍 **Location:** Oakland, CA, US
 - 🕒 **Posted:** 2026-10-07
 
-### [Resident Care Coordinator (Memory Care Experience)](https://www.indeed.com/viewjob?jk=441a99becbd04c7c) — Unknown
-- 📍 **Location:** Hemet, CA, US
+### [Housing Services Lead Case Manager](https://www.indeed.com/viewjob?jk=23ab633d8848a7fe) — Unknown
+- 📍 **Location:** Richmond, CA, US
 - 🕒 **Posted:** 2026-10-07
 
-### [Resident Care Coordinator](https://www.indeed.com/viewjob?jk=dfd00771a2d2d62c) — Ivy Living
-- 📍 **Location:** Fairfield, CA, US
-- 💰 **Salary:** $23–$25/hr
+### [Housing Specialist](https://www.indeed.com/viewjob?jk=b4ae470252a280ef) — Volunteers of America
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $23.53–$24.77/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Case Manager](https://www.indeed.com/viewjob?jk=974cc428d10d8b67) — La Casa de las Madres
+### [Case Manager II Eddy Street Apartments](https://www.indeed.com/viewjob?jk=c3ddf7f90cf7b255) — Community Forward SF
 - 📍 **Location:** San Francisco, CA, US
-- 💰 **Salary:** $31–$33/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [Community Engagement Coordinator, IECEC](https://www.indeed.com/viewjob?jk=9979f1bdab9f77a2) — Ronald McDonald House Charities of Southern California
-- 📍 **Location:** Loma Linda, CA, US
-- 💰 **Salary:** $21–$25/hr
+### [Customer Care Coordinator](https://www.indeed.com/viewjob?jk=8add87433b8fb32f) — Quest International, Inc.
+- 📍 **Location:** Irvine, CA, US
+- 💰 **Salary:** $20–$24/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [After School Program Coordinator: Full-Time, Sun Valley, 91352](https://www.indeed.com/viewjob?jk=8143fc31b30ddb70) — After-School All-Stars
-- 📍 **Location:** Sun Valley, CA, US
-- 💰 **Salary:** $22–$26/hr
+### [Care Coordinator](https://www.indeed.com/viewjob?jk=2d0ea1e78319cbbd) — TURN Behavioral Health Services
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $26–$28/hr
 - 🕒 **Posted:** 2026-10-07
 
-### [After School Program Coordinator: Full-Time, Sun Valley, 91352](https://www.indeed.com/viewjob?jk=bce34df6da393ace) — After-School All-Stars
-- 📍 **Location:** Sun Valley, CA, US
-- 💰 **Salary:** $22–$26/hr
+### [Supervisory Social Worker (Program Coordinator - Whole Health Food Hub Manager)](https://www.indeed.com/viewjob?jk=d3d754af439576da) — US Department of Veterans Affairs
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $115k–$149k/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Client Care Coordinator](https://www.indeed.com/viewjob?jk=94a8b2eb92051c42) — Transitions Mental Health Asso
+- 📍 **Location:** San Luis Obispo, CA, US
+- 💰 **Salary:** $30–$36/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Part-Time CalAIM Case Manager – Tulare County, California](https://www.indeed.com/viewjob?jk=81d50f6411353b76) — ACTS Foundation
+- 📍 **Location:** Tulare, CA, US
+- 🕒 **Posted:** 2026-10-07
+
+### [Patient Care Coordinator, Golden Optometric](https://www.indeed.com/viewjob?jk=8294fe88c361cd49) — Unknown
+- 📍 **Location:** West Covina, CA, US
+- 💰 **Salary:** $19.51–$25.27/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Clinical Case Manager](https://www.indeed.com/viewjob?jk=68d5b31e3d4e5843) — Volunteers of America
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $30.65–$32.26/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Health and Wellness Program Specialist](https://www.indeed.com/viewjob?jk=344ca52e820ca55a) — South Orange County Community College District
+- 📍 **Location:** Mission Viejo, CA, US
+- 🕒 **Posted:** 2026-10-07
+
+### [Community Health Worker-Floater](https://www.indeed.com/viewjob?jk=5c52ae51adec0c4c) — St. John's Community Health
+- 📍 **Location:** Los Angeles, CA, US
+- 🕒 **Posted:** 2026-10-07
+
+### [Supervisory Social Worker (Program Coordinator - CERS Peer Center)](https://www.indeed.com/viewjob?jk=b4fecf79cb469c34) — US Department of Veterans Affairs
+- 📍 **Location:** Los Angeles, CA, US
+- 💰 **Salary:** $115k–$149k/yr
+- 🕒 **Posted:** 2026-10-07
+
+### [Program Specialist](https://www.indeed.com/viewjob?jk=147b7e4381f5ab1b) — Good Samaritan Family Resource Center of San Francisco
+- 📍 **Location:** San Francisco, CA, US
+- 💰 **Salary:** $23.50–$25/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Doctoral Program Coordinator (Administrative Support Coordinator II)](https://www.indeed.com/viewjob?jk=5377319a7c396ba5) — San Diego State University
+- 📍 **Location:** San Diego, CA, US
+- 💰 **Salary:** $4367–$6362/mo
+- 🕒 **Posted:** 2026-10-07
+
+### [Case Manager - Peer Support](https://www.indeed.com/viewjob?jk=ea1064406de2035c) — Transitions Mental Health Asso
+- 📍 **Location:** San Luis Obispo, CA, US
+- 💰 **Salary:** $25.50–$33.99/hr
+- 🕒 **Posted:** 2026-10-07
+
+### [Senior Regulatory Quality Program Manager](https://www.indeed.com/viewjob?jk=40cd09e37c9e060d) — City of Hope
+- 📍 **Location:** Remote, US
+- 💰 **Salary:** $53.29–$85.26/hr
 - 🕒 **Posted:** 2026-10-07
